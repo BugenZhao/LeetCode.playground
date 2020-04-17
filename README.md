@@ -1,9 +1,10 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
 ![Progress](https://img.shields.io/badge/Progress-1%20%2F%201293%20=%200.08%25-orange.svg)
-Bugen's LeetCode solutions in Swift.
+
+Bugen's LeetCode solutions in Swift playground.
 ## Problems
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage) 0001. Two Sum
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage/Contents.swift) 0001. Two Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~ 0002. Add Two Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~ 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
