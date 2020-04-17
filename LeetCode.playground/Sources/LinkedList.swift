@@ -39,3 +39,17 @@ public extension ListNode {
         return array
     }
 }
+
+
+extension ListNode: Equatable {
+    public static func == (lhs: ListNode, rhs: ListNode) -> Bool {
+        return lhs.toArray() == rhs.toArray()
+    }
+}
+
+
+extension ListNode: CustomStringConvertible {
+    public var description: String {
+        return "LinkedList: " + String(describing: self.toArray())
+    }
+}
