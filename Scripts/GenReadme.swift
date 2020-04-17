@@ -2,6 +2,14 @@ import Cocoa
 import Foundation
 typealias JSONDict = [String: Any]
 
+extension Collection {
+    subscript (safe index: Index) -> Element? {
+        return indices.contains(index) ? self[index] : nil
+    }
+}
+let difficultyEmojis = ["🔞", "😊", "🤨", "😫"]
+
+
 var questions: [JSONDict] = []
 var solved: [Int: String] = [:]
 var lines: [Int: String] = [:]
@@ -13,6 +21,7 @@ let localCacheURL = URL(fileURLWithPath: "./Scripts/Questions.json", relativeTo:
 let pagesRelativePath = "./LeetCode.playground/Pages/"
 let pagesURL = URL(fileURLWithPath: pagesRelativePath, relativeTo: currentURL)
 let leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
+
 
 let semaphore = DispatchSemaphore(value: 0)
 let task = URLSession.shared.dataTask(with: leetCodeURL!) { (data, _, _) in
@@ -46,17 +55,7 @@ for question in questions {
     let title = stat["question__title"] as! String
     let title_slug = stat["question__title_slug"] as! String
 
-    var difficultyEmoji = ""
-    switch difficulty {
-    case 1:
-        difficultyEmoji = "😊"
-    case 2:
-        difficultyEmoji = "🤨"
-    case 3:
-        difficultyEmoji = "😫"
-    default:
-        fatalError("Invalid difficulty")
-    }
+    let difficultyEmoji = difficultyEmojis[safe: difficulty] ?? "🔞"
     if solved.keys.contains(qid) {
         lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\n"
     } else {
