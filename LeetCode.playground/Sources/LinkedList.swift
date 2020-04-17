@@ -28,4 +28,14 @@ public extension ListNode {
 
         return head
     }
+
+    func toArray() -> [Int] {
+        var array = [Int]()
+        var node: ListNode? = self
+        while node != nil {
+            array.append(node!.val)
+            node = node!.next
+        }
+        return array
+    }
 }
