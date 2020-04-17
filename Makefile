@@ -1,6 +1,7 @@
 all:
 	@echo "Hello!"
 gen:
-	./Scripts/gen_readme.py
-clean:
+	swift ./Scripts/GenReadme.swift
+clean_readme:
+	rm -f README.md
 	rm -f ./Scripts/*.json

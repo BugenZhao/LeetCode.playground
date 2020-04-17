@@ -1,1296 +1,1296 @@
 # LeetCode.swift
-Bugen's LeetCode solutions.
+Bugen's LeetCode solutions in Swift.
 ## Problems
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage/Contents.swift) 0001. Two Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~  0002. Add Two Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~  0003. Longest Substring Without Repeating Characters
-- [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~  0004. Median of Two Sorted Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~  0005. Longest Palindromic Substring
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~  0006. ZigZag Conversion
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~  0007. Reverse Integer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) ~~[S]~~  0008. String to Integer (atoi)
-- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) ~~[S]~~  0009. Palindrome Number
-- [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~  0010. Regular Expression Matching
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) ~~[S]~~  0011. Container With Most Water
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~  0012. Integer to Roman
-- [ ] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) ~~[S]~~  0013. Roman to Integer
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) ~~[S]~~  0014. Longest Common Prefix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum/) ~~[S]~~  0015. 3Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) ~~[S]~~  0016. 3Sum Closest
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~  0017. Letter Combinations of a Phone Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~  0018. 4Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ~~[S]~~  0019. Remove Nth Node From End of List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) ~~[S]~~  0020. Valid Parentheses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) ~~[S]~~  0021. Merge Two Sorted Lists
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-parentheses/) ~~[S]~~  0022. Generate Parentheses
-- [ ] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) ~~[S]~~  0023. Merge k Sorted Lists
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~  0024. Swap Nodes in Pairs
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~  0025. Reverse Nodes in k-Group
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ~~[S]~~  0026. Remove Duplicates from Sorted Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-element/) ~~[S]~~  0027. Remove Element
-- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~  0028. Implement strStr()
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~  0029. Divide Two Integers
-- [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~  0030. Substring with Concatenation of All Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~  0031. Next Permutation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~  0032. Longest Valid Parentheses
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~  0033. Search in Rotated Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~  0034. Find First and Last Position of Element in Sorted Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) ~~[S]~~  0035. Search Insert Position
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) ~~[S]~~  0036. Valid Sudoku
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~  0037. Sudoku Solver
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~  0038. Count and Say
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) ~~[S]~~  0039. Combination Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) ~~[S]~~  0040. Combination Sum II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/first-missing-positive/) ~~[S]~~  0041. First Missing Positive
-- [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water/) ~~[S]~~  0042. Trapping Rain Water
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~  0043. Multiply Strings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/wildcard-matching/) ~~[S]~~  0044. Wildcard Matching
-- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-ii/) ~~[S]~~  0045. Jump Game II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~  0046. Permutations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~  0047. Permutations II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~  0048. Rotate Image
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~  0049. Group Anagrams
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) ~~[S]~~  0050. Pow(x, n)
-- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~  0051. N-Queens
-- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~  0052. N-Queens II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) ~~[S]~~  0053. Maximum Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~  0054. Spiral Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) ~~[S]~~  0055. Jump Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~  0056. Merge Intervals
-- [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~  0057. Insert Interval
-- [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~  0058. Length of Last Word
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~  0059. Spiral Matrix II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) ~~[S]~~  0060. Permutation Sequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~  0061. Rotate List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) ~~[S]~~  0062. Unique Paths
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) ~~[S]~~  0063. Unique Paths II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) ~~[S]~~  0064. Minimum Path Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-number/) ~~[S]~~  0065. Valid Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/plus-one/) ~~[S]~~  0066. Plus One
-- [ ] 😊 [[Q]](https://leetcode.com/problems/add-binary/) ~~[S]~~  0067. Add Binary
-- [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~  0068. Text Justification
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) ~~[S]~~  0069. Sqrt(x)
-- [ ] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) ~~[S]~~  0070. Climbing Stairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~  0071. Simplify Path
-- [ ] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) ~~[S]~~  0072. Edit Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~  0073. Set Matrix Zeroes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~  0074. Search a 2D Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) ~~[S]~~  0075. Sort Colors
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~  0076. Minimum Window Substring
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~  0077. Combinations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets/) ~~[S]~~  0078. Subsets
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~  0079. Word Search
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ~~[S]~~  0080. Remove Duplicates from Sorted Array II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ~~[S]~~  0081. Search in Rotated Sorted Array II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ~~[S]~~  0082. Remove Duplicates from Sorted List II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ~~[S]~~  0083. Remove Duplicates from Sorted List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-rectangle-in-histogram/) ~~[S]~~  0084. Largest Rectangle in Histogram
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximal-rectangle/) ~~[S]~~  0085. Maximal Rectangle
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-list/) ~~[S]~~  0086. Partition List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) ~~[S]~~  0087. Scramble String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-sorted-array/) ~~[S]~~  0088. Merge Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/gray-code/) ~~[S]~~  0089. Gray Code
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) ~~[S]~~  0090. Subsets II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) ~~[S]~~  0091. Decode Ways
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) ~~[S]~~  0092. Reverse Linked List II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~  0093. Restore IP Addresses
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~  0094. Binary Tree Inorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~  0095. Unique Binary Search Trees II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) ~~[S]~~  0096. Unique Binary Search Trees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) ~~[S]~~  0097. Interleaving String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~  0098. Validate Binary Search Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~  0099. Recover Binary Search Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/same-tree/) ~~[S]~~  0100. Same Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/symmetric-tree/) ~~[S]~~  0101. Symmetric Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) ~~[S]~~  0102. Binary Tree Level Order Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ~~[S]~~  0103. Binary Tree Zigzag Level Order Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ~~[S]~~  0104. Maximum Depth of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~  0105. Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~  0106. Construct Binary Tree from Inorder and Postorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ~~[S]~~  0107. Binary Tree Level Order Traversal II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ~~[S]~~  0108. Convert Sorted Array to Binary Search Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ~~[S]~~  0109. Convert Sorted List to Binary Search Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/balanced-binary-tree/) ~~[S]~~  0110. Balanced Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) ~~[S]~~  0111. Minimum Depth of Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum/) ~~[S]~~  0112. Path Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) ~~[S]~~  0113. Path Sum II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ~~[S]~~  0114. Flatten Binary Tree to Linked List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences/) ~~[S]~~  0115. Distinct Subsequences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ~~[S]~~  0116. Populating Next Right Pointers in Each Node
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) ~~[S]~~  0117. Populating Next Right Pointers in Each Node II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~  0118. Pascal's Triangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~  0119. Pascal's Triangle II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/triangle/) ~~[S]~~  0120. Triangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ~~[S]~~  0121. Best Time to Buy and Sell Stock
-- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ~~[S]~~  0122. Best Time to Buy and Sell Stock II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~  0123. Best Time to Buy and Sell Stock III
-- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~  0124. Binary Tree Maximum Path Sum
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) ~~[S]~~  0125. Valid Palindrome
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~  0126. Word Ladder II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) ~~[S]~~  0127. Word Ladder
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~  0128. Longest Consecutive Sequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~  0129. Sum Root to Leaf Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~  0130. Surrounded Regions
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) ~~[S]~~  0131. Palindrome Partitioning
-- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) ~~[S]~~  0132. Palindrome Partitioning II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~  0133. Clone Graph
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~  0134. Gas Station
-- [ ] 😫 [[Q]](https://leetcode.com/problems/candy/) ~~[S]~~  0135. Candy
-- [ ] 😊 [[Q]](https://leetcode.com/problems/single-number/) ~~[S]~~  0136. Single Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) ~~[S]~~  0137. Single Number II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) ~~[S]~~  0138. Copy List with Random Pointer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-break/) ~~[S]~~  0139. Word Break
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) ~~[S]~~  0140. Word Break II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) ~~[S]~~  0141. Linked List Cycle
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) ~~[S]~~  0142. Linked List Cycle II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-list/) ~~[S]~~  0143. Reorder List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-preorder-traversal/) ~~[S]~~  0144. Binary Tree Preorder Traversal
-- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-postorder-traversal/) ~~[S]~~  0145. Binary Tree Postorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lru-cache/) ~~[S]~~  0146. LRU Cache
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) ~~[S]~~  0147. Insertion Sort List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) ~~[S]~~  0148. Sort List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/max-points-on-a-line/) ~~[S]~~  0149. Max Points on a Line
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ~~[S]~~  0150. Evaluate Reverse Polish Notation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) ~~[S]~~  0151. Reverse Words in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) ~~[S]~~  0152. Maximum Product Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ~~[S]~~  0153. Find Minimum in Rotated Sorted Array
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ~~[S]~~  0154. Find Minimum in Rotated Sorted Array II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/min-stack/) ~~[S]~~  0155. Min Stack
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-upside-down/) ~~[S]~~  0156. Binary Tree Upside Down
-- [ ] 😊 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4/) ~~[S]~~  0157. Read N Characters Given Read4
-- [ ] 😫 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) ~~[S]~~  0158. Read N Characters Given Read4 II - Call multiple times
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) ~~[S]~~  0159. Longest Substring with At Most Two Distinct Characters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) ~~[S]~~  0160. Intersection of Two Linked Lists
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/one-edit-distance/) ~~[S]~~  0161. One Edit Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-peak-element/) ~~[S]~~  0162. Find Peak Element
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~  0163. Missing Ranges
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-gap/) ~~[S]~~  0164. Maximum Gap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) ~~[S]~~  0165. Compare Version Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~  0166. Fraction to Recurring Decimal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~  0167. Two Sum II - Input array is sorted
-- [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~  0168. Excel Sheet Column Title
-- [ ] 😊 [[Q]](https://leetcode.com/problems/majority-element/) ~~[S]~~  0169. Majority Element
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~  0170. Two Sum III - Data structure design
-- [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~  0171. Excel Sheet Column Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~  0172. Factorial Trailing Zeroes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~  0173. Binary Search Tree Iterator
-- [ ] 😫 [[Q]](https://leetcode.com/problems/dungeon-game/) ~~[S]~~  0174. Dungeon Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) ~~[S]~~  0179. Largest Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~  0186. Reverse Words in a String II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~  0187. Repeated DNA Sequences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ~~[S]~~  0188. Best Time to Buy and Sell Stock IV
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~  0189. Rotate Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-bits/) ~~[S]~~  0190. Reverse Bits
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) ~~[S]~~  0191. Number of 1 Bits
-- [ ] 😊 [[Q]](https://leetcode.com/problems/house-robber/) ~~[S]~~  0198. House Robber
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) ~~[S]~~  0199. Binary Tree Right Side View
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~  0200. Number of Islands
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~  0201. Bitwise AND of Numbers Range
-- [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~  0202. Happy Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~  0203. Remove Linked List Elements
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-primes/) ~~[S]~~  0204. Count Primes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~  0207. Course Schedule
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~  0208. Implement Trie (Prefix Tree)
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~  0209. Minimum Size Subarray Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~  0210. Course Schedule II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~  0211. Add and Search Word - Data structure design
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~  0212. Word Search II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~  0213. House Robber II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-palindrome/) ~~[S]~~  0214. Shortest Palindrome
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-largest-element-in-an-array/) ~~[S]~~  0215. Kth Largest Element in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) ~~[S]~~  0216. Combination Sum III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) ~~[S]~~  0217. Contains Duplicate
-- [ ] 😫 [[Q]](https://leetcode.com/problems/the-skyline-problem/) ~~[S]~~  0218. The Skyline Problem
-- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) ~~[S]~~  0219. Contains Duplicate II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) ~~[S]~~  0220. Contains Duplicate III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximal-square/) ~~[S]~~  0221. Maximal Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) ~~[S]~~  0222. Count Complete Tree Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rectangle-area/) ~~[S]~~  0223. Rectangle Area
-- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~  0224. Basic Calculator
-- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~  0225. Implement Stack using Queues
-- [ ] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) ~~[S]~~  0226. Invert Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~  0227. Basic Calculator II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~  0228. Summary Ranges
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~  0229. Majority Element II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ~~[S]~~  0230. Kth Smallest Element in a BST
-- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) ~~[S]~~  0231. Power of Two
-- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~  0232. Implement Queue using Stacks
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~  0233. Number of Digit One
-- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~  0234. Palindrome Linked List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ~~[S]~~  0235. Lowest Common Ancestor of a Binary Search Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ~~[S]~~  0236. Lowest Common Ancestor of a Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) ~~[S]~~  0237. Delete Node in a Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-array-except-self/) ~~[S]~~  0238. Product of Array Except Self
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-maximum/) ~~[S]~~  0239. Sliding Window Maximum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) ~~[S]~~  0240. Search a 2D Matrix II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/different-ways-to-add-parentheses/) ~~[S]~~  0241. Different Ways to Add Parentheses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) ~~[S]~~  0242. Valid Anagram
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-word-distance/) ~~[S]~~  0243. Shortest Word Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-ii/) ~~[S]~~  0244. Shortest Word Distance II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-iii/) ~~[S]~~  0245. Shortest Word Distance III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/strobogrammatic-number/) ~~[S]~~  0246. Strobogrammatic Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/strobogrammatic-number-ii/) ~~[S]~~  0247. Strobogrammatic Number II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/strobogrammatic-number-iii/) ~~[S]~~  0248. Strobogrammatic Number III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-shifted-strings/) ~~[S]~~  0249. Group Shifted Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-univalue-subtrees/) ~~[S]~~  0250. Count Univalue Subtrees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-2d-vector/) ~~[S]~~  0251. Flatten 2D Vector
-- [ ] 😊 [[Q]](https://leetcode.com/problems/meeting-rooms/) ~~[S]~~  0252. Meeting Rooms
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-rooms-ii/) ~~[S]~~  0253. Meeting Rooms II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/factor-combinations/) ~~[S]~~  0254. Factor Combinations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) ~~[S]~~  0255. Verify Preorder Sequence in Binary Search Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/paint-house/) ~~[S]~~  0256. Paint House
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-paths/) ~~[S]~~  0257. Binary Tree Paths
-- [ ] 😊 [[Q]](https://leetcode.com/problems/add-digits/) ~~[S]~~  0258. Add Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-smaller/) ~~[S]~~  0259. 3Sum Smaller
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) ~~[S]~~  0260. Single Number III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/graph-valid-tree/) ~~[S]~~  0261. Graph Valid Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) ~~[S]~~  0263. Ugly Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) ~~[S]~~  0264. Ugly Number II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-ii/) ~~[S]~~  0265. Paint House II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-permutation/) ~~[S]~~  0266. Palindrome Permutation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-permutation-ii/) ~~[S]~~  0267. Palindrome Permutation II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-number/) ~~[S]~~  0268. Missing Number
-- [ ] 😫 [[Q]](https://leetcode.com/problems/alien-dictionary/) ~~[S]~~  0269. Alien Dictionary
-- [ ] 😊 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value/) ~~[S]~~  0270. Closest Binary Search Tree Value
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~  0271. Encode and Decode Strings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~  0272. Closest Binary Search Tree Value II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~  0273. Integer to English Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index/) ~~[S]~~  0274. H-Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~  0275. H-Index II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) ~~[S]~~  0278. First Bad Version
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~  0279. Perfect Squares
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~  0280. Wiggle Sort
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~  0281. Zigzag Iterator
-- [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~  0282. Expression Add Operators
-- [ ] 😊 [[Q]](https://leetcode.com/problems/move-zeroes/) ~~[S]~~  0283. Move Zeroes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) ~~[S]~~  0284. Peeking Iterator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst/) ~~[S]~~  0285. Inorder Successor in BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/walls-and-gates/) ~~[S]~~  0286. Walls and Gates
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) ~~[S]~~  0287. Find the Duplicate Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-word-abbreviation/) ~~[S]~~  0288. Unique Word Abbreviation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/game-of-life/) ~~[S]~~  0289. Game of Life
-- [ ] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) ~~[S]~~  0290. Word Pattern
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-pattern-ii/) ~~[S]~~  0291. Word Pattern II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/nim-game/) ~~[S]~~  0292. Nim Game
-- [ ] 😊 [[Q]](https://leetcode.com/problems/flip-game/) ~~[S]~~  0293. Flip Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-game-ii/) ~~[S]~~  0294. Flip Game II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) ~~[S]~~  0295. Find Median from Data Stream
-- [ ] 😫 [[Q]](https://leetcode.com/problems/best-meeting-point/) ~~[S]~~  0296. Best Meeting Point
-- [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~  0297. Serialize and Deserialize Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~  0298. Binary Tree Longest Consecutive Sequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~  0299. Bulls and Cows
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) ~~[S]~~  0300. Longest Increasing Subsequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~  0301. Remove Invalid Parentheses
-- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~  0302. Smallest Rectangle Enclosing Black Pixels
-- [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~  0303. Range Sum Query - Immutable
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-query-2d-immutable/) ~~[S]~~  0304. Range Sum Query 2D - Immutable
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-islands-ii/) ~~[S]~~  0305. Number of Islands II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/additive-number/) ~~[S]~~  0306. Additive Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-query-mutable/) ~~[S]~~  0307. Range Sum Query - Mutable
-- [ ] 😫 [[Q]](https://leetcode.com/problems/range-sum-query-2d-mutable/) ~~[S]~~  0308. Range Sum Query 2D - Mutable
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) ~~[S]~~  0309. Best Time to Buy and Sell Stock with Cooldown
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) ~~[S]~~  0310. Minimum Height Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sparse-matrix-multiplication/) ~~[S]~~  0311. Sparse Matrix Multiplication
-- [ ] 😫 [[Q]](https://leetcode.com/problems/burst-balloons/) ~~[S]~~  0312. Burst Balloons
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/super-ugly-number/) ~~[S]~~  0313. Super Ugly Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) ~~[S]~~  0314. Binary Tree Vertical Order Traversal
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ~~[S]~~  0315. Count of Smaller Numbers After Self
-- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) ~~[S]~~  0316. Remove Duplicate Letters
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-distance-from-all-buildings/) ~~[S]~~  0317. Shortest Distance from All Buildings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-word-lengths/) ~~[S]~~  0318. Maximum Product of Word Lengths
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher/) ~~[S]~~  0319. Bulb Switcher
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/generalized-abbreviation/) ~~[S]~~  0320. Generalized Abbreviation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/create-maximum-number/) ~~[S]~~  0321. Create Maximum Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) ~~[S]~~  0322. Coin Change
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ~~[S]~~  0323. Number of Connected Components in an Undirected Graph
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort-ii/) ~~[S]~~  0324. Wiggle Sort II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~  0325. Maximum Size Subarray Sum Equals k
-- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~  0326. Power of Three
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~  0327. Count of Range Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) ~~[S]~~  0328. Odd Even Linked List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~  0329. Longest Increasing Path in a Matrix
-- [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~  0330. Patching Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~  0331. Verify Preorder Serialization of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) ~~[S]~~  0332. Reconstruct Itinerary
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-bst-subtree/) ~~[S]~~  0333. Largest BST Subtree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-triplet-subsequence/) ~~[S]~~  0334. Increasing Triplet Subsequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/self-crossing/) ~~[S]~~  0335. Self Crossing
-- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-pairs/) ~~[S]~~  0336. Palindrome Pairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-iii/) ~~[S]~~  0337. House Robber III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) ~~[S]~~  0338. Counting Bits
-- [ ] 😊 [[Q]](https://leetcode.com/problems/nested-list-weight-sum/) ~~[S]~~  0339. Nested List Weight Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ~~[S]~~  0340. Longest Substring with At Most K Distinct Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~  0341. Flatten Nested List Iterator
-- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) ~~[S]~~  0342. Power of Four
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~  0343. Integer Break
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) ~~[S]~~  0344. Reverse String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~  0345. Reverse Vowels of a String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~  0346. Moving Average from Data Stream
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~  0347. Top K Frequent Elements
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-tic-tac-toe/) ~~[S]~~  0348. Design Tic-Tac-Toe
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays/) ~~[S]~~  0349. Intersection of Two Arrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ~~[S]~~  0350. Intersection of Two Arrays II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/android-unlock-patterns/) ~~[S]~~  0351. Android Unlock Patterns
-- [ ] 😫 [[Q]](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) ~~[S]~~  0352. Data Stream as Disjoint Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-snake-game/) ~~[S]~~  0353. Design Snake Game
-- [ ] 😫 [[Q]](https://leetcode.com/problems/russian-doll-envelopes/) ~~[S]~~  0354. Russian Doll Envelopes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-twitter/) ~~[S]~~  0355. Design Twitter
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/line-reflection/) ~~[S]~~  0356. Line Reflection
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-numbers-with-unique-digits/) ~~[S]~~  0357. Count Numbers with Unique Digits
-- [ ] 😫 [[Q]](https://leetcode.com/problems/rearrange-string-k-distance-apart/) ~~[S]~~  0358. Rearrange String k Distance Apart
-- [ ] 😊 [[Q]](https://leetcode.com/problems/logger-rate-limiter/) ~~[S]~~  0359. Logger Rate Limiter
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-transformed-array/) ~~[S]~~  0360. Sort Transformed Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bomb-enemy/) ~~[S]~~  0361. Bomb Enemy
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-hit-counter/) ~~[S]~~  0362. Design Hit Counter
-- [ ] 😫 [[Q]](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) ~~[S]~~  0363. Max Sum of Rectangle No Larger Than K
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/nested-list-weight-sum-ii/) ~~[S]~~  0364. Nested List Weight Sum II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/water-and-jug-problem/) ~~[S]~~  0365. Water and Jug Problem
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~  0366. Find Leaves of Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) ~~[S]~~  0367. Valid Perfect Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) ~~[S]~~  0368. Largest Divisible Subset
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~  0369. Plus One Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~  0370. Range Addition
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-two-integers/) ~~[S]~~  0371. Sum of Two Integers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) ~~[S]~~  0372. Super Pow
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) ~~[S]~~  0373. Find K Pairs with Smallest Sums
-- [ ] 😊 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower/) ~~[S]~~  0374. Guess Number Higher or Lower
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) ~~[S]~~  0375. Guess Number Higher or Lower II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-subsequence/) ~~[S]~~  0376. Wiggle Subsequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) ~~[S]~~  0377. Combination Sum IV
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ~~[S]~~  0378. Kth Smallest Element in a Sorted Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-phone-directory/) ~~[S]~~  0379. Design Phone Directory
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) ~~[S]~~  0380. Insert Delete GetRandom O(1)
-- [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~  0381. Insert Delete GetRandom O(1) - Duplicates allowed
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-random-node/) ~~[S]~~  0382. Linked List Random Node
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) ~~[S]~~  0383. Ransom Note
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~  0384. Shuffle an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~  0385. Mini Parser
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~  0386. Lexicographical Numbers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) ~~[S]~~  0387. First Unique Character in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-absolute-file-path/) ~~[S]~~  0388. Longest Absolute File Path
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~  0389. Find the Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~  0390. Elimination Game
-- [ ] 😫 [[Q]](https://leetcode.com/problems/perfect-rectangle/) ~~[S]~~  0391. Perfect Rectangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) ~~[S]~~  0392. Is Subsequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/utf-8-validation/) ~~[S]~~  0393. UTF-8 Validation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-string/) ~~[S]~~  0394. Decode String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) ~~[S]~~  0395. Longest Substring with At Least K Repeating Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-function/) ~~[S]~~  0396. Rotate Function
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) ~~[S]~~  0397. Integer Replacement
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-index/) ~~[S]~~  0398. Random Pick Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~  0399. Evaluate Division
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~  0400. Nth Digit
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~  0401. Binary Watch
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) ~~[S]~~  0402. Remove K Digits
-- [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~  0403. Frog Jump
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~  0404. Sum of Left Leaves
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~  0405. Convert a Number to Hexadecimal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) ~~[S]~~  0406. Queue Reconstruction by Height
-- [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~  0407. Trapping Rain Water II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~  0408. Valid Word Abbreviation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) ~~[S]~~  0409. Longest Palindrome
-- [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~  0410. Split Array Largest Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~  0411. Minimum Unique Word Abbreviation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~  0412. Fizz Buzz
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~  0413. Arithmetic Slices
-- [ ] 😊 [[Q]](https://leetcode.com/problems/third-maximum-number/) ~~[S]~~  0414. Third Maximum Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/add-strings/) ~~[S]~~  0415. Add Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-equal-subset-sum/) ~~[S]~~  0416. Partition Equal Subset Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) ~~[S]~~  0417. Pacific Atlantic Water Flow
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sentence-screen-fitting/) ~~[S]~~  0418. Sentence Screen Fitting
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/battleships-in-a-board/) ~~[S]~~  0419. Battleships in a Board
-- [ ] 😫 [[Q]](https://leetcode.com/problems/strong-password-checker/) ~~[S]~~  0420. Strong Password Checker
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) ~~[S]~~  0421. Maximum XOR of Two Numbers in an Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-square/) ~~[S]~~  0422. Valid Word Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-original-digits-from-english/) ~~[S]~~  0423. Reconstruct Original Digits from English
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-repeating-character-replacement/) ~~[S]~~  0424. Longest Repeating Character Replacement
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-squares/) ~~[S]~~  0425. Word Squares
-- [ ] 😫 [[Q]](https://leetcode.com/problems/all-oone-data-structure/) ~~[S]~~  0432. All O`one Data Structure
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~  0433. Minimum Genetic Mutation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~  0434. Number of Segments in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~  0435. Non-overlapping Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~  0436. Find Right Interval
-- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~  0437. Path Sum III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ~~[S]~~  0438. Find All Anagrams in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~  0439. Ternary Expression Parser
-- [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~  0440. K-th Smallest in Lexicographical Order
-- [ ] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) ~~[S]~~  0441. Arranging Coins
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ~~[S]~~  0442. Find All Duplicates in an Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/string-compression/) ~~[S]~~  0443. String Compression
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sequence-reconstruction/) ~~[S]~~  0444. Sequence Reconstruction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers-ii/) ~~[S]~~  0445. Add Two Numbers II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ~~[S]~~  0446. Arithmetic Slices II - Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~  0447. Number of Boomerangs
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~  0448. Find All Numbers Disappeared in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) ~~[S]~~  0449. Serialize and Deserialize BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) ~~[S]~~  0450. Delete Node in a BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) ~~[S]~~  0451. Sort Characters By Frequency
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~  0452. Minimum Number of Arrows to Burst Balloons
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~  0453. Minimum Moves to Equal Array Elements
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~  0454. 4Sum II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) ~~[S]~~  0455. Assign Cookies
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/132-pattern/) ~~[S]~~  0456. 132 Pattern
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-array-loop/) ~~[S]~~  0457. Circular Array Loop
-- [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~  0458. Poor Pigs
-- [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) ~~[S]~~  0459. Repeated Substring Pattern
-- [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~  0460. LFU Cache
-- [ ] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) ~~[S]~~  0461. Hamming Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ~~[S]~~  0462. Minimum Moves to Equal Array Elements II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) ~~[S]~~  0463. Island Perimeter
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-i-win/) ~~[S]~~  0464. Can I Win
-- [ ] 😫 [[Q]](https://leetcode.com/problems/optimal-account-balancing/) ~~[S]~~  0465. Optimal Account Balancing
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-the-repetitions/) ~~[S]~~  0466. Count The Repetitions
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) ~~[S]~~  0467. Unique Substrings in Wraparound String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) ~~[S]~~  0468. Validate IP Address
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/convex-polygon/) ~~[S]~~  0469. Convex Polygon
-- [ ] 😫 [[Q]](https://leetcode.com/problems/encode-string-with-shortest-length/) ~~[S]~~  0471. Encode String with Shortest Length
-- [ ] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) ~~[S]~~  0472. Concatenated Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~  0473. Matchsticks to Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~  0474. Ones and Zeroes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~  0475. Heaters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-complement/) ~~[S]~~  0476. Number Complement
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) ~~[S]~~  0477. Total Hamming Distance
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~  0479. Largest Palindrome Product
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-median/) ~~[S]~~  0480. Sliding Window Median
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/magical-string/) ~~[S]~~  0481. Magical String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/license-key-formatting/) ~~[S]~~  0482. License Key Formatting
-- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-good-base/) ~~[S]~~  0483. Smallest Good Base
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-permutation/) ~~[S]~~  0484. Find Permutation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/max-consecutive-ones/) ~~[S]~~  0485. Max Consecutive Ones
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) ~~[S]~~  0486. Predict the Winner
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-consecutive-ones-ii/) ~~[S]~~  0487. Max Consecutive Ones II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/zuma-game/) ~~[S]~~  0488. Zuma Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze/) ~~[S]~~  0490. The Maze
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-subsequences/) ~~[S]~~  0491. Increasing Subsequences
-- [ ] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) ~~[S]~~  0492. Construct the Rectangle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) ~~[S]~~  0493. Reverse Pairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/target-sum/) ~~[S]~~  0494. Target Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) ~~[S]~~  0495. Teemo Attacking
-- [ ] 😊 [[Q]](https://leetcode.com/problems/next-greater-element-i/) ~~[S]~~  0496. Next Greater Element I
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse/) ~~[S]~~  0498. Diagonal Traverse
-- [ ] 😫 [[Q]](https://leetcode.com/problems/the-maze-iii/) ~~[S]~~  0499. The Maze III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/keyboard-row/) ~~[S]~~  0500. Keyboard Row
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-mode-in-binary-search-tree/) ~~[S]~~  0501. Find Mode in Binary Search Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/ipo/) ~~[S]~~  0502. IPO
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-element-ii/) ~~[S]~~  0503. Next Greater Element II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/base-7/) ~~[S]~~  0504. Base 7
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze-ii/) ~~[S]~~  0505. The Maze II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) ~~[S]~~  0506. Relative Ranks
-- [ ] 😊 [[Q]](https://leetcode.com/problems/perfect-number/) ~~[S]~~  0507. Perfect Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-frequent-subtree-sum/) ~~[S]~~  0508. Most Frequent Subtree Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst-ii/) ~~[S]~~  0509. Inorder Successor in BST II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) ~~[S]~~  0511. All Paths from Source Lead to Destination
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-bottom-left-tree-value/) ~~[S]~~  0513. Find Bottom Left Tree Value
-- [ ] 😫 [[Q]](https://leetcode.com/problems/freedom-trail/) ~~[S]~~  0514. Freedom Trail
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) ~~[S]~~  0515. Find Largest Value in Each Tree Row
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~  0516. Longest Palindromic Subsequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~  0517. Super Washing Machines
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) ~~[S]~~  0518. Coin Change 2
-- [ ] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) ~~[S]~~  0520. Detect Capital
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-i/) ~~[S]~~  0521. Longest Uncommon Subsequence I 
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) ~~[S]~~  0522. Longest Uncommon Subsequence II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/continuous-subarray-sum/) ~~[S]~~  0523. Continuous Subarray Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) ~~[S]~~  0524. Longest Word in Dictionary through Deleting
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) ~~[S]~~  0525. Contiguous Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement/) ~~[S]~~  0526. Beautiful Arrangement
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-abbreviation/) ~~[S]~~  0527. Word Abbreviation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minesweeper/) ~~[S]~~  0529. Minesweeper
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) ~~[S]~~  0530. Minimum Absolute Difference in BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lonely-pixel-i/) ~~[S]~~  0531. Lonely Pixel I
-- [ ] 😊 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) ~~[S]~~  0532. K-diff Pairs in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lonely-pixel-ii/) ~~[S]~~  0533. Lonely Pixel II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-tinyurl/) ~~[S]~~  0535. Encode and Decode TinyURL
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-string/) ~~[S]~~  0536. Construct Binary Tree from String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/complex-number-multiplication/) ~~[S]~~  0537. Complex Number Multiplication
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-bst-to-greater-tree/) ~~[S]~~  0538. Convert BST to Greater Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-difference/) ~~[S]~~  0539. Minimum Time Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) ~~[S]~~  0540. Single Element in a Sorted Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string-ii/) ~~[S]~~  0541. Reverse String II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/01-matrix/) ~~[S]~~  0542. 01 Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/diameter-of-binary-tree/) ~~[S]~~  0543. Diameter of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/output-contest-matches/) ~~[S]~~  0544. Output Contest Matches
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/boundary-of-binary-tree/) ~~[S]~~  0545. Boundary of Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-boxes/) ~~[S]~~  0546. Remove Boxes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/friend-circles/) ~~[S]~~  0547. Friend Circles
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-with-equal-sum/) ~~[S]~~  0548. Split Array with Equal Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) ~~[S]~~  0549. Binary Tree Longest Consecutive Sequence II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/student-attendance-record-i/) ~~[S]~~  0551. Student Attendance Record I
-- [ ] 😫 [[Q]](https://leetcode.com/problems/student-attendance-record-ii/) ~~[S]~~  0552. Student Attendance Record II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/optimal-division/) ~~[S]~~  0553. Optimal Division
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/brick-wall/) ~~[S]~~  0554. Brick Wall
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-concatenated-strings/) ~~[S]~~  0555. Split Concatenated Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-element-iii/) ~~[S]~~  0556. Next Greater Element III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-iii/) ~~[S]~~  0557. Reverse Words in a String III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sum-equals-k/) ~~[S]~~  0560. Subarray Sum Equals K
-- [ ] 😊 [[Q]](https://leetcode.com/problems/array-partition-i/) ~~[S]~~  0561. Array Partition I
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) ~~[S]~~  0562. Longest Line of Consecutive One in Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-tilt/) ~~[S]~~  0563. Binary Tree Tilt
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-closest-palindrome/) ~~[S]~~  0564. Find the Closest Palindrome
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/array-nesting/) ~~[S]~~  0565. Array Nesting
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reshape-the-matrix/) ~~[S]~~  0566. Reshape the Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) ~~[S]~~  0567. Permutation in String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-vacation-days/) ~~[S]~~  0568. Maximum Vacation Days
-- [ ] 😊 [[Q]](https://leetcode.com/problems/subtree-of-another-tree/) ~~[S]~~  0572. Subtree of Another Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~  0573. Squirrel Simulation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies/) ~~[S]~~  0575. Distribute Candies
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/out-of-boundary-paths/) ~~[S]~~  0576. Out of Boundary Paths
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ~~[S]~~  0581. Shortest Unsorted Continuous Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kill-process/) ~~[S]~~  0582. Kill Process
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-operation-for-two-strings/) ~~[S]~~  0583. Delete Operation for Two Strings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/erect-the-fence/) ~~[S]~~  0587. Erect the Fence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/design-in-memory-file-system/) ~~[S]~~  0588. Design In-Memory File System
-- [ ] 😫 [[Q]](https://leetcode.com/problems/tag-validator/) ~~[S]~~  0591. Tag Validator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-addition-and-subtraction/) ~~[S]~~  0592. Fraction Addition and Subtraction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) ~~[S]~~  0593. Valid Square
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) ~~[S]~~  0594. Longest Harmonious Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/range-addition-ii/) ~~[S]~~  0598. Range Addition II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) ~~[S]~~  0599. Minimum Index Sum of Two Lists
-- [ ] 😫 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) ~~[S]~~  0600. Non-negative Integers without Consecutive Ones
-- [ ] 😊 [[Q]](https://leetcode.com/problems/design-compressed-string-iterator/) ~~[S]~~  0604. Design Compressed String Iterator
-- [ ] 😊 [[Q]](https://leetcode.com/problems/can-place-flowers/) ~~[S]~~  0605. Can Place Flowers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/construct-string-from-binary-tree/) ~~[S]~~  0606. Construct String from Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-duplicate-file-in-system/) ~~[S]~~  0609. Find Duplicate File in System
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-triangle-number/) ~~[S]~~  0611. Valid Triangle Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-bold-tag-in-string/) ~~[S]~~  0616. Add Bold Tag in String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-binary-trees/) ~~[S]~~  0617. Merge Two Binary Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/task-scheduler/) ~~[S]~~  0621. Task Scheduler
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-one-row-to-tree/) ~~[S]~~  0623. Add One Row to Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-distance-in-arrays/) ~~[S]~~  0624. Maximum Distance in Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-factorization/) ~~[S]~~  0625. Minimum Factorization
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-three-numbers/) ~~[S]~~  0628. Maximum Product of Three Numbers
-- [ ] 😫 [[Q]](https://leetcode.com/problems/k-inverse-pairs-array/) ~~[S]~~  0629. K Inverse Pairs Array
-- [ ] 😫 [[Q]](https://leetcode.com/problems/course-schedule-iii/) ~~[S]~~  0630. Course Schedule III
-- [ ] 😫 [[Q]](https://leetcode.com/problems/design-excel-sum-formula/) ~~[S]~~  0631. Design Excel Sum Formula
-- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) ~~[S]~~  0632. Smallest Range Covering Elements from K Lists
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-square-numbers/) ~~[S]~~  0633. Sum of Square Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-derangement-of-an-array/) ~~[S]~~  0634. Find the Derangement of An Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-log-storage-system/) ~~[S]~~  0635. Design Log Storage System
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/exclusive-time-of-functions/) ~~[S]~~  0636. Exclusive Time of Functions
-- [ ] 😊 [[Q]](https://leetcode.com/problems/average-of-levels-in-binary-tree/) ~~[S]~~  0637. Average of Levels in Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shopping-offers/) ~~[S]~~  0638. Shopping Offers
-- [ ] 😫 [[Q]](https://leetcode.com/problems/decode-ways-ii/) ~~[S]~~  0639. Decode Ways II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/solve-the-equation/) ~~[S]~~  0640. Solve the Equation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/design-search-autocomplete-system/) ~~[S]~~  0642. Design Search Autocomplete System
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-average-subarray-i/) ~~[S]~~  0643. Maximum Average Subarray I
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-average-subarray-ii/) ~~[S]~~  0644. Maximum Average Subarray II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/set-mismatch/) ~~[S]~~  0645. Set Mismatch
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-pair-chain/) ~~[S]~~  0646. Maximum Length of Pair Chain
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindromic-substrings/) ~~[S]~~  0647. Palindromic Substrings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-words/) ~~[S]~~  0648. Replace Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/dota2-senate/) ~~[S]~~  0649. Dota2 Senate
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/2-keys-keyboard/) ~~[S]~~  0650. 2 Keys Keyboard
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/4-keys-keyboard/) ~~[S]~~  0651. 4 Keys Keyboard
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-duplicate-subtrees/) ~~[S]~~  0652. Find Duplicate Subtrees
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ~~[S]~~  0653. Two Sum IV - Input is a BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-binary-tree/) ~~[S]~~  0654. Maximum Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-binary-tree/) ~~[S]~~  0655. Print Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/coin-path/) ~~[S]~~  0656. Coin Path
-- [ ] 😊 [[Q]](https://leetcode.com/problems/robot-return-to-origin/) ~~[S]~~  0657. Robot Return to Origin
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-closest-elements/) ~~[S]~~  0658. Find K Closest Elements
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) ~~[S]~~  0659. Split Array into Consecutive Subsequences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-9/) ~~[S]~~  0660. Remove 9
-- [ ] 😊 [[Q]](https://leetcode.com/problems/image-smoother/) ~~[S]~~  0661. Image Smoother
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) ~~[S]~~  0662. Maximum Width of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/equal-tree-partition/) ~~[S]~~  0663. Equal Tree Partition
-- [ ] 😫 [[Q]](https://leetcode.com/problems/strange-printer/) ~~[S]~~  0664. Strange Printer
-- [ ] 😊 [[Q]](https://leetcode.com/problems/non-decreasing-array/) ~~[S]~~  0665. Non-decreasing Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iv/) ~~[S]~~  0666. Path Sum IV
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement-ii/) ~~[S]~~  0667. Beautiful Arrangement II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) ~~[S]~~  0668. Kth Smallest Number in Multiplication Table
-- [ ] 😊 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) ~~[S]~~  0669. Trim a Binary Search Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-swap/) ~~[S]~~  0670. Maximum Swap
-- [ ] 😊 [[Q]](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) ~~[S]~~  0671. Second Minimum Node In a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher-ii/) ~~[S]~~  0672. Bulb Switcher II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) ~~[S]~~  0673. Number of Longest Increasing Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) ~~[S]~~  0674. Longest Continuous Increasing Subsequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/cut-off-trees-for-golf-event/) ~~[S]~~  0675. Cut Off Trees for Golf Event
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-magic-dictionary/) ~~[S]~~  0676. Implement Magic Dictionary
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/map-sum-pairs/) ~~[S]~~  0677. Map Sum Pairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-parenthesis-string/) ~~[S]~~  0678. Valid Parenthesis String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/24-game/) ~~[S]~~  0679. 24 Game
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome-ii/) ~~[S]~~  0680. Valid Palindrome II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-closest-time/) ~~[S]~~  0681. Next Closest Time
-- [ ] 😊 [[Q]](https://leetcode.com/problems/baseball-game/) ~~[S]~~  0682. Baseball Game
-- [ ] 😫 [[Q]](https://leetcode.com/problems/k-empty-slots/) ~~[S]~~  0683. K Empty Slots
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) ~~[S]~~  0684. Redundant Connection
-- [ ] 😫 [[Q]](https://leetcode.com/problems/redundant-connection-ii/) ~~[S]~~  0685. Redundant Connection II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) ~~[S]~~  0686. Repeated String Match
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-univalue-path/) ~~[S]~~  0687. Longest Univalue Path
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-probability-in-chessboard/) ~~[S]~~  0688. Knight Probability in Chessboard
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) ~~[S]~~  0689. Maximum Sum of 3 Non-Overlapping Subarrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/employee-importance/) ~~[S]~~  0690. Employee Importance
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stickers-to-spell-word/) ~~[S]~~  0691. Stickers to Spell Word
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-words/) ~~[S]~~  0692. Top K Frequent Words
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) ~~[S]~~  0693. Binary Number with Alternating Bits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-distinct-islands/) ~~[S]~~  0694. Number of Distinct Islands
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-area-of-island/) ~~[S]~~  0695. Max Area of Island
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-binary-substrings/) ~~[S]~~  0696. Count Binary Substrings
-- [ ] 😊 [[Q]](https://leetcode.com/problems/degree-of-an-array/) ~~[S]~~  0697. Degree of an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) ~~[S]~~  0698. Partition to K Equal Sum Subsets
-- [ ] 😫 [[Q]](https://leetcode.com/problems/falling-squares/) ~~[S]~~  0699. Falling Squares
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-distinct-islands-ii/) ~~[S]~~  0711. Number of Distinct Islands II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) ~~[S]~~  0712. Minimum ASCII Delete Sum for Two Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) ~~[S]~~  0713. Subarray Product Less Than K
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) ~~[S]~~  0714. Best Time to Buy and Sell Stock with Transaction Fee
-- [ ] 😫 [[Q]](https://leetcode.com/problems/range-module/) ~~[S]~~  0715. Range Module
-- [ ] 😊 [[Q]](https://leetcode.com/problems/max-stack/) ~~[S]~~  0716. Max Stack
-- [ ] 😊 [[Q]](https://leetcode.com/problems/1-bit-and-2-bit-characters/) ~~[S]~~  0717. 1-bit and 2-bit Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ~~[S]~~  0718. Maximum Length of Repeated Subarray
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) ~~[S]~~  0719. Find K-th Smallest Pair Distance
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary/) ~~[S]~~  0720. Longest Word in Dictionary
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/accounts-merge/) ~~[S]~~  0721. Accounts Merge
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-comments/) ~~[S]~~  0722. Remove Comments
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/candy-crush/) ~~[S]~~  0723. Candy Crush
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-pivot-index/) ~~[S]~~  0724. Find Pivot Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) ~~[S]~~  0725. Split Linked List in Parts
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-atoms/) ~~[S]~~  0726. Number of Atoms
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-subsequence/) ~~[S]~~  0727. Minimum Window Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/self-dividing-numbers/) ~~[S]~~  0728. Self Dividing Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/my-calendar-i/) ~~[S]~~  0729. My Calendar I
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-different-palindromic-subsequences/) ~~[S]~~  0730. Count Different Palindromic Subsequences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/my-calendar-ii/) ~~[S]~~  0731. My Calendar II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/my-calendar-iii/) ~~[S]~~  0732. My Calendar III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) ~~[S]~~  0733. Flood Fill
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sentence-similarity/) ~~[S]~~  0734. Sentence Similarity
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) ~~[S]~~  0735. Asteroid Collision
-- [ ] 😫 [[Q]](https://leetcode.com/problems/parse-lisp-expression/) ~~[S]~~  0736. Parse Lisp Expression
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sentence-similarity-ii/) ~~[S]~~  0737. Sentence Similarity II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/monotone-increasing-digits/) ~~[S]~~  0738. Monotone Increasing Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/daily-temperatures/) ~~[S]~~  0739. Daily Temperatures
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-and-earn/) ~~[S]~~  0740. Delete and Earn
-- [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup/) ~~[S]~~  0741. Cherry Pickup
-- [ ] 😊 [[Q]](https://leetcode.com/problems/to-lower-case/) ~~[S]~~  0742. To Lower Case
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) ~~[S]~~  0743. Closest Leaf in a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) ~~[S]~~  0744. Network Delay Time
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) ~~[S]~~  0745. Find Smallest Letter Greater Than Target
-- [ ] 😫 [[Q]](https://leetcode.com/problems/prefix-and-suffix-search/) ~~[S]~~  0746. Prefix and Suffix Search
-- [ ] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) ~~[S]~~  0747. Min Cost Climbing Stairs
-- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) ~~[S]~~  0748. Largest Number At Least Twice of Others
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-completing-word/) ~~[S]~~  0749. Shortest Completing Word
-- [ ] 😫 [[Q]](https://leetcode.com/problems/contain-virus/) ~~[S]~~  0750. Contain Virus
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-corner-rectangles/) ~~[S]~~  0751. Number Of Corner Rectangles
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ip-to-cidr/) ~~[S]~~  0752. IP to CIDR
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/open-the-lock/) ~~[S]~~  0753. Open the Lock
-- [ ] 😫 [[Q]](https://leetcode.com/problems/cracking-the-safe/) ~~[S]~~  0754. Cracking the Safe
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reach-a-number/) ~~[S]~~  0755. Reach a Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pour-water/) ~~[S]~~  0756. Pour Water
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pyramid-transition-matrix/) ~~[S]~~  0757. Pyramid Transition Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) ~~[S]~~  0758. Convert Binary Search Tree to Sorted Doubly Linked List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/set-intersection-size-at-least-two/) ~~[S]~~  0759. Set Intersection Size At Least Two
-- [ ] 😊 [[Q]](https://leetcode.com/problems/bold-words-in-string/) ~~[S]~~  0760. Bold Words in String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/employee-free-time/) ~~[S]~~  0761. Employee Free Time
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-anagram-mappings/) ~~[S]~~  0762. Find Anagram Mappings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/special-binary-string/) ~~[S]~~  0763. Special Binary String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) ~~[S]~~  0764. N-ary Tree Level Order Traversal
-- [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) ~~[S]~~  0765. Serialize and Deserialize N-ary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ~~[S]~~  0766. Flatten a Multilevel Doubly Linked List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) ~~[S]~~  0767. Prime Number of Set Bits in Binary Representation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) ~~[S]~~  0768. Partition Labels
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-plus-sign/) ~~[S]~~  0769. Largest Plus Sign
-- [ ] 😫 [[Q]](https://leetcode.com/problems/couples-holding-hands/) ~~[S]~~  0770. Couples Holding Hands
-- [ ] 😫 [[Q]](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) ~~[S]~~  0771. Encode N-ary Tree to Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-quad-tree/) ~~[S]~~  0772. Construct Quad Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) ~~[S]~~  0773. Logical OR of Two Binary Grids Represented as Quad-Trees
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) ~~[S]~~  0774. Maximum Depth of N-ary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) ~~[S]~~  0775. N-ary Tree Preorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) ~~[S]~~  0776. N-ary Tree Postorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/toeplitz-matrix/) ~~[S]~~  0777. Toeplitz Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorganize-string/) ~~[S]~~  0778. Reorganize String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) ~~[S]~~  0779. Max Chunks To Make Sorted II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted/) ~~[S]~~  0780. Max Chunks To Make Sorted
-- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iv/) ~~[S]~~  0781. Basic Calculator IV
-- [ ] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) ~~[S]~~  0782. Jewels and Stones
-- [ ] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) ~~[S]~~  0783. Search in a Binary Search Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ~~[S]~~  0784. Insert into a Binary Search Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iii/) ~~[S]~~  0785. Basic Calculator III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~  0786. Search in a Sorted Array of Unknown Size
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-puzzle/) ~~[S]~~  0787. Sliding Puzzle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) ~~[S]~~  0788. Minimize Max Distance to Gas Station
-- [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~  0789. Kth Largest Element in a Stream
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/global-and-local-inversions/) ~~[S]~~  0790. Global and Local Inversions
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-bst/) ~~[S]~~  0791. Split BST
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~  0792. Binary Search
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-adjacent-in-lr-string/) ~~[S]~~  0793. Swap Adjacent in LR String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/swim-in-rising-water/) ~~[S]~~  0794. Swim in Rising Water
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-th-symbol-in-grammar/) ~~[S]~~  0795. K-th Symbol in Grammar
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reaching-points/) ~~[S]~~  0796. Reaching Points
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rabbits-in-forest/) ~~[S]~~  0797. Rabbits in Forest
-- [ ] 😫 [[Q]](https://leetcode.com/problems/transform-to-chessboard/) ~~[S]~~  0798. Transform to Chessboard
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) ~~[S]~~  0799. Minimum Distance Between BST Nodes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) ~~[S]~~  0800. Letter Case Permutation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) ~~[S]~~  0801. Is Graph Bipartite?
-- [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-prime-fraction/) ~~[S]~~  0802. K-th Smallest Prime Fraction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) ~~[S]~~  0803. Cheapest Flights Within K Stops
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rotated-digits/) ~~[S]~~  0804. Rotated Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/escape-the-ghosts/) ~~[S]~~  0805. Escape The Ghosts
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/domino-and-tromino-tiling/) ~~[S]~~  0806. Domino and Tromino Tiling
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/custom-sort-string/) ~~[S]~~  0807. Custom Sort String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-matching-subsequences/) ~~[S]~~  0808. Number of Matching Subsequences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) ~~[S]~~  0809. Preimage Size of Factorial Zeroes Function
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-tic-tac-toe-state/) ~~[S]~~  0810. Valid Tic-Tac-Toe State
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) ~~[S]~~  0811. Number of Subarrays with Bounded Maximum
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-string/) ~~[S]~~  0812. Rotate String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) ~~[S]~~  0813. All Paths From Source to Target
-- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rotation-with-highest-score/) ~~[S]~~  0814. Smallest Rotation with Highest Score
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) ~~[S]~~  0815. Champagne Tower
-- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) ~~[S]~~  0816. Design HashSet
-- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashmap/) ~~[S]~~  0817. Design HashMap
-- [ ] 😊 [[Q]](https://leetcode.com/problems/similar-rgb-color/) ~~[S]~~  0818. Similar RGB Color
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) ~~[S]~~  0819. Minimum Swaps To Make Sequences Increasing
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-eventual-safe-states/) ~~[S]~~  0820. Find Eventual Safe States
-- [ ] 😫 [[Q]](https://leetcode.com/problems/bricks-falling-when-hit/) ~~[S]~~  0821. Bricks Falling When Hit
-- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-morse-code-words/) ~~[S]~~  0822. Unique Morse Code Words
-- [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-with-same-average/) ~~[S]~~  0823. Split Array With Same Average
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-lines-to-write-string/) ~~[S]~~  0824. Number of Lines To Write String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) ~~[S]~~  0825. Max Increase to Keep City Skyline
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/soup-servings/) ~~[S]~~  0826. Soup Servings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/expressive-words/) ~~[S]~~  0827. Expressive Words
-- [ ] 😫 [[Q]](https://leetcode.com/problems/chalkboard-xor-game/) ~~[S]~~  0828. Chalkboard XOR Game
-- [ ] 😊 [[Q]](https://leetcode.com/problems/subdomain-visit-count/) ~~[S]~~  0829. Subdomain Visit Count
-- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-triangle-area/) ~~[S]~~  0830. Largest Triangle Area
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-sum-of-averages/) ~~[S]~~  0831. Largest Sum of Averages
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-pruning/) ~~[S]~~  0832. Binary Tree Pruning
-- [ ] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) ~~[S]~~  0833. Bus Routes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ambiguous-coordinates/) ~~[S]~~  0834. Ambiguous Coordinates
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-components/) ~~[S]~~  0835. Linked List Components
-- [ ] 😫 [[Q]](https://leetcode.com/problems/race-car/) ~~[S]~~  0836. Race Car
-- [ ] 😊 [[Q]](https://leetcode.com/problems/most-common-word/) ~~[S]~~  0837. Most Common Word
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~  0838. Design Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/short-encoding-of-words/) ~~[S]~~  0839. Short Encoding of Words
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) ~~[S]~~  0841. Shortest Distance to a Character
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/card-flipping-game/) ~~[S]~~  0842. Card Flipping Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-trees-with-factors/) ~~[S]~~  0843. Binary Trees With Factors
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~  0850. Insert into a Sorted Circular Linked List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) ~~[S]~~  0851. Goat Latin
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/friends-of-appropriate-ages/) ~~[S]~~  0852. Friends Of Appropriate Ages
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-profit-assigning-work/) ~~[S]~~  0853. Most Profit Assigning Work
-- [ ] 😫 [[Q]](https://leetcode.com/problems/making-a-large-island/) ~~[S]~~  0854. Making A Large Island
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) ~~[S]~~  0855. Count Unique Characters of All Substrings of a Given String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/consecutive-numbers-sum/) ~~[S]~~  0856. Consecutive Numbers Sum
-- [ ] 😊 [[Q]](https://leetcode.com/problems/positions-of-large-groups/) ~~[S]~~  0857. Positions of Large Groups
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/masking-personal-information/) ~~[S]~~  0858. Masking Personal Information
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-deque/) ~~[S]~~  0859. Design Circular Deque
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-queue/) ~~[S]~~  0860. Design Circular Queue
-- [ ] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) ~~[S]~~  0861. Flipping an Image
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-in-string/) ~~[S]~~  0862. Find And Replace in String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-distances-in-tree/) ~~[S]~~  0863. Sum of Distances in Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) ~~[S]~~  0864. Image Overlap
-- [ ] 😫 [[Q]](https://leetcode.com/problems/robot-room-cleaner/) ~~[S]~~  0865. Robot Room Cleaner
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rectangle-overlap/) ~~[S]~~  0866. Rectangle Overlap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/new-21-game/) ~~[S]~~  0867. New 21 Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/push-dominoes/) ~~[S]~~  0868. Push Dominoes
-- [ ] 😫 [[Q]](https://leetcode.com/problems/similar-string-groups/) ~~[S]~~  0869. Similar String Groups
-- [ ] 😊 [[Q]](https://leetcode.com/problems/magic-squares-in-grid/) ~~[S]~~  0870. Magic Squares In Grid
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) ~~[S]~~  0871. Keys and Rooms
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) ~~[S]~~  0872. Split Array into Fibonacci Sequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/guess-the-word/) ~~[S]~~  0873. Guess the Word
-- [ ] 😊 [[Q]](https://leetcode.com/problems/backspace-string-compare/) ~~[S]~~  0874. Backspace String Compare
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-mountain-in-array/) ~~[S]~~  0875. Longest Mountain in Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/hand-of-straights/) ~~[S]~~  0876. Hand of Straights
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~  0877. Shortest Path Visiting All Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) ~~[S]~~  0878. Shifting Letters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~  0879. Maximize Distance to Closest Person
-- [ ] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) ~~[S]~~  0880. Rectangle Area II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~  0881. Loud and Rich
-- [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~  0882. Peak Index in a Mountain Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/car-fleet/) ~~[S]~~  0883. Car Fleet
-- [ ] 😫 [[Q]](https://leetcode.com/problems/k-similar-strings/) ~~[S]~~  0884. K-Similar Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/exam-room/) ~~[S]~~  0885. Exam Room
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/score-of-parentheses/) ~~[S]~~  0886. Score of Parentheses
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) ~~[S]~~  0887. Minimum Cost to Hire K Workers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/mirror-reflection/) ~~[S]~~  0888. Mirror Reflection
-- [ ] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) ~~[S]~~  0889. Buddy Strings
-- [ ] 😊 [[Q]](https://leetcode.com/problems/lemonade-change/) ~~[S]~~  0890. Lemonade Change
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/score-after-flipping-matrix/) ~~[S]~~  0891. Score After Flipping Matrix
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) ~~[S]~~  0892. Shortest Subarray with Sum at Least K
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) ~~[S]~~  0893. All Nodes Distance K in Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) ~~[S]~~  0894. Random Pick with Blacklist
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-to-get-all-keys/) ~~[S]~~  0895. Shortest Path to Get All Keys
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) ~~[S]~~  0896. Smallest Subtree with all the Deepest Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/prime-palindrome/) ~~[S]~~  0897. Prime Palindrome
-- [ ] 😊 [[Q]](https://leetcode.com/problems/transpose-matrix/) ~~[S]~~  0898. Transpose Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-gap/) ~~[S]~~  0899. Binary Gap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reordered-power-of-2/) ~~[S]~~  0900. Reordered Power of 2
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/advantage-shuffle/) ~~[S]~~  0901. Advantage Shuffle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-refueling-stops/) ~~[S]~~  0902. Minimum Number of Refueling Stops
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) ~~[S]~~  0903. Implement Rand10() Using Rand7()
-- [ ] 😊 [[Q]](https://leetcode.com/problems/leaf-similar-trees/) ~~[S]~~  0904. Leaf-Similar Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) ~~[S]~~  0905. Length of Longest Fibonacci Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/walking-robot-simulation/) ~~[S]~~  0906. Walking Robot Simulation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/koko-eating-bananas/) ~~[S]~~  0907. Koko Eating Bananas
-- [ ] 😊 [[Q]](https://leetcode.com/problems/middle-of-the-linked-list/) ~~[S]~~  0908. Middle of the Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/stone-game/) ~~[S]~~  0909. Stone Game
-- [ ] 😫 [[Q]](https://leetcode.com/problems/nth-magical-number/) ~~[S]~~  0910. Nth Magical Number
-- [ ] 😫 [[Q]](https://leetcode.com/problems/profitable-schemes/) ~~[S]~~  0911. Profitable Schemes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) ~~[S]~~  0912. Random Pick with Weight
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-flip-matrix/) ~~[S]~~  0913. Random Flip Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) ~~[S]~~  0914. Random Point in Non-overlapping Rectangles
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~  0915. Generate Random Point in a Circle
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/decoded-string-at-index/) ~~[S]~~  0916. Decoded String at Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) ~~[S]~~  0917. Boats to Save People
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) ~~[S]~~  0918. Reachable Nodes In Subdivided Graph
-- [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~  0919. Projection Area of 3D Shapes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~  0920. Uncommon Words from Two Sentences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~  0921. Spiral Matrix III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) ~~[S]~~  0922. Possible Bipartition
-- [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~  0923. Super Egg Drop
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~  0924. Fair Candy Swap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~  0925. Construct Binary Tree from Preorder and Postorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-pattern/) ~~[S]~~  0926. Find and Replace Pattern
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-subsequence-widths/) ~~[S]~~  0927. Sum of Subsequence Widths
-- [ ] 😊 [[Q]](https://leetcode.com/problems/surface-area-of-3d-shapes/) ~~[S]~~  0928. Surface Area of 3D Shapes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ~~[S]~~  0929. Groups of Special-Equivalent Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-possible-full-binary-trees/) ~~[S]~~  0930. All Possible Full Binary Trees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-frequency-stack/) ~~[S]~~  0931. Maximum Frequency Stack
-- [ ] 😊 [[Q]](https://leetcode.com/problems/monotonic-array/) ~~[S]~~  0932. Monotonic Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-order-search-tree/) ~~[S]~~  0933. Increasing Order Search Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-ors-of-subarrays/) ~~[S]~~  0934. Bitwise ORs of Subarrays
-- [ ] 😫 [[Q]](https://leetcode.com/problems/orderly-queue/) ~~[S]~~  0935. Orderly Queue
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rle-iterator/) ~~[S]~~  0936. RLE Iterator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) ~~[S]~~  0937. Online Stock Span
-- [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) ~~[S]~~  0938. Numbers At Most N Given Digit Set
-- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-permutations-for-di-sequence/) ~~[S]~~  0939. Valid Permutations for DI Sequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/fruit-into-baskets/) ~~[S]~~  0940. Fruit Into Baskets
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) ~~[S]~~  0941. Sort Array By Parity
-- [ ] 😫 [[Q]](https://leetcode.com/problems/super-palindromes/) ~~[S]~~  0942. Super Palindromes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-subarray-minimums/) ~~[S]~~  0943. Sum of Subarray Minimums
-- [ ] 😊 [[Q]](https://leetcode.com/problems/smallest-range-i/) ~~[S]~~  0944. Smallest Range I
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/snakes-and-ladders/) ~~[S]~~  0945. Snakes and Ladders
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-range-ii/) ~~[S]~~  0946. Smallest Range II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-election/) ~~[S]~~  0947. Online Election
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) ~~[S]~~  0948. Sort an Array
-- [ ] 😫 [[Q]](https://leetcode.com/problems/cat-and-mouse/) ~~[S]~~  0949. Cat and Mouse
-- [ ] 😊 [[Q]](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) ~~[S]~~  0950. X of a Kind in a Deck of Cards
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~  0951. Partition Array into Disjoint Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~  0952. Word Subsets
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) ~~[S]~~  0953. Reverse Only Letters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) ~~[S]~~  0954. Maximum Sum Circular Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~  0955. Complete Binary Tree Inserter
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) ~~[S]~~  0956. Number of Music Playlists
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) ~~[S]~~  0957. Minimum Add to Make Parentheses Valid
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) ~~[S]~~  0958. Sort Array By Parity II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-with-multiplicity/) ~~[S]~~  0959. 3Sum With Multiplicity
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-malware-spread/) ~~[S]~~  0960. Minimize Malware Spread
-- [ ] 😊 [[Q]](https://leetcode.com/problems/long-pressed-name/) ~~[S]~~  0961. Long Pressed Name
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ~~[S]~~  0962. Flip String to Monotone Increasing
-- [ ] 😫 [[Q]](https://leetcode.com/problems/three-equal-parts/) ~~[S]~~  0963. Three Equal Parts
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-malware-spread-ii/) ~~[S]~~  0964. Minimize Malware Spread II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-email-addresses/) ~~[S]~~  0965. Unique Email Addresses
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-subarrays-with-sum/) ~~[S]~~  0966. Binary Subarrays With Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) ~~[S]~~  0967. Minimum Falling Path Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-array/) ~~[S]~~  0968. Beautiful Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) ~~[S]~~  0969. Number of Recent Calls
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-bridge/) ~~[S]~~  0971. Shortest Bridge
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-dialer/) ~~[S]~~  0972. Knight Dialer
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) ~~[S]~~  0973. Stamping The Sequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reorder-data-in-log-files/) ~~[S]~~  0974. Reorder Data in Log Files
-- [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-of-bst/) ~~[S]~~  0975. Range Sum of BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle/) ~~[S]~~  0976. Minimum Area Rectangle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences-ii/) ~~[S]~~  0977. Distinct Subsequences II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-mountain-array/) ~~[S]~~  0978. Valid Mountain Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/di-string-match/) ~~[S]~~  0979. DI String Match
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-shortest-superstring/) ~~[S]~~  0980. Find the Shortest Superstring
-- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted/) ~~[S]~~  0981. Delete Columns to Make Sorted
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) ~~[S]~~  0982. Minimum Increment to Make Array Unique
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) ~~[S]~~  0983. Validate Stack Sequences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ~~[S]~~  0984. Most Stones Removed with Same Row or Column
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) ~~[S]~~  0985. Bag of Tokens
-- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) ~~[S]~~  0986. Largest Time for Given Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reveal-cards-in-increasing-order/) ~~[S]~~  0987. Reveal Cards In Increasing Order
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-equivalent-binary-trees/) ~~[S]~~  0988. Flip Equivalent Binary Trees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) ~~[S]~~  0989. Largest Component Size by Common Factor
-- [ ] 😊 [[Q]](https://leetcode.com/problems/verifying-an-alien-dictionary/) ~~[S]~~  0990. Verifying an Alien Dictionary
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/array-of-doubled-pairs/) ~~[S]~~  0991. Array of Doubled Pairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) ~~[S]~~  0992. Delete Columns to Make Sorted II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/tallest-billboard/) ~~[S]~~  0993. Tallest Billboard
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) ~~[S]~~  0994. Prison Cells After N Days
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) ~~[S]~~  0998. Check Completeness of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) ~~[S]~~  0999. Regions Cut By Slashes
-- [ ] 😫 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) ~~[S]~~  1000. Delete Columns to Make Sorted III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) ~~[S]~~  1001. N-Repeated Element in Size 2N Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) ~~[S]~~  1002. Maximum Width Ramp
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle-ii/) ~~[S]~~  1003. Minimum Area Rectangle II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/least-operators-to-express-number/) ~~[S]~~  1004. Least Operators to Express Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~  1005. Univalued Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~  1006. Vowel Spellchecker
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) ~~[S]~~  1007. Numbers With Same Consecutive Differences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~  1008. Binary Tree Cameras
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) ~~[S]~~  1009. Pancake Sorting
-- [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~  1010. Powerful Integers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~  1011. Flip Binary Tree To Match Preorder Traversal
-- [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~  1012. Equal Rational Numbers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fibonacci-number/) ~~[S]~~  1013. Fibonacci Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) ~~[S]~~  1014. K Closest Points to Origin
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) ~~[S]~~  1016. Subarray Sums Divisible by K
-- [ ] 😫 [[Q]](https://leetcode.com/problems/odd-even-jump/) ~~[S]~~  1017. Odd Even Jump
-- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-perimeter-triangle/) ~~[S]~~  1018. Largest Perimeter Triangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/squares-of-a-sorted-array/) ~~[S]~~  1019. Squares of a Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) ~~[S]~~  1020. Longest Turbulent Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/distribute-coins-in-binary-tree/) ~~[S]~~  1021. Distribute Coins in Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) ~~[S]~~  1022. Unique Paths III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/time-based-key-value-store/) ~~[S]~~  1023. Time Based Key-Value Store
-- [ ] 😫 [[Q]](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) ~~[S]~~  1024. Triples with Bitwise AND Equal To Zero
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) ~~[S]~~  1025. Minimum Cost For Tickets
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) ~~[S]~~  1026. String Without AAA or BBB
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~  1027. Sum of Even Numbers After Queries
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) ~~[S]~~  1028. Interval List Intersections
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) ~~[S]~~  1029. Vertical Order Traversal of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-starting-from-leaf/) ~~[S]~~  1030. Smallest String Starting From Leaf
-- [ ] 😊 [[Q]](https://leetcode.com/problems/add-to-array-form-of-integer/) ~~[S]~~  1031. Add to Array-Form of Integer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) ~~[S]~~  1032. Satisfiability of Equality Equations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) ~~[S]~~  1033. Broken Calculator
-- [ ] 😫 [[Q]](https://leetcode.com/problems/subarrays-with-k-different-integers/) ~~[S]~~  1034. Subarrays with K Different Integers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) ~~[S]~~  1035. Cousins in Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) ~~[S]~~  1036. Rotting Oranges
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) ~~[S]~~  1037. Minimum Number of K Consecutive Bit Flips
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-squareful-arrays/) ~~[S]~~  1038. Number of Squareful Arrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) ~~[S]~~  1039. Find the Town Judge
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-binary-tree-ii/) ~~[S]~~  1040. Maximum Binary Tree II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/available-captures-for-rook/) ~~[S]~~  1041. Available Captures for Rook
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-merge-stones/) ~~[S]~~  1042. Minimum Cost to Merge Stones
-- [ ] 😫 [[Q]](https://leetcode.com/problems/grid-illumination/) ~~[S]~~  1043. Grid Illumination
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-common-characters/) ~~[S]~~  1044. Find Common Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) ~~[S]~~  1045. Check If Word Is Valid After Substitutions
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-consecutive-ones-iii/) ~~[S]~~  1046. Max Consecutive Ones III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) ~~[S]~~  1047. Maximize Sum Of Array After K Negations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/clumsy-factorial/) ~~[S]~~  1048. Clumsy Factorial
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) ~~[S]~~  1049. Minimum Domino Rotations For Equal Row
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) ~~[S]~~  1050. Construct Binary Search Tree from Preorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-way-to-form-string/) ~~[S]~~  1051. Shortest Way to Form String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/campus-bikes/) ~~[S]~~  1052. Campus Bikes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/) ~~[S]~~  1053. Minimize Rounding Error to Meet Target
-- [ ] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) ~~[S]~~  1054. Complement of Base 10 Integer
-- [ ] 😊 [[Q]](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) ~~[S]~~  1055. Pairs of Songs With Total Durations Divisible by 60
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) ~~[S]~~  1056. Capacity To Ship Packages Within D Days
-- [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-with-repeated-digits/) ~~[S]~~  1057. Numbers With Repeated Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) ~~[S]~~  1058. Lexicographically Smallest Equivalent String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-element-in-sorted-array/) ~~[S]~~  1059. Missing Element in Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-repeating-substring/) ~~[S]~~  1060. Longest Repeating Substring
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-valid-subarrays/) ~~[S]~~  1061. Number of Valid Subarrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) ~~[S]~~  1062. Partition Array Into Three Parts With Equal Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-sightseeing-pair/) ~~[S]~~  1063. Best Sightseeing Pair
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) ~~[S]~~  1064. Smallest Integer Divisible by K
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) ~~[S]~~  1065. Binary String With Substrings Representing 1 To N
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fixed-point/) ~~[S]~~  1066. Fixed Point
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/campus-bikes-ii/) ~~[S]~~  1067. Campus Bikes II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/digit-count-in-range/) ~~[S]~~  1068. Digit Count in Range
-- [ ] 😊 [[Q]](https://leetcode.com/problems/confusing-number/) ~~[S]~~  1069. Confusing Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-to-base-2/) ~~[S]~~  1070. Convert to Base -2
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-prefix-divisible-by-5/) ~~[S]~~  1071. Binary Prefix Divisible By 5
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-node-in-linked-list/) ~~[S]~~  1072. Next Greater Node In Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-enclaves/) ~~[S]~~  1073. Number of Enclaves
-- [ ] 😊 [[Q]](https://leetcode.com/problems/high-five/) ~~[S]~~  1074. High Five
-- [ ] 😊 [[Q]](https://leetcode.com/problems/index-pairs-of-a-string/) ~~[S]~~  1075. Index Pairs of a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/brace-expansion/) ~~[S]~~  1076. Brace Expansion
-- [ ] 😫 [[Q]](https://leetcode.com/problems/confusing-number-ii/) ~~[S]~~  1077. Confusing Number II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) ~~[S]~~  1078. Remove Outermost Parentheses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) ~~[S]~~  1079. Sum of Root To Leaf Binary Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~  1080. Camelcase Matching
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~  1081. Video Stitching
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) ~~[S]~~  1082. Sum of Digits in the Minimum Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-less-than-k/) ~~[S]~~  1083. Two Sum Less Than K
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) ~~[S]~~  1084. Find K-Length Substrings With No Repeated Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) ~~[S]~~  1085. The Earliest Moment When Everyone Become Friends
-- [ ] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) ~~[S]~~  1086. Divisor Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~  1087. Longest Arithmetic Sequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-days-in-a-month/) ~~[S]~~  1088. Number of Days in a Month
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-vowels-from-a-string/) ~~[S]~~  1089. Remove Vowels from a String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/armstrong-number/) ~~[S]~~  1090. Armstrong Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-average-subtree/) ~~[S]~~  1091. Maximum Average Subtree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~  1092. Maximum Difference Between Node and Ancestor
-- [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~  1093. Recover a Tree From Preorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/matrix-cells-in-distance-order/) ~~[S]~~  1094. Matrix Cells in Distance Order
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) ~~[S]~~  1095. Two City Scheduling
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) ~~[S]~~  1096. Maximum Sum of Two Non-Overlapping Subarrays
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~  1097. Stream of Characters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-unique-number/) ~~[S]~~  1098. Largest Unique Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-minimum-value/) ~~[S]~~  1099. Path With Maximum Minimum Value
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) ~~[S]~~  1100. Connecting Cities With Minimum Cost
-- [ ] 😫 [[Q]](https://leetcode.com/problems/parallel-courses/) ~~[S]~~  1101. Parallel Courses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) ~~[S]~~  1102. Check If a Number Is Majority Element in a Sorted Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive/) ~~[S]~~  1103. Moving Stones Until Consecutive
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/coloring-a-border/) ~~[S]~~  1104. Coloring A Border
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) ~~[S]~~  1105. Uncrossed Lines
-- [ ] 😫 [[Q]](https://leetcode.com/problems/escape-a-large-maze/) ~~[S]~~  1106. Escape a Large Maze
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) ~~[S]~~  1107. Minimum Swaps to Group All 1's Together
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/analyze-user-website-visit-pattern/) ~~[S]~~  1108. Analyze User Website Visit Pattern
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) ~~[S]~~  1111. Minimum Score Triangulation of Polygon
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) ~~[S]~~  1112. Find Words That Can Be Formed by Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) ~~[S]~~  1113. Moving Stones Until Consecutive II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) ~~[S]~~  1114. Binary Search Tree to Greater Sum Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-boomerang/) ~~[S]~~  1115. Valid Boomerang
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) ~~[S]~~  1116. Maximum Level Sum of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/as-far-from-land-as-possible/) ~~[S]~~  1117. As Far from Land as Possible
-- [ ] 😫 [[Q]](https://leetcode.com/problems/divide-array-into-increasing-sequences/) ~~[S]~~  1118. Divide Array Into Increasing Sequences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) ~~[S]~~  1119. Robot Bounded In Circle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/flower-planting-with-no-adjacent/) ~~[S]~~  1120. Flower Planting With No Adjacent
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) ~~[S]~~  1121. Partition Array for Maximum Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) ~~[S]~~  1122. Longest Duplicate Substring
-- [ ] 😊 [[Q]](https://leetcode.com/problems/single-row-keyboard/) ~~[S]~~  1123. Single-Row Keyboard
-- [ ] 😫 [[Q]](https://leetcode.com/problems/string-transforms-into-another-string/) ~~[S]~~  1124. String Transforms Into Another String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-file-system/) ~~[S]~~  1125. Design File System
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) ~~[S]~~  1126. Minimum Cost to Connect Sticks
-- [ ] 😊 [[Q]](https://leetcode.com/problems/last-stone-weight/) ~~[S]~~  1127. Last Stone Weight
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) ~~[S]~~  1128. Remove All Adjacent Duplicates In String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-string-chain/) ~~[S]~~  1129. Longest String Chain
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/last-stone-weight-ii/) ~~[S]~~  1130. Last Stone Weight II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) ~~[S]~~  1131. Count Substrings with Only One Distinct Letter
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/before-and-after-puzzle/) ~~[S]~~  1132. Before and After Puzzle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/last-substring-in-lexicographical-order/) ~~[S]~~  1133. Last Substring in Lexicographical Order
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-distance-to-target-color/) ~~[S]~~  1134. Shortest Distance to Target Color
-- [ ] 😊 [[Q]](https://leetcode.com/problems/height-checker/) ~~[S]~~  1137. Height Checker
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/grumpy-bookstore-owner/) ~~[S]~~  1138. Grumpy Bookstore Owner
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/previous-permutation-with-one-swap/) ~~[S]~~  1139. Previous Permutation With One Swap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/distant-barcodes/) ~~[S]~~  1140. Distant Barcodes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) ~~[S]~~  1141. How Many Apples Can You Put into the Basket
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-knight-moves/) ~~[S]~~  1142. Minimum Knight Moves
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) ~~[S]~~  1143. Find Smallest Common Element in All Rows
-- [ ] 😫 [[Q]](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) ~~[S]~~  1144. Optimize Water Distribution in a Village
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) ~~[S]~~  1145. Number of Submatrices That Sum to Target
-- [ ] 😊 [[Q]](https://leetcode.com/problems/greatest-common-divisor-of-strings/) ~~[S]~~  1146. Greatest Common Divisor of Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) ~~[S]~~  1147. Flip Columns For Maximum Number of Equal Rows
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/adding-two-negabinary-numbers/) ~~[S]~~  1148. Adding Two Negabinary Numbers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) ~~[S]~~  1149. Intersection of Three Sorted Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/two-sum-bsts/) ~~[S]~~  1150. Two Sum BSTs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/stepping-numbers/) ~~[S]~~  1151. Stepping Numbers
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-ones/) ~~[S]~~  1152. Maximum Number of Ones
-- [ ] 😊 [[Q]](https://leetcode.com/problems/occurrences-after-bigram/) ~~[S]~~  1156. Occurrences After Bigram
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) ~~[S]~~  1157. Insufficient Nodes in Root to Leaf Paths
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) ~~[S]~~  1159. Smallest Subsequence of Distinct Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-tile-possibilities/) ~~[S]~~  1160. Letter Tile Possibilities
-- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) ~~[S]~~  1164. Missing Number In Arithmetic Progression
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-scheduler/) ~~[S]~~  1165. Meeting Scheduler
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/toss-strange-coins/) ~~[S]~~  1166. Toss Strange Coins
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-time-to-build-blocks/) ~~[S]~~  1167. Minimum Time to Build Blocks
-- [ ] 😊 [[Q]](https://leetcode.com/problems/duplicate-zeros/) ~~[S]~~  1168. Duplicate Zeros
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) ~~[S]~~  1169. Largest Values From Labels
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-common-supersequence/) ~~[S]~~  1170. Shortest Common Supersequence 
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-path-in-binary-matrix/) ~~[S]~~  1171. Shortest Path in Binary Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/array-transformation/) ~~[S]~~  1175. Array Transformation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-a-leaderboard/) ~~[S]~~  1176. Design A Leaderboard
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/tree-diameter/) ~~[S]~~  1177. Tree Diameter
-- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-palindrome-iii/) ~~[S]~~  1178. Valid Palindrome III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/statistics-from-a-large-sample/) ~~[S]~~  1183. Statistics from a Large Sample
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) ~~[S]~~  1184. Car Pooling
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-in-mountain-array/) ~~[S]~~  1185. Find in Mountain Array
-- [ ] 😫 [[Q]](https://leetcode.com/problems/brace-expansion-ii/) ~~[S]~~  1188. Brace Expansion II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-number/) ~~[S]~~  1189. Encode Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-common-region/) ~~[S]~~  1190. Smallest Common Region
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/synonymous-sentences/) ~~[S]~~  1191. Synonymous Sentences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/divide-chocolate/) ~~[S]~~  1192. Divide Chocolate
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) ~~[S]~~  1194. Path In Zigzag Labelled Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) ~~[S]~~  1195. Distribute Candies to People
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/filling-bookcase-shelves/) ~~[S]~~  1196. Filling Bookcase Shelves
-- [ ] 😫 [[Q]](https://leetcode.com/problems/parsing-a-boolean-expression/) ~~[S]~~  1197. Parsing A Boolean Expression
-- [ ] 😊 [[Q]](https://leetcode.com/problems/hexspeak/) ~~[S]~~  1199. Hexspeak
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-interval/) ~~[S]~~  1200. Remove Interval
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-tree-nodes/) ~~[S]~~  1201. Delete Tree Nodes
-- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-removal/) ~~[S]~~  1202. Palindrome Removal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) ~~[S]~~  1205. Defanging an IP Address
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/corporate-flight-bookings/) ~~[S]~~  1206. Corporate Flight Bookings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-nodes-and-return-forest/) ~~[S]~~  1207. Delete Nodes And Return Forest
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) ~~[S]~~  1208. Maximum Nesting Depth of Two Valid Parentheses Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) ~~[S]~~  1211. Iterator for Combination
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~  1212. Sequential Digits
-- [ ] 😫 [[Q]](https://leetcode.com/problems/handshakes-that-dont-cross/) ~~[S]~~  1213. Handshakes That Don't Cross
-- [ ] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) ~~[S]~~  1217. Relative Sort Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) ~~[S]~~  1218. Lowest Common Ancestor of Deepest Leaves
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-well-performing-interval/) ~~[S]~~  1219. Longest Well-Performing Interval
-- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-sufficient-team/) ~~[S]~~  1220. Smallest Sufficient Team
-- [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~  1221. Element Appearing More Than 25% In Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~  1222. Remove Covered Intervals
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) ~~[S]~~  1224. Minimum Falling Path Sum II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) ~~[S]~~  1227. Number of Equivalent Domino Pairs
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) ~~[S]~~  1228. Minimum Cost Tree From Leaf Values
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-path-with-alternating-colors/) ~~[S]~~  1229. Shortest Path with Alternating Colors
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-of-absolute-value-expression/) ~~[S]~~  1230. Maximum of Absolute Value Expression
-- [ ] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) ~~[S]~~  1231. Replace Elements with Greatest Element on Right Side
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) ~~[S]~~  1232. Sum of Mutated Array Closest to Target
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) ~~[S]~~  1233. Number of Ships in a Rectangle
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-paths-with-max-score/) ~~[S]~~  1234. Number of Paths with Max Score
-- [ ] 😊 [[Q]](https://leetcode.com/problems/n-th-tribonacci-number/) ~~[S]~~  1236. N-th Tribonacci Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/alphabet-board-path/) ~~[S]~~  1238. Alphabet Board Path
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-1-bordered-square/) ~~[S]~~  1239. Largest 1-Bordered Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/stone-game-ii/) ~~[S]~~  1240. Stone Game II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) ~~[S]~~  1241. Decompress Run-Length Encoded List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/matrix-block-sum/) ~~[S]~~  1242. Matrix Block Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ~~[S]~~  1243. Sum of Nodes with Even-Valued Grandparent
-- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-echo-substrings/) ~~[S]~~  1244. Distinct Echo Substrings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) ~~[S]~~  1247. Decrease Elements To Make Array Zigzag
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-coloring-game/) ~~[S]~~  1248. Binary Tree Coloring Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/snapshot-array/) ~~[S]~~  1249. Snapshot Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-common-subsequence/) ~~[S]~~  1250. Longest Common Subsequence
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) ~~[S]~~  1251. Longest Chunked Palindrome Decomposition
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/break-a-palindrome/) ~~[S]~~  1252. Break a Palindrome
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-the-matrix-diagonally/) ~~[S]~~  1253. Sort the Matrix Diagonally
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/deepest-leaves-sum/) ~~[S]~~  1254. Deepest Leaves Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) ~~[S]~~  1255. Reverse Subarray To Maximize Array Value
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rank-transform-of-an-array/) ~~[S]~~  1256. Rank Transform of an Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/day-of-the-year/) ~~[S]~~  1260. Day of the Year
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) ~~[S]~~  1261. Swap For Longest Repeated Character Substring
-- [ ] 😫 [[Q]](https://leetcode.com/problems/online-majority-element-in-subarray/) ~~[S]~~  1262. Online Majority Element In Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ~~[S]~~  1263. Number of Dice Rolls With Target Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) ~~[S]~~  1267. Remove Zero Sum Consecutive Nodes from Linked List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/dinner-plate-stacks/) ~~[S]~~  1270. Dinner Plate Stacks
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/web-crawler/) ~~[S]~~  1271. Web Crawler
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/invalid-transactions/) ~~[S]~~  1272. Invalid Transactions
-- [ ] 😊 [[Q]](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) ~~[S]~~  1273. Compare Strings by Frequency of the Smallest Character
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-days-between-two-dates/) ~~[S]~~  1274. Number of Days Between Two Dates
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-tree-nodes/) ~~[S]~~  1275. Validate Binary Tree Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-divisors/) ~~[S]~~  1276. Closest Divisors
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) ~~[S]~~  1277. Largest Multiple of Three
-- [ ] 😊 [[Q]](https://leetcode.com/problems/prime-arrangements/) ~~[S]~~  1279. Prime Arrangements
-- [ ] 😊 [[Q]](https://leetcode.com/problems/diet-plan-performance/) ~~[S]~~  1280. Diet Plan Performance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-make-palindrome-from-substring/) ~~[S]~~  1281. Can Make Palindrome from Substring
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) ~~[S]~~  1282. Number of Valid Words for Each Puzzle
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/four-divisors/) ~~[S]~~  1284. Four Divisors
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/balance-a-binary-search-tree/) ~~[S]~~  1285. Balance a Binary Search Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/distance-between-bus-stops/) ~~[S]~~  1287. Distance Between Bus Stops
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) ~~[S]~~  1288. Maximum Subarray Sum with One Deletion
-- [ ] 😊 [[Q]](https://leetcode.com/problems/day-of-the-week/) ~~[S]~~  1289. Day of the Week
-- [ ] 😫 [[Q]](https://leetcode.com/problems/make-array-strictly-increasing/) ~~[S]~~  1290. Make Array Strictly Increasing
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-number-of-balloons/) ~~[S]~~  1297. Maximum Number of Balloons
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) ~~[S]~~  1298. Reverse Substrings Between Each Pair of Parentheses
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-concatenation-maximum-sum/) ~~[S]~~  1299. K-Concatenation Maximum Sum
-- [ ] 😫 [[Q]](https://leetcode.com/problems/critical-connections-in-a-network/) ~~[S]~~  1300. Critical Connections in a Network
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) ~~[S]~~  1304. Longest Happy String
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) ~~[S]~~  1306. Minimum Absolute Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-iii/) ~~[S]~~  1307. Ugly Number III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-with-swaps/) ~~[S]~~  1308. Smallest String With Swaps
-- [ ] 😫 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) ~~[S]~~  1309. Sort Items by Groups Respecting Dependencies
-- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-number-of-occurrences/) ~~[S]~~  1319. Unique Number of Occurrences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) ~~[S]~~  1320. Remove All Adjacent Duplicates in String II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/get-equal-substrings-within-budget/) ~~[S]~~  1321. Get Equal Substrings Within Budget
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) ~~[S]~~  1322. Minimum Moves to Reach Target with Rotations
-- [ ] 😊 [[Q]](https://leetcode.com/problems/play-with-chips/) ~~[S]~~  1329. Play with Chips
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) ~~[S]~~  1330. Longest Arithmetic Subsequence of Given Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-gold/) ~~[S]~~  1331. Path with Maximum Gold
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-vowels-permutation/) ~~[S]~~  1332. Count Vowels Permutation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/design-skiplist/) ~~[S]~~  1337. Design Skiplist
-- [ ] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) ~~[S]~~  1341. Split a String in Balanced Strings
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/queens-that-can-attack-the-king/) ~~[S]~~  1342. Queens That Can Attack the King
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/dice-roll-simulation/) ~~[S]~~  1343. Dice Roll Simulation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-equal-frequency/) ~~[S]~~  1344. Maximum Equal Frequency
-- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) ~~[S]~~  1349. Check If It Is a Straight Line
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) ~~[S]~~  1350. Remove Sub-Folders from the Filesystem
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) ~~[S]~~  1351. Replace the Substring for Balanced String
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) ~~[S]~~  1352. Maximum Profit in Job Scheduling
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) ~~[S]~~  1358. Find Positive Integer Solution for a Given Equation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-permutation-in-binary-representation/) ~~[S]~~  1359. Circular Permutation in Binary Representation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) ~~[S]~~  1360. Maximum Length of a Concatenated String with Unique Characters
-- [ ] 😫 [[Q]](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) ~~[S]~~  1361. Tiling a Rectangle with the Fewest Squares
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/airplane-seat-assignment-probability/) ~~[S]~~  1362. Airplane Seat Assignment Probability
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) ~~[S]~~  1369. Minimum Swaps to Make Strings Equal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-nice-subarrays/) ~~[S]~~  1370. Count Number of Nice Subarrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) ~~[S]~~  1371. Minimum Remove to Make Valid Parentheses
-- [ ] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) ~~[S]~~  1372. Check If It Is a Good Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) ~~[S]~~  1378. Cells with Odd Values in a Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) ~~[S]~~  1379. Reconstruct a 2-Row Binary Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-closed-islands/) ~~[S]~~  1380. Number of Closed Islands
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) ~~[S]~~  1381. Maximum Score Words Formed by Letters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shift-2d-grid/) ~~[S]~~  1386. Shift 2D Grid
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) ~~[S]~~  1387. Find Elements in a Contaminated Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/greatest-sum-divisible-by-three/) ~~[S]~~  1388. Greatest Sum Divisible by Three
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) ~~[S]~~  1389. Minimum Moves to Move a Box to Their Target Location
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) ~~[S]~~  1395. Minimum Time Visiting All Points
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-servers-that-communicate/) ~~[S]~~  1396. Count Servers that Communicate
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-suggestions-system/) ~~[S]~~  1397. Search Suggestions System
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) ~~[S]~~  1398. Number of Ways to Stay in the Same Place After Some Steps
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) ~~[S]~~  1400. Find Winner on a Tic Tac Toe Game
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) ~~[S]~~  1401. Number of Burgers with No Waste of Ingredients
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) ~~[S]~~  1402. Count Square Submatrices with All Ones
-- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) ~~[S]~~  1403. Palindrome Partitioning III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) ~~[S]~~  1404. Print Immutable Linked List in Reverse
-- [ ] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) ~~[S]~~  1406. Subtract the Product and Sum of Digits of an Integer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) ~~[S]~~  1407. Group the People Given the Group Size They Belong To
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~  1408. Find the Smallest Divisor Given a Threshold
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~  1409. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) ~~[S]~~  1411. Convert Binary Number in a Linked List to Integer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~  1413. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
-- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~  1414. Shortest Path in a Grid with Obstacles Elimination
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) ~~[S]~~  1421. Find Numbers with Even Number of Digits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) ~~[S]~~  1422. Divide Array in Sets of K Consecutive Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) ~~[S]~~  1423. Maximum Number of Occurrences of a Substring
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) ~~[S]~~  1424. Maximum Candies You Can Get from Boxes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ~~[S]~~  1426. Find N Unique Integers Sum up to Zero
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ~~[S]~~  1427. All Elements in Two Binary Search Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) ~~[S]~~  1428. Jump Game III
-- [ ] 😫 [[Q]](https://leetcode.com/problems/verbal-arithmetic-puzzle/) ~~[S]~~  1429. Verbal Arithmetic Puzzle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) ~~[S]~~  1434. Decrypt String from Alphabet to Integer Mapping
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/xor-queries-of-a-subarray/) ~~[S]~~  1435. XOR Queries of a Subarray
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/get-watched-videos-by-your-friends/) ~~[S]~~  1436. Get Watched Videos by Your Friends
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) ~~[S]~~  1437. Minimum Insertion Steps to Make a String Palindrome
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) ~~[S]~~  1440. Convert Integer to the Sum of Two No-Zero Integers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) ~~[S]~~  1441. Minimum Flips to Make a OR b Equal to c
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) ~~[S]~~  1442. Number of Operations to Make Network Connected
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) ~~[S]~~  1443. Minimum Distance to Type a Word Using Two Fingers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) ~~[S]~~  1444. Number of Steps to Reduce a Number to Zero
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) ~~[S]~~  1445. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) ~~[S]~~  1446. Angle Between Hands of a Clock
-- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) ~~[S]~~  1447. Jump Game IV
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-69-number/) ~~[S]~~  1448. Maximum 69 Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-words-vertically/) ~~[S]~~  1449. Print Words Vertically
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-leaves-with-a-given-value/) ~~[S]~~  1450. Delete Leaves With a Given Value
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) ~~[S]~~  1451. Minimum Number of Taps to Open to Water a Garden
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-palindromic-subsequences/) ~~[S]~~  1454. Remove Palindromic Subsequences
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) ~~[S]~~  1455. Filter Restaurants by Vegan-Friendly, Price and Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) ~~[S]~~  1456. Find the City With the Smallest Number of Neighbors at a Threshold Distance
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) ~~[S]~~  1457. Minimum Difficulty of a Job Schedule
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) ~~[S]~~  1458. Sort Integers by The Number of 1 Bits
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/apply-discount-every-n-orders/) ~~[S]~~  1459. Apply Discount Every n Orders
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) ~~[S]~~  1460. Number of Substrings Containing All Three Characters
-- [ ] 😫 [[Q]](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) ~~[S]~~  1461. Count All Valid Pickup and Delivery Options
-- [ ] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) ~~[S]~~  1463. The K Weakest Rows in a Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reduce-array-size-to-the-half/) ~~[S]~~  1464. Reduce Array Size to The Half
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) ~~[S]~~  1465. Maximum Product of Splitted Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-v/) ~~[S]~~  1466. Jump Game V
-- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-n-and-its-double-exist/) ~~[S]~~  1468. Check If N and Its Double Exist
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) ~~[S]~~  1469. Minimum Number of Steps to Make Two Strings Anagram
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/tweet-counts-per-frequency/) ~~[S]~~  1470. Tweet Counts Per Frequency
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-students-taking-exam/) ~~[S]~~  1471. Maximum Students Taking Exam
-- [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~  1472. Increasing Decreasing String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~  1473. Find the Longest Substring Containing Vowels in Even Counts
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ~~[S]~~  1474. Longest ZigZag Path in a Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) ~~[S]~~  1475. Maximum Sum BST in Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) ~~[S]~~  1476. Count Negative Numbers in a Sorted Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-the-last-k-numbers/) ~~[S]~~  1477. Product of the Last K Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) ~~[S]~~  1478. Maximum Number of Events That Can Be Attended
-- [ ] 😫 [[Q]](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) ~~[S]~~  1479. Construct Target Array With Multiple Sums
-- [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ~~[S]~~  1482. How Many Numbers Are Smaller Than the Current Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~  1483. Rank Teams by Votes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) ~~[S]~~  1484. Linked List in Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) ~~[S]~~  1485. Minimum Cost to Make at Least One Valid Path in a Grid
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) ~~[S]~~  1486. Find the Distance Value Between Two Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) ~~[S]~~  1487. Cinema Seat Allocation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-integers-by-the-power-value/) ~~[S]~~  1488. Sort Integers by The Power Value
-- [ ] 😫 [[Q]](https://leetcode.com/problems/pizza-with-3n-slices/) ~~[S]~~  1489. Pizza With 3n Slices
-- [ ] 😊 [[Q]](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) ~~[S]~~  1490. Generate a String With Characters That Have Odd Counts
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher-iii/) ~~[S]~~  1491. Bulb Switcher III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/time-needed-to-inform-all-employees/) ~~[S]~~  1492. Time Needed to Inform All Employees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/frog-position-after-t-seconds/) ~~[S]~~  1493. Frog Position After T Seconds
-- [ ] 😊 [[Q]](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) ~~[S]~~  1496. Lucky Numbers in a Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-a-stack-with-increment-operation/) ~~[S]~~  1497. Design a Stack With Increment Operation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) ~~[S]~~  1498. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-performance-of-a-team/) ~~[S]~~  1499. Maximum Performance of a Team
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-largest-group/) ~~[S]~~  1500. Count Largest Group
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/circle-and-rectangle-overlapping/) ~~[S]~~  1501. Circle and Rectangle Overlapping
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-k-palindrome-strings/) ~~[S]~~  1502. Construct K Palindrome Strings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reducing-dishes/) ~~[S]~~  1503. Reducing Dishes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/create-target-array-in-the-given-order/) ~~[S]~~  1505. Create Target Array in the Given Order
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) ~~[S]~~  1507. Check if There is a Valid Path in a Grid
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-happy-prefix/) ~~[S]~~  1508. Longest Happy Prefix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ~~[S]~~  1510. Find Lucky Integer in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) ~~[S]~~  1511. Count Number of Teams
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-underground-system/) ~~[S]~~  1512. Design Underground System
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-all-good-strings/) ~~[S]~~  1513. Find All Good Strings
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) ~~[S]~~  1519. Minimum Subsequence in Non-Increasing Order
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) ~~[S]~~  1520. Number of Steps to Reduce a Number in Binary Representation to One
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stone-game-iii/) ~~[S]~~  1522. Stone Game III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/string-matching-in-an-array/) ~~[S]~~  1524. String Matching in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/queries-on-a-permutation-with-key/) ~~[S]~~  1525. Queries on a Permutation With Key
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/html-entity-parser/) ~~[S]~~  1526. HTML Entity Parser
-- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) ~~[S]~~  1527. Number of Ways to Paint N × 3 Grid
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage) 0001. Two Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~ 0002. Add Two Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~ 0003. Longest Substring Without Repeating Characters
+- [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~ 0005. Longest Palindromic Substring
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~ 0007. Reverse Integer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) ~~[S]~~ 0008. String to Integer (atoi)
+- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) ~~[S]~~ 0009. Palindrome Number
+- [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~ 0010. Regular Expression Matching
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) ~~[S]~~ 0011. Container With Most Water
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~ 0012. Integer to Roman
+- [ ] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) ~~[S]~~ 0013. Roman to Integer
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) ~~[S]~~ 0014. Longest Common Prefix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum/) ~~[S]~~ 0015. 3Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) ~~[S]~~ 0016. 3Sum Closest
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~ 0017. Letter Combinations of a Phone Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ~~[S]~~ 0019. Remove Nth Node From End of List
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) ~~[S]~~ 0020. Valid Parentheses
+- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) ~~[S]~~ 0021. Merge Two Sorted Lists
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-parentheses/) ~~[S]~~ 0022. Generate Parentheses
+- [ ] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) ~~[S]~~ 0023. Merge k Sorted Lists
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~ 0024. Swap Nodes in Pairs
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~ 0025. Reverse Nodes in k-Group
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ~~[S]~~ 0026. Remove Duplicates from Sorted Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-element/) ~~[S]~~ 0027. Remove Element
+- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~ 0028. Implement strStr()
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
+- [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~ 0031. Next Permutation
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~ 0032. Longest Valid Parentheses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~ 0033. Search in Rotated Sorted Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~ 0034. Find First and Last Position of Element in Sorted Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) ~~[S]~~ 0035. Search Insert Position
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) ~~[S]~~ 0036. Valid Sudoku
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~ 0037. Sudoku Solver
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~ 0038. Count and Say
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) ~~[S]~~ 0039. Combination Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) ~~[S]~~ 0040. Combination Sum II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/first-missing-positive/) ~~[S]~~ 0041. First Missing Positive
+- [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water/) ~~[S]~~ 0042. Trapping Rain Water
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~ 0043. Multiply Strings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/wildcard-matching/) ~~[S]~~ 0044. Wildcard Matching
+- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-ii/) ~~[S]~~ 0045. Jump Game II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~ 0046. Permutations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~ 0048. Rotate Image
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~ 0049. Group Anagrams
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) ~~[S]~~ 0050. Pow(x, n)
+- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~ 0051. N-Queens
+- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~ 0052. N-Queens II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) ~~[S]~~ 0053. Maximum Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) ~~[S]~~ 0055. Jump Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~ 0056. Merge Intervals
+- [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~ 0057. Insert Interval
+- [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~ 0058. Length of Last Word
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~ 0059. Spiral Matrix II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) ~~[S]~~ 0060. Permutation Sequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~ 0061. Rotate List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) ~~[S]~~ 0062. Unique Paths
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) ~~[S]~~ 0063. Unique Paths II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) ~~[S]~~ 0064. Minimum Path Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-number/) ~~[S]~~ 0065. Valid Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/plus-one/) ~~[S]~~ 0066. Plus One
+- [ ] 😊 [[Q]](https://leetcode.com/problems/add-binary/) ~~[S]~~ 0067. Add Binary
+- [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) ~~[S]~~ 0069. Sqrt(x)
+- [ ] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) ~~[S]~~ 0070. Climbing Stairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
+- [ ] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) ~~[S]~~ 0072. Edit Distance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~ 0074. Search a 2D Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) ~~[S]~~ 0075. Sort Colors
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~ 0076. Minimum Window Substring
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets/) ~~[S]~~ 0078. Subsets
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~ 0079. Word Search
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ~~[S]~~ 0080. Remove Duplicates from Sorted Array II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ~~[S]~~ 0081. Search in Rotated Sorted Array II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ~~[S]~~ 0082. Remove Duplicates from Sorted List II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ~~[S]~~ 0083. Remove Duplicates from Sorted List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-rectangle-in-histogram/) ~~[S]~~ 0084. Largest Rectangle in Histogram
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximal-rectangle/) ~~[S]~~ 0085. Maximal Rectangle
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-list/) ~~[S]~~ 0086. Partition List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) ~~[S]~~ 0087. Scramble String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-sorted-array/) ~~[S]~~ 0088. Merge Sorted Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/gray-code/) ~~[S]~~ 0089. Gray Code
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) ~~[S]~~ 0090. Subsets II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) ~~[S]~~ 0091. Decode Ways
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) ~~[S]~~ 0092. Reverse Linked List II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~ 0093. Restore IP Addresses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~ 0095. Unique Binary Search Trees II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) ~~[S]~~ 0096. Unique Binary Search Trees
+- [ ] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) ~~[S]~~ 0097. Interleaving String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~ 0098. Validate Binary Search Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/same-tree/) ~~[S]~~ 0100. Same Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/symmetric-tree/) ~~[S]~~ 0101. Symmetric Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) ~~[S]~~ 0102. Binary Tree Level Order Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ~~[S]~~ 0103. Binary Tree Zigzag Level Order Traversal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ~~[S]~~ 0104. Maximum Depth of Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~ 0105. Construct Binary Tree from Preorder and Inorder Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~ 0106. Construct Binary Tree from Inorder and Postorder Traversal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ~~[S]~~ 0107. Binary Tree Level Order Traversal II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ~~[S]~~ 0108. Convert Sorted Array to Binary Search Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ~~[S]~~ 0109. Convert Sorted List to Binary Search Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/balanced-binary-tree/) ~~[S]~~ 0110. Balanced Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) ~~[S]~~ 0111. Minimum Depth of Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum/) ~~[S]~~ 0112. Path Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) ~~[S]~~ 0113. Path Sum II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ~~[S]~~ 0114. Flatten Binary Tree to Linked List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences/) ~~[S]~~ 0115. Distinct Subsequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ~~[S]~~ 0116. Populating Next Right Pointers in Each Node
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) ~~[S]~~ 0117. Populating Next Right Pointers in Each Node II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~ 0118. Pascal's Triangle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~ 0119. Pascal's Triangle II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/triangle/) ~~[S]~~ 0120. Triangle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ~~[S]~~ 0121. Best Time to Buy and Sell Stock
+- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ~~[S]~~ 0122. Best Time to Buy and Sell Stock II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~ 0123. Best Time to Buy and Sell Stock III
+- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~ 0124. Binary Tree Maximum Path Sum
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) ~~[S]~~ 0125. Valid Palindrome
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~ 0126. Word Ladder II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) ~~[S]~~ 0127. Word Ladder
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~ 0128. Longest Consecutive Sequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~ 0129. Sum Root to Leaf Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~ 0130. Surrounded Regions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) ~~[S]~~ 0131. Palindrome Partitioning
+- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) ~~[S]~~ 0132. Palindrome Partitioning II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~ 0133. Clone Graph
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~ 0134. Gas Station
+- [ ] 😫 [[Q]](https://leetcode.com/problems/candy/) ~~[S]~~ 0135. Candy
+- [ ] 😊 [[Q]](https://leetcode.com/problems/single-number/) ~~[S]~~ 0136. Single Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) ~~[S]~~ 0137. Single Number II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) ~~[S]~~ 0138. Copy List with Random Pointer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-break/) ~~[S]~~ 0139. Word Break
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) ~~[S]~~ 0140. Word Break II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) ~~[S]~~ 0141. Linked List Cycle
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) ~~[S]~~ 0142. Linked List Cycle II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-list/) ~~[S]~~ 0143. Reorder List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-preorder-traversal/) ~~[S]~~ 0144. Binary Tree Preorder Traversal
+- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-postorder-traversal/) ~~[S]~~ 0145. Binary Tree Postorder Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lru-cache/) ~~[S]~~ 0146. LRU Cache
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) ~~[S]~~ 0147. Insertion Sort List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) ~~[S]~~ 0148. Sort List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/max-points-on-a-line/) ~~[S]~~ 0149. Max Points on a Line
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ~~[S]~~ 0150. Evaluate Reverse Polish Notation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) ~~[S]~~ 0151. Reverse Words in a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) ~~[S]~~ 0152. Maximum Product Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) ~~[S]~~ 0153. Find Minimum in Rotated Sorted Array
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ~~[S]~~ 0154. Find Minimum in Rotated Sorted Array II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/min-stack/) ~~[S]~~ 0155. Min Stack
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-upside-down/) ~~[S]~~ 0156. Binary Tree Upside Down
+- [ ] 😊 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4/) ~~[S]~~ 0157. Read N Characters Given Read4
+- [ ] 😫 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) ~~[S]~~ 0158. Read N Characters Given Read4 II - Call multiple times
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) ~~[S]~~ 0159. Longest Substring with At Most Two Distinct Characters
+- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) ~~[S]~~ 0160. Intersection of Two Linked Lists
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/one-edit-distance/) ~~[S]~~ 0161. One Edit Distance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-peak-element/) ~~[S]~~ 0162. Find Peak Element
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-gap/) ~~[S]~~ 0164. Maximum Gap
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) ~~[S]~~ 0165. Compare Version Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~ 0166. Fraction to Recurring Decimal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~ 0167. Two Sum II - Input array is sorted
+- [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~ 0168. Excel Sheet Column Title
+- [ ] 😊 [[Q]](https://leetcode.com/problems/majority-element/) ~~[S]~~ 0169. Majority Element
+- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~ 0170. Two Sum III - Data structure design
+- [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~ 0171. Excel Sheet Column Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~ 0173. Binary Search Tree Iterator
+- [ ] 😫 [[Q]](https://leetcode.com/problems/dungeon-game/) ~~[S]~~ 0174. Dungeon Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) ~~[S]~~ 0179. Largest Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~ 0186. Reverse Words in a String II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences
+- [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ~~[S]~~ 0188. Best Time to Buy and Sell Stock IV
+- [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-bits/) ~~[S]~~ 0190. Reverse Bits
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) ~~[S]~~ 0191. Number of 1 Bits
+- [ ] 😊 [[Q]](https://leetcode.com/problems/house-robber/) ~~[S]~~ 0198. House Robber
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) ~~[S]~~ 0199. Binary Tree Right Side View
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~ 0201. Bitwise AND of Numbers Range
+- [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~ 0203. Remove Linked List Elements
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-primes/) ~~[S]~~ 0204. Count Primes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~ 0206. Reverse Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~ 0207. Course Schedule
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~ 0208. Implement Trie (Prefix Tree)
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~ 0209. Minimum Size Subarray Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~ 0210. Course Schedule II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~ 0211. Add and Search Word - Data structure design
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~ 0212. Word Search II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~ 0213. House Robber II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-palindrome/) ~~[S]~~ 0214. Shortest Palindrome
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-largest-element-in-an-array/) ~~[S]~~ 0215. Kth Largest Element in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) ~~[S]~~ 0216. Combination Sum III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) ~~[S]~~ 0217. Contains Duplicate
+- [ ] 😫 [[Q]](https://leetcode.com/problems/the-skyline-problem/) ~~[S]~~ 0218. The Skyline Problem
+- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) ~~[S]~~ 0219. Contains Duplicate II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) ~~[S]~~ 0220. Contains Duplicate III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximal-square/) ~~[S]~~ 0221. Maximal Square
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) ~~[S]~~ 0222. Count Complete Tree Nodes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rectangle-area/) ~~[S]~~ 0223. Rectangle Area
+- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~ 0224. Basic Calculator
+- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~ 0225. Implement Stack using Queues
+- [ ] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) ~~[S]~~ 0226. Invert Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~ 0227. Basic Calculator II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~ 0229. Majority Element II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ~~[S]~~ 0230. Kth Smallest Element in a BST
+- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) ~~[S]~~ 0231. Power of Two
+- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~ 0232. Implement Queue using Stacks
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~ 0233. Number of Digit One
+- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~ 0234. Palindrome Linked List
+- [ ] 😊 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ~~[S]~~ 0235. Lowest Common Ancestor of a Binary Search Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ~~[S]~~ 0236. Lowest Common Ancestor of a Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) ~~[S]~~ 0237. Delete Node in a Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-array-except-self/) ~~[S]~~ 0238. Product of Array Except Self
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-maximum/) ~~[S]~~ 0239. Sliding Window Maximum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) ~~[S]~~ 0240. Search a 2D Matrix II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/different-ways-to-add-parentheses/) ~~[S]~~ 0241. Different Ways to Add Parentheses
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) ~~[S]~~ 0242. Valid Anagram
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-word-distance/) ~~[S]~~ 0243. Shortest Word Distance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-ii/) ~~[S]~~ 0244. Shortest Word Distance II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-iii/) ~~[S]~~ 0245. Shortest Word Distance III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/strobogrammatic-number/) ~~[S]~~ 0246. Strobogrammatic Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/strobogrammatic-number-ii/) ~~[S]~~ 0247. Strobogrammatic Number II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/strobogrammatic-number-iii/) ~~[S]~~ 0248. Strobogrammatic Number III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-shifted-strings/) ~~[S]~~ 0249. Group Shifted Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-univalue-subtrees/) ~~[S]~~ 0250. Count Univalue Subtrees
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-2d-vector/) ~~[S]~~ 0251. Flatten 2D Vector
+- [ ] 😊 [[Q]](https://leetcode.com/problems/meeting-rooms/) ~~[S]~~ 0252. Meeting Rooms
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-rooms-ii/) ~~[S]~~ 0253. Meeting Rooms II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/factor-combinations/) ~~[S]~~ 0254. Factor Combinations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) ~~[S]~~ 0255. Verify Preorder Sequence in Binary Search Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/paint-house/) ~~[S]~~ 0256. Paint House
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-paths/) ~~[S]~~ 0257. Binary Tree Paths
+- [ ] 😊 [[Q]](https://leetcode.com/problems/add-digits/) ~~[S]~~ 0258. Add Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-smaller/) ~~[S]~~ 0259. 3Sum Smaller
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) ~~[S]~~ 0260. Single Number III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/graph-valid-tree/) ~~[S]~~ 0261. Graph Valid Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) ~~[S]~~ 0263. Ugly Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) ~~[S]~~ 0264. Ugly Number II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-ii/) ~~[S]~~ 0265. Paint House II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-permutation/) ~~[S]~~ 0266. Palindrome Permutation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-permutation-ii/) ~~[S]~~ 0267. Palindrome Permutation II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-number/) ~~[S]~~ 0268. Missing Number
+- [ ] 😫 [[Q]](https://leetcode.com/problems/alien-dictionary/) ~~[S]~~ 0269. Alien Dictionary
+- [ ] 😊 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value/) ~~[S]~~ 0270. Closest Binary Search Tree Value
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~ 0271. Encode and Decode Strings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~ 0272. Closest Binary Search Tree Value II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~ 0273. Integer to English Words
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index/) ~~[S]~~ 0274. H-Index
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~ 0275. H-Index II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~ 0277. Find the Celebrity
+- [ ] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) ~~[S]~~ 0278. First Bad Version
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~ 0279. Perfect Squares
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~ 0280. Wiggle Sort
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~ 0281. Zigzag Iterator
+- [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~ 0282. Expression Add Operators
+- [ ] 😊 [[Q]](https://leetcode.com/problems/move-zeroes/) ~~[S]~~ 0283. Move Zeroes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) ~~[S]~~ 0284. Peeking Iterator
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst/) ~~[S]~~ 0285. Inorder Successor in BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/walls-and-gates/) ~~[S]~~ 0286. Walls and Gates
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) ~~[S]~~ 0287. Find the Duplicate Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-word-abbreviation/) ~~[S]~~ 0288. Unique Word Abbreviation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/game-of-life/) ~~[S]~~ 0289. Game of Life
+- [ ] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) ~~[S]~~ 0290. Word Pattern
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-pattern-ii/) ~~[S]~~ 0291. Word Pattern II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/nim-game/) ~~[S]~~ 0292. Nim Game
+- [ ] 😊 [[Q]](https://leetcode.com/problems/flip-game/) ~~[S]~~ 0293. Flip Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-game-ii/) ~~[S]~~ 0294. Flip Game II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) ~~[S]~~ 0295. Find Median from Data Stream
+- [ ] 😫 [[Q]](https://leetcode.com/problems/best-meeting-point/) ~~[S]~~ 0296. Best Meeting Point
+- [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~ 0297. Serialize and Deserialize Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~ 0298. Binary Tree Longest Consecutive Sequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~ 0299. Bulls and Cows
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) ~~[S]~~ 0300. Longest Increasing Subsequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~ 0301. Remove Invalid Parentheses
+- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~ 0302. Smallest Rectangle Enclosing Black Pixels
+- [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~ 0303. Range Sum Query - Immutable
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-query-2d-immutable/) ~~[S]~~ 0304. Range Sum Query 2D - Immutable
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-islands-ii/) ~~[S]~~ 0305. Number of Islands II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/additive-number/) ~~[S]~~ 0306. Additive Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-query-mutable/) ~~[S]~~ 0307. Range Sum Query - Mutable
+- [ ] 😫 [[Q]](https://leetcode.com/problems/range-sum-query-2d-mutable/) ~~[S]~~ 0308. Range Sum Query 2D - Mutable
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) ~~[S]~~ 0309. Best Time to Buy and Sell Stock with Cooldown
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) ~~[S]~~ 0310. Minimum Height Trees
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sparse-matrix-multiplication/) ~~[S]~~ 0311. Sparse Matrix Multiplication
+- [ ] 😫 [[Q]](https://leetcode.com/problems/burst-balloons/) ~~[S]~~ 0312. Burst Balloons
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/super-ugly-number/) ~~[S]~~ 0313. Super Ugly Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) ~~[S]~~ 0314. Binary Tree Vertical Order Traversal
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) ~~[S]~~ 0315. Count of Smaller Numbers After Self
+- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) ~~[S]~~ 0316. Remove Duplicate Letters
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-distance-from-all-buildings/) ~~[S]~~ 0317. Shortest Distance from All Buildings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-word-lengths/) ~~[S]~~ 0318. Maximum Product of Word Lengths
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher/) ~~[S]~~ 0319. Bulb Switcher
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/generalized-abbreviation/) ~~[S]~~ 0320. Generalized Abbreviation
+- [ ] 😫 [[Q]](https://leetcode.com/problems/create-maximum-number/) ~~[S]~~ 0321. Create Maximum Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) ~~[S]~~ 0322. Coin Change
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ~~[S]~~ 0323. Number of Connected Components in an Undirected Graph
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort-ii/) ~~[S]~~ 0324. Wiggle Sort II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~ 0325. Maximum Size Subarray Sum Equals k
+- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~ 0326. Power of Three
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~ 0327. Count of Range Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) ~~[S]~~ 0328. Odd Even Linked List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~ 0329. Longest Increasing Path in a Matrix
+- [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~ 0330. Patching Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~ 0331. Verify Preorder Serialization of a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) ~~[S]~~ 0332. Reconstruct Itinerary
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-bst-subtree/) ~~[S]~~ 0333. Largest BST Subtree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-triplet-subsequence/) ~~[S]~~ 0334. Increasing Triplet Subsequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/self-crossing/) ~~[S]~~ 0335. Self Crossing
+- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-pairs/) ~~[S]~~ 0336. Palindrome Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-iii/) ~~[S]~~ 0337. House Robber III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) ~~[S]~~ 0338. Counting Bits
+- [ ] 😊 [[Q]](https://leetcode.com/problems/nested-list-weight-sum/) ~~[S]~~ 0339. Nested List Weight Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ~~[S]~~ 0340. Longest Substring with At Most K Distinct Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~ 0341. Flatten Nested List Iterator
+- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) ~~[S]~~ 0342. Power of Four
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~ 0343. Integer Break
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) ~~[S]~~ 0344. Reverse String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~ 0345. Reverse Vowels of a String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~ 0346. Moving Average from Data Stream
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~ 0347. Top K Frequent Elements
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-tic-tac-toe/) ~~[S]~~ 0348. Design Tic-Tac-Toe
+- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays/) ~~[S]~~ 0349. Intersection of Two Arrays
+- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ~~[S]~~ 0350. Intersection of Two Arrays II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/android-unlock-patterns/) ~~[S]~~ 0351. Android Unlock Patterns
+- [ ] 😫 [[Q]](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) ~~[S]~~ 0352. Data Stream as Disjoint Intervals
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-snake-game/) ~~[S]~~ 0353. Design Snake Game
+- [ ] 😫 [[Q]](https://leetcode.com/problems/russian-doll-envelopes/) ~~[S]~~ 0354. Russian Doll Envelopes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-twitter/) ~~[S]~~ 0355. Design Twitter
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/line-reflection/) ~~[S]~~ 0356. Line Reflection
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-numbers-with-unique-digits/) ~~[S]~~ 0357. Count Numbers with Unique Digits
+- [ ] 😫 [[Q]](https://leetcode.com/problems/rearrange-string-k-distance-apart/) ~~[S]~~ 0358. Rearrange String k Distance Apart
+- [ ] 😊 [[Q]](https://leetcode.com/problems/logger-rate-limiter/) ~~[S]~~ 0359. Logger Rate Limiter
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-transformed-array/) ~~[S]~~ 0360. Sort Transformed Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bomb-enemy/) ~~[S]~~ 0361. Bomb Enemy
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-hit-counter/) ~~[S]~~ 0362. Design Hit Counter
+- [ ] 😫 [[Q]](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) ~~[S]~~ 0363. Max Sum of Rectangle No Larger Than K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/nested-list-weight-sum-ii/) ~~[S]~~ 0364. Nested List Weight Sum II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/water-and-jug-problem/) ~~[S]~~ 0365. Water and Jug Problem
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~ 0366. Find Leaves of Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) ~~[S]~~ 0367. Valid Perfect Square
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) ~~[S]~~ 0368. Largest Divisible Subset
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~ 0369. Plus One Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~ 0370. Range Addition
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-two-integers/) ~~[S]~~ 0371. Sum of Two Integers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) ~~[S]~~ 0372. Super Pow
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) ~~[S]~~ 0373. Find K Pairs with Smallest Sums
+- [ ] 😊 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower/) ~~[S]~~ 0374. Guess Number Higher or Lower
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) ~~[S]~~ 0375. Guess Number Higher or Lower II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-subsequence/) ~~[S]~~ 0376. Wiggle Subsequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) ~~[S]~~ 0377. Combination Sum IV
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ~~[S]~~ 0378. Kth Smallest Element in a Sorted Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-phone-directory/) ~~[S]~~ 0379. Design Phone Directory
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) ~~[S]~~ 0380. Insert Delete GetRandom O(1)
+- [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~ 0381. Insert Delete GetRandom O(1) - Duplicates allowed
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-random-node/) ~~[S]~~ 0382. Linked List Random Node
+- [ ] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) ~~[S]~~ 0383. Ransom Note
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~ 0384. Shuffle an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~ 0385. Mini Parser
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~ 0386. Lexicographical Numbers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) ~~[S]~~ 0387. First Unique Character in a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-absolute-file-path/) ~~[S]~~ 0388. Longest Absolute File Path
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~ 0389. Find the Difference
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~ 0390. Elimination Game
+- [ ] 😫 [[Q]](https://leetcode.com/problems/perfect-rectangle/) ~~[S]~~ 0391. Perfect Rectangle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) ~~[S]~~ 0392. Is Subsequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/utf-8-validation/) ~~[S]~~ 0393. UTF-8 Validation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-string/) ~~[S]~~ 0394. Decode String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) ~~[S]~~ 0395. Longest Substring with At Least K Repeating Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-function/) ~~[S]~~ 0396. Rotate Function
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) ~~[S]~~ 0397. Integer Replacement
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-index/) ~~[S]~~ 0398. Random Pick Index
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~ 0399. Evaluate Division
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~ 0400. Nth Digit
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~ 0401. Binary Watch
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) ~~[S]~~ 0402. Remove K Digits
+- [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~ 0403. Frog Jump
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~ 0404. Sum of Left Leaves
+- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~ 0405. Convert a Number to Hexadecimal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) ~~[S]~~ 0406. Queue Reconstruction by Height
+- [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) ~~[S]~~ 0409. Longest Palindrome
+- [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~ 0410. Split Array Largest Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~ 0411. Minimum Unique Word Abbreviation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~ 0412. Fizz Buzz
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~ 0413. Arithmetic Slices
+- [ ] 😊 [[Q]](https://leetcode.com/problems/third-maximum-number/) ~~[S]~~ 0414. Third Maximum Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/add-strings/) ~~[S]~~ 0415. Add Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-equal-subset-sum/) ~~[S]~~ 0416. Partition Equal Subset Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) ~~[S]~~ 0417. Pacific Atlantic Water Flow
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sentence-screen-fitting/) ~~[S]~~ 0418. Sentence Screen Fitting
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/battleships-in-a-board/) ~~[S]~~ 0419. Battleships in a Board
+- [ ] 😫 [[Q]](https://leetcode.com/problems/strong-password-checker/) ~~[S]~~ 0420. Strong Password Checker
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) ~~[S]~~ 0421. Maximum XOR of Two Numbers in an Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-square/) ~~[S]~~ 0422. Valid Word Square
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-original-digits-from-english/) ~~[S]~~ 0423. Reconstruct Original Digits from English
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-repeating-character-replacement/) ~~[S]~~ 0424. Longest Repeating Character Replacement
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-squares/) ~~[S]~~ 0425. Word Squares
+- [ ] 😫 [[Q]](https://leetcode.com/problems/all-oone-data-structure/) ~~[S]~~ 0432. All O`one Data Structure
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~ 0433. Minimum Genetic Mutation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~ 0434. Number of Segments in a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~ 0435. Non-overlapping Intervals
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
+- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ~~[S]~~ 0438. Find All Anagrams in a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
+- [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
+- [ ] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) ~~[S]~~ 0441. Arranging Coins
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ~~[S]~~ 0442. Find All Duplicates in an Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/string-compression/) ~~[S]~~ 0443. String Compression
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sequence-reconstruction/) ~~[S]~~ 0444. Sequence Reconstruction
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers-ii/) ~~[S]~~ 0445. Add Two Numbers II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ~~[S]~~ 0446. Arithmetic Slices II - Subsequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) ~~[S]~~ 0449. Serialize and Deserialize BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) ~~[S]~~ 0450. Delete Node in a BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) ~~[S]~~ 0451. Sort Characters By Frequency
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~ 0452. Minimum Number of Arrows to Burst Balloons
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) ~~[S]~~ 0455. Assign Cookies
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/132-pattern/) ~~[S]~~ 0456. 132 Pattern
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-array-loop/) ~~[S]~~ 0457. Circular Array Loop
+- [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~ 0458. Poor Pigs
+- [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) ~~[S]~~ 0459. Repeated Substring Pattern
+- [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~ 0460. LFU Cache
+- [ ] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) ~~[S]~~ 0461. Hamming Distance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ~~[S]~~ 0462. Minimum Moves to Equal Array Elements II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) ~~[S]~~ 0463. Island Perimeter
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-i-win/) ~~[S]~~ 0464. Can I Win
+- [ ] 😫 [[Q]](https://leetcode.com/problems/optimal-account-balancing/) ~~[S]~~ 0465. Optimal Account Balancing
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-the-repetitions/) ~~[S]~~ 0466. Count The Repetitions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) ~~[S]~~ 0467. Unique Substrings in Wraparound String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) ~~[S]~~ 0468. Validate IP Address
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/convex-polygon/) ~~[S]~~ 0469. Convex Polygon
+- [ ] 😫 [[Q]](https://leetcode.com/problems/encode-string-with-shortest-length/) ~~[S]~~ 0471. Encode String with Shortest Length
+- [ ] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) ~~[S]~~ 0472. Concatenated Words
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~ 0473. Matchsticks to Square
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~ 0474. Ones and Zeroes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-complement/) ~~[S]~~ 0476. Number Complement
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) ~~[S]~~ 0477. Total Hamming Distance
+- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~ 0479. Largest Palindrome Product
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-median/) ~~[S]~~ 0480. Sliding Window Median
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/magical-string/) ~~[S]~~ 0481. Magical String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/license-key-formatting/) ~~[S]~~ 0482. License Key Formatting
+- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-good-base/) ~~[S]~~ 0483. Smallest Good Base
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-permutation/) ~~[S]~~ 0484. Find Permutation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/max-consecutive-ones/) ~~[S]~~ 0485. Max Consecutive Ones
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) ~~[S]~~ 0486. Predict the Winner
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-consecutive-ones-ii/) ~~[S]~~ 0487. Max Consecutive Ones II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/zuma-game/) ~~[S]~~ 0488. Zuma Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze/) ~~[S]~~ 0490. The Maze
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-subsequences/) ~~[S]~~ 0491. Increasing Subsequences
+- [ ] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) ~~[S]~~ 0492. Construct the Rectangle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) ~~[S]~~ 0493. Reverse Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/target-sum/) ~~[S]~~ 0494. Target Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) ~~[S]~~ 0495. Teemo Attacking
+- [ ] 😊 [[Q]](https://leetcode.com/problems/next-greater-element-i/) ~~[S]~~ 0496. Next Greater Element I
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse/) ~~[S]~~ 0498. Diagonal Traverse
+- [ ] 😫 [[Q]](https://leetcode.com/problems/the-maze-iii/) ~~[S]~~ 0499. The Maze III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/keyboard-row/) ~~[S]~~ 0500. Keyboard Row
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-mode-in-binary-search-tree/) ~~[S]~~ 0501. Find Mode in Binary Search Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/ipo/) ~~[S]~~ 0502. IPO
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-element-ii/) ~~[S]~~ 0503. Next Greater Element II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/base-7/) ~~[S]~~ 0504. Base 7
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze-ii/) ~~[S]~~ 0505. The Maze II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) ~~[S]~~ 0506. Relative Ranks
+- [ ] 😊 [[Q]](https://leetcode.com/problems/perfect-number/) ~~[S]~~ 0507. Perfect Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-frequent-subtree-sum/) ~~[S]~~ 0508. Most Frequent Subtree Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst-ii/) ~~[S]~~ 0509. Inorder Successor in BST II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) ~~[S]~~ 0511. All Paths from Source Lead to Destination
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-bottom-left-tree-value/) ~~[S]~~ 0513. Find Bottom Left Tree Value
+- [ ] 😫 [[Q]](https://leetcode.com/problems/freedom-trail/) ~~[S]~~ 0514. Freedom Trail
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) ~~[S]~~ 0515. Find Largest Value in Each Tree Row
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~ 0516. Longest Palindromic Subsequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~ 0517. Super Washing Machines
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) ~~[S]~~ 0518. Coin Change 2
+- [ ] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) ~~[S]~~ 0520. Detect Capital
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-i/) ~~[S]~~ 0521. Longest Uncommon Subsequence I 
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) ~~[S]~~ 0522. Longest Uncommon Subsequence II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/continuous-subarray-sum/) ~~[S]~~ 0523. Continuous Subarray Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) ~~[S]~~ 0524. Longest Word in Dictionary through Deleting
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) ~~[S]~~ 0525. Contiguous Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement/) ~~[S]~~ 0526. Beautiful Arrangement
+- [ ] 😫 [[Q]](https://leetcode.com/problems/word-abbreviation/) ~~[S]~~ 0527. Word Abbreviation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minesweeper/) ~~[S]~~ 0529. Minesweeper
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) ~~[S]~~ 0530. Minimum Absolute Difference in BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lonely-pixel-i/) ~~[S]~~ 0531. Lonely Pixel I
+- [ ] 😊 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) ~~[S]~~ 0532. K-diff Pairs in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lonely-pixel-ii/) ~~[S]~~ 0533. Lonely Pixel II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-tinyurl/) ~~[S]~~ 0535. Encode and Decode TinyURL
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-string/) ~~[S]~~ 0536. Construct Binary Tree from String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/complex-number-multiplication/) ~~[S]~~ 0537. Complex Number Multiplication
+- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-bst-to-greater-tree/) ~~[S]~~ 0538. Convert BST to Greater Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-difference/) ~~[S]~~ 0539. Minimum Time Difference
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) ~~[S]~~ 0540. Single Element in a Sorted Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string-ii/) ~~[S]~~ 0541. Reverse String II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/01-matrix/) ~~[S]~~ 0542. 01 Matrix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/diameter-of-binary-tree/) ~~[S]~~ 0543. Diameter of Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/output-contest-matches/) ~~[S]~~ 0544. Output Contest Matches
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/boundary-of-binary-tree/) ~~[S]~~ 0545. Boundary of Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-boxes/) ~~[S]~~ 0546. Remove Boxes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/friend-circles/) ~~[S]~~ 0547. Friend Circles
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-with-equal-sum/) ~~[S]~~ 0548. Split Array with Equal Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) ~~[S]~~ 0549. Binary Tree Longest Consecutive Sequence II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/student-attendance-record-i/) ~~[S]~~ 0551. Student Attendance Record I
+- [ ] 😫 [[Q]](https://leetcode.com/problems/student-attendance-record-ii/) ~~[S]~~ 0552. Student Attendance Record II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/optimal-division/) ~~[S]~~ 0553. Optimal Division
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/brick-wall/) ~~[S]~~ 0554. Brick Wall
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-concatenated-strings/) ~~[S]~~ 0555. Split Concatenated Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-element-iii/) ~~[S]~~ 0556. Next Greater Element III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-iii/) ~~[S]~~ 0557. Reverse Words in a String III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sum-equals-k/) ~~[S]~~ 0560. Subarray Sum Equals K
+- [ ] 😊 [[Q]](https://leetcode.com/problems/array-partition-i/) ~~[S]~~ 0561. Array Partition I
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) ~~[S]~~ 0562. Longest Line of Consecutive One in Matrix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-tilt/) ~~[S]~~ 0563. Binary Tree Tilt
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-closest-palindrome/) ~~[S]~~ 0564. Find the Closest Palindrome
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/array-nesting/) ~~[S]~~ 0565. Array Nesting
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reshape-the-matrix/) ~~[S]~~ 0566. Reshape the Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) ~~[S]~~ 0567. Permutation in String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-vacation-days/) ~~[S]~~ 0568. Maximum Vacation Days
+- [ ] 😊 [[Q]](https://leetcode.com/problems/subtree-of-another-tree/) ~~[S]~~ 0572. Subtree of Another Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~ 0573. Squirrel Simulation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies/) ~~[S]~~ 0575. Distribute Candies
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/out-of-boundary-paths/) ~~[S]~~ 0576. Out of Boundary Paths
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ~~[S]~~ 0581. Shortest Unsorted Continuous Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/kill-process/) ~~[S]~~ 0582. Kill Process
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-operation-for-two-strings/) ~~[S]~~ 0583. Delete Operation for Two Strings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/erect-the-fence/) ~~[S]~~ 0587. Erect the Fence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/design-in-memory-file-system/) ~~[S]~~ 0588. Design In-Memory File System
+- [ ] 😫 [[Q]](https://leetcode.com/problems/tag-validator/) ~~[S]~~ 0591. Tag Validator
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-addition-and-subtraction/) ~~[S]~~ 0592. Fraction Addition and Subtraction
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) ~~[S]~~ 0593. Valid Square
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) ~~[S]~~ 0594. Longest Harmonious Subsequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/range-addition-ii/) ~~[S]~~ 0598. Range Addition II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) ~~[S]~~ 0599. Minimum Index Sum of Two Lists
+- [ ] 😫 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) ~~[S]~~ 0600. Non-negative Integers without Consecutive Ones
+- [ ] 😊 [[Q]](https://leetcode.com/problems/design-compressed-string-iterator/) ~~[S]~~ 0604. Design Compressed String Iterator
+- [ ] 😊 [[Q]](https://leetcode.com/problems/can-place-flowers/) ~~[S]~~ 0605. Can Place Flowers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/construct-string-from-binary-tree/) ~~[S]~~ 0606. Construct String from Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-duplicate-file-in-system/) ~~[S]~~ 0609. Find Duplicate File in System
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-triangle-number/) ~~[S]~~ 0611. Valid Triangle Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-bold-tag-in-string/) ~~[S]~~ 0616. Add Bold Tag in String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-binary-trees/) ~~[S]~~ 0617. Merge Two Binary Trees
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/task-scheduler/) ~~[S]~~ 0621. Task Scheduler
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-one-row-to-tree/) ~~[S]~~ 0623. Add One Row to Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-distance-in-arrays/) ~~[S]~~ 0624. Maximum Distance in Arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-factorization/) ~~[S]~~ 0625. Minimum Factorization
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-three-numbers/) ~~[S]~~ 0628. Maximum Product of Three Numbers
+- [ ] 😫 [[Q]](https://leetcode.com/problems/k-inverse-pairs-array/) ~~[S]~~ 0629. K Inverse Pairs Array
+- [ ] 😫 [[Q]](https://leetcode.com/problems/course-schedule-iii/) ~~[S]~~ 0630. Course Schedule III
+- [ ] 😫 [[Q]](https://leetcode.com/problems/design-excel-sum-formula/) ~~[S]~~ 0631. Design Excel Sum Formula
+- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) ~~[S]~~ 0632. Smallest Range Covering Elements from K Lists
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-square-numbers/) ~~[S]~~ 0633. Sum of Square Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-derangement-of-an-array/) ~~[S]~~ 0634. Find the Derangement of An Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-log-storage-system/) ~~[S]~~ 0635. Design Log Storage System
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/exclusive-time-of-functions/) ~~[S]~~ 0636. Exclusive Time of Functions
+- [ ] 😊 [[Q]](https://leetcode.com/problems/average-of-levels-in-binary-tree/) ~~[S]~~ 0637. Average of Levels in Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shopping-offers/) ~~[S]~~ 0638. Shopping Offers
+- [ ] 😫 [[Q]](https://leetcode.com/problems/decode-ways-ii/) ~~[S]~~ 0639. Decode Ways II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/solve-the-equation/) ~~[S]~~ 0640. Solve the Equation
+- [ ] 😫 [[Q]](https://leetcode.com/problems/design-search-autocomplete-system/) ~~[S]~~ 0642. Design Search Autocomplete System
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-average-subarray-i/) ~~[S]~~ 0643. Maximum Average Subarray I
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-average-subarray-ii/) ~~[S]~~ 0644. Maximum Average Subarray II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/set-mismatch/) ~~[S]~~ 0645. Set Mismatch
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-pair-chain/) ~~[S]~~ 0646. Maximum Length of Pair Chain
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindromic-substrings/) ~~[S]~~ 0647. Palindromic Substrings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-words/) ~~[S]~~ 0648. Replace Words
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/dota2-senate/) ~~[S]~~ 0649. Dota2 Senate
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/2-keys-keyboard/) ~~[S]~~ 0650. 2 Keys Keyboard
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/4-keys-keyboard/) ~~[S]~~ 0651. 4 Keys Keyboard
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-duplicate-subtrees/) ~~[S]~~ 0652. Find Duplicate Subtrees
+- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ~~[S]~~ 0653. Two Sum IV - Input is a BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-binary-tree/) ~~[S]~~ 0654. Maximum Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-binary-tree/) ~~[S]~~ 0655. Print Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/coin-path/) ~~[S]~~ 0656. Coin Path
+- [ ] 😊 [[Q]](https://leetcode.com/problems/robot-return-to-origin/) ~~[S]~~ 0657. Robot Return to Origin
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-closest-elements/) ~~[S]~~ 0658. Find K Closest Elements
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) ~~[S]~~ 0659. Split Array into Consecutive Subsequences
+- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-9/) ~~[S]~~ 0660. Remove 9
+- [ ] 😊 [[Q]](https://leetcode.com/problems/image-smoother/) ~~[S]~~ 0661. Image Smoother
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) ~~[S]~~ 0662. Maximum Width of Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/equal-tree-partition/) ~~[S]~~ 0663. Equal Tree Partition
+- [ ] 😫 [[Q]](https://leetcode.com/problems/strange-printer/) ~~[S]~~ 0664. Strange Printer
+- [ ] 😊 [[Q]](https://leetcode.com/problems/non-decreasing-array/) ~~[S]~~ 0665. Non-decreasing Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iv/) ~~[S]~~ 0666. Path Sum IV
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement-ii/) ~~[S]~~ 0667. Beautiful Arrangement II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) ~~[S]~~ 0668. Kth Smallest Number in Multiplication Table
+- [ ] 😊 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) ~~[S]~~ 0669. Trim a Binary Search Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-swap/) ~~[S]~~ 0670. Maximum Swap
+- [ ] 😊 [[Q]](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) ~~[S]~~ 0671. Second Minimum Node In a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher-ii/) ~~[S]~~ 0672. Bulb Switcher II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) ~~[S]~~ 0673. Number of Longest Increasing Subsequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) ~~[S]~~ 0674. Longest Continuous Increasing Subsequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cut-off-trees-for-golf-event/) ~~[S]~~ 0675. Cut Off Trees for Golf Event
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-magic-dictionary/) ~~[S]~~ 0676. Implement Magic Dictionary
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/map-sum-pairs/) ~~[S]~~ 0677. Map Sum Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-parenthesis-string/) ~~[S]~~ 0678. Valid Parenthesis String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/24-game/) ~~[S]~~ 0679. 24 Game
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome-ii/) ~~[S]~~ 0680. Valid Palindrome II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-closest-time/) ~~[S]~~ 0681. Next Closest Time
+- [ ] 😊 [[Q]](https://leetcode.com/problems/baseball-game/) ~~[S]~~ 0682. Baseball Game
+- [ ] 😫 [[Q]](https://leetcode.com/problems/k-empty-slots/) ~~[S]~~ 0683. K Empty Slots
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) ~~[S]~~ 0684. Redundant Connection
+- [ ] 😫 [[Q]](https://leetcode.com/problems/redundant-connection-ii/) ~~[S]~~ 0685. Redundant Connection II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) ~~[S]~~ 0686. Repeated String Match
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-univalue-path/) ~~[S]~~ 0687. Longest Univalue Path
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-probability-in-chessboard/) ~~[S]~~ 0688. Knight Probability in Chessboard
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) ~~[S]~~ 0689. Maximum Sum of 3 Non-Overlapping Subarrays
+- [ ] 😊 [[Q]](https://leetcode.com/problems/employee-importance/) ~~[S]~~ 0690. Employee Importance
+- [ ] 😫 [[Q]](https://leetcode.com/problems/stickers-to-spell-word/) ~~[S]~~ 0691. Stickers to Spell Word
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-words/) ~~[S]~~ 0692. Top K Frequent Words
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) ~~[S]~~ 0693. Binary Number with Alternating Bits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-distinct-islands/) ~~[S]~~ 0694. Number of Distinct Islands
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-area-of-island/) ~~[S]~~ 0695. Max Area of Island
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-binary-substrings/) ~~[S]~~ 0696. Count Binary Substrings
+- [ ] 😊 [[Q]](https://leetcode.com/problems/degree-of-an-array/) ~~[S]~~ 0697. Degree of an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) ~~[S]~~ 0698. Partition to K Equal Sum Subsets
+- [ ] 😫 [[Q]](https://leetcode.com/problems/falling-squares/) ~~[S]~~ 0699. Falling Squares
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-distinct-islands-ii/) ~~[S]~~ 0711. Number of Distinct Islands II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) ~~[S]~~ 0712. Minimum ASCII Delete Sum for Two Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) ~~[S]~~ 0713. Subarray Product Less Than K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) ~~[S]~~ 0714. Best Time to Buy and Sell Stock with Transaction Fee
+- [ ] 😫 [[Q]](https://leetcode.com/problems/range-module/) ~~[S]~~ 0715. Range Module
+- [ ] 😊 [[Q]](https://leetcode.com/problems/max-stack/) ~~[S]~~ 0716. Max Stack
+- [ ] 😊 [[Q]](https://leetcode.com/problems/1-bit-and-2-bit-characters/) ~~[S]~~ 0717. 1-bit and 2-bit Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ~~[S]~~ 0718. Maximum Length of Repeated Subarray
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) ~~[S]~~ 0719. Find K-th Smallest Pair Distance
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary/) ~~[S]~~ 0720. Longest Word in Dictionary
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/accounts-merge/) ~~[S]~~ 0721. Accounts Merge
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-comments/) ~~[S]~~ 0722. Remove Comments
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/candy-crush/) ~~[S]~~ 0723. Candy Crush
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-pivot-index/) ~~[S]~~ 0724. Find Pivot Index
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) ~~[S]~~ 0725. Split Linked List in Parts
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-atoms/) ~~[S]~~ 0726. Number of Atoms
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-subsequence/) ~~[S]~~ 0727. Minimum Window Subsequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/self-dividing-numbers/) ~~[S]~~ 0728. Self Dividing Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/my-calendar-i/) ~~[S]~~ 0729. My Calendar I
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-different-palindromic-subsequences/) ~~[S]~~ 0730. Count Different Palindromic Subsequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/my-calendar-ii/) ~~[S]~~ 0731. My Calendar II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/my-calendar-iii/) ~~[S]~~ 0732. My Calendar III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) ~~[S]~~ 0733. Flood Fill
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sentence-similarity/) ~~[S]~~ 0734. Sentence Similarity
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) ~~[S]~~ 0735. Asteroid Collision
+- [ ] 😫 [[Q]](https://leetcode.com/problems/parse-lisp-expression/) ~~[S]~~ 0736. Parse Lisp Expression
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sentence-similarity-ii/) ~~[S]~~ 0737. Sentence Similarity II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/monotone-increasing-digits/) ~~[S]~~ 0738. Monotone Increasing Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/daily-temperatures/) ~~[S]~~ 0739. Daily Temperatures
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-and-earn/) ~~[S]~~ 0740. Delete and Earn
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup/) ~~[S]~~ 0741. Cherry Pickup
+- [ ] 😊 [[Q]](https://leetcode.com/problems/to-lower-case/) ~~[S]~~ 0742. To Lower Case
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) ~~[S]~~ 0743. Closest Leaf in a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) ~~[S]~~ 0744. Network Delay Time
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) ~~[S]~~ 0745. Find Smallest Letter Greater Than Target
+- [ ] 😫 [[Q]](https://leetcode.com/problems/prefix-and-suffix-search/) ~~[S]~~ 0746. Prefix and Suffix Search
+- [ ] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) ~~[S]~~ 0747. Min Cost Climbing Stairs
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) ~~[S]~~ 0748. Largest Number At Least Twice of Others
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-completing-word/) ~~[S]~~ 0749. Shortest Completing Word
+- [ ] 😫 [[Q]](https://leetcode.com/problems/contain-virus/) ~~[S]~~ 0750. Contain Virus
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-corner-rectangles/) ~~[S]~~ 0751. Number Of Corner Rectangles
+- [ ] 😊 [[Q]](https://leetcode.com/problems/ip-to-cidr/) ~~[S]~~ 0752. IP to CIDR
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/open-the-lock/) ~~[S]~~ 0753. Open the Lock
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cracking-the-safe/) ~~[S]~~ 0754. Cracking the Safe
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reach-a-number/) ~~[S]~~ 0755. Reach a Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/pour-water/) ~~[S]~~ 0756. Pour Water
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/pyramid-transition-matrix/) ~~[S]~~ 0757. Pyramid Transition Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) ~~[S]~~ 0758. Convert Binary Search Tree to Sorted Doubly Linked List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/set-intersection-size-at-least-two/) ~~[S]~~ 0759. Set Intersection Size At Least Two
+- [ ] 😊 [[Q]](https://leetcode.com/problems/bold-words-in-string/) ~~[S]~~ 0760. Bold Words in String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/employee-free-time/) ~~[S]~~ 0761. Employee Free Time
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-anagram-mappings/) ~~[S]~~ 0762. Find Anagram Mappings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/special-binary-string/) ~~[S]~~ 0763. Special Binary String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) ~~[S]~~ 0764. N-ary Tree Level Order Traversal
+- [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) ~~[S]~~ 0765. Serialize and Deserialize N-ary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ~~[S]~~ 0766. Flatten a Multilevel Doubly Linked List
+- [ ] 😊 [[Q]](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) ~~[S]~~ 0767. Prime Number of Set Bits in Binary Representation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) ~~[S]~~ 0768. Partition Labels
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-plus-sign/) ~~[S]~~ 0769. Largest Plus Sign
+- [ ] 😫 [[Q]](https://leetcode.com/problems/couples-holding-hands/) ~~[S]~~ 0770. Couples Holding Hands
+- [ ] 😫 [[Q]](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) ~~[S]~~ 0771. Encode N-ary Tree to Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-quad-tree/) ~~[S]~~ 0772. Construct Quad Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) ~~[S]~~ 0773. Logical OR of Two Binary Grids Represented as Quad-Trees
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) ~~[S]~~ 0774. Maximum Depth of N-ary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) ~~[S]~~ 0775. N-ary Tree Preorder Traversal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) ~~[S]~~ 0776. N-ary Tree Postorder Traversal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/toeplitz-matrix/) ~~[S]~~ 0777. Toeplitz Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorganize-string/) ~~[S]~~ 0778. Reorganize String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) ~~[S]~~ 0779. Max Chunks To Make Sorted II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted/) ~~[S]~~ 0780. Max Chunks To Make Sorted
+- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iv/) ~~[S]~~ 0781. Basic Calculator IV
+- [ ] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) ~~[S]~~ 0782. Jewels and Stones
+- [ ] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) ~~[S]~~ 0783. Search in a Binary Search Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ~~[S]~~ 0784. Insert into a Binary Search Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iii/) ~~[S]~~ 0785. Basic Calculator III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~ 0786. Search in a Sorted Array of Unknown Size
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-puzzle/) ~~[S]~~ 0787. Sliding Puzzle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) ~~[S]~~ 0788. Minimize Max Distance to Gas Station
+- [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~ 0789. Kth Largest Element in a Stream
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/global-and-local-inversions/) ~~[S]~~ 0790. Global and Local Inversions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-bst/) ~~[S]~~ 0791. Split BST
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~ 0792. Binary Search
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-adjacent-in-lr-string/) ~~[S]~~ 0793. Swap Adjacent in LR String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/swim-in-rising-water/) ~~[S]~~ 0794. Swim in Rising Water
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-th-symbol-in-grammar/) ~~[S]~~ 0795. K-th Symbol in Grammar
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reaching-points/) ~~[S]~~ 0796. Reaching Points
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rabbits-in-forest/) ~~[S]~~ 0797. Rabbits in Forest
+- [ ] 😫 [[Q]](https://leetcode.com/problems/transform-to-chessboard/) ~~[S]~~ 0798. Transform to Chessboard
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) ~~[S]~~ 0799. Minimum Distance Between BST Nodes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) ~~[S]~~ 0800. Letter Case Permutation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) ~~[S]~~ 0801. Is Graph Bipartite?
+- [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-prime-fraction/) ~~[S]~~ 0802. K-th Smallest Prime Fraction
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) ~~[S]~~ 0803. Cheapest Flights Within K Stops
+- [ ] 😊 [[Q]](https://leetcode.com/problems/rotated-digits/) ~~[S]~~ 0804. Rotated Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/escape-the-ghosts/) ~~[S]~~ 0805. Escape The Ghosts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/domino-and-tromino-tiling/) ~~[S]~~ 0806. Domino and Tromino Tiling
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/custom-sort-string/) ~~[S]~~ 0807. Custom Sort String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-matching-subsequences/) ~~[S]~~ 0808. Number of Matching Subsequences
+- [ ] 😫 [[Q]](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) ~~[S]~~ 0809. Preimage Size of Factorial Zeroes Function
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-tic-tac-toe-state/) ~~[S]~~ 0810. Valid Tic-Tac-Toe State
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) ~~[S]~~ 0811. Number of Subarrays with Bounded Maximum
+- [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-string/) ~~[S]~~ 0812. Rotate String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) ~~[S]~~ 0813. All Paths From Source to Target
+- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rotation-with-highest-score/) ~~[S]~~ 0814. Smallest Rotation with Highest Score
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) ~~[S]~~ 0815. Champagne Tower
+- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) ~~[S]~~ 0816. Design HashSet
+- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashmap/) ~~[S]~~ 0817. Design HashMap
+- [ ] 😊 [[Q]](https://leetcode.com/problems/similar-rgb-color/) ~~[S]~~ 0818. Similar RGB Color
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) ~~[S]~~ 0819. Minimum Swaps To Make Sequences Increasing
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-eventual-safe-states/) ~~[S]~~ 0820. Find Eventual Safe States
+- [ ] 😫 [[Q]](https://leetcode.com/problems/bricks-falling-when-hit/) ~~[S]~~ 0821. Bricks Falling When Hit
+- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-morse-code-words/) ~~[S]~~ 0822. Unique Morse Code Words
+- [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-with-same-average/) ~~[S]~~ 0823. Split Array With Same Average
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-lines-to-write-string/) ~~[S]~~ 0824. Number of Lines To Write String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) ~~[S]~~ 0825. Max Increase to Keep City Skyline
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/soup-servings/) ~~[S]~~ 0826. Soup Servings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/expressive-words/) ~~[S]~~ 0827. Expressive Words
+- [ ] 😫 [[Q]](https://leetcode.com/problems/chalkboard-xor-game/) ~~[S]~~ 0828. Chalkboard XOR Game
+- [ ] 😊 [[Q]](https://leetcode.com/problems/subdomain-visit-count/) ~~[S]~~ 0829. Subdomain Visit Count
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-triangle-area/) ~~[S]~~ 0830. Largest Triangle Area
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-sum-of-averages/) ~~[S]~~ 0831. Largest Sum of Averages
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-pruning/) ~~[S]~~ 0832. Binary Tree Pruning
+- [ ] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) ~~[S]~~ 0833. Bus Routes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ambiguous-coordinates/) ~~[S]~~ 0834. Ambiguous Coordinates
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-components/) ~~[S]~~ 0835. Linked List Components
+- [ ] 😫 [[Q]](https://leetcode.com/problems/race-car/) ~~[S]~~ 0836. Race Car
+- [ ] 😊 [[Q]](https://leetcode.com/problems/most-common-word/) ~~[S]~~ 0837. Most Common Word
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~ 0838. Design Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/short-encoding-of-words/) ~~[S]~~ 0839. Short Encoding of Words
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) ~~[S]~~ 0841. Shortest Distance to a Character
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/card-flipping-game/) ~~[S]~~ 0842. Card Flipping Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-trees-with-factors/) ~~[S]~~ 0843. Binary Trees With Factors
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~ 0850. Insert into a Sorted Circular Linked List
+- [ ] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) ~~[S]~~ 0851. Goat Latin
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/friends-of-appropriate-ages/) ~~[S]~~ 0852. Friends Of Appropriate Ages
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-profit-assigning-work/) ~~[S]~~ 0853. Most Profit Assigning Work
+- [ ] 😫 [[Q]](https://leetcode.com/problems/making-a-large-island/) ~~[S]~~ 0854. Making A Large Island
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) ~~[S]~~ 0855. Count Unique Characters of All Substrings of a Given String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/consecutive-numbers-sum/) ~~[S]~~ 0856. Consecutive Numbers Sum
+- [ ] 😊 [[Q]](https://leetcode.com/problems/positions-of-large-groups/) ~~[S]~~ 0857. Positions of Large Groups
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/masking-personal-information/) ~~[S]~~ 0858. Masking Personal Information
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-deque/) ~~[S]~~ 0859. Design Circular Deque
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-queue/) ~~[S]~~ 0860. Design Circular Queue
+- [ ] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) ~~[S]~~ 0861. Flipping an Image
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-in-string/) ~~[S]~~ 0862. Find And Replace in String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-distances-in-tree/) ~~[S]~~ 0863. Sum of Distances in Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) ~~[S]~~ 0864. Image Overlap
+- [ ] 😫 [[Q]](https://leetcode.com/problems/robot-room-cleaner/) ~~[S]~~ 0865. Robot Room Cleaner
+- [ ] 😊 [[Q]](https://leetcode.com/problems/rectangle-overlap/) ~~[S]~~ 0866. Rectangle Overlap
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/new-21-game/) ~~[S]~~ 0867. New 21 Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/push-dominoes/) ~~[S]~~ 0868. Push Dominoes
+- [ ] 😫 [[Q]](https://leetcode.com/problems/similar-string-groups/) ~~[S]~~ 0869. Similar String Groups
+- [ ] 😊 [[Q]](https://leetcode.com/problems/magic-squares-in-grid/) ~~[S]~~ 0870. Magic Squares In Grid
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) ~~[S]~~ 0871. Keys and Rooms
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) ~~[S]~~ 0872. Split Array into Fibonacci Sequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/guess-the-word/) ~~[S]~~ 0873. Guess the Word
+- [ ] 😊 [[Q]](https://leetcode.com/problems/backspace-string-compare/) ~~[S]~~ 0874. Backspace String Compare
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-mountain-in-array/) ~~[S]~~ 0875. Longest Mountain in Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/hand-of-straights/) ~~[S]~~ 0876. Hand of Straights
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~ 0877. Shortest Path Visiting All Nodes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) ~~[S]~~ 0878. Shifting Letters
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~ 0879. Maximize Distance to Closest Person
+- [ ] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) ~~[S]~~ 0880. Rectangle Area II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~ 0881. Loud and Rich
+- [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~ 0882. Peak Index in a Mountain Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/car-fleet/) ~~[S]~~ 0883. Car Fleet
+- [ ] 😫 [[Q]](https://leetcode.com/problems/k-similar-strings/) ~~[S]~~ 0884. K-Similar Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/exam-room/) ~~[S]~~ 0885. Exam Room
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/score-of-parentheses/) ~~[S]~~ 0886. Score of Parentheses
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) ~~[S]~~ 0887. Minimum Cost to Hire K Workers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/mirror-reflection/) ~~[S]~~ 0888. Mirror Reflection
+- [ ] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) ~~[S]~~ 0889. Buddy Strings
+- [ ] 😊 [[Q]](https://leetcode.com/problems/lemonade-change/) ~~[S]~~ 0890. Lemonade Change
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/score-after-flipping-matrix/) ~~[S]~~ 0891. Score After Flipping Matrix
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) ~~[S]~~ 0892. Shortest Subarray with Sum at Least K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) ~~[S]~~ 0893. All Nodes Distance K in Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) ~~[S]~~ 0894. Random Pick with Blacklist
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-to-get-all-keys/) ~~[S]~~ 0895. Shortest Path to Get All Keys
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) ~~[S]~~ 0896. Smallest Subtree with all the Deepest Nodes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/prime-palindrome/) ~~[S]~~ 0897. Prime Palindrome
+- [ ] 😊 [[Q]](https://leetcode.com/problems/transpose-matrix/) ~~[S]~~ 0898. Transpose Matrix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-gap/) ~~[S]~~ 0899. Binary Gap
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reordered-power-of-2/) ~~[S]~~ 0900. Reordered Power of 2
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/advantage-shuffle/) ~~[S]~~ 0901. Advantage Shuffle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-refueling-stops/) ~~[S]~~ 0902. Minimum Number of Refueling Stops
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) ~~[S]~~ 0903. Implement Rand10() Using Rand7()
+- [ ] 😊 [[Q]](https://leetcode.com/problems/leaf-similar-trees/) ~~[S]~~ 0904. Leaf-Similar Trees
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) ~~[S]~~ 0905. Length of Longest Fibonacci Subsequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/walking-robot-simulation/) ~~[S]~~ 0906. Walking Robot Simulation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/koko-eating-bananas/) ~~[S]~~ 0907. Koko Eating Bananas
+- [ ] 😊 [[Q]](https://leetcode.com/problems/middle-of-the-linked-list/) ~~[S]~~ 0908. Middle of the Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/stone-game/) ~~[S]~~ 0909. Stone Game
+- [ ] 😫 [[Q]](https://leetcode.com/problems/nth-magical-number/) ~~[S]~~ 0910. Nth Magical Number
+- [ ] 😫 [[Q]](https://leetcode.com/problems/profitable-schemes/) ~~[S]~~ 0911. Profitable Schemes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) ~~[S]~~ 0912. Random Pick with Weight
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-flip-matrix/) ~~[S]~~ 0913. Random Flip Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) ~~[S]~~ 0914. Random Point in Non-overlapping Rectangles
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~ 0915. Generate Random Point in a Circle
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/decoded-string-at-index/) ~~[S]~~ 0916. Decoded String at Index
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) ~~[S]~~ 0917. Boats to Save People
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) ~~[S]~~ 0918. Reachable Nodes In Subdivided Graph
+- [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~ 0919. Projection Area of 3D Shapes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~ 0920. Uncommon Words from Two Sentences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~ 0921. Spiral Matrix III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) ~~[S]~~ 0922. Possible Bipartition
+- [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~ 0923. Super Egg Drop
+- [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~ 0924. Fair Candy Swap
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~ 0925. Construct Binary Tree from Preorder and Postorder Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-pattern/) ~~[S]~~ 0926. Find and Replace Pattern
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-subsequence-widths/) ~~[S]~~ 0927. Sum of Subsequence Widths
+- [ ] 😊 [[Q]](https://leetcode.com/problems/surface-area-of-3d-shapes/) ~~[S]~~ 0928. Surface Area of 3D Shapes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ~~[S]~~ 0929. Groups of Special-Equivalent Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-possible-full-binary-trees/) ~~[S]~~ 0930. All Possible Full Binary Trees
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-frequency-stack/) ~~[S]~~ 0931. Maximum Frequency Stack
+- [ ] 😊 [[Q]](https://leetcode.com/problems/monotonic-array/) ~~[S]~~ 0932. Monotonic Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-order-search-tree/) ~~[S]~~ 0933. Increasing Order Search Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-ors-of-subarrays/) ~~[S]~~ 0934. Bitwise ORs of Subarrays
+- [ ] 😫 [[Q]](https://leetcode.com/problems/orderly-queue/) ~~[S]~~ 0935. Orderly Queue
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rle-iterator/) ~~[S]~~ 0936. RLE Iterator
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) ~~[S]~~ 0937. Online Stock Span
+- [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) ~~[S]~~ 0938. Numbers At Most N Given Digit Set
+- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-permutations-for-di-sequence/) ~~[S]~~ 0939. Valid Permutations for DI Sequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/fruit-into-baskets/) ~~[S]~~ 0940. Fruit Into Baskets
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) ~~[S]~~ 0941. Sort Array By Parity
+- [ ] 😫 [[Q]](https://leetcode.com/problems/super-palindromes/) ~~[S]~~ 0942. Super Palindromes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-subarray-minimums/) ~~[S]~~ 0943. Sum of Subarray Minimums
+- [ ] 😊 [[Q]](https://leetcode.com/problems/smallest-range-i/) ~~[S]~~ 0944. Smallest Range I
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/snakes-and-ladders/) ~~[S]~~ 0945. Snakes and Ladders
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-range-ii/) ~~[S]~~ 0946. Smallest Range II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-election/) ~~[S]~~ 0947. Online Election
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) ~~[S]~~ 0948. Sort an Array
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cat-and-mouse/) ~~[S]~~ 0949. Cat and Mouse
+- [ ] 😊 [[Q]](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) ~~[S]~~ 0950. X of a Kind in a Deck of Cards
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~ 0951. Partition Array into Disjoint Intervals
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~ 0952. Word Subsets
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) ~~[S]~~ 0953. Reverse Only Letters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) ~~[S]~~ 0954. Maximum Sum Circular Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~ 0955. Complete Binary Tree Inserter
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) ~~[S]~~ 0956. Number of Music Playlists
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) ~~[S]~~ 0957. Minimum Add to Make Parentheses Valid
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) ~~[S]~~ 0958. Sort Array By Parity II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-with-multiplicity/) ~~[S]~~ 0959. 3Sum With Multiplicity
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-malware-spread/) ~~[S]~~ 0960. Minimize Malware Spread
+- [ ] 😊 [[Q]](https://leetcode.com/problems/long-pressed-name/) ~~[S]~~ 0961. Long Pressed Name
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-string-to-monotone-increasing/) ~~[S]~~ 0962. Flip String to Monotone Increasing
+- [ ] 😫 [[Q]](https://leetcode.com/problems/three-equal-parts/) ~~[S]~~ 0963. Three Equal Parts
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-malware-spread-ii/) ~~[S]~~ 0964. Minimize Malware Spread II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-email-addresses/) ~~[S]~~ 0965. Unique Email Addresses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-subarrays-with-sum/) ~~[S]~~ 0966. Binary Subarrays With Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) ~~[S]~~ 0967. Minimum Falling Path Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-array/) ~~[S]~~ 0968. Beautiful Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) ~~[S]~~ 0969. Number of Recent Calls
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-bridge/) ~~[S]~~ 0971. Shortest Bridge
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-dialer/) ~~[S]~~ 0972. Knight Dialer
+- [ ] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) ~~[S]~~ 0973. Stamping The Sequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reorder-data-in-log-files/) ~~[S]~~ 0974. Reorder Data in Log Files
+- [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-of-bst/) ~~[S]~~ 0975. Range Sum of BST
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle/) ~~[S]~~ 0976. Minimum Area Rectangle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences-ii/) ~~[S]~~ 0977. Distinct Subsequences II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-mountain-array/) ~~[S]~~ 0978. Valid Mountain Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/di-string-match/) ~~[S]~~ 0979. DI String Match
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-shortest-superstring/) ~~[S]~~ 0980. Find the Shortest Superstring
+- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted/) ~~[S]~~ 0981. Delete Columns to Make Sorted
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) ~~[S]~~ 0982. Minimum Increment to Make Array Unique
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) ~~[S]~~ 0983. Validate Stack Sequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ~~[S]~~ 0984. Most Stones Removed with Same Row or Column
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) ~~[S]~~ 0985. Bag of Tokens
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) ~~[S]~~ 0986. Largest Time for Given Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reveal-cards-in-increasing-order/) ~~[S]~~ 0987. Reveal Cards In Increasing Order
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-equivalent-binary-trees/) ~~[S]~~ 0988. Flip Equivalent Binary Trees
+- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) ~~[S]~~ 0989. Largest Component Size by Common Factor
+- [ ] 😊 [[Q]](https://leetcode.com/problems/verifying-an-alien-dictionary/) ~~[S]~~ 0990. Verifying an Alien Dictionary
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/array-of-doubled-pairs/) ~~[S]~~ 0991. Array of Doubled Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) ~~[S]~~ 0992. Delete Columns to Make Sorted II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/tallest-billboard/) ~~[S]~~ 0993. Tallest Billboard
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) ~~[S]~~ 0994. Prison Cells After N Days
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) ~~[S]~~ 0998. Check Completeness of a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) ~~[S]~~ 0999. Regions Cut By Slashes
+- [ ] 😫 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) ~~[S]~~ 1000. Delete Columns to Make Sorted III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) ~~[S]~~ 1001. N-Repeated Element in Size 2N Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) ~~[S]~~ 1002. Maximum Width Ramp
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle-ii/) ~~[S]~~ 1003. Minimum Area Rectangle II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/least-operators-to-express-number/) ~~[S]~~ 1004. Least Operators to Express Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~ 1005. Univalued Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~ 1006. Vowel Spellchecker
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) ~~[S]~~ 1007. Numbers With Same Consecutive Differences
+- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~ 1008. Binary Tree Cameras
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) ~~[S]~~ 1009. Pancake Sorting
+- [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~ 1010. Powerful Integers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~ 1011. Flip Binary Tree To Match Preorder Traversal
+- [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~ 1012. Equal Rational Numbers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/fibonacci-number/) ~~[S]~~ 1013. Fibonacci Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) ~~[S]~~ 1014. K Closest Points to Origin
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) ~~[S]~~ 1016. Subarray Sums Divisible by K
+- [ ] 😫 [[Q]](https://leetcode.com/problems/odd-even-jump/) ~~[S]~~ 1017. Odd Even Jump
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-perimeter-triangle/) ~~[S]~~ 1018. Largest Perimeter Triangle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/squares-of-a-sorted-array/) ~~[S]~~ 1019. Squares of a Sorted Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) ~~[S]~~ 1020. Longest Turbulent Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/distribute-coins-in-binary-tree/) ~~[S]~~ 1021. Distribute Coins in Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) ~~[S]~~ 1022. Unique Paths III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/time-based-key-value-store/) ~~[S]~~ 1023. Time Based Key-Value Store
+- [ ] 😫 [[Q]](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) ~~[S]~~ 1024. Triples with Bitwise AND Equal To Zero
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) ~~[S]~~ 1025. Minimum Cost For Tickets
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) ~~[S]~~ 1026. String Without AAA or BBB
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~ 1027. Sum of Even Numbers After Queries
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) ~~[S]~~ 1028. Interval List Intersections
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) ~~[S]~~ 1029. Vertical Order Traversal of a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-starting-from-leaf/) ~~[S]~~ 1030. Smallest String Starting From Leaf
+- [ ] 😊 [[Q]](https://leetcode.com/problems/add-to-array-form-of-integer/) ~~[S]~~ 1031. Add to Array-Form of Integer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) ~~[S]~~ 1032. Satisfiability of Equality Equations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) ~~[S]~~ 1033. Broken Calculator
+- [ ] 😫 [[Q]](https://leetcode.com/problems/subarrays-with-k-different-integers/) ~~[S]~~ 1034. Subarrays with K Different Integers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) ~~[S]~~ 1035. Cousins in Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) ~~[S]~~ 1036. Rotting Oranges
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) ~~[S]~~ 1037. Minimum Number of K Consecutive Bit Flips
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-squareful-arrays/) ~~[S]~~ 1038. Number of Squareful Arrays
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) ~~[S]~~ 1039. Find the Town Judge
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-binary-tree-ii/) ~~[S]~~ 1040. Maximum Binary Tree II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/available-captures-for-rook/) ~~[S]~~ 1041. Available Captures for Rook
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-merge-stones/) ~~[S]~~ 1042. Minimum Cost to Merge Stones
+- [ ] 😫 [[Q]](https://leetcode.com/problems/grid-illumination/) ~~[S]~~ 1043. Grid Illumination
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-common-characters/) ~~[S]~~ 1044. Find Common Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) ~~[S]~~ 1045. Check If Word Is Valid After Substitutions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-consecutive-ones-iii/) ~~[S]~~ 1046. Max Consecutive Ones III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) ~~[S]~~ 1047. Maximize Sum Of Array After K Negations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/clumsy-factorial/) ~~[S]~~ 1048. Clumsy Factorial
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) ~~[S]~~ 1049. Minimum Domino Rotations For Equal Row
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) ~~[S]~~ 1050. Construct Binary Search Tree from Preorder Traversal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-way-to-form-string/) ~~[S]~~ 1051. Shortest Way to Form String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/campus-bikes/) ~~[S]~~ 1052. Campus Bikes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/) ~~[S]~~ 1053. Minimize Rounding Error to Meet Target
+- [ ] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) ~~[S]~~ 1054. Complement of Base 10 Integer
+- [ ] 😊 [[Q]](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) ~~[S]~~ 1055. Pairs of Songs With Total Durations Divisible by 60
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) ~~[S]~~ 1056. Capacity To Ship Packages Within D Days
+- [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-with-repeated-digits/) ~~[S]~~ 1057. Numbers With Repeated Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) ~~[S]~~ 1058. Lexicographically Smallest Equivalent String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-element-in-sorted-array/) ~~[S]~~ 1059. Missing Element in Sorted Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-repeating-substring/) ~~[S]~~ 1060. Longest Repeating Substring
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-valid-subarrays/) ~~[S]~~ 1061. Number of Valid Subarrays
+- [ ] 😊 [[Q]](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) ~~[S]~~ 1062. Partition Array Into Three Parts With Equal Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-sightseeing-pair/) ~~[S]~~ 1063. Best Sightseeing Pair
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) ~~[S]~~ 1064. Smallest Integer Divisible by K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) ~~[S]~~ 1065. Binary String With Substrings Representing 1 To N
+- [ ] 😊 [[Q]](https://leetcode.com/problems/fixed-point/) ~~[S]~~ 1066. Fixed Point
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/campus-bikes-ii/) ~~[S]~~ 1067. Campus Bikes II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/digit-count-in-range/) ~~[S]~~ 1068. Digit Count in Range
+- [ ] 😊 [[Q]](https://leetcode.com/problems/confusing-number/) ~~[S]~~ 1069. Confusing Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-to-base-2/) ~~[S]~~ 1070. Convert to Base -2
+- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-prefix-divisible-by-5/) ~~[S]~~ 1071. Binary Prefix Divisible By 5
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-node-in-linked-list/) ~~[S]~~ 1072. Next Greater Node In Linked List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-enclaves/) ~~[S]~~ 1073. Number of Enclaves
+- [ ] 😊 [[Q]](https://leetcode.com/problems/high-five/) ~~[S]~~ 1074. High Five
+- [ ] 😊 [[Q]](https://leetcode.com/problems/index-pairs-of-a-string/) ~~[S]~~ 1075. Index Pairs of a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/brace-expansion/) ~~[S]~~ 1076. Brace Expansion
+- [ ] 😫 [[Q]](https://leetcode.com/problems/confusing-number-ii/) ~~[S]~~ 1077. Confusing Number II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) ~~[S]~~ 1078. Remove Outermost Parentheses
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) ~~[S]~~ 1079. Sum of Root To Leaf Binary Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~ 1080. Camelcase Matching
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~ 1081. Video Stitching
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) ~~[S]~~ 1082. Sum of Digits in the Minimum Number
+- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-less-than-k/) ~~[S]~~ 1083. Two Sum Less Than K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) ~~[S]~~ 1084. Find K-Length Substrings With No Repeated Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) ~~[S]~~ 1085. The Earliest Moment When Everyone Become Friends
+- [ ] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) ~~[S]~~ 1086. Divisor Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~ 1087. Longest Arithmetic Sequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-days-in-a-month/) ~~[S]~~ 1088. Number of Days in a Month
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-vowels-from-a-string/) ~~[S]~~ 1089. Remove Vowels from a String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/armstrong-number/) ~~[S]~~ 1090. Armstrong Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-average-subtree/) ~~[S]~~ 1091. Maximum Average Subtree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~ 1092. Maximum Difference Between Node and Ancestor
+- [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~ 1093. Recover a Tree From Preorder Traversal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/matrix-cells-in-distance-order/) ~~[S]~~ 1094. Matrix Cells in Distance Order
+- [ ] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) ~~[S]~~ 1095. Two City Scheduling
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) ~~[S]~~ 1096. Maximum Sum of Two Non-Overlapping Subarrays
+- [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~ 1097. Stream of Characters
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-unique-number/) ~~[S]~~ 1098. Largest Unique Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-minimum-value/) ~~[S]~~ 1099. Path With Maximum Minimum Value
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) ~~[S]~~ 1100. Connecting Cities With Minimum Cost
+- [ ] 😫 [[Q]](https://leetcode.com/problems/parallel-courses/) ~~[S]~~ 1101. Parallel Courses
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) ~~[S]~~ 1102. Check If a Number Is Majority Element in a Sorted Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive/) ~~[S]~~ 1103. Moving Stones Until Consecutive
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/coloring-a-border/) ~~[S]~~ 1104. Coloring A Border
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) ~~[S]~~ 1105. Uncrossed Lines
+- [ ] 😫 [[Q]](https://leetcode.com/problems/escape-a-large-maze/) ~~[S]~~ 1106. Escape a Large Maze
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) ~~[S]~~ 1107. Minimum Swaps to Group All 1's Together
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/analyze-user-website-visit-pattern/) ~~[S]~~ 1108. Analyze User Website Visit Pattern
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) ~~[S]~~ 1111. Minimum Score Triangulation of Polygon
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) ~~[S]~~ 1112. Find Words That Can Be Formed by Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) ~~[S]~~ 1113. Moving Stones Until Consecutive II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) ~~[S]~~ 1114. Binary Search Tree to Greater Sum Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-boomerang/) ~~[S]~~ 1115. Valid Boomerang
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) ~~[S]~~ 1116. Maximum Level Sum of a Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/as-far-from-land-as-possible/) ~~[S]~~ 1117. As Far from Land as Possible
+- [ ] 😫 [[Q]](https://leetcode.com/problems/divide-array-into-increasing-sequences/) ~~[S]~~ 1118. Divide Array Into Increasing Sequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) ~~[S]~~ 1119. Robot Bounded In Circle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/flower-planting-with-no-adjacent/) ~~[S]~~ 1120. Flower Planting With No Adjacent
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) ~~[S]~~ 1121. Partition Array for Maximum Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) ~~[S]~~ 1122. Longest Duplicate Substring
+- [ ] 😊 [[Q]](https://leetcode.com/problems/single-row-keyboard/) ~~[S]~~ 1123. Single-Row Keyboard
+- [ ] 😫 [[Q]](https://leetcode.com/problems/string-transforms-into-another-string/) ~~[S]~~ 1124. String Transforms Into Another String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-file-system/) ~~[S]~~ 1125. Design File System
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) ~~[S]~~ 1126. Minimum Cost to Connect Sticks
+- [ ] 😊 [[Q]](https://leetcode.com/problems/last-stone-weight/) ~~[S]~~ 1127. Last Stone Weight
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) ~~[S]~~ 1128. Remove All Adjacent Duplicates In String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-string-chain/) ~~[S]~~ 1129. Longest String Chain
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/last-stone-weight-ii/) ~~[S]~~ 1130. Last Stone Weight II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) ~~[S]~~ 1131. Count Substrings with Only One Distinct Letter
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/before-and-after-puzzle/) ~~[S]~~ 1132. Before and After Puzzle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/last-substring-in-lexicographical-order/) ~~[S]~~ 1133. Last Substring in Lexicographical Order
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-distance-to-target-color/) ~~[S]~~ 1134. Shortest Distance to Target Color
+- [ ] 😊 [[Q]](https://leetcode.com/problems/height-checker/) ~~[S]~~ 1137. Height Checker
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/grumpy-bookstore-owner/) ~~[S]~~ 1138. Grumpy Bookstore Owner
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/previous-permutation-with-one-swap/) ~~[S]~~ 1139. Previous Permutation With One Swap
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/distant-barcodes/) ~~[S]~~ 1140. Distant Barcodes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) ~~[S]~~ 1141. How Many Apples Can You Put into the Basket
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-knight-moves/) ~~[S]~~ 1142. Minimum Knight Moves
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) ~~[S]~~ 1143. Find Smallest Common Element in All Rows
+- [ ] 😫 [[Q]](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) ~~[S]~~ 1144. Optimize Water Distribution in a Village
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) ~~[S]~~ 1145. Number of Submatrices That Sum to Target
+- [ ] 😊 [[Q]](https://leetcode.com/problems/greatest-common-divisor-of-strings/) ~~[S]~~ 1146. Greatest Common Divisor of Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) ~~[S]~~ 1147. Flip Columns For Maximum Number of Equal Rows
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/adding-two-negabinary-numbers/) ~~[S]~~ 1148. Adding Two Negabinary Numbers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) ~~[S]~~ 1149. Intersection of Three Sorted Arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/two-sum-bsts/) ~~[S]~~ 1150. Two Sum BSTs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/stepping-numbers/) ~~[S]~~ 1151. Stepping Numbers
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-ones/) ~~[S]~~ 1152. Maximum Number of Ones
+- [ ] 😊 [[Q]](https://leetcode.com/problems/occurrences-after-bigram/) ~~[S]~~ 1156. Occurrences After Bigram
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) ~~[S]~~ 1157. Insufficient Nodes in Root to Leaf Paths
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) ~~[S]~~ 1159. Smallest Subsequence of Distinct Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-tile-possibilities/) ~~[S]~~ 1160. Letter Tile Possibilities
+- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) ~~[S]~~ 1164. Missing Number In Arithmetic Progression
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-scheduler/) ~~[S]~~ 1165. Meeting Scheduler
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/toss-strange-coins/) ~~[S]~~ 1166. Toss Strange Coins
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-time-to-build-blocks/) ~~[S]~~ 1167. Minimum Time to Build Blocks
+- [ ] 😊 [[Q]](https://leetcode.com/problems/duplicate-zeros/) ~~[S]~~ 1168. Duplicate Zeros
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) ~~[S]~~ 1169. Largest Values From Labels
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-common-supersequence/) ~~[S]~~ 1170. Shortest Common Supersequence 
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-path-in-binary-matrix/) ~~[S]~~ 1171. Shortest Path in Binary Matrix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/array-transformation/) ~~[S]~~ 1175. Array Transformation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-a-leaderboard/) ~~[S]~~ 1176. Design A Leaderboard
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/tree-diameter/) ~~[S]~~ 1177. Tree Diameter
+- [ ] 😫 [[Q]](https://leetcode.com/problems/valid-palindrome-iii/) ~~[S]~~ 1178. Valid Palindrome III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/statistics-from-a-large-sample/) ~~[S]~~ 1183. Statistics from a Large Sample
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) ~~[S]~~ 1184. Car Pooling
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-in-mountain-array/) ~~[S]~~ 1185. Find in Mountain Array
+- [ ] 😫 [[Q]](https://leetcode.com/problems/brace-expansion-ii/) ~~[S]~~ 1188. Brace Expansion II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-number/) ~~[S]~~ 1189. Encode Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-common-region/) ~~[S]~~ 1190. Smallest Common Region
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/synonymous-sentences/) ~~[S]~~ 1191. Synonymous Sentences
+- [ ] 😫 [[Q]](https://leetcode.com/problems/divide-chocolate/) ~~[S]~~ 1192. Divide Chocolate
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) ~~[S]~~ 1194. Path In Zigzag Labelled Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) ~~[S]~~ 1195. Distribute Candies to People
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/filling-bookcase-shelves/) ~~[S]~~ 1196. Filling Bookcase Shelves
+- [ ] 😫 [[Q]](https://leetcode.com/problems/parsing-a-boolean-expression/) ~~[S]~~ 1197. Parsing A Boolean Expression
+- [ ] 😊 [[Q]](https://leetcode.com/problems/hexspeak/) ~~[S]~~ 1199. Hexspeak
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-interval/) ~~[S]~~ 1200. Remove Interval
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-tree-nodes/) ~~[S]~~ 1201. Delete Tree Nodes
+- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-removal/) ~~[S]~~ 1202. Palindrome Removal
+- [ ] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) ~~[S]~~ 1205. Defanging an IP Address
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/corporate-flight-bookings/) ~~[S]~~ 1206. Corporate Flight Bookings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-nodes-and-return-forest/) ~~[S]~~ 1207. Delete Nodes And Return Forest
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) ~~[S]~~ 1208. Maximum Nesting Depth of Two Valid Parentheses Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) ~~[S]~~ 1211. Iterator for Combination
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~ 1212. Sequential Digits
+- [ ] 😫 [[Q]](https://leetcode.com/problems/handshakes-that-dont-cross/) ~~[S]~~ 1213. Handshakes That Don't Cross
+- [ ] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) ~~[S]~~ 1217. Relative Sort Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) ~~[S]~~ 1218. Lowest Common Ancestor of Deepest Leaves
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-well-performing-interval/) ~~[S]~~ 1219. Longest Well-Performing Interval
+- [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-sufficient-team/) ~~[S]~~ 1220. Smallest Sufficient Team
+- [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1221. Element Appearing More Than 25% In Sorted Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~ 1222. Remove Covered Intervals
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) ~~[S]~~ 1224. Minimum Falling Path Sum II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) ~~[S]~~ 1227. Number of Equivalent Domino Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) ~~[S]~~ 1228. Minimum Cost Tree From Leaf Values
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-path-with-alternating-colors/) ~~[S]~~ 1229. Shortest Path with Alternating Colors
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-of-absolute-value-expression/) ~~[S]~~ 1230. Maximum of Absolute Value Expression
+- [ ] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) ~~[S]~~ 1231. Replace Elements with Greatest Element on Right Side
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) ~~[S]~~ 1232. Sum of Mutated Array Closest to Target
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) ~~[S]~~ 1233. Number of Ships in a Rectangle
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-paths-with-max-score/) ~~[S]~~ 1234. Number of Paths with Max Score
+- [ ] 😊 [[Q]](https://leetcode.com/problems/n-th-tribonacci-number/) ~~[S]~~ 1236. N-th Tribonacci Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/alphabet-board-path/) ~~[S]~~ 1238. Alphabet Board Path
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-1-bordered-square/) ~~[S]~~ 1239. Largest 1-Bordered Square
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/stone-game-ii/) ~~[S]~~ 1240. Stone Game II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) ~~[S]~~ 1241. Decompress Run-Length Encoded List
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/matrix-block-sum/) ~~[S]~~ 1242. Matrix Block Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ~~[S]~~ 1243. Sum of Nodes with Even-Valued Grandparent
+- [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-echo-substrings/) ~~[S]~~ 1244. Distinct Echo Substrings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) ~~[S]~~ 1247. Decrease Elements To Make Array Zigzag
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-coloring-game/) ~~[S]~~ 1248. Binary Tree Coloring Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/snapshot-array/) ~~[S]~~ 1249. Snapshot Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-common-subsequence/) ~~[S]~~ 1250. Longest Common Subsequence
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) ~~[S]~~ 1251. Longest Chunked Palindrome Decomposition
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/break-a-palindrome/) ~~[S]~~ 1252. Break a Palindrome
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-the-matrix-diagonally/) ~~[S]~~ 1253. Sort the Matrix Diagonally
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/deepest-leaves-sum/) ~~[S]~~ 1254. Deepest Leaves Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) ~~[S]~~ 1255. Reverse Subarray To Maximize Array Value
+- [ ] 😊 [[Q]](https://leetcode.com/problems/rank-transform-of-an-array/) ~~[S]~~ 1256. Rank Transform of an Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/day-of-the-year/) ~~[S]~~ 1260. Day of the Year
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) ~~[S]~~ 1261. Swap For Longest Repeated Character Substring
+- [ ] 😫 [[Q]](https://leetcode.com/problems/online-majority-element-in-subarray/) ~~[S]~~ 1262. Online Majority Element In Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) ~~[S]~~ 1263. Number of Dice Rolls With Target Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) ~~[S]~~ 1267. Remove Zero Sum Consecutive Nodes from Linked List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/dinner-plate-stacks/) ~~[S]~~ 1270. Dinner Plate Stacks
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/web-crawler/) ~~[S]~~ 1271. Web Crawler
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/invalid-transactions/) ~~[S]~~ 1272. Invalid Transactions
+- [ ] 😊 [[Q]](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) ~~[S]~~ 1273. Compare Strings by Frequency of the Smallest Character
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-days-between-two-dates/) ~~[S]~~ 1274. Number of Days Between Two Dates
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-tree-nodes/) ~~[S]~~ 1275. Validate Binary Tree Nodes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-divisors/) ~~[S]~~ 1276. Closest Divisors
+- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) ~~[S]~~ 1277. Largest Multiple of Three
+- [ ] 😊 [[Q]](https://leetcode.com/problems/prime-arrangements/) ~~[S]~~ 1279. Prime Arrangements
+- [ ] 😊 [[Q]](https://leetcode.com/problems/diet-plan-performance/) ~~[S]~~ 1280. Diet Plan Performance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-make-palindrome-from-substring/) ~~[S]~~ 1281. Can Make Palindrome from Substring
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) ~~[S]~~ 1282. Number of Valid Words for Each Puzzle
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/four-divisors/) ~~[S]~~ 1284. Four Divisors
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/balance-a-binary-search-tree/) ~~[S]~~ 1285. Balance a Binary Search Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/distance-between-bus-stops/) ~~[S]~~ 1287. Distance Between Bus Stops
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) ~~[S]~~ 1288. Maximum Subarray Sum with One Deletion
+- [ ] 😊 [[Q]](https://leetcode.com/problems/day-of-the-week/) ~~[S]~~ 1289. Day of the Week
+- [ ] 😫 [[Q]](https://leetcode.com/problems/make-array-strictly-increasing/) ~~[S]~~ 1290. Make Array Strictly Increasing
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-number-of-balloons/) ~~[S]~~ 1297. Maximum Number of Balloons
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) ~~[S]~~ 1298. Reverse Substrings Between Each Pair of Parentheses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-concatenation-maximum-sum/) ~~[S]~~ 1299. K-Concatenation Maximum Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/critical-connections-in-a-network/) ~~[S]~~ 1300. Critical Connections in a Network
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) ~~[S]~~ 1304. Longest Happy String
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) ~~[S]~~ 1306. Minimum Absolute Difference
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-iii/) ~~[S]~~ 1307. Ugly Number III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-with-swaps/) ~~[S]~~ 1308. Smallest String With Swaps
+- [ ] 😫 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) ~~[S]~~ 1309. Sort Items by Groups Respecting Dependencies
+- [ ] 😊 [[Q]](https://leetcode.com/problems/unique-number-of-occurrences/) ~~[S]~~ 1319. Unique Number of Occurrences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) ~~[S]~~ 1320. Remove All Adjacent Duplicates in String II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/get-equal-substrings-within-budget/) ~~[S]~~ 1321. Get Equal Substrings Within Budget
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) ~~[S]~~ 1322. Minimum Moves to Reach Target with Rotations
+- [ ] 😊 [[Q]](https://leetcode.com/problems/play-with-chips/) ~~[S]~~ 1329. Play with Chips
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) ~~[S]~~ 1330. Longest Arithmetic Subsequence of Given Difference
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-gold/) ~~[S]~~ 1331. Path with Maximum Gold
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-vowels-permutation/) ~~[S]~~ 1332. Count Vowels Permutation
+- [ ] 😫 [[Q]](https://leetcode.com/problems/design-skiplist/) ~~[S]~~ 1337. Design Skiplist
+- [ ] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) ~~[S]~~ 1341. Split a String in Balanced Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/queens-that-can-attack-the-king/) ~~[S]~~ 1342. Queens That Can Attack the King
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/dice-roll-simulation/) ~~[S]~~ 1343. Dice Roll Simulation
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-equal-frequency/) ~~[S]~~ 1344. Maximum Equal Frequency
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) ~~[S]~~ 1349. Check If It Is a Straight Line
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) ~~[S]~~ 1350. Remove Sub-Folders from the Filesystem
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) ~~[S]~~ 1351. Replace the Substring for Balanced String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) ~~[S]~~ 1352. Maximum Profit in Job Scheduling
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) ~~[S]~~ 1358. Find Positive Integer Solution for a Given Equation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-permutation-in-binary-representation/) ~~[S]~~ 1359. Circular Permutation in Binary Representation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) ~~[S]~~ 1360. Maximum Length of a Concatenated String with Unique Characters
+- [ ] 😫 [[Q]](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) ~~[S]~~ 1361. Tiling a Rectangle with the Fewest Squares
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/airplane-seat-assignment-probability/) ~~[S]~~ 1362. Airplane Seat Assignment Probability
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) ~~[S]~~ 1369. Minimum Swaps to Make Strings Equal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-nice-subarrays/) ~~[S]~~ 1370. Count Number of Nice Subarrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) ~~[S]~~ 1371. Minimum Remove to Make Valid Parentheses
+- [ ] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) ~~[S]~~ 1372. Check If It Is a Good Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) ~~[S]~~ 1378. Cells with Odd Values in a Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) ~~[S]~~ 1379. Reconstruct a 2-Row Binary Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-closed-islands/) ~~[S]~~ 1380. Number of Closed Islands
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) ~~[S]~~ 1381. Maximum Score Words Formed by Letters
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shift-2d-grid/) ~~[S]~~ 1386. Shift 2D Grid
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) ~~[S]~~ 1387. Find Elements in a Contaminated Binary Tree
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/greatest-sum-divisible-by-three/) ~~[S]~~ 1388. Greatest Sum Divisible by Three
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) ~~[S]~~ 1389. Minimum Moves to Move a Box to Their Target Location
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) ~~[S]~~ 1395. Minimum Time Visiting All Points
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-servers-that-communicate/) ~~[S]~~ 1396. Count Servers that Communicate
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-suggestions-system/) ~~[S]~~ 1397. Search Suggestions System
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) ~~[S]~~ 1398. Number of Ways to Stay in the Same Place After Some Steps
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) ~~[S]~~ 1400. Find Winner on a Tic Tac Toe Game
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) ~~[S]~~ 1401. Number of Burgers with No Waste of Ingredients
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) ~~[S]~~ 1402. Count Square Submatrices with All Ones
+- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) ~~[S]~~ 1403. Palindrome Partitioning III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) ~~[S]~~ 1404. Print Immutable Linked List in Reverse
+- [ ] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) ~~[S]~~ 1406. Subtract the Product and Sum of Digits of an Integer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) ~~[S]~~ 1407. Group the People Given the Group Size They Belong To
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~ 1408. Find the Smallest Divisor Given a Threshold
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1409. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) ~~[S]~~ 1411. Convert Binary Number in a Linked List to Integer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~ 1413. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+- [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~ 1414. Shortest Path in a Grid with Obstacles Elimination
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) ~~[S]~~ 1421. Find Numbers with Even Number of Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) ~~[S]~~ 1422. Divide Array in Sets of K Consecutive Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) ~~[S]~~ 1423. Maximum Number of Occurrences of a Substring
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) ~~[S]~~ 1424. Maximum Candies You Can Get from Boxes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ~~[S]~~ 1426. Find N Unique Integers Sum up to Zero
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ~~[S]~~ 1427. All Elements in Two Binary Search Trees
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) ~~[S]~~ 1428. Jump Game III
+- [ ] 😫 [[Q]](https://leetcode.com/problems/verbal-arithmetic-puzzle/) ~~[S]~~ 1429. Verbal Arithmetic Puzzle
+- [ ] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) ~~[S]~~ 1434. Decrypt String from Alphabet to Integer Mapping
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/xor-queries-of-a-subarray/) ~~[S]~~ 1435. XOR Queries of a Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/get-watched-videos-by-your-friends/) ~~[S]~~ 1436. Get Watched Videos by Your Friends
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) ~~[S]~~ 1437. Minimum Insertion Steps to Make a String Palindrome
+- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) ~~[S]~~ 1440. Convert Integer to the Sum of Two No-Zero Integers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) ~~[S]~~ 1441. Minimum Flips to Make a OR b Equal to c
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) ~~[S]~~ 1442. Number of Operations to Make Network Connected
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) ~~[S]~~ 1443. Minimum Distance to Type a Word Using Two Fingers
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) ~~[S]~~ 1444. Number of Steps to Reduce a Number to Zero
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) ~~[S]~~ 1445. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) ~~[S]~~ 1446. Angle Between Hands of a Clock
+- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) ~~[S]~~ 1447. Jump Game IV
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-69-number/) ~~[S]~~ 1448. Maximum 69 Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/print-words-vertically/) ~~[S]~~ 1449. Print Words Vertically
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-leaves-with-a-given-value/) ~~[S]~~ 1450. Delete Leaves With a Given Value
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) ~~[S]~~ 1451. Minimum Number of Taps to Open to Water a Garden
+- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-palindromic-subsequences/) ~~[S]~~ 1454. Remove Palindromic Subsequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) ~~[S]~~ 1455. Filter Restaurants by Vegan-Friendly, Price and Distance
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) ~~[S]~~ 1456. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) ~~[S]~~ 1457. Minimum Difficulty of a Job Schedule
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) ~~[S]~~ 1458. Sort Integers by The Number of 1 Bits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/apply-discount-every-n-orders/) ~~[S]~~ 1459. Apply Discount Every n Orders
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) ~~[S]~~ 1460. Number of Substrings Containing All Three Characters
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) ~~[S]~~ 1461. Count All Valid Pickup and Delivery Options
+- [ ] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) ~~[S]~~ 1463. The K Weakest Rows in a Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reduce-array-size-to-the-half/) ~~[S]~~ 1464. Reduce Array Size to The Half
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) ~~[S]~~ 1465. Maximum Product of Splitted Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-v/) ~~[S]~~ 1466. Jump Game V
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-n-and-its-double-exist/) ~~[S]~~ 1468. Check If N and Its Double Exist
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) ~~[S]~~ 1469. Minimum Number of Steps to Make Two Strings Anagram
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/tweet-counts-per-frequency/) ~~[S]~~ 1470. Tweet Counts Per Frequency
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-students-taking-exam/) ~~[S]~~ 1471. Maximum Students Taking Exam
+- [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~ 1472. Increasing Decreasing String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~ 1473. Find the Longest Substring Containing Vowels in Even Counts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ~~[S]~~ 1474. Longest ZigZag Path in a Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) ~~[S]~~ 1475. Maximum Sum BST in Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) ~~[S]~~ 1476. Count Negative Numbers in a Sorted Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-the-last-k-numbers/) ~~[S]~~ 1477. Product of the Last K Numbers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) ~~[S]~~ 1478. Maximum Number of Events That Can Be Attended
+- [ ] 😫 [[Q]](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) ~~[S]~~ 1479. Construct Target Array With Multiple Sums
+- [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ~~[S]~~ 1482. How Many Numbers Are Smaller Than the Current Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~ 1483. Rank Teams by Votes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) ~~[S]~~ 1484. Linked List in Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) ~~[S]~~ 1485. Minimum Cost to Make at Least One Valid Path in a Grid
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) ~~[S]~~ 1486. Find the Distance Value Between Two Arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) ~~[S]~~ 1487. Cinema Seat Allocation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-integers-by-the-power-value/) ~~[S]~~ 1488. Sort Integers by The Power Value
+- [ ] 😫 [[Q]](https://leetcode.com/problems/pizza-with-3n-slices/) ~~[S]~~ 1489. Pizza With 3n Slices
+- [ ] 😊 [[Q]](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) ~~[S]~~ 1490. Generate a String With Characters That Have Odd Counts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher-iii/) ~~[S]~~ 1491. Bulb Switcher III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/time-needed-to-inform-all-employees/) ~~[S]~~ 1492. Time Needed to Inform All Employees
+- [ ] 😫 [[Q]](https://leetcode.com/problems/frog-position-after-t-seconds/) ~~[S]~~ 1493. Frog Position After T Seconds
+- [ ] 😊 [[Q]](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) ~~[S]~~ 1496. Lucky Numbers in a Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-a-stack-with-increment-operation/) ~~[S]~~ 1497. Design a Stack With Increment Operation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) ~~[S]~~ 1498. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-performance-of-a-team/) ~~[S]~~ 1499. Maximum Performance of a Team
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-largest-group/) ~~[S]~~ 1500. Count Largest Group
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/circle-and-rectangle-overlapping/) ~~[S]~~ 1501. Circle and Rectangle Overlapping
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-k-palindrome-strings/) ~~[S]~~ 1502. Construct K Palindrome Strings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/reducing-dishes/) ~~[S]~~ 1503. Reducing Dishes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/create-target-array-in-the-given-order/) ~~[S]~~ 1505. Create Target Array in the Given Order
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) ~~[S]~~ 1507. Check if There is a Valid Path in a Grid
+- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-happy-prefix/) ~~[S]~~ 1508. Longest Happy Prefix
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ~~[S]~~ 1510. Find Lucky Integer in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) ~~[S]~~ 1511. Count Number of Teams
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-underground-system/) ~~[S]~~ 1512. Design Underground System
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-all-good-strings/) ~~[S]~~ 1513. Find All Good Strings
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) ~~[S]~~ 1519. Minimum Subsequence in Non-Increasing Order
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) ~~[S]~~ 1520. Number of Steps to Reduce a Number in Binary Representation to One
+- [ ] 😫 [[Q]](https://leetcode.com/problems/stone-game-iii/) ~~[S]~~ 1522. Stone Game III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/string-matching-in-an-array/) ~~[S]~~ 1524. String Matching in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/queries-on-a-permutation-with-key/) ~~[S]~~ 1525. Queries on a Permutation With Key
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/html-entity-parser/) ~~[S]~~ 1526. HTML Entity Parser
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) ~~[S]~~ 1527. Number of Ways to Paint N × 3 Grid
