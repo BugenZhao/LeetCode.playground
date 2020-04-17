@@ -1,4 +1,6 @@
 # LeetCode.swift
+![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-1%20%2F%201293%20=%200.08%25-orange.svg)
 Bugen's LeetCode solutions in Swift.
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage) 0001. Two Sum

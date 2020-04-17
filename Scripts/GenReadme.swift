@@ -8,6 +8,7 @@ extension Collection {
     }
 }
 let difficultyEmojis = ["🔞", "😊", "🤨", "😫"]
+let swiftVersion = "5.2"
 
 
 var questions: [JSONDict] = []
@@ -48,6 +49,8 @@ if let contents = contents {
 }
 
 
+var solvedCount = 0
+
 for question in questions {
     let stat = question["stat"] as! JSONDict
     let qid = stat["question_id"] as! Int
@@ -57,6 +60,7 @@ for question in questions {
 
     let difficultyEmoji = difficultyEmojis[safe: difficulty] ?? "🔞"
     if solved.keys.contains(qid) {
+        solvedCount += 1
         lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\n"
     } else {
         lines[qid] = "- [ ] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(title)\n"
@@ -69,6 +73,8 @@ let readmeURL = URL(fileURLWithPath: "./README.md", relativeTo: currentURL)
 
 var output = ""
 output += "# LeetCode.swift\n"
+output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
+output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(lines.count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(lines.count)))%25-orange.svg)\n\n"
 output += "Bugen's LeetCode solutions in Swift.\n"
 output += "## Problems\n"
 for line in lines.sorted(by: <) {
