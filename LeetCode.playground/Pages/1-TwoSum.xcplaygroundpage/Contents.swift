@@ -12,4 +12,4 @@ class Solution {
     }
 }
 
-assert(Solution().twoSum([2, 7, 11, 15], 9) == [0, 1])
+testEqual(Solution().twoSum([2, 7, 11, 15], 9), [0, 1])
