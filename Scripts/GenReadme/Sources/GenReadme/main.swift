@@ -1,6 +1,6 @@
 import Cocoa
 import Foundation
-typealias JSONDict = [String: Any]
+import SwiftyJSON
 
 extension Collection {
     subscript (safe index: Index) -> Element? {
@@ -11,14 +11,14 @@ let difficultyEmojis = ["🔞", "😊", "🤨", "😫"]
 let swiftVersion = "5.2"
 
 
-var questions: [JSONDict] = []
+var questions: [JSON] = []
 var solved: [Int: String] = [:]
 var lines: [Int: String] = [:]
 
 let fileManager = FileManager.default;
 
 let currentURL = URL(fileURLWithPath: fileManager.currentDirectoryPath)
-let localCacheURL = URL(fileURLWithPath: "./Scripts/Questions.json", relativeTo: currentURL)
+let localCacheURL = URL(fileURLWithPath: "./Scripts/GenReadme/Questions.json", relativeTo: currentURL)
 let pagesRelativePath = "./LeetCode.playground/Pages/"
 let pagesURL = URL(fileURLWithPath: pagesRelativePath, relativeTo: currentURL)
 let leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
@@ -29,8 +29,7 @@ let task = URLSession.shared.dataTask(with: leetCodeURL!) { (data, _, _) in
     guard let data = data else {
         fatalError("No data")
     }
-    let json = try? JSONSerialization.jsonObject(with: data, options: [JSONSerialization.ReadingOptions.init(rawValue: 0)])
-    questions = (json as! JSONDict) ["stat_status_pairs"] as! [JSONDict]
+    questions = JSON(data)["stat_status_pairs"].arrayValue
     semaphore.signal()
 }
 task.resume()
@@ -52,12 +51,10 @@ if let contents = contents {
 var solvedCount = 0
 
 for question in questions {
-    let stat = question["stat"] as! JSONDict
-    let qid = stat["question_id"] as! Int
-    let difficulty = (question["difficulty"] as! JSONDict)["level"] as! Int
-    let title = stat["question__title"] as! String
-    let title_slug = stat["question__title_slug"] as! String
-
+    let qid = question["stat"]["question_id"].intValue
+    let difficulty = question["difficulty"]["level"].intValue
+    let title = question["stat"]["question__title"].stringValue
+    let title_slug = question["stat"]["question__title_slug"].stringValue
     let difficultyEmoji = difficultyEmojis[safe: difficulty] ?? "🔞"
     if solved.keys.contains(qid) {
         solvedCount += 1
@@ -65,7 +62,6 @@ for question in questions {
     } else {
         lines[qid] = "- [ ] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(title)\n"
     }
-
 }
 
 
@@ -82,3 +78,4 @@ for line in lines.sorted(by: <) {
 }
 
 try output.data(using: String.Encoding.utf8)?.write(to: readmeURL)
+
