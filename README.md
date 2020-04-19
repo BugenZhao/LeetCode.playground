@@ -4,9 +4,9 @@
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-Add Two Numbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers
-- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest Substring Without Repeating Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two\ Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-Add\ Two\ Numbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest\ Substring\ Without\ Repeating\ Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~ 0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion

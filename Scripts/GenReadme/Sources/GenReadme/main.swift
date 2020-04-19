@@ -42,7 +42,7 @@ if let contents = contents {
     for page in contents {
         let qid = Int(page.split(separator: "-")[0])
         if let qid = qid {
-            solved[qid] = pagesRelativePath + page + "/Contents.swift"
+            solved[qid] = pagesRelativePath + page.replacingOccurrences(of: " ", with: "\\ ") + "/Contents.swift"
         }
     }
 }

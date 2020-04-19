@@ -4,6 +4,10 @@ import Foundation
 
 var str = "Hello, playground"
 
+
+let sstr = str.replacingOccurrences(of: " ", with: "\\ ")
+print(sstr)
+
 extension ListNode {
     func toArray() -> [Int] {
         var array = [Int]()
