@@ -1,12 +1,12 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-2%20%2F%201293%20=%200.15%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-3%20%2F%201301%20=%200.23%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-TwoSum.xcplaygroundpage/Contents.swift) 0001. Two Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-AddTwoNumbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~ 0003. Longest Substring Without Repeating Characters
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-Add Two Numbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest Substring Without Repeating Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~ 0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion
@@ -1290,6 +1290,10 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) ~~[S]~~ 1511. Count Number of Teams
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-underground-system/) ~~[S]~~ 1512. Design Underground System
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-all-good-strings/) ~~[S]~~ 1513. Find All Good Strings
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) ~~[S]~~ 1514. Minimum Value to Get Positive Step by Step Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) ~~[S]~~ 1515. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) ~~[S]~~ 1516. The k-th Lexicographical String of All Happy Strings of Length n
+- [ ] 😫 [[Q]](https://leetcode.com/problems/restore-the-array/) ~~[S]~~ 1517. Restore The Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) ~~[S]~~ 1519. Minimum Subsequence in Non-Increasing Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) ~~[S]~~ 1520. Number of Steps to Reduce a Number in Binary Representation to One
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stone-game-iii/) ~~[S]~~ 1522. Stone Game III
@@ -1297,3 +1301,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/queries-on-a-permutation-with-key/) ~~[S]~~ 1525. Queries on a Permutation With Key
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/html-entity-parser/) ~~[S]~~ 1526. HTML Entity Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) ~~[S]~~ 1527. Number of Ways to Paint N × 3 Grid
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reformat-the-string/) ~~[S]~~ 1532. Reformat The String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) ~~[S]~~ 1533. Display Table of Food Orders in a Restaurant
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) ~~[S]~~ 1534. Minimum Number of Frogs Croaking
+- [ ] 😫 [[Q]](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) ~~[S]~~ 1535. Build Array Where You Can Find The Maximum Exactly K Comparisons
