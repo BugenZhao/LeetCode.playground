@@ -51,7 +51,7 @@ if let contents = contents {
 var solvedCount = 0
 
 for question in questions {
-    let qid = question["stat"]["question_id"].intValue
+    let qid = question["stat"]["frontend_question_id"].intValue
     let difficulty = question["difficulty"]["level"].intValue
     let title = question["stat"]["question__title"].stringValue
     let title_slug = question["stat"]["question__title_slug"].stringValue
