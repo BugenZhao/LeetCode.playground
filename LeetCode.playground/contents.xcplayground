@@ -6,5 +6,6 @@
         <page name='2-Add Two Numbers'/>
         <page name='Scratch'/>
         <page name='3-Longest Substring Without Repeating Characters'/>
+        <page name='990-Satisfiability of Equality Equations'/>
     </pages>
 </playground>
