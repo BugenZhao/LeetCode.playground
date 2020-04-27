@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-5%20%2F%201305%20=%200.38%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-7%20%2F%201305%20=%200.54%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -130,7 +130,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~ 0124. Binary Tree Maximum Path Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) ~~[S]~~ 0125. Valid Palindrome
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~ 0126. Word Ladder II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) ~~[S]~~ 0127. Word Ladder
+- [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](./LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~ 0128. Longest Consecutive Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~ 0129. Sum Root to Leaf Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~ 0130. Surrounded Regions
@@ -197,7 +197,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~ 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~ 0209. Minimum Size Subarray Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~ 0210. Course Schedule II
+- [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~ 0211. Add and Search Word - Data structure design
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~ 0212. Word Search II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~ 0213. House Robber II
