@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-4%20%2F%201301%20=%200.31%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-5%20%2F%201305%20=%200.38%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -194,7 +194,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-primes/) ~~[S]~~ 0204. Count Primes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~ 0206. Reverse Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~ 0207. Course Schedule
+- [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~ 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~ 0209. Minimum Size Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~ 0210. Course Schedule II
@@ -1305,3 +1305,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) ~~[S]~~ 1418. Display Table of Food Orders in a Restaurant
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) ~~[S]~~ 1419. Minimum Number of Frogs Croaking
 - [ ] 😫 [[Q]](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) ~~[S]~~ 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) ~~[S]~~ 1422. Maximum Score After Splitting a String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) ~~[S]~~ 1423. Maximum Points You Can Obtain from Cards
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse-ii/) ~~[S]~~ 1424. Diagonal Traverse II
+- [ ] 😫 [[Q]](https://leetcode.com/problems/constrained-subset-sum/) ~~[S]~~ 1425. Constrained Subset Sum

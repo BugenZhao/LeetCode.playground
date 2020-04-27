@@ -7,5 +7,6 @@
         <page name='Scratch'/>
         <page name='3-Longest Substring Without Repeating Characters'/>
         <page name='990-Satisfiability of Equality Equations'/>
+        <page name='207-Course Schedule'/>
     </pages>
 </playground>
