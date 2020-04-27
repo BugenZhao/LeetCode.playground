@@ -8,5 +8,6 @@
         <page name='3-Longest Substring Without Repeating Characters'/>
         <page name='990-Satisfiability of Equality Equations'/>
         <page name='207-Course Schedule'/>
+        <page name='210-Course Schedule II'/>
     </pages>
 </playground>
