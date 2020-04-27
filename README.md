@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-7%20%2F%201305%20=%200.54%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-8%20%2F%201305%20=%200.61%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -696,7 +696,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-and-earn/) ~~[S]~~ 0740. Delete and Earn
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup/) ~~[S]~~ 0741. Cherry Pickup
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) ~~[S]~~ 0742. Closest Leaf in a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) ~~[S]~~ 0743. Network Delay Time
+- [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) ~~[S]~~ 0744. Find Smallest Letter Greater Than Target
 - [ ] 😫 [[Q]](https://leetcode.com/problems/prefix-and-suffix-search/) ~~[S]~~ 0745. Prefix and Suffix Search
 - [ ] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) ~~[S]~~ 0746. Min Cost Climbing Stairs
