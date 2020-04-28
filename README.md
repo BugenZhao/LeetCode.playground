@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-8%20%2F%201305%20=%200.61%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-9%20%2F%201305%20=%200.69%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -385,7 +385,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-function/) ~~[S]~~ 0396. Rotate Function
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) ~~[S]~~ 0397. Integer Replacement
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-index/) ~~[S]~~ 0398. Random Pick Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~ 0399. Evaluate Division
+- [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~ 0400. Nth Digit
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~ 0401. Binary Watch
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) ~~[S]~~ 0402. Remove K Digits
