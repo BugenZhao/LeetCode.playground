@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-9%20%2F%201305%20=%200.69%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-10%20%2F%201305%20=%200.77%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -1230,7 +1230,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rank-transform-of-an-array/) ~~[S]~~ 1331. Rank Transform of an Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-palindromic-subsequences/) ~~[S]~~ 1332. Remove Palindromic Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) ~~[S]~~ 1333. Filter Restaurants by Vegan-Friendly, Price and Distance
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) ~~[S]~~ 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) ~~[S]~~ 1335. Minimum Difficulty of a Job Schedule
 - [ ] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) ~~[S]~~ 1337. The K Weakest Rows in a Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reduce-array-size-to-the-half/) ~~[S]~~ 1338. Reduce Array Size to The Half
