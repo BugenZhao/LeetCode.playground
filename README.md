@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-10%20%2F%201305%20=%200.77%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-13%20%2F%201305%20=%201.00%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -35,7 +35,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~ 0031. Next Permutation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~ 0032. Longest Valid Parentheses
+- [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~ 0033. Search in Rotated Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~ 0034. Find First and Last Position of Element in Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) ~~[S]~~ 0035. Search Insert Position
@@ -73,7 +73,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-binary/) ~~[S]~~ 0067. Add Binary
 - [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) ~~[S]~~ 0069. Sqrt(x)
-- [ ] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) ~~[S]~~ 0070. Climbing Stairs
+- [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
 - [ ] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) ~~[S]~~ 0072. Edit Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
@@ -699,7 +699,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) ~~[S]~~ 0744. Find Smallest Letter Greater Than Target
 - [ ] 😫 [[Q]](https://leetcode.com/problems/prefix-and-suffix-search/) ~~[S]~~ 0745. Prefix and Suffix Search
-- [ ] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) ~~[S]~~ 0746. Min Cost Climbing Stairs
+- [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) ~~[S]~~ 0747. Largest Number At Least Twice of Others
 - [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-completing-word/) ~~[S]~~ 0748. Shortest Completing Word
 - [ ] 😫 [[Q]](https://leetcode.com/problems/contain-virus/) ~~[S]~~ 0749. Contain Virus
