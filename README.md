@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-15%20%2F%201305%20=%201.15%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-16%20%2F%201305%20=%201.23%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -99,7 +99,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~ 0093. Restore IP Addresses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~ 0095. Unique Binary Search Trees II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) ~~[S]~~ 0096. Unique Binary Search Trees
+- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](./LeetCode.playground/Pages/96-Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees
 - [ ] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) ~~[S]~~ 0097. Interleaving String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~ 0098. Validate Binary Search Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
