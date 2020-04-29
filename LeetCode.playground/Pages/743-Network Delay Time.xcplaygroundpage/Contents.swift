@@ -68,3 +68,36 @@ class SolutionDijkstra {
 
 SolutionDijkstra().networkDelayTime([[2, 1, 1], [2, 3, 1], [3, 4, 1]], 4, 2)
 SolutionDijkstra().networkDelayTime([[1, 2, 1]], 2, 2)
+
+class SolutionDijkstraPQ {
+    func networkDelayTime(_ times: [[Int]], _ N: Int, _ K: Int) -> Int {
+        typealias Node = Int
+        typealias Weight = Int
+        let inf = Weight.max / 3 // avoid overflow
+
+        var adj = [[(node: Node, weight: Weight)]](repeating: [], count: N + 1)
+        times.forEach { adj[$0[0]].append((node: $0[1], weight: $0[2])) }
+
+        var dist = [Weight](repeating: inf, count: N + 1)
+        dist[K] = 0
+        let pq = PriorityQueue<(node: Node, dist: Weight)>(by: { $0.dist < $1.dist })
+        pq.enqueue((K, 0))
+
+        while !pq.isEmpty {
+            let u = pq.dequeue()!
+            if u.dist > dist[u.node] { continue } // out-dated info
+            adj[u.node].forEach { v, weight in
+                if dist[v] > dist[u.node] + weight  {
+                    dist[v] = dist[u.node] + weight
+                    pq.enqueue((v, dist[v]))
+                }
+            }
+        }
+
+        let ans = dist.dropFirst().max()! // v = 0 is not used
+        return ans == inf ? -1 : ans
+    }
+}
+
+SolutionDijkstraPQ().networkDelayTime([[2, 1, 1], [2, 3, 1], [3, 4, 1]], 4, 2)
+SolutionDijkstraPQ().networkDelayTime([[1, 2, 1]], 2, 2)
