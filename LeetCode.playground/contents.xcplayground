@@ -16,5 +16,6 @@
         <page name='70-Climbing Stairs'/>
         <page name='746-Min Cost Climbing Stairs'/>
         <page name='32-Longest Valid Parentheses'/>
+        <page name='53-Maximum Subarray'/>
     </pages>
 </playground>

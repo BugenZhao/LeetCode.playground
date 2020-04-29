@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-13%20%2F%201305%20=%201.00%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-14%20%2F%201305%20=%201.07%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -56,7 +56,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) ~~[S]~~ 0050. Pow(x, n)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~ 0051. N-Queens
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~ 0052. N-Queens II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) ~~[S]~~ 0053. Maximum Subarray
+- [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) ~~[S]~~ 0055. Jump Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~ 0056. Merge Intervals
