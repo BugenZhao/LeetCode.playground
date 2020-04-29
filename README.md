@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-14%20%2F%201305%20=%201.07%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-15%20%2F%201305%20=%201.15%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -94,7 +94,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/merge-sorted-array/) ~~[S]~~ 0088. Merge Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gray-code/) ~~[S]~~ 0089. Gray Code
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) ~~[S]~~ 0090. Subsets II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) ~~[S]~~ 0091. Decode Ways
+- [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](./LeetCode.playground/Pages/91-Decode%20Ways.xcplaygroundpage/Contents.swift) 0091. Decode Ways
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) ~~[S]~~ 0092. Reverse Linked List II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~ 0093. Restore IP Addresses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
