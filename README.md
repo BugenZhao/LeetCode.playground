@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-16%20%2F%201305%20=%201.23%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-17%20%2F%201305%20=%201.30%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -264,7 +264,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~ 0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~ 0277. Find the Celebrity
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) ~~[S]~~ 0278. First Bad Version
+- [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~ 0279. Perfect Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~ 0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~ 0281. Zigzag Iterator
@@ -1308,4 +1308,4 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) ~~[S]~~ 1422. Maximum Score After Splitting a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) ~~[S]~~ 1423. Maximum Points You Can Obtain from Cards
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse-ii/) ~~[S]~~ 1424. Diagonal Traverse II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/constrained-subset-sum/) ~~[S]~~ 1425. Constrained Subset Sum
+- [ ] 😫 [[Q]](https://leetcode.com/problems/constrained-subsequence-sum/) ~~[S]~~ 1425. Constrained Subsequence Sum
