@@ -17,5 +17,9 @@
         <page name='746-Min Cost Climbing Stairs'/>
         <page name='32-Longest Valid Parentheses'/>
         <page name='53-Maximum Subarray'/>
+        <page name='91-Decode Ways'/>
+        <page name='96-Unique Binary Search Trees'/>
+        <page name='278-First Bad Version'/>
+        <page name='771-Jewels and Stones '/>
     </pages>
 </playground>

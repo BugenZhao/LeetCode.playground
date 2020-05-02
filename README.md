@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-17%20%2F%201305%20=%201.30%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-18%20%2F%201310%20=%201.37%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -724,7 +724,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) ~~[S]~~ 0768. Max Chunks To Make Sorted II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/max-chunks-to-make-sorted/) ~~[S]~~ 0769. Max Chunks To Make Sorted
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iv/) ~~[S]~~ 0770. Basic Calculator IV
-- [ ] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) ~~[S]~~ 0771. Jewels and Stones
+- [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator-iii/) ~~[S]~~ 0772. Basic Calculator III
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-puzzle/) ~~[S]~~ 0773. Sliding Puzzle
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) ~~[S]~~ 0774. Minimize Max Distance to Gas Station
@@ -1309,3 +1309,8 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) ~~[S]~~ 1423. Maximum Points You Can Obtain from Cards
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse-ii/) ~~[S]~~ 1424. Diagonal Traverse II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/constrained-subsequence-sum/) ~~[S]~~ 1425. Constrained Subsequence Sum
+- [ ] 😊 [[Q]](https://leetcode.com/problems/counting-elements/) ~~[S]~~ 1426. Counting Elements
+- [ ] 😊 [[Q]](https://leetcode.com/problems/perform-string-shifts/) ~~[S]~~ 1427. Perform String Shifts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) ~~[S]~~ 1428. Leftmost Column with at Least a One
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/first-unique-number/) ~~[S]~~ 1429. First Unique Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) ~~[S]~~ 1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
