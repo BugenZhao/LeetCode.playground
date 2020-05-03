@@ -21,5 +21,6 @@
         <page name='96-Unique Binary Search Trees'/>
         <page name='278-First Bad Version'/>
         <page name='771-Jewels and Stones '/>
+        <page name='383-Ransom Note'/>
     </pages>
 </playground>

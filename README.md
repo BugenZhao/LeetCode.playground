@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-18%20%2F%201310%20=%201.37%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-19%20%2F%201318%20=%201.44%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -369,7 +369,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) ~~[S]~~ 0380. Insert Delete GetRandom O(1)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~ 0381. Insert Delete GetRandom O(1) - Duplicates allowed
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-random-node/) ~~[S]~~ 0382. Linked List Random Node
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) ~~[S]~~ 0383. Ransom Note
+- [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~ 0384. Shuffle an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~ 0385. Mini Parser
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~ 0386. Lexicographical Numbers
@@ -1314,3 +1314,11 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) ~~[S]~~ 1428. Leftmost Column with at Least a One
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/first-unique-number/) ~~[S]~~ 1429. First Unique Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) ~~[S]~~ 1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) ~~[S]~~ 1431. Kids With the Greatest Number of Candies
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) ~~[S]~~ 1432. Max Difference You Can Get From Changing an Integer
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) ~~[S]~~ 1433. Check If a String Can Break Another String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) ~~[S]~~ 1434. Number of Ways to Wear Different Hats to Each Other
+- [ ] 😊 [[Q]](https://leetcode.com/problems/destination-city/) ~~[S]~~ 1436. Destination City
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) ~~[S]~~ 1437. Check If All 1's Are at Least Length K Places Away
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) ~~[S]~~ 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) ~~[S]~~ 1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
