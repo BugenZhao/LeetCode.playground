@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-21%20%2F%201318%20=%201.59%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-22%20%2F%201318%20=%201.67%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -373,7 +373,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~ 0384. Shuffle an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~ 0385. Mini Parser
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~ 0386. Lexicographical Numbers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) ~~[S]~~ 0387. First Unique Character in a String
+- [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-absolute-file-path/) ~~[S]~~ 0388. Longest Absolute File Path
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~ 0389. Find the Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~ 0390. Elimination Game
