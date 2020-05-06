@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-25%20%2F%201318%20=%201.90%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-26%20%2F%201318%20=%201.97%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -142,7 +142,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/single-number/) ~~[S]~~ 0136. Single Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) ~~[S]~~ 0137. Single Number II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) ~~[S]~~ 0138. Copy List with Random Pointer
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-break/) ~~[S]~~ 0139. Word Break
+- [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) ~~[S]~~ 0140. Word Break II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) ~~[S]~~ 0141. Linked List Cycle
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) ~~[S]~~ 0142. Linked List Cycle II
