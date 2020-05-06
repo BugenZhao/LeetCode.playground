@@ -24,5 +24,8 @@
         <page name='383-Ransom Note'/>
         <page name='1009-Complement of Base 10 Integer'/>
         <page name='8-String to Integer (atoi)'/>
+        <page name='169-Majority Element'/>
+        <page name='387-First Unique Character in a String'/>
+        <page name='120-Triangle'/>
     </pages>
 </playground>
