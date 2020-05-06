@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-22%20%2F%201318%20=%201.67%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-25%20%2F%201318%20=%201.90%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -123,7 +123,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) ~~[S]~~ 0117. Populating Next Right Pointers in Each Node II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~ 0118. Pascal's Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~ 0119. Pascal's Triangle II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/triangle/) ~~[S]~~ 0120. Triangle
+- [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ~~[S]~~ 0121. Best Time to Buy and Sell Stock
 - [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ~~[S]~~ 0122. Best Time to Buy and Sell Stock II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~ 0123. Best Time to Buy and Sell Stock III
@@ -134,7 +134,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~ 0128. Longest Consecutive Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~ 0129. Sum Root to Leaf Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~ 0130. Surrounded Regions
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) ~~[S]~~ 0131. Palindrome Partitioning
+- [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](./LeetCode.playground/Pages/131-Palindrome%20Partitioning.xcplaygroundpage/Contents.swift) 0131. Palindrome Partitioning
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) ~~[S]~~ 0132. Palindrome Partitioning II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~ 0133. Clone Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~ 0134. Gas Station
@@ -172,7 +172,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~ 0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~ 0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~ 0168. Excel Sheet Column Title
-- [ ] 😊 [[Q]](https://leetcode.com/problems/majority-element/) ~~[S]~~ 0169. Majority Element
+- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~ 0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~ 0171. Excel Sheet Column Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes

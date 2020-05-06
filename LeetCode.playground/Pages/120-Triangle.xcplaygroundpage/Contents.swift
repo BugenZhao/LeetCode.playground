@@ -1,5 +1,4 @@
-/** Dynamic Programming **/
-
+//: Bottom-up dynamic programming in `O(n)` space
 class Solution {
     func minimumTotal(_ triangle: [[Int]]) -> Int {
         guard !triangle.isEmpty else { return 0 }
@@ -9,7 +8,7 @@ class Solution {
         distances[0] = triangle[0][0]
 
         for level in 1..<N {
-            for i in (0...level).reversed() {  //: `reversed()` to achieve `O(n)` space
+            for i in (0...level).reversed() {  //: `reversed()` to reach `O(n)` space
                 if i == level { distances[i] = triangle[level][i] + distances[i - 1] }
                 else if i == 0 { distances[i] = triangle[level][i] + distances[i] }
                 else { distances[i] = triangle[level][i] + min(distances[i], distances[i - 1]) }

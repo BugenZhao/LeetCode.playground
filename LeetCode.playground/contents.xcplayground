@@ -27,5 +27,6 @@
         <page name='169-Majority Element'/>
         <page name='387-First Unique Character in a String'/>
         <page name='120-Triangle'/>
+        <page name='131-Palindrome Partitioning'/>
     </pages>
 </playground>
