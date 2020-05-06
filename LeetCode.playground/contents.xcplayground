@@ -29,6 +29,7 @@
         <page name='120-Triangle'/>
         <page name='131-Palindrome Partitioning'/>
         <page name='139-Word Break'/>
-        <page name='132-Palindrome Partitioning II'/>
+        <page name='132-Palindrome Partitioning II-D'/>
+        <page name='1278-Palindrome Partitioning III'/>
     </pages>
 </playground>
