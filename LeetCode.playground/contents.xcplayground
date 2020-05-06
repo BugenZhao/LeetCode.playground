@@ -31,5 +31,7 @@
         <page name='139-Word Break'/>
         <page name='132-Palindrome Partitioning II-D'/>
         <page name='1278-Palindrome Partitioning III'/>
+        <page name='121-Best Time to Buy and Sell Stock'/>
+        <page name='122-Best Time to Buy and Sell Stock II'/>
     </pages>
 </playground>

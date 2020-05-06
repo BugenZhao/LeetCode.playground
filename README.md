@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-28%20%2F%201318%20=%202.12%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-30%20%2F%201318%20=%202.28%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -124,8 +124,8 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~ 0118. Pascal's Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~ 0119. Pascal's Triangle II
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ~~[S]~~ 0121. Best Time to Buy and Sell Stock
-- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ~~[S]~~ 0122. Best Time to Buy and Sell Stock II
+- [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock
+- [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~ 0123. Best Time to Buy and Sell Stock III
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~ 0124. Binary Tree Maximum Path Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) ~~[S]~~ 0125. Valid Palindrome
