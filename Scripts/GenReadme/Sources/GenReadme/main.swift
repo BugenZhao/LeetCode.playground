@@ -41,7 +41,7 @@ if let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) {
     for page in contents {
         if let qid = Int(page.split(separator: "-")[0]) {
             solved[qid] = pagesRelativePath + page.replacingOccurrences(of: " ", with: "%20") + "/Contents.swift"
-            if page.hasSuffix("-D") { starred.insert(qid) }
+            if page.hasSuffix("-D.xcplaygroundpage") { starred.insert(qid) }
         }
     }
 }
@@ -54,10 +54,10 @@ for question in questions {
     let difficulty = question["difficulty"]["level"].intValue
     let title = question["stat"]["question__title"].stringValue
     let title_slug = question["stat"]["question__title_slug"].stringValue
-    let difficultyEmoji = difficultyEmojis[safe: difficulty] ?? "🔞"
+    let difficultyEmoji = starred.contains(qid) ? "🔞" : difficultyEmojis[safe: difficulty] ?? "🔞"
     if solved.keys.contains(qid) {
         solvedCount += 1
-        lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\(starred.contains(qid) ? " ⭐️" : "")\n"
+        lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\n"
     } else {
         lines[qid] = "- [ ] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(title)\n"
     }

@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-26%20%2F%201318%20=%201.97%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-27%20%2F%201318%20=%202.05%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -135,7 +135,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~ 0129. Sum Root to Leaf Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~ 0130. Surrounded Regions
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](./LeetCode.playground/Pages/131-Palindrome%20Partitioning.xcplaygroundpage/Contents.swift) 0131. Palindrome Partitioning
-- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) ~~[S]~~ 0132. Palindrome Partitioning II
+- [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II-D.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~ 0133. Clone Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~ 0134. Gas Station
 - [ ] 😫 [[Q]](https://leetcode.com/problems/candy/) ~~[S]~~ 0135. Candy
