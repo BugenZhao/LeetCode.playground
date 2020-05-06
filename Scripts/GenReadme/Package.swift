@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "GenReadme",
     platforms: [
-       .macOS(.v10_14),
+       .macOS(.v10_15),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -17,9 +17,6 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .target(
             name: "GenReadme",
-            dependencies: ["SwiftyJSON"]),
-        .testTarget(
-            name: "GenReadmeTests",
-            dependencies: ["GenReadme"]),
+            dependencies: ["SwiftyJSON"])
     ]
 )

@@ -11,9 +11,10 @@ let difficultyEmojis = ["🔞", "😊", "🤨", "😫"]
 let swiftVersion = "5.2"
 
 
-var questions: [JSON] = []
-var solved: [Int: String] = [:]
-var lines: [Int: String] = [:]
+var questions = [JSON]()
+var solved = [Int: String]()
+var lines = [Int: String]()
+var starred = Set<Int>()
 
 let fileManager = FileManager.default;
 
@@ -36,13 +37,11 @@ task.resume()
 semaphore.wait()
 
 
-let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path)
-
-if let contents = contents {
+if let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) {
     for page in contents {
-        let qid = Int(page.split(separator: "-")[0])
-        if let qid = qid {
+        if let qid = Int(page.split(separator: "-")[0]) {
             solved[qid] = pagesRelativePath + page.replacingOccurrences(of: " ", with: "%20") + "/Contents.swift"
+            if page.hasSuffix("-D") { starred.insert(qid) }
         }
     }
 }
@@ -58,7 +57,7 @@ for question in questions {
     let difficultyEmoji = difficultyEmojis[safe: difficulty] ?? "🔞"
     if solved.keys.contains(qid) {
         solvedCount += 1
-        lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\n"
+        lines[qid] = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) [[S]](\(solved[qid]!)) \(String(format: "%04d", qid)). \(title)\(starred.contains(qid) ? " ⭐️" : "")\n"
     } else {
         lines[qid] = "- [ ] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(title_slug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(title)\n"
     }
