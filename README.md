@@ -1,6 +1,6 @@
 # LeetCode.swift
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-30%20%2F%201318%20=%202.28%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-36%20%2F%201318%20=%202.73%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift playground.
 ## Problems
@@ -8,7 +8,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-Add%20Two%20Numbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest%20Substring%20Without%20Repeating%20Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~ 0005. Longest Palindromic Substring
+- [X] 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](./LeetCode.playground/Pages/5-Longest%20Palindromic%20Substring-D.xcplaygroundpage/Contents.swift) 0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~ 0007. Reverse Integer
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi)
@@ -100,7 +100,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~ 0095. Unique Binary Search Trees II
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](./LeetCode.playground/Pages/96-Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) ~~[S]~~ 0097. Interleaving String
+- [X] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) [[S]](./LeetCode.playground/Pages/97-Interleaving%20String.xcplaygroundpage/Contents.swift) 0097. Interleaving String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~ 0098. Validate Binary Search Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/same-tree/) ~~[S]~~ 0100. Same Tree
@@ -126,7 +126,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~ 0123. Best Time to Buy and Sell Stock III
+- [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](./LeetCode.playground/Pages/123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III-D.xcplaygroundpage/Contents.swift) 0123. Best Time to Buy and Sell Stock III
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~ 0124. Binary Tree Maximum Path Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) ~~[S]~~ 0125. Valid Palindrome
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~ 0126. Word Ladder II
@@ -395,7 +395,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) ~~[S]~~ 0406. Queue Reconstruction by Height
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) ~~[S]~~ 0409. Longest Palindrome
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome
 - [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~ 0410. Split Array Largest Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~ 0411. Minimum Unique Word Abbreviation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~ 0412. Fizz Buzz
@@ -946,7 +946,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](./LeetCode.playground/Pages/990-Satisfiability%20of%20Equality%20Equations.xcplaygroundpage/Contents.swift) 0990. Satisfiability of Equality Equations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) ~~[S]~~ 0991. Broken Calculator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/subarrays-with-k-different-integers/) ~~[S]~~ 0992. Subarrays with K Different Integers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) ~~[S]~~ 0993. Cousins in Binary Tree
+- [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) ~~[S]~~ 0994. Rotting Oranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) ~~[S]~~ 0995. Minimum Number of K Consecutive Bit Flips
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-squareful-arrays/) ~~[S]~~ 0996. Number of Squareful Arrays
@@ -1314,7 +1314,7 @@ Bugen's LeetCode solutions in Swift playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) ~~[S]~~ 1428. Leftmost Column with at Least a One
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/first-unique-number/) ~~[S]~~ 1429. First Unique Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) ~~[S]~~ 1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) ~~[S]~~ 1431. Kids With the Greatest Number of Candies
+- [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) ~~[S]~~ 1432. Max Difference You Can Get From Changing an Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) ~~[S]~~ 1433. Check If a String Can Break Another String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) ~~[S]~~ 1434. Number of Ways to Wear Different Hats to Each Other
