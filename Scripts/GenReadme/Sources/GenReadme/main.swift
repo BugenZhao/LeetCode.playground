@@ -67,10 +67,10 @@ for question in questions {
 let readmeURL = URL(fileURLWithPath: "./README.md", relativeTo: currentURL)
 
 var output = ""
-output += "# LeetCode.swift\n"
+output += "# LeetCode.playground\n"
 output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
 output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(lines.count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(lines.count)))%25-orange.svg)\n\n"
-output += "Bugen's LeetCode solutions in Swift playground.\n"
+output += "Bugen's LeetCode solutions in Swift Playground.\n"
 output += "## Problems\n"
 for line in lines.sorted(by: <) {
     output += line.value
