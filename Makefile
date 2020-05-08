@@ -1,7 +1,11 @@
-all:
-	@echo "Hello!"
+all: gen icloud
+	
 gen:
 	swift run --package-path Scripts/GenReadme
-clean_readme:
+	
+icloud:
+	cp -rf ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
+
+clean:
 	rm -f README.md
 	rm -f ./Scripts/*.json
