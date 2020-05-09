@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-40%20%2F%201318%20=%203.03%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-41%20%2F%201318%20=%203.11%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Problems
@@ -315,7 +315,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~ 0326. Power of Three
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~ 0327. Count of Range Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) ~~[S]~~ 0328. Odd Even Linked List
-- [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~ 0329. Longest Increasing Path in a Matrix
+- [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~ 0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~ 0331. Verify Preorder Serialization of a Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) ~~[S]~~ 0332. Reconstruct Itinerary
