@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-39%20%2F%201318%20=%202.96%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-40%20%2F%201318%20=%203.03%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Problems
@@ -353,7 +353,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nested-list-weight-sum-ii/) ~~[S]~~ 0364. Nested List Weight Sum II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/water-and-jug-problem/) ~~[S]~~ 0365. Water and Jug Problem
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~ 0366. Find Leaves of Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) ~~[S]~~ 0367. Valid Perfect Square
+- [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) ~~[S]~~ 0368. Largest Divisible Subset
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~ 0369. Plus One Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~ 0370. Range Addition
