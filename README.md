@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-41%20%2F%201318%20=%203.11%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-42%20%2F%201318%20=%203.19%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Problems
@@ -803,7 +803,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~ 0847. Shortest Path Visiting All Nodes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) ~~[S]~~ 0848. Shifting Letters
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~ 0849. Maximize Distance to Closest Person
-- [ ] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) ~~[S]~~ 0850. Rectangle Area II
+- [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~ 0851. Loud and Rich
 - [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~ 0852. Peak Index in a Mountain Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/car-fleet/) ~~[S]~~ 0853. Car Fleet
