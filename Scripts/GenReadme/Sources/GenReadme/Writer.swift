@@ -39,8 +39,8 @@ class Writer {
         output += "</details>\n"
 
         output += "\n## How am I generated?\n"
-        output += "This generator is based on *Swift*. It walks the directories and *analyzes the syntax of each solution* to fetch its meta info.\n\nFor example, it can collect tags if the following statement appears in the solution:\n\n"
-        output += "```swift\nlet tags: [Tag] = [.marked, .dp]\n```\n\n"
+        output += "Based on *SwiftSyntax*, the generator walks through the directories and analyzes the syntax of each solution to fetch its metadata.\n\nFor example, it can collect the tag info if the following statement appears in the solution:\n\n"
+        output += "```swift\nlet tags: [Tag] = [.marked, .dp, .graph]\n```\n\n"
         output += "For more details, check [here](./Scripts/GenReadme/)!"
 
 
