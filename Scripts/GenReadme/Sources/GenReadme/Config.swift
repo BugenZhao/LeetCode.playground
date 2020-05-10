@@ -20,6 +20,7 @@ let pagesRelativePath = "./LeetCode.playground/Pages/"
 let pagesURL = URL(fileURLWithPath: pagesRelativePath, relativeTo: currentURL)
 
 let readmeURL = URL(fileURLWithPath: "./README.md", relativeTo: currentURL)
+let helloPageURL = URL(fileURLWithPath: "./LeetCode.playground/Pages/Hello.xcplaygroundpage/Contents.swift", relativeTo: currentURL)
 
 func makePath(tag: Tag, urlAllowed: Bool = false) -> String {
     let path = "./Tags/\(tag.rawDescription).md"
@@ -30,3 +31,5 @@ func makePath(tag: Tag, urlAllowed: Bool = false) -> String {
 func makeURL(tag: Tag, urlAllowed: Bool = false) -> URL {
     return URL(fileURLWithPath: makePath(tag: tag, urlAllowed: urlAllowed), relativeTo: currentURL)
 }
+
+let pageSuffixCount = ".xcplaygroundpage".count

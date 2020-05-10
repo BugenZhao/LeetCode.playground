@@ -15,10 +15,12 @@ typealias QuestionDict = [Qid: Question]
 struct Question {
     var solved = false
     var solvedPath = ""
+    var solvedPagePath = ""
     var tags = [Tag]()
     var marked = false
     var line = ""
     var lineForTag = ""
+    var lineForXcode = ""
 
     var qid: Int
     var difficulty: Int
@@ -62,8 +64,8 @@ struct Question {
             contents.forEach { page in
                 if let qid = Int(page.split(separator: "-")[0]) {
                     dict[qid]?.solved = true
-                    dict[qid]?.solvedPath =
-                        "\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")"
+                    dict[qid]?.solvedPath = "\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")"
+                    dict[qid]?.solvedPagePath = String("\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)".dropLast(pageSuffixCount))
                     solvedCount += 1
 
                     let (tags, marked) = Parser.parseTags(pagesURL.appendingPathComponent("\(page)/Contents.swift"))
@@ -78,19 +80,27 @@ struct Question {
         dict.forEach { qid, question in
             var line: String
             var lineForTag: String
-            
+            var lineForXcode: String
+
             if question.solved {
                 line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 lineForTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](../\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
+                lineForXcode = "- \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPagePath)) \(String(format: "%04d", qid)). \(question.title) "
+                
                 let tags = question.tags.drop(while: { $0 == .marked })
-                if !tags.isEmpty { line.append("*\(tags)*") }
+                if !tags.isEmpty {
+                    line.append("*\(tags)*")
+                    lineForXcode.append("*\(tags)*")
+                }
             } else {
                 line = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
                 lineForTag = line
+                lineForXcode = line
             }
 
             dict[qid]!.line = line
             dict[qid]!.lineForTag = lineForTag
+            dict[qid]!.lineForXcode = lineForXcode
         }
     }
 }

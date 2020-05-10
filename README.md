@@ -64,6 +64,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
+
+<details>
+<summary>Todo</summary>
+
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~ 0007. Reverse Integer
@@ -1344,6 +1348,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) ~~[S]~~ 1442. Count Triplets That Can Form Two Arrays of Equal XOR
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) ~~[S]~~ 1443. Minimum Time to Collect All Apples in a Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) ~~[S]~~ 1444. Number of Ways of Cutting a Pizza
+</details>
 
 ## How am I generated?
 This generator is based on *Swift*. It walks the directories and *analyzes the syntax of each solution* to fetch its meta info.
