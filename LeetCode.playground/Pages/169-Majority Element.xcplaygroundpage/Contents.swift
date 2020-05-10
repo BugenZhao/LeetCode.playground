@@ -1,3 +1,5 @@
+let tags: [Tag] = [.array]
+
 class Solution {
     func majorityElement(_ nums: [Int]) -> Int {
         var ans = nums.first! // Stack top

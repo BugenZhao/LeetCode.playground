@@ -1,5 +1,7 @@
 //: Dynamic programming
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     func isInterleave(_ s1: String, _ s2: String, _ s3: String) -> Bool {
         let s1 = Array(s1) ; let s2 = Array(s2) ; let s3 = Array(s3)

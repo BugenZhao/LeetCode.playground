@@ -1,5 +1,7 @@
 // Floyd Warshall
 
+let tags: [Tag] = [.graph]
+
 class Solution {
     func findTheCity(_ n: Int, _ edges: [[Int]], _ distanceThreshold: Int) -> Int {
         typealias Node = Int

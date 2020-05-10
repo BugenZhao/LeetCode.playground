@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.string]
+
 class Solution {
     func myAtoi(_ str: String) -> Int {
         var str = str.trimmingCharacters(in: .whitespaces)

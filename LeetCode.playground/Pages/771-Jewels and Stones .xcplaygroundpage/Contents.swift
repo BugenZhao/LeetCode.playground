@@ -1,3 +1,5 @@
+let tags: [Tag] = [.hash]
+
 class Solution {
     func numJewelsInStones(_ J: String, _ S: String) -> Int {
         let setJ = Set<Character>(J.map { $0 })

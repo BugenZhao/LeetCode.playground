@@ -1,5 +1,7 @@
 // Dynamic Programming
 
+let tags: [Tag] = [.dp]
+
 class SolutionDP {
     func numDecodings(_ s: String) -> Int {
         guard !s.isEmpty else { return 0 }

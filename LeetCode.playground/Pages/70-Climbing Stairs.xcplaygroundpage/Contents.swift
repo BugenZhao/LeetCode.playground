@@ -1,5 +1,7 @@
 // Dynamic Programming
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     func climbStairs(_ n: Int) -> Int {
         guard n >= 2 else { return 1 }

@@ -1,5 +1,7 @@
 // Single source shortest paths
 
+let tags: [Tag] = [.graph]
+
 // Bellman Ford
 class SolutionBF {
     func networkDelayTime(_ times: [[Int]], _ N: Int, _ K: Int) -> Int {

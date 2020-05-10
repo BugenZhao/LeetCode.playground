@@ -1,5 +1,6 @@
 // Find a cycle in a directed graph
 
+let tags: [Tag] = [.graph]
 
 class SolutionDFS {
     func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {

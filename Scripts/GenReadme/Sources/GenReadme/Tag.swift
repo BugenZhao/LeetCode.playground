@@ -9,11 +9,13 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return self.rawDescription
         }
     }
-    
+
     public var rawDescription: String {
         switch self {
         case .marked:
             return "Marked"
+        case .array:
+            return "Array"
         case .hash:
             return "Hash Table"
         case .list:
@@ -34,12 +36,17 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Graph"
         case .math:
             return "Mathematics"
+        case .union:
+            return "Union Find"
+        case .string:
+            return "String"
+        case .greedy:
+            return "Greedy"
         }
     }
 
     case marked
-    case hash, list, heap
-    case sort
-    case binSearch, twoPtrs
-    case dp, tree, graph, math
+    case array, hash, list, heap, tree, graph, string
+    case sort, binSearch, twoPtrs, union
+    case dp, greedy, math
 }

@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.math, .binSearch]
+
 class Solution {
     func isPerfectSquare(_ num: Int) -> Bool {
         guard num >= 0 else { return false }

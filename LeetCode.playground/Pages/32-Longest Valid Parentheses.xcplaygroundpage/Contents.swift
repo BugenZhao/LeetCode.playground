@@ -1,6 +1,8 @@
 // Dynamic Programming
 //: ![Figure](32.png)
 
+let tags: [Tag] = [.dp]
+
 extension Array {
     subscript (_ index: Index, default default: Element) -> Element {
         return indices.contains(index) ? self[index]: `default`

@@ -1,5 +1,7 @@
 // A variation of Floyd Warshall
 
+let tags: [Tag] = [.graph]
+
 class SolutionFloyd {
     func calcEquation(_ equations: [[String]], _ values: [Double], _ queries: [[String]]) -> [Double] {
         var quot = [String: [String: Double]]()

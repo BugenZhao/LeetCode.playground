@@ -1,6 +1,9 @@
 /*:
  Allow multiple transactions -> *greedy*
  */
+
+let tags: [Tag] = [.greedy]
+
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
         guard prices.count >= 1 else { return 0 }

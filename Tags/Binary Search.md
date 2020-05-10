@@ -4,4 +4,5 @@
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
-*[No solution yet]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](<./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift>) 0278. First Bad Version *[Binary Search]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](<./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift>) 0367. Valid Perfect Square *[Mathematics, Binary Search]*

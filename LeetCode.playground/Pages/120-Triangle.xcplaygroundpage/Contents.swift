@@ -1,3 +1,5 @@
+let tags: [Tag] = [.dp, .graph]
+
 //: Bottom-up dynamic programming in `O(n)` space
 class Solution {
     func minimumTotal(_ triangle: [[Int]]) -> Int {

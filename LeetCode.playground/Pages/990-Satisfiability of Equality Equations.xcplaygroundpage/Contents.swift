@@ -1,3 +1,5 @@
+let tags: [Tag] = [.union]
+
 class Solution {
     func equationsPossible(_ equations: [String]) -> Bool {
         var id = [Character: Character]()

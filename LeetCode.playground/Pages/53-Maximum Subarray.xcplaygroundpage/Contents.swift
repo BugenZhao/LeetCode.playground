@@ -1,3 +1,5 @@
+let tags: [Tag] = [.dp]
+
 class SolutionDP {
     func maxSubArray(_ nums: [Int]) -> Int {
         guard !nums.isEmpty else { return 0 }

@@ -1,6 +1,9 @@
 /*:
  Only one transaction -> Dynamic programming
  */
+
+let tags: [Tag] = [.dp]
+
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
         guard !prices.isEmpty else { return 0 }

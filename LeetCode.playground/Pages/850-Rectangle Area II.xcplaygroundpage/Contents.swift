@@ -2,6 +2,8 @@
 
 import Foundation
 
+let tags: [Tag] = [.math]
+
 class Solution {
     func rectangleArea(_ rectangles: [[Int]]) -> Int {
         var xSet = Set<Int>()

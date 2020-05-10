@@ -1,5 +1,7 @@
 // Dynamic Programming
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     func numTrees(_ n: Int) -> Int {
         var dp = [Int](repeating: 0, count: max(3, n + 1))

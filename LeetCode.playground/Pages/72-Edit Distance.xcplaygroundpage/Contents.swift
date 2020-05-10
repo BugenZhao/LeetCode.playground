@@ -1,5 +1,7 @@
 //: Dynamic programming.
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     func minDistance(_ word1: String, _ word2: String) -> Int {
         let word1 = Array(word1)

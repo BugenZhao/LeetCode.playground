@@ -5,6 +5,8 @@
    - Pair as key -> avoid initialization overhead of `memo`
  */
 
+let tags: [Tag] = [.dp]
+
 class SolutionPreCost {
     func palindromePartition(_ s: String, _ k: Int) -> Int {
         guard !s.isEmpty else { return 0 }

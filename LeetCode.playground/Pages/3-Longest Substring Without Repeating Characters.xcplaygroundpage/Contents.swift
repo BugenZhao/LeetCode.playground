@@ -1,6 +1,6 @@
-//: [Previous](@previous)
-
 import Foundation
+
+let tags: [Tag] = [.array]
 
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {  // Scrolling windows

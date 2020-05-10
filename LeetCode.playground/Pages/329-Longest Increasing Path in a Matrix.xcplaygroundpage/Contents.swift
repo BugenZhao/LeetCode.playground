@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.graph]
+
 class Solution {
     func longestIncreasingPath(_ matrix: [[Int]]) -> Int {
         guard !matrix.isEmpty else { return 0 }

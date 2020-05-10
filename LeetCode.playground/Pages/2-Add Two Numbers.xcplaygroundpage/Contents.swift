@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.list]
+
 class Solution {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?, _ carried: Bool = false) -> ListNode? {
         guard let l1 = l1 else {

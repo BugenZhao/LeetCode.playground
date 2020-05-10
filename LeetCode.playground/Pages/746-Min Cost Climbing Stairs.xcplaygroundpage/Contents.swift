@@ -1,5 +1,7 @@
 // Dynamic Programming
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     func minCostClimbingStairs(_ cost: [Int]) -> Int {
         let count = cost.count

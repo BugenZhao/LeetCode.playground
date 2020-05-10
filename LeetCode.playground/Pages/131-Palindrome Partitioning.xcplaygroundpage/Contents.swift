@@ -1,3 +1,5 @@
+let tags: [Tag] = [.dp]
+
 //: Bottom-up dynamic programming
 class Solution {
     func partition(_ s: String) -> [[String]] {

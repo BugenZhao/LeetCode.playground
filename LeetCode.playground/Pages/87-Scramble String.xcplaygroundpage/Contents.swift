@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.dp]
+
 class Solution {
     struct Pair: Equatable, Hashable {
         let f1: Int

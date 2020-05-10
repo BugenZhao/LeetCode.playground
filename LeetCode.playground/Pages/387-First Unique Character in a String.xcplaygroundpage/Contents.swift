@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.string]
+
 class Solution {
     func firstUniqChar(_ s: String) -> Int {
         var counts = [Int](repeating: 0, count: 26)

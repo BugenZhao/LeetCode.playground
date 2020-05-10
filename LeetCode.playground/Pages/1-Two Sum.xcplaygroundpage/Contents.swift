@@ -1,3 +1,5 @@
+let tags: [Tag] = [.hash]
+
 class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var dict: [Int: Int] = [:]

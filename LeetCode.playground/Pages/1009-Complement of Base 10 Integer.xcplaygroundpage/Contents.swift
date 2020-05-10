@@ -1,5 +1,7 @@
 import Foundation
 
+let tags: [Tag] = [.math]
+
 class Solution {
     func bitwiseComplement(_ N: Int) -> Int {
         let N = UInt(bitPattern: N)
