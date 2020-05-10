@@ -29,16 +29,21 @@
         <page name='120-Triangle'/>
         <page name='131-Palindrome Partitioning'/>
         <page name='139-Word Break'/>
-        <page name='132-Palindrome Partitioning II-D'/>
+        <page name='132-Palindrome Partitioning II'/>
         <page name='1278-Palindrome Partitioning III'/>
         <page name='121-Best Time to Buy and Sell Stock'/>
         <page name='122-Best Time to Buy and Sell Stock II'/>
         <page name='993-Cousins in Binary Tree'/>
         <page name='1431-Kids With the Greatest Number of Candies'/>
-        <page name='123-Best Time to Buy and Sell Stock III-D'/>
+        <page name='123-Best Time to Buy and Sell Stock III'/>
         <page name='409-Longest Palindrome'/>
-        <page name='5-Longest Palindromic Substring-D'/>
+        <page name='5-Longest Palindromic Substring'/>
         <page name='97-Interleaving String'/>
         <page name='72-Edit Distance'/>
+        <page name='87-Scramble String'/>
+        <page name='329-Longest Increasing Path in a Matrix'/>
+        <page name='367-Valid Perfect Square'/>
+        <page name='850-Rectangle Area II'/>
+        <page name='1232-Check If It Is a Straight Line'/>
     </pages>
 </playground>

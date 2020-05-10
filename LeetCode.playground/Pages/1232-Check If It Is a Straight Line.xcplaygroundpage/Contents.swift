@@ -1,3 +1,5 @@
+let tags: [Tag] = [.math]
+
 class Solution {
     func checkStraightLine(_ coordinates: [[Int]]) -> Bool {
         guard coordinates.count >= 3 else { return true }
@@ -6,7 +8,7 @@ class Solution {
         let y0 = coordinates[0][1]
         let x1 = coordinates[1][0]
         let y1 = coordinates[1][1]
-        let vec = SIMD3<Int>( //: `Ax+By+C = 0`
+        let vec = SIMD3<Int>(//: `Ax+By+C = 0`
             y1 - y0,
             x0 - x1,
             x1 * y0 - x0 * y1

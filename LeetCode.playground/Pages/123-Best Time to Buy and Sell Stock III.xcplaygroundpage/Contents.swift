@@ -1,3 +1,5 @@
+let tags: [Tag] = [.marked, .dp]
+
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
         // The money we hold after we ...

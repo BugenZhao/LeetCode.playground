@@ -1,7 +1,8 @@
 all: gen icloud
 	
 gen:
-	swift run --package-path Scripts/GenReadme
+	cp LeetCode.playground/Sources/Tag.swift Scripts/GenReadme/Sources/GenReadme/
+	swift run -c release --package-path Scripts/GenReadme
 	
 icloud:
 	cp -rf ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
