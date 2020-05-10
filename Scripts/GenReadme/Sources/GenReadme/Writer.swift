@@ -55,7 +55,9 @@ class Writer {
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
         output += "## \(tag) Problems\n"
 
-        dict.filter({ $0.value.tags.contains(tag) }).map(\.value.line).forEach { output += $0 + "\n" }
+        let lines = dict.filter({ $0.value.tags.contains(tag) }).map(\.value.line)
+        if lines.isEmpty { output += "*[No solution yet]*\n"}
+        else { lines.forEach { output += $0 + "\n" } }
 
         do { try output.data(using: String.Encoding.utf8)?.write(to: url) }
         catch { return false }

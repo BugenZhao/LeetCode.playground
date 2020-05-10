@@ -4,3 +4,4 @@
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Hash Table Problems
+*[No solution yet]*
