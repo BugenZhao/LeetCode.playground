@@ -18,7 +18,7 @@ struct Question {
     var tags = [Tag]()
     var marked = false
     var line = ""
-    var lineWithoutTag = ""
+    var lineForTag = ""
 
     var qid: Int
     var difficulty: Int
@@ -63,7 +63,7 @@ struct Question {
                 if let qid = Int(page.split(separator: "-")[0]) {
                     dict[qid]?.solved = true
                     dict[qid]?.solvedPath =
-                        "<\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")>"
+                        "\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")"
                     solvedCount += 1
 
                     let (tags, marked) = Parser.parseTags(pagesURL.appendingPathComponent("\(page)/Contents.swift"))
@@ -77,20 +77,20 @@ struct Question {
         /// Update line
         dict.forEach { qid, question in
             var line: String
-            var lineWithoutTag: String
+            var lineForTag: String
             
             if question.solved {
-                lineWithoutTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
-                line = lineWithoutTag
+                line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
+                lineForTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](../\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 let tags = question.tags.drop(while: { $0 == .marked })
                 if !tags.isEmpty { line.append("*\(tags)*") }
             } else {
-                lineWithoutTag = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
-                line = lineWithoutTag
+                line = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
+                lineForTag = line
             }
 
             dict[qid]!.line = line
-            dict[qid]!.lineWithoutTag = lineWithoutTag
+            dict[qid]!.lineForTag = lineForTag
         }
     }
 }
