@@ -18,6 +18,7 @@ struct Question {
     var tags = [Tag]()
     var marked = false
     var line = ""
+    var lineWithoutTag = ""
 
     var qid: Int
     var difficulty: Int
@@ -76,15 +77,20 @@ struct Question {
         /// Update line
         dict.forEach { qid, question in
             var line: String
+            var lineWithoutTag: String
+            
             if question.solved {
-                line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
+                lineWithoutTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
+                line = lineWithoutTag
                 let tags = question.tags.drop(while: { $0 == .marked })
                 if !tags.isEmpty { line.append("*\(tags)*") }
             } else {
-                line = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
+                lineWithoutTag = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
+                line = lineWithoutTag
             }
 
             dict[qid]!.line = line
+            dict[qid]!.lineWithoutTag = lineWithoutTag
         }
     }
 }
