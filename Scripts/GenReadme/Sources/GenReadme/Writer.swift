@@ -51,17 +51,17 @@ class Writer {
 
     @discardableResult
     static func writeTag(_ dict: QuestionDict, tag: Tag, to url: URL) -> Bool {
-        let count = dict.count
-        let solvedCount = dict.filter(\.value.solved).count
+        let filteredDict = dict.filter({ $0.value.tags.contains(tag) }).sorted(by: { lhs, rhs in return lhs.key < rhs.key })
+        let count = filteredDict.count
 
         var output = ""
         output += "# LeetCode.playground\n"
         output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
-        output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(count)))%25-orange.svg)\n\n"
+        output += "![Progress](https://img.shields.io/badge/Count-\(count)-orange.svg)\n\n"
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
 
         output += "## \(tag) Problems\n"
-        let lines = dict.filter({ $0.value.tags.contains(tag) }).sorted(by: { lhs, rhs in return lhs.key < rhs.key }).map(\.value.lineForTag)
+        let lines = filteredDict.map(\.value.lineForTag)
         if lines.isEmpty { output += "*[No solution yet]*\n" }
         else { lines.forEach { output += $0 + "\n" } }
 
