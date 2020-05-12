@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-45%20%2F%201322%20=%203.40%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-46%20%2F%201322%20=%203.48%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -54,6 +54,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
@@ -558,7 +559,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complex-number-multiplication/) ~~[S]~~ 0537. Complex Number Multiplication
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-bst-to-greater-tree/) ~~[S]~~ 0538. Convert BST to Greater Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-difference/) ~~[S]~~ 0539. Minimum Time Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) ~~[S]~~ 0540. Single Element in a Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string-ii/) ~~[S]~~ 0541. Reverse String II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/01-matrix/) ~~[S]~~ 0542. 01 Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/diameter-of-binary-tree/) ~~[S]~~ 0543. Diameter of Binary Tree

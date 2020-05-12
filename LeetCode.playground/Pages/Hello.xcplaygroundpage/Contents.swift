@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 45 / 1322 = 3.40%
+> Progress: 46 / 1322 = 3.48%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -37,6 +37,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
 - 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](399-Evaluate%20Division) 0399. Evaluate Division *[Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
+- 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
