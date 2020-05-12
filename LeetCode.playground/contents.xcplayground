@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw'>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -52,5 +52,7 @@
         <page name='1108-Defanging an IP Address'/>
         <page name='1342-Number of Steps to Reduce a Number to Zero'/>
         <page name='1395-Count Number of Teams'/>
+        <page name='45-Jump Game II'/>
+        <page name='55-Jump Game'/>
     </pages>
 </playground>

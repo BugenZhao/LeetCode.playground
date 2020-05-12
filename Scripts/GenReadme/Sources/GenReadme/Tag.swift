@@ -42,11 +42,15 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "String"
         case .greedy:
             return "Greedy"
+        case .dfs:
+            return "DFS"
+        case .bfs:
+            return "BFS"
         }
     }
 
     case marked
     case array, hash, list, heap, tree, graph, string
-    case sort, binSearch, twoPtrs, union
+    case sort, binSearch, twoPtrs, union, dfs, bfs
     case dp, greedy, math
 }
