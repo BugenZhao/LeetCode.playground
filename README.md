@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-46%20%2F%201322%20=%203.48%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-49%20%2F%201322%20=%203.71%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -64,9 +64,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](./LeetCode.playground/Pages/1395-Count%20Number%20of%20Teams.xcplaygroundpage/Contents.swift) 1395. Count Number of Teams *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
 
 <details>
@@ -1073,7 +1076,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) ~~[S]~~ 1104. Path In Zigzag Labelled Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/filling-bookcase-shelves/) ~~[S]~~ 1105. Filling Bookcase Shelves
 - [ ] 😫 [[Q]](https://leetcode.com/problems/parsing-a-boolean-expression/) ~~[S]~~ 1106. Parsing A Boolean Expression
-- [ ] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) ~~[S]~~ 1108. Defanging an IP Address
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/corporate-flight-bookings/) ~~[S]~~ 1109. Corporate Flight Bookings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-nodes-and-return-forest/) ~~[S]~~ 1110. Delete Nodes And Return Forest
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) ~~[S]~~ 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
@@ -1259,7 +1261,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reduce-array-size-to-the-half/) ~~[S]~~ 1338. Reduce Array Size to The Half
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) ~~[S]~~ 1339. Maximum Product of Splitted Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-v/) ~~[S]~~ 1340. Jump Game V
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) ~~[S]~~ 1342. Number of Steps to Reduce a Number to Zero
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) ~~[S]~~ 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) ~~[S]~~ 1344. Angle Between Hands of a Clock
 - [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) ~~[S]~~ 1345. Jump Game IV
@@ -1305,7 +1306,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) ~~[S]~~ 1391. Check if There is a Valid Path in a Grid
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-happy-prefix/) ~~[S]~~ 1392. Longest Happy Prefix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ~~[S]~~ 1394. Find Lucky Integer in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) ~~[S]~~ 1395. Count Number of Teams
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-underground-system/) ~~[S]~~ 1396. Design Underground System
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-all-good-strings/) ~~[S]~~ 1397. Find All Good Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-largest-group/) ~~[S]~~ 1399. Count Largest Group

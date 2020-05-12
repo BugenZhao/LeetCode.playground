@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -46,5 +46,11 @@
         <page name='850-Rectangle Area II'/>
         <page name='1232-Check If It Is a Straight Line'/>
         <page name='997-Find the Town Judge'/>
+        <page name='204-Count Primes'/>
+        <page name='540-Single Element in a Sorted Array'/>
+        <page name='733-Flood Fill'/>
+        <page name='1108-Defanging an IP Address'/>
+        <page name='1342-Number of Steps to Reduce a Number to Zero'/>
+        <page name='1395-Count Number of Teams'/>
     </pages>
 </playground>

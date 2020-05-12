@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 46 / 1322 = 3.48%
+> Progress: 49 / 1322 = 3.71%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -47,9 +47,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](993-Cousins%20in%20Binary%20Tree) 0993. Cousins in Binary Tree *[Tree]*
 - 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](997-Find%20the%20Town%20Judge) 0997. Find the Town Judge *[Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
+- 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
 - 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph]*
+- 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
+- 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
 */
 
