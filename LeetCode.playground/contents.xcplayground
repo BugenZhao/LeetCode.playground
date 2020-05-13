@@ -54,5 +54,7 @@
         <page name='1395-Count Number of Teams'/>
         <page name='45-Jump Game II'/>
         <page name='55-Jump Game'/>
+        <page name='402-Remove K Digits'/>
+        <page name='42-Trapping Rain Water'/>
     </pages>
 </playground>
