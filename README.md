@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-53%20%2F%201322%20=%204.01%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-54%20%2F%201322%20=%204.08%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -52,6 +52,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -246,7 +247,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~ 0203. Remove Linked List Elements
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~ 0206. Reverse Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~ 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~ 0209. Minimum Size Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~ 0211. Add and Search Word - Data structure design
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~ 0212. Word Search II

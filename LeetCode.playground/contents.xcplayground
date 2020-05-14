@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -56,5 +56,6 @@
         <page name='55-Jump Game'/>
         <page name='402-Remove K Digits'/>
         <page name='42-Trapping Rain Water'/>
+        <page name='208-Implement Trie (Prefix Tree)'/>
     </pages>
 </playground>

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 53 / 1322 = 4.01%
+> Progress: 54 / 1322 = 4.08%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -32,6 +32,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
 - 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
+- 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
