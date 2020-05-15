@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-54%20%2F%201322%20=%204.08%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-56%20%2F%201322%20=%204.24%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -68,6 +68,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](./LeetCode.playground/Pages/990-Satisfiability%20of%20Equality%20Equations.xcplaygroundpage/Contents.swift) 0990. Satisfiability of Equality Equations *[Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
@@ -907,7 +909,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~ 0915. Partition Array into Disjoint Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~ 0916. Word Subsets
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) ~~[S]~~ 0917. Reverse Only Letters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) ~~[S]~~ 0918. Maximum Sum Circular Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~ 0919. Complete Binary Tree Inserter
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) ~~[S]~~ 0920. Number of Music Playlists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) ~~[S]~~ 0921. Minimum Add to Make Parentheses Valid
@@ -963,7 +964,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~ 0971. Flip Binary Tree To Match Preorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~ 0972. Equal Rational Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) ~~[S]~~ 0973. K Closest Points to Origin
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) ~~[S]~~ 0974. Subarray Sums Divisible by K
 - [ ] 😫 [[Q]](https://leetcode.com/problems/odd-even-jump/) ~~[S]~~ 0975. Odd Even Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-perimeter-triangle/) ~~[S]~~ 0976. Largest Perimeter Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/squares-of-a-sorted-array/) ~~[S]~~ 0977. Squares of a Sorted Array

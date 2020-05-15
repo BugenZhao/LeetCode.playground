@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 54 / 1322 = 4.08%
+> Progress: 56 / 1322 = 4.24%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -48,6 +48,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](990-Satisfiability%20of%20Equality%20Equations) 0990. Satisfiability of Equality Equations *[Union Find]*
 - 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](993-Cousins%20in%20Binary%20Tree) 0993. Cousins in Binary Tree *[Tree]*
 - 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](997-Find%20the%20Town%20Judge) 0997. Find the Town Judge *[Graph]*

@@ -57,5 +57,6 @@
         <page name='402-Remove K Digits'/>
         <page name='42-Trapping Rain Water'/>
         <page name='208-Implement Trie (Prefix Tree)'/>
+        <page name='918-Maximum Sum Circular Subarray'/>
     </pages>
 </playground>
