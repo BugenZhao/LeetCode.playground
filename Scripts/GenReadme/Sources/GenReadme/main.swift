@@ -1,20 +1,30 @@
 import ShellOut
 
+print("Fetching questions...".yellow)
 var dict = Question.getRemoteQuestions()
+print("Getting local info...".yellow)
 Question.getLocalInfo(dict: &dict)
 
+print("Writing to \(readmeURL.relativeString)...".yellow)
 Writer.writeReadme(dict, to: readmeURL)
+print("Writing to \(helloPageURL.relativeString)...".yellow)
 Writer.writeXcodePage(dict, to: helloPageURL)
-Tag.allCases.forEach { Writer.writeTag(dict, tag: $0, to: makeURL(tag: $0)) }
+print("Writing to Tags...".yellow)
+Tag.allCases.forEach {
+    Writer.writeTag(dict, tag: $0, to: makeURL(tag: $0))
+}
 
-print(try shellOut(to: "git", arguments: ["status"]))
+print("\nGit status:".lightBlue)
+print(try shellOut(to: "git", arguments: ["status", "-s"]))
 print("Commit message: ".yellow, terminator: "")
 if let message = readLine() {
     try shellOut(to: "git", arguments: ["add", "-A"])
+    print("Commiting...".yellow)
     try shellOut(to: .gitCommit(message: message))
+    print("Pushing...".yellow)
     try shellOut(to: .gitPush())
-    print("Done".green)
+    print("\nDone".lightGreen)
 } else {
-    print("Done without git operations".green)
+    print("\nDone without git operations".green)
 }
 
