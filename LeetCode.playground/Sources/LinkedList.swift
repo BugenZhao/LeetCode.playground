@@ -11,11 +11,10 @@ public class ListNode {
 
 /// Bugen's extension to linked list
 public extension ListNode {
-    static func makeLinkedList <T:Collection> (from collection: T) -> ListNode?
-    where T.Element == Int
-    {
-        var head: ListNode? = nil
-        var p: ListNode? = nil
+    static func makeLinkedList<T: Collection>(from collection: T) -> ListNode?
+        where T.Element == Int {
+        var head: ListNode?
+        var p: ListNode?
         for element in collection {
             if head == nil {
                 head = ListNode(element)
@@ -40,16 +39,20 @@ public extension ListNode {
     }
 }
 
-
 extension ListNode: Equatable {
     public static func == (lhs: ListNode, rhs: ListNode) -> Bool {
         return lhs.toArray() == rhs.toArray()
     }
 }
 
-
 extension ListNode: CustomStringConvertible {
     public var description: String {
         return "LinkedList: " + String(describing: self.toArray())
+    }
+}
+
+extension ListNode: CustomPlaygroundDisplayConvertible {
+    public var playgroundDescription: Any {
+        return self.description
     }
 }

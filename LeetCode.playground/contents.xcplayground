@@ -58,5 +58,7 @@
         <page name='42-Trapping Rain Water'/>
         <page name='208-Implement Trie (Prefix Tree)'/>
         <page name='918-Maximum Sum Circular Subarray'/>
+        <page name='974-Subarray Sums Divisible by K'/>
+        <page name='328-Odd Even Linked List'/>
     </pages>
 </playground>
