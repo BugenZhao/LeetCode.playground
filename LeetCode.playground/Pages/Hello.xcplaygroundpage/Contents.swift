@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 62 / 1330 = 4.66%
+> Progress: 63 / 1330 = 4.74%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -49,6 +49,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
+- 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 
 - 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*

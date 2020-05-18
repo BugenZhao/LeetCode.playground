@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-62%20%2F%201330%20=%204.66%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-63%20%2F%201330%20=%204.74%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -70,6 +70,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
@@ -593,7 +594,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-closest-palindrome/) ~~[S]~~ 0564. Find the Closest Palindrome
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/array-nesting/) ~~[S]~~ 0565. Array Nesting
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reshape-the-matrix/) ~~[S]~~ 0566. Reshape the Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) ~~[S]~~ 0567. Permutation in String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-vacation-days/) ~~[S]~~ 0568. Maximum Vacation Days
 - [ ] 😊 [[Q]](https://leetcode.com/problems/subtree-of-another-tree/) ~~[S]~~ 0572. Subtree of Another Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~ 0573. Squirrel Simulation
