@@ -6,8 +6,8 @@
 //
 
 import Foundation
-import SwiftyJSON
 import Rainbow
+import SwiftyJSON
 
 typealias Qid = Int
 typealias QuestionDict = [Qid: Question]
@@ -86,8 +86,8 @@ struct Question {
                 line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 lineForTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](../\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 lineForXcode = "- \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPagePath)) \(String(format: "%04d", qid)). \(question.title) "
-                
-                let tags = question.tags.drop(while: { $0 == .marked })
+
+                let tags = question.tags.filter { !Tag.special.contains($0) }
                 if !tags.isEmpty {
                     line.append("*\(tags)*")
                     lineForXcode.append("*\(tags)*")

@@ -52,6 +52,8 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Sliding Windows"
         }
     }
+    
+    public static let special: [Tag] = [.marked]
 
     case marked
     case array, hash, list, heap, tree, graph, string, stack
