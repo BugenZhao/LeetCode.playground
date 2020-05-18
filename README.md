@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-61%20%2F%201330%20=%204.59%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-62%20%2F%201330%20=%204.66%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -33,7 +33,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](./LeetCode.playground/Pages/6-ZigZag%20Conversion.xcplaygroundpage/Contents.swift) 0006. ZigZag Conversion *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack, **Marked**]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](./LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](./LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
@@ -68,6 +68,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph]*
@@ -507,7 +508,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~ 0473. Matchsticks to Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~ 0474. Ones and Zeroes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-complement/) ~~[S]~~ 0476. Number Complement
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) ~~[S]~~ 0477. Total Hamming Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~ 0478. Generate Random Point in a Circle
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~ 0479. Largest Palindrome Product

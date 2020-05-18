@@ -62,5 +62,8 @@
         <page name='328-Odd Even Linked List'/>
         <page name='438-Find All Anagrams in a String'/>
         <page name='242-Valid Anagram'/>
+        <page name='6-ZigZag Conversion'/>
+        <page name='44-Wildcard Matching'/>
+        <page name='476-Number Complement'/>
     </pages>
 </playground>

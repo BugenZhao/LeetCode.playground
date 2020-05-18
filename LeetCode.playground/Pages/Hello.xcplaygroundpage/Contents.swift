@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 61 / 1330 = 4.59%
+> Progress: 62 / 1330 = 4.66%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -12,7 +12,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](6-ZigZag%20Conversion) 0006. ZigZag Conversion *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](8-String%20to%20Integer%20(atoi)) 0008. String to Integer (atoi) *[String]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
-- 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack, **Marked**]*
+- 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*
 - 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](44-Wildcard%20Matching) 0044. Wildcard Matching *[DFS, Greedy]*
 - 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](45-Jump%20Game%20II) 0045. Jump Game II *[Greedy, BFS]*
 - 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
@@ -47,6 +47,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
+- 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph]*
