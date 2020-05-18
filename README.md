@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-57%20%2F%201322%20=%204.31%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-61%20%2F%201330%20=%204.59%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -17,6 +17,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Sort](./Tags/Sort.md)
 - [Binary Search](./Tags/Binary%20Search.md)
 - [Two Pointers](./Tags/Two%20Pointers.md)
+- [Sliding Windows](./Tags/Sliding%20Windows.md)
 - [Union Find](./Tags/Union%20Find.md)
 - [DFS](./Tags/DFS.md)
 - [BFS](./Tags/BFS.md)
@@ -29,9 +30,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./LeetCode.playground/Pages/2-Add%20Two%20Numbers.xcplaygroundpage/Contents.swift) 0002. Add Two Numbers *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest%20Substring%20Without%20Repeating%20Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](./LeetCode.playground/Pages/5-Longest%20Palindromic%20Substring.xcplaygroundpage/Contents.swift) 0005. Longest Palindromic Substring *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](./LeetCode.playground/Pages/6-ZigZag%20Conversion.xcplaygroundpage/Contents.swift) 0006. ZigZag Conversion *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack, **Marked**]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](./LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](./LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](./LeetCode.playground/Pages/55-Jump%20Game.xcplaygroundpage/Contents.swift) 0055. Jump Game *[Greedy]*
@@ -54,6 +57,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -63,6 +67,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph]*
@@ -87,7 +92,6 @@ Bugen's LeetCode solutions in Swift Playground.
 <summary>Todo</summary>
 
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~ 0006. ZigZag Conversion
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~ 0007. Reverse Integer
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) ~~[S]~~ 0009. Palindrome Number
 - [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~ 0010. Regular Expression Matching
@@ -122,7 +126,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) ~~[S]~~ 0040. Combination Sum II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/first-missing-positive/) ~~[S]~~ 0041. First Missing Positive
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~ 0043. Multiply Strings
-- [ ] 😫 [[Q]](https://leetcode.com/problems/wildcard-matching/) ~~[S]~~ 0044. Wildcard Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~ 0046. Permutations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~ 0048. Rotate Image
@@ -282,7 +285,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-maximum/) ~~[S]~~ 0239. Sliding Window Maximum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) ~~[S]~~ 0240. Search a 2D Matrix II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/different-ways-to-add-parentheses/) ~~[S]~~ 0241. Different Ways to Add Parentheses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) ~~[S]~~ 0242. Valid Anagram
 - [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-word-distance/) ~~[S]~~ 0243. Shortest Word Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-ii/) ~~[S]~~ 0244. Shortest Word Distance II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-word-distance-iii/) ~~[S]~~ 0245. Shortest Word Distance III
@@ -468,7 +470,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~ 0435. Non-overlapping Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ~~[S]~~ 0438. Find All Anagrams in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
 - [ ] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) ~~[S]~~ 0441. Arranging Coins
@@ -1351,6 +1352,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) ~~[S]~~ 1442. Count Triplets That Can Form Two Arrays of Equal XOR
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) ~~[S]~~ 1443. Minimum Time to Collect All Apples in a Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) ~~[S]~~ 1444. Number of Ways of Cutting a Pizza
+- [ ] 😊 [[Q]](https://leetcode.com/problems/consecutive-characters/) ~~[S]~~ 1446. Consecutive Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/simplified-fractions/) ~~[S]~~ 1447. Simplified Fractions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) ~~[S]~~ 1448. Count Good Nodes in Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) ~~[S]~~ 1449. Form Largest Integer With Digits That Add up to Target
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) ~~[S]~~ 1450. Number of Students Doing Homework at a Given Time
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rearrange-words-in-a-sentence/) ~~[S]~~ 1451. Rearrange Words in a Sentence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) ~~[S]~~ 1452. People Whose List of Favorite Companies Is Not a Subset of Another List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) ~~[S]~~ 1453. Maximum Number of Darts Inside of a Circular Dartboard
 </details>
 
 ## How am I generated?

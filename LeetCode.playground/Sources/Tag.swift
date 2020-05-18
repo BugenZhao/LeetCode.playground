@@ -48,11 +48,13 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "BFS"
         case .stack:
             return "Stack"
+        case .sliding:
+            return "Sliding Windows"
         }
     }
 
     case marked
     case array, hash, list, heap, tree, graph, string, stack
-    case sort, binSearch, twoPtrs, union, dfs, bfs
+    case sort, binSearch, twoPtrs, sliding, union, dfs, bfs
     case dp, greedy, math
 }
