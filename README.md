@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-63%20%2F%201330%20=%204.74%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-64%20%2F%201330%20=%204.81%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -76,6 +76,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](./LeetCode.playground/Pages/990-Satisfiability%20of%20Equality%20Equations.xcplaygroundpage/Contents.swift) 0990. Satisfiability of Equality Equations *[Union Find]*
@@ -893,7 +894,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-ors-of-subarrays/) ~~[S]~~ 0898. Bitwise ORs of Subarrays
 - [ ] 😫 [[Q]](https://leetcode.com/problems/orderly-queue/) ~~[S]~~ 0899. Orderly Queue
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rle-iterator/) ~~[S]~~ 0900. RLE Iterator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) ~~[S]~~ 0901. Online Stock Span
 - [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) ~~[S]~~ 0902. Numbers At Most N Given Digit Set
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-permutations-for-di-sequence/) ~~[S]~~ 0903. Valid Permutations for DI Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fruit-into-baskets/) ~~[S]~~ 0904. Fruit Into Baskets
