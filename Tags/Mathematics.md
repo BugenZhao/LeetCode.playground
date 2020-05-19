@@ -1,9 +1,10 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-8-orange.svg)
+![Progress](https://img.shields.io/badge/Count-9-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
+- [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](.././LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](.././LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](.././LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](.././LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits 

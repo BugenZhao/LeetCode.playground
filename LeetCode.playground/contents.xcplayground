@@ -66,5 +66,7 @@
         <page name='44-Wildcard Matching'/>
         <page name='476-Number Complement'/>
         <page name='567-Permutation in String'/>
+        <page name='901-Online Stock Span'/>
+        <page name='9-Palindrome Number'/>
     </pages>
 </playground>

@@ -1,6 +1,8 @@
 /*:
  ![901](901.png width="500")
  */
+let tags: [Tag] = [.array, .stack]
+
 class StockSpanner {
     var mono = 1
     var history = [(price: Int, span: Int)]()
