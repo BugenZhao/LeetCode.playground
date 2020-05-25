@@ -68,5 +68,10 @@
         <page name='567-Permutation in String'/>
         <page name='901-Online Stock Span'/>
         <page name='9-Palindrome Number'/>
+        <page name='230-Kth Smallest Element in a BST'/>
+        <page name='1277-Count Square Submatrices with All Ones'/>
+        <page name='451-Sort Characters By Frequency'/>
+        <page name='986-Interval List Intersections'/>
+        <page name='1008-Construct Binary Search Tree from Preorder Traversal'/>
     </pages>
 </playground>

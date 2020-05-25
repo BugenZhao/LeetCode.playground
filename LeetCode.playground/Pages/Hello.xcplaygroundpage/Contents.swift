@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 67 / 1330 = 5.04%
+> Progress: 70 / 1334 = 5.25%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -49,6 +49,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
+- 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 
@@ -60,9 +61,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
+- 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](986-Interval%20List%20Intersections) 0986. Interval List Intersections *[Two Pointers, Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](990-Satisfiability%20of%20Equality%20Equations) 0990. Satisfiability of Equality Equations *[Union Find]*
 - 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](993-Cousins%20in%20Binary%20Tree) 0993. Cousins in Binary Tree *[Tree]*
 - 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](997-Find%20the%20Town%20Judge) 0997. Find the Town Judge *[Graph]*
+- 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
