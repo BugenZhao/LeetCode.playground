@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-70%20%2F%201334%20=%205.25%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-71%20%2F%201334%20=%205.32%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -88,6 +88,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
@@ -1022,7 +1023,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~ 1032. Stream of Characters
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive/) ~~[S]~~ 1033. Moving Stones Until Consecutive
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/coloring-a-border/) ~~[S]~~ 1034. Coloring A Border
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) ~~[S]~~ 1035. Uncrossed Lines
 - [ ] 😫 [[Q]](https://leetcode.com/problems/escape-a-large-maze/) ~~[S]~~ 1036. Escape a Large Maze
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-boomerang/) ~~[S]~~ 1037. Valid Boomerang
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) ~~[S]~~ 1038. Binary Search Tree to Greater Sum Tree
