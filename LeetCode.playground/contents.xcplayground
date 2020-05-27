@@ -73,5 +73,7 @@
         <page name='451-Sort Characters By Frequency'/>
         <page name='986-Interval List Intersections'/>
         <page name='1008-Construct Binary Search Tree from Preorder Traversal'/>
+        <page name='1035-Uncrossed Lines'/>
+        <page name='525-Contiguous Array'/>
     </pages>
 </playground>

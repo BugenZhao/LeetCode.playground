@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-71%20%2F%201334%20=%205.32%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-72%20%2F%201334%20=%205.40%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -72,6 +72,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph]*
@@ -560,7 +561,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) ~~[S]~~ 0522. Longest Uncommon Subsequence II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/continuous-subarray-sum/) ~~[S]~~ 0523. Continuous Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) ~~[S]~~ 0524. Longest Word in Dictionary through Deleting
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) ~~[S]~~ 0525. Contiguous Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement/) ~~[S]~~ 0526. Beautiful Arrangement
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-abbreviation/) ~~[S]~~ 0527. Word Abbreviation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) ~~[S]~~ 0528. Random Pick with Weight
