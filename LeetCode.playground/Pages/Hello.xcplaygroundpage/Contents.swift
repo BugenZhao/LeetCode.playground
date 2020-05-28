@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 72 / 1334 = 5.40%
+> Progress: 73 / 1334 = 5.47%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -59,6 +59,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-72%20%2F%201334%20=%205.40%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-73%20%2F%201334%20=%205.47%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -80,6 +80,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span *[Array, Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
@@ -178,7 +179,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) ~~[S]~~ 0090. Subsets II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) ~~[S]~~ 0092. Reverse Linked List II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~ 0093. Restore IP Addresses
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
+- [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~ 0095. Unique Binary Search Trees II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~ 0098. Validate Binary Search Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
@@ -883,7 +884,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~ 0883. Projection Area of 3D Shapes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~ 0884. Uncommon Words from Two Sentences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~ 0885. Spiral Matrix III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) ~~[S]~~ 0886. Possible Bipartition
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~ 0887. Super Egg Drop
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~ 0888. Fair Candy Swap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~ 0889. Construct Binary Tree from Preorder and Postorder Traversal

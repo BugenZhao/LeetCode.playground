@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-10-orange.svg)
+![Progress](https://img.shields.io/badge/Count-11-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Graph Problems
@@ -12,5 +12,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](.././LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](.././LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](.././LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](.././LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition 
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](.././LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](.././LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance 
