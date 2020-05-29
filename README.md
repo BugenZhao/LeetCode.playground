@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-73%20%2F%201334%20=%205.47%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-74%20%2F%201334%20=%205.55%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -63,6 +63,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
@@ -386,7 +387,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/self-crossing/) ~~[S]~~ 0335. Self Crossing
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-pairs/) ~~[S]~~ 0336. Palindrome Pairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-iii/) ~~[S]~~ 0337. House Robber III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) ~~[S]~~ 0338. Counting Bits
 - [ ] 😊 [[Q]](https://leetcode.com/problems/nested-list-weight-sum/) ~~[S]~~ 0339. Nested List Weight Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ~~[S]~~ 0340. Longest Substring with At Most K Distinct Characters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~ 0341. Flatten Nested List Iterator

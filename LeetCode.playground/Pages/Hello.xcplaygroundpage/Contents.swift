@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 73 / 1334 = 5.47%
+> Progress: 74 / 1334 = 5.55%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -42,6 +42,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
+- 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](338-Counting%20Bits) 0338. Counting Bits *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](367-Valid%20Perfect%20Square) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](383-Ransom%20Note) 0383. Ransom Note *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
