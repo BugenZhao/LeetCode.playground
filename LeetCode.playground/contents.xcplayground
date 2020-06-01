@@ -75,5 +75,10 @@
         <page name='1008-Construct Binary Search Tree from Preorder Traversal'/>
         <page name='1035-Uncrossed Lines'/>
         <page name='525-Contiguous Array'/>
+        <page name='7-Reverse Integer'/>
+        <page name='338-Counting Bits'/>
+        <page name='886-Possible Bipartition'/>
+        <page name='973-K Closest Points to Origin'/>
+        <page name='881-Boats to Save People'/>
     </pages>
 </playground>

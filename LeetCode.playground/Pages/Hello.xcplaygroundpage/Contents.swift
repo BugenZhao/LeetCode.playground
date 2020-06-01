@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 75 / 1334 = 5.62%
+> Progress: 78 / 1342 = 5.81%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -10,6 +10,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](3-Longest%20Substring%20Without%20Repeating%20Characters) 0003. Longest Substring Without Repeating Characters *[Array]*
 - 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](5-Longest%20Palindromic%20Substring) 0005. Longest Palindromic Substring *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](6-ZigZag%20Conversion) 0006. ZigZag Conversion *[Array]*
+- 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](7-Reverse%20Integer) 0007. Reverse Integer *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](8-String%20to%20Integer%20(atoi)) 0008. String to Integer (atoi) *[String]*
 - 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](9-Palindrome%20Number) 0009. Palindrome Number *[Mathematics]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
@@ -60,9 +61,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
+- 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](973-K%20Closest%20Points%20to%20Origin) 0973. K Closest Points to Origin *[Sort]*
 - 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](986-Interval%20List%20Intersections) 0986. Interval List Intersections *[Two Pointers, Greedy]*

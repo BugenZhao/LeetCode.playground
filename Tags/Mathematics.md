@@ -1,9 +1,10 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-10-orange.svg)
+![Progress](https://img.shields.io/badge/Count-11-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](.././LeetCode.playground/Pages/7-Reverse%20Integer.xcplaygroundpage/Contents.swift) 0007. Reverse Integer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](.././LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](.././LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](.././LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits 

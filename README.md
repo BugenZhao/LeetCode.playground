@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-75%20%2F%201334%20=%205.62%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-78%20%2F%201342%20=%205.81%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -31,6 +31,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./LeetCode.playground/Pages/3-Longest%20Substring%20Without%20Repeating%20Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](./LeetCode.playground/Pages/5-Longest%20Palindromic%20Substring.xcplaygroundpage/Contents.swift) 0005. Longest Palindromic Substring *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](./LeetCode.playground/Pages/6-ZigZag%20Conversion.xcplaygroundpage/Contents.swift) 0006. ZigZag Conversion *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](./LeetCode.playground/Pages/7-Reverse%20Integer.xcplaygroundpage/Contents.swift) 0007. Reverse Integer *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](./LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
@@ -81,9 +82,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span *[Array, Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](./LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](./LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections *[Two Pointers, Greedy]*
@@ -106,7 +109,6 @@ Bugen's LeetCode solutions in Swift Playground.
 <summary>Todo</summary>
 
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~ 0004. Median of Two Sorted Arrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~ 0007. Reverse Integer
 - [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~ 0010. Regular Expression Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) ~~[S]~~ 0011. Container With Most Water
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~ 0012. Integer to Roman
@@ -880,7 +882,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/nth-magical-number/) ~~[S]~~ 0878. Nth Magical Number
 - [ ] 😫 [[Q]](https://leetcode.com/problems/profitable-schemes/) ~~[S]~~ 0879. Profitable Schemes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/decoded-string-at-index/) ~~[S]~~ 0880. Decoded String at Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) ~~[S]~~ 0881. Boats to Save People
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) ~~[S]~~ 0882. Reachable Nodes In Subdivided Graph
 - [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~ 0883. Projection Area of 3D Shapes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~ 0884. Uncommon Words from Two Sentences
@@ -932,7 +933,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) ~~[S]~~ 0933. Number of Recent Calls
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-bridge/) ~~[S]~~ 0934. Shortest Bridge
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-dialer/) ~~[S]~~ 0935. Knight Dialer
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) ~~[S]~~ 0936. Stamping The Sequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reorder-data-in-log-files/) ~~[S]~~ 0937. Reorder Data in Log Files
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-of-bst/) ~~[S]~~ 0938. Range Sum of BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle/) ~~[S]~~ 0939. Minimum Area Rectangle
@@ -1364,6 +1364,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) ~~[S]~~ 1456. Maximum Number of Vowels in a Substring of Given Length
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) ~~[S]~~ 1457. Pseudo-Palindromic Paths in a Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) ~~[S]~~ 1458. Max Dot Product of Two Subsequences
+- [ ] 😊 [[Q]](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) ~~[S]~~ 1460. Make Two Arrays Equal by Reversing Sub-arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ~~[S]~~ 1461. Check If a String Contains All Binary Codes of Size K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-iv/) ~~[S]~~ 1462. Course Schedule IV
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup-ii/) ~~[S]~~ 1463. Cherry Pickup II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) ~~[S]~~ 1464. Maximum Product of Two Elements in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) ~~[S]~~ 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) ~~[S]~~ 1466. Reorder Routes to Make All Paths Lead to the City Zero
+- [ ] 😫 [[Q]](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) ~~[S]~~ 1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
 </details>
 
 ## How am I generated?
