@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-78%20%2F%201342%20=%205.81%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-79%20%2F%201342%20=%205.89%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -59,6 +59,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
@@ -284,7 +285,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rectangle-area/) ~~[S]~~ 0223. Rectangle Area
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~ 0224. Basic Calculator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~ 0225. Implement Stack using Queues
-- [ ] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) ~~[S]~~ 0226. Invert Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~ 0227. Basic Calculator II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~ 0229. Majority Element II

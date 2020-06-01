@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 78 / 1342 = 5.81%
+> Progress: 79 / 1342 = 5.89%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -38,6 +38,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
+- 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree 
 - 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
