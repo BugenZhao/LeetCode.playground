@@ -1,6 +1,6 @@
 // A variation of Floyd Warshall
 
-let tags: [Tag] = [.graph]
+let tags: [Tag] = [.graph, .sp]
 
 class SolutionFloyd {
     func calcEquation(_ equations: [[String]], _ values: [Double], _ queries: [[String]]) -> [Double] {

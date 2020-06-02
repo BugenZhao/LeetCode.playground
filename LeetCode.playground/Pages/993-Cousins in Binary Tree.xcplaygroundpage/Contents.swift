@@ -1,6 +1,6 @@
 //: DFS
 
-let tags: [Tag] = [.tree]
+let tags: [Tag] = [.tree, .dfs]
 
 class Solution {
     func isCousins(_ root: TreeNode?, _ x: Int, _ y: Int) -> Bool {

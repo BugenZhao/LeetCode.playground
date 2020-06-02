@@ -1,4 +1,4 @@
-let tags: [Tag] = [.dp, .graph]
+let tags: [Tag] = [.dp, .graph, .sp]
 
 //: Bottom-up dynamic programming in `O(n)` space
 class Solution {

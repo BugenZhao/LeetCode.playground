@@ -1,6 +1,6 @@
 // Floyd Warshall
 
-let tags: [Tag] = [.graph]
+let tags: [Tag] = [.graph, .sp]
 
 class Solution {
     func findTheCity(_ n: Int, _ edges: [[Int]], _ distanceThreshold: Int) -> Int {

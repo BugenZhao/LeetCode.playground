@@ -1,6 +1,6 @@
 // Single source shortest paths
 
-let tags: [Tag] = [.graph]
+let tags: [Tag] = [.graph, .sp]
 
 // Bellman Ford
 class SolutionBF {

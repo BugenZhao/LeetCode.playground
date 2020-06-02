@@ -1,4 +1,4 @@
-let tags: [Tag] = [.graph]
+let tags: [Tag] = [.graph, .bfs, .sp]
 
 class Solution {
     func ladderLength(_ beginWord: String, _ endWord: String, _ wordList: [String]) -> Int {
