@@ -23,17 +23,23 @@ class Writer {
         Tag.allCases.forEach { tag in
             output += "- [\(tag)](\(makePath(tag: tag, urlAllowed: true)))\n"
         }
+        
+        output += "\n## Recent\n"
+        dict.sorted(by: {lhs, rhs in lhs.value.date > rhs.value.date})
+            .prefix(10)
+            .map(\.value.line)
+            .forEach { output += $0 + "\n" }
 
         output += "\n## Problems\n"
 
         dict.filter(\.value.solved)
-            .sorted(by: { lhs, rhs in return lhs.key < rhs.key })
+            .sorted(by: { lhs, rhs in lhs.key < rhs.key })
             .map(\.value.line)
             .forEach { output += $0 + "\n" }
 
         output += "\n<details>\n<summary>Todo</summary>\n\n"
         dict.filter { $0.value.solved == false }
-            .sorted(by: { lhs, rhs in return lhs.key < rhs.key })
+            .sorted(by: { lhs, rhs in lhs.key < rhs.key })
             .map(\.value.line)
             .forEach { output += $0 + "\n" }
         output += "</details>\n"
@@ -83,7 +89,7 @@ class Writer {
         output += "\n## Problems\n"
 
         dict.filter(\.value.solved)
-            .sorted(by: { lhs, rhs in return lhs.key < rhs.key })
+            .sorted(by: { lhs, rhs in lhs.key < rhs.key })
             .map(\.value.lineForXcode)
             .forEach { output += $0 + "\n" }
 

@@ -1,4 +1,5 @@
 import ShellOut
+import Foundation
 
 print("Fetching questions...".yellow)
 var dict = Question.getRemoteQuestions()
@@ -16,6 +17,9 @@ Tag.allCases.forEach {
 
 print("\nGit status:".lightBlue)
 print(try shellOut(to: "git", arguments: ["status", "-s"]))
+
+signal(SIGINT) { _ in print("\nDone without git operations".green); exit(0); }
+
 print("Commit message: ".yellow, terminator: "")
 if let message = readLine() {
     try shellOut(to: "git", arguments: ["add", "-A"])
@@ -23,8 +27,7 @@ if let message = readLine() {
     try shellOut(to: .gitCommit(message: message))
     print("Pushing...".yellow)
     try shellOut(to: .gitPush())
-    print("\nDone".lightGreen)
+    print("Done".lightGreen)
 } else {
     print("\nDone without git operations".green)
 }
-

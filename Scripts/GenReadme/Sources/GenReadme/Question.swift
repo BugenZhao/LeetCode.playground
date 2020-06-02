@@ -21,6 +21,7 @@ struct Question {
     var line = ""
     var lineForTag = ""
     var lineForXcode = ""
+    var date = Date.init(timeIntervalSince1970: 0)
 
     var qid: Int
     var difficulty: Int
@@ -72,6 +73,10 @@ struct Question {
                     dict[qid]?.tags = tags
                     dict[qid]?.marked = marked
                     if marked { dict[qid]?.difficultyEmoji = difficultyEmojis[0] }
+
+                    if let attr = try? FileManager.default.attributesOfItem(atPath: pagesURL.appendingPathComponent("\(page)").path) {
+                        if let date = attr[FileAttributeKey.creationDate] as? Date { dict[qid]?.date = date }
+                    }
                 }
             }
         }
