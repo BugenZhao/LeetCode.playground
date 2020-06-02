@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-81%20%2F%201342%20=%206.04%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-82%20%2F%201342%20=%206.11%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -63,6 +63,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
@@ -296,7 +297,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~ 0234. Palindrome Linked List
 - [ ] 😊 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ~~[S]~~ 0235. Lowest Common Ancestor of a Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ~~[S]~~ 0236. Lowest Common Ancestor of a Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) ~~[S]~~ 0237. Delete Node in a Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-array-except-self/) ~~[S]~~ 0238. Product of Array Except Self
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-maximum/) ~~[S]~~ 0239. Sliding Window Maximum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) ~~[S]~~ 0240. Search a 2D Matrix II
