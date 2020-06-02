@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-82%20%2F%201342%20=%206.11%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-85%20%2F%201342%20=%206.33%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -77,6 +77,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
@@ -105,10 +106,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](./LeetCode.playground/Pages/1395-Count%20Number%20of%20Teams.xcplaygroundpage/Contents.swift) 1395. Count Number of Teams *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 
 <details>
 <summary>Todo</summary>
@@ -517,7 +520,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/convex-polygon/) ~~[S]~~ 0469. Convex Polygon
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) ~~[S]~~ 0470. Implement Rand10() Using Rand7()
 - [ ] 😫 [[Q]](https://leetcode.com/problems/encode-string-with-shortest-length/) ~~[S]~~ 0471. Encode String with Shortest Length
-- [ ] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) ~~[S]~~ 0472. Concatenated Words
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~ 0473. Matchsticks to Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~ 0474. Ones and Zeroes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
@@ -1249,7 +1251,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-echo-substrings/) ~~[S]~~ 1316. Distinct Echo Substrings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) ~~[S]~~ 1317. Convert Integer to the Sum of Two No-Zero Integers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) ~~[S]~~ 1318. Minimum Flips to Make a OR b Equal to c
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) ~~[S]~~ 1319. Number of Operations to Make Network Connected
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) ~~[S]~~ 1320. Minimum Distance to Type a Word Using Two Fingers
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-69-number/) ~~[S]~~ 1323. Maximum 69 Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/print-words-vertically/) ~~[S]~~ 1324. Print Words Vertically
@@ -1369,7 +1370,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ~~[S]~~ 1461. Check If a String Contains All Binary Codes of Size K
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-iv/) ~~[S]~~ 1462. Course Schedule IV
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup-ii/) ~~[S]~~ 1463. Cherry Pickup II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) ~~[S]~~ 1464. Maximum Product of Two Elements in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) ~~[S]~~ 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) ~~[S]~~ 1466. Reorder Routes to Make All Paths Lead to the City Zero
 - [ ] 😫 [[Q]](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) ~~[S]~~ 1467. Probability of a Two Boxes Having The Same Number of Distinct Balls

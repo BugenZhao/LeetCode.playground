@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 82 / 1342 = 6.11%
+> Progress: 85 / 1342 = 6.33%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -55,6 +55,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](525-Contiguous%20Array) 0525. Contiguous Array *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
@@ -83,10 +84,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
+- 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 */
 
 var array = ["Swift", "Playground", "LeetCode", "Bugen! 😄"]

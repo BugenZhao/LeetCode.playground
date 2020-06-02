@@ -84,5 +84,8 @@
         <page name='936-Stamping The Sequence'/>
         <page name='199-Binary Tree Right Side View'/>
         <page name='1263-Minimum Moves to Move a Box to Their Target Location'/>
+        <page name='237-Delete Node in a Linked List'/>
+        <page name='1464-Maximum Product of Two Elements in an Array'/>
+        <page name='1319-Number of Operations to Make Network Connected'/>
     </pages>
 </playground>
