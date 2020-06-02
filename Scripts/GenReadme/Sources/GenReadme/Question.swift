@@ -18,10 +18,11 @@ struct Question {
     var solvedPagePath = ""
     var tags = [Tag]()
     var marked = false
+    var date = Date.init(timeIntervalSince1970: 0)
     var line = ""
     var lineForTag = ""
     var lineForXcode = ""
-    var date = Date.init(timeIntervalSince1970: 0)
+    var lineWithDate = ""
 
     var qid: Int
     var difficulty: Int
@@ -86,26 +87,31 @@ struct Question {
             var line: String
             var lineForTag: String
             var lineForXcode: String
+            var lineWithDate: String
 
             if question.solved {
                 line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 lineForTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](../\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
                 lineForXcode = "- \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPagePath)) \(String(format: "%04d", qid)). \(question.title) "
+                lineWithDate = "- [X] (\(dateFormatter.string(from: question.date))) \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
 
                 let tags = question.tags.filter { !Tag.special.contains($0) }
                 if !tags.isEmpty {
                     line.append("*\(tags)*")
                     lineForXcode.append("*\(tags)*")
+                    lineWithDate.append("*\(tags)*")
                 }
             } else {
                 line = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
                 lineForTag = line
                 lineForXcode = line
+                lineWithDate = line
             }
 
             dict[qid]!.line = line
             dict[qid]!.lineForTag = lineForTag
             dict[qid]!.lineForXcode = lineForXcode
+            dict[qid]!.lineWithDate = lineWithDate
         }
     }
 }

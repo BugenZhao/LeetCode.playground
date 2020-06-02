@@ -33,3 +33,5 @@ func makeURL(tag: Tag, urlAllowed: Bool = false) -> URL {
 }
 
 let pageSuffixCount = ".xcplaygroundpage".count
+
+let dateFormatter = DateFormatter()

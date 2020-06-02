@@ -1,6 +1,8 @@
 import ShellOut
 import Foundation
 
+dateFormatter.dateFormat = "MM-dd"
+
 print("Fetching questions...".yellow)
 var dict = Question.getRemoteQuestions()
 print("Getting local info...".yellow)
