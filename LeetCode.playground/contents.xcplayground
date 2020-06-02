@@ -80,5 +80,9 @@
         <page name='886-Possible Bipartition'/>
         <page name='973-K Closest Points to Origin'/>
         <page name='881-Boats to Save People'/>
+        <page name='226-Invert Binary Tree'/>
+        <page name='936-Stamping The Sequence'/>
+        <page name='199-Binary Tree Right Side View'/>
+        <page name='1263-Minimum Moves to Move a Box to Their Target Location'/>
     </pages>
 </playground>

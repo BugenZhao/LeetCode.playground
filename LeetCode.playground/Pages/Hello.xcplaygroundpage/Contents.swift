@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 79 / 1342 = 5.89%
+> Progress: 81 / 1342 = 6.04%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -34,11 +34,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](132-Palindrome%20Partitioning%20II) 0132. Palindrome Partitioning II *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
+- 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
-- 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree 
+- 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
@@ -78,6 +79,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
+- 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS]*
 - 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph]*

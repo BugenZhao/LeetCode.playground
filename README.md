@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-79%20%2F%201342%20=%205.89%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-81%20%2F%201342%20=%206.04%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -55,11 +55,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree 
+- [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
@@ -99,6 +100,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph]*
@@ -262,7 +264,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-bits/) ~~[S]~~ 0190. Reverse Bits
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) ~~[S]~~ 0191. Number of 1 Bits
 - [ ] 😊 [[Q]](https://leetcode.com/problems/house-robber/) ~~[S]~~ 0198. House Robber
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) ~~[S]~~ 0199. Binary Tree Right Side View
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~ 0201. Bitwise AND of Numbers Range
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
@@ -1202,7 +1203,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/shift-2d-grid/) ~~[S]~~ 1260. Shift 2D Grid
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) ~~[S]~~ 1261. Find Elements in a Contaminated Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/greatest-sum-divisible-by-three/) ~~[S]~~ 1262. Greatest Sum Divisible by Three
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) ~~[S]~~ 1263. Minimum Moves to Move a Box to Their Target Location
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) ~~[S]~~ 1265. Print Immutable Linked List in Reverse
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) ~~[S]~~ 1266. Minimum Time Visiting All Points
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-servers-that-communicate/) ~~[S]~~ 1267. Count Servers that Communicate

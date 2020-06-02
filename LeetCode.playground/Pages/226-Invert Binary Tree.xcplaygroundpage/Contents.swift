@@ -1,3 +1,5 @@
+let tags: [Tag] = [.tree]
+
 class Solution {
     func invertTree(_ root: TreeNode?) -> TreeNode? {
         if let root = root {
