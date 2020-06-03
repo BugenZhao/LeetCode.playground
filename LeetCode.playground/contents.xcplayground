@@ -90,5 +90,6 @@
         <page name='472-Concatenated Words'/>
         <page name='1405-Longest Happy String'/>
         <page name='984-String Without AAA or BBB'/>
+        <page name='1029-Two City Scheduling'/>
     </pages>
 </playground>

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-87%20%2F%201342%20=%206.48%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-88%20%2F%201342%20=%206.56%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](./LeetCode.playground/Pages/1405-Longest%20Happy%20String.xcplaygroundpage/Contents.swift) 1405. Longest Happy String *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
@@ -36,7 +37,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](./LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -113,6 +113,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
@@ -1034,7 +1035,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~ 1026. Maximum Difference Between Node and Ancestor
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~ 1027. Longest Arithmetic Sequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~ 1028. Recover a Tree From Preorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) ~~[S]~~ 1029. Two City Scheduling
 - [ ] 😊 [[Q]](https://leetcode.com/problems/matrix-cells-in-distance-order/) ~~[S]~~ 1030. Matrix Cells in Distance Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) ~~[S]~~ 1031. Maximum Sum of Two Non-Overlapping Subarrays
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~ 1032. Stream of Characters
