@@ -24,6 +24,13 @@ signal(SIGINT) { _ in print("\nDone without git operations".green); exit(0); }
 
 print("Commit message: ".yellow, terminator: "")
 if let message = readLine() {
+    let child = Process()
+    child.executableURL = URL(fileURLWithPath: "/usr/bin/qlmanage")
+    child.arguments = ["-p", readmeURL.path]
+    child.standardOutput = FileHandle.nullDevice
+    child.standardError = FileHandle.nullDevice
+    child.launch()
+    
     try shellOut(to: "git", arguments: ["add", "-A"])
     print("Commiting...".yellow)
     try shellOut(to: .gitCommit(message: message))
