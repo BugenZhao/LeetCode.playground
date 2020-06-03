@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 85 / 1342 = 6.33%
+> Progress: 87 / 1342 = 6.48%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -72,6 +72,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](973-K%20Closest%20Points%20to%20Origin) 0973. K Closest Points to Origin *[Sort]*
 - 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
+- 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](984-String%20Without%20AAA%20or%20BBB) 0984. String Without AAA or BBB *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](986-Interval%20List%20Intersections) 0986. Interval List Intersections *[Two Pointers, Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](990-Satisfiability%20of%20Equality%20Equations) 0990. Satisfiability of Equality Equations *[Union Find]*
 - 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](993-Cousins%20in%20Binary%20Tree) 0993. Cousins in Binary Tree *[Tree, DFS]*
@@ -88,6 +89,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](1405-Longest%20Happy%20String) 1405. Longest Happy String *[Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
 - 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 */
