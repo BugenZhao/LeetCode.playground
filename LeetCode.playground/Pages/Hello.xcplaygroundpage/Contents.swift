@@ -2,12 +2,13 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 88 / 1342 = 6.56%
+> Progress: 89 / 1342 = 6.63%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
 - 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](2-Add%20Two%20Numbers) 0002. Add Two Numbers *[Linked List]*
 - 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](3-Longest%20Substring%20Without%20Repeating%20Characters) 0003. Longest Substring Without Repeating Characters *[Array]*
+- 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](4-Median%20of%20Two%20Sorted%20Arrays) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
 - 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](5-Longest%20Palindromic%20Substring) 0005. Longest Palindromic Substring *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](6-ZigZag%20Conversion) 0006. ZigZag Conversion *[Array]*
 - 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](7-Reverse%20Integer) 0007. Reverse Integer *[Mathematics]*
