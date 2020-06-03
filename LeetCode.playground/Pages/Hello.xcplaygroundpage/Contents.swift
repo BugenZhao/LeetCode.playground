@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 89 / 1342 = 6.63%
+> Progress: 90 / 1342 = 6.71%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -58,6 +58,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](525-Contiguous%20Array) 0525. Contiguous Array *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 

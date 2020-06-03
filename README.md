@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-89%20%2F%201342%20=%206.63%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-90%20%2F%201342%20=%206.71%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
@@ -36,7 +37,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -92,6 +92,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
@@ -574,7 +575,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst-ii/) ~~[S]~~ 0510. Inorder Successor in BST II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-bottom-left-tree-value/) ~~[S]~~ 0513. Find Bottom Left Tree Value
 - [ ] 😫 [[Q]](https://leetcode.com/problems/freedom-trail/) ~~[S]~~ 0514. Freedom Trail
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) ~~[S]~~ 0515. Find Largest Value in Each Tree Row
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~ 0516. Longest Palindromic Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~ 0517. Super Washing Machines
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) ~~[S]~~ 0518. Coin Change 2
