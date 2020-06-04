@@ -1,11 +1,12 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-90%20%2F%201342%20=%206.71%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-91%20%2F%201343%20=%206.78%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
 ## Tags
 - [**Marked**](./Tags/Marked.md)
+- [Working](./Tags/Working.md)
 - [Array](./Tags/Array.md)
 - [Hash Table](./Tags/Hash%20Table.md)
 - [Linked List](./Tags/Linked%20List.md)
@@ -27,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
@@ -36,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -100,6 +101,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
+- [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
@@ -860,7 +862,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rectangle-overlap/) ~~[S]~~ 0836. Rectangle Overlap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/new-21-game/) ~~[S]~~ 0837. New 21 Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/push-dominoes/) ~~[S]~~ 0838. Push Dominoes
-- [ ] 😫 [[Q]](https://leetcode.com/problems/similar-string-groups/) ~~[S]~~ 0839. Similar String Groups
 - [ ] 😊 [[Q]](https://leetcode.com/problems/magic-squares-in-grid/) ~~[S]~~ 0840. Magic Squares In Grid
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) ~~[S]~~ 0841. Keys and Rooms
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) ~~[S]~~ 0842. Split Array into Fibonacci Sequence
@@ -1385,6 +1386,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) ~~[S]~~ 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) ~~[S]~~ 1466. Reorder Routes to Make All Paths Lead to the City Zero
 - [ ] 😫 [[Q]](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) ~~[S]~~ 1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-the-lonely-nodes/) ~~[S]~~ 1469. Find All the Lonely Nodes
 </details>
 
 ## How am I generated?

@@ -91,5 +91,8 @@
         <page name='1405-Longest Happy String'/>
         <page name='984-String Without AAA or BBB'/>
         <page name='1029-Two City Scheduling'/>
+        <page name='4-Median of Two Sorted Arrays'/>
+        <page name='515-Find Largest Value in Each Tree Row'/>
+        <page name='839-Similar String Groups'/>
     </pages>
 </playground>
