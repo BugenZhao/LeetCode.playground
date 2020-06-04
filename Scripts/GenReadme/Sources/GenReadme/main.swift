@@ -1,5 +1,5 @@
-import ShellOut
 import Foundation
+import ShellOut
 
 dateFormatter.dateFormat = "MM-dd"
 
@@ -20,7 +20,7 @@ Tag.allCases.forEach {
 print("\nGit status:".lightBlue)
 print(try shellOut(to: "git", arguments: ["status", "-s"]))
 
-signal(SIGINT) { _ in print("\nDone without git operations".green); exit(0); }
+signal(SIGINT) { _ in print("\nDone without git operations".green); exit(0) }
 
 print("Commit message: ".yellow, terminator: "")
 if let message = readLine() {
@@ -30,7 +30,7 @@ if let message = readLine() {
     child.standardOutput = FileHandle.nullDevice
     child.standardError = FileHandle.nullDevice
     child.launch()
-    
+
     try shellOut(to: "git", arguments: ["add", "-A"])
     print("Commiting...".yellow)
     try shellOut(to: .gitCommit(message: message))

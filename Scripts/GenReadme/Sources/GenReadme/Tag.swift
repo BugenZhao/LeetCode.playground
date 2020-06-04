@@ -52,12 +52,14 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Sliding Windows"
         case .sp:
             return "Shortest Path"
+        case .working:
+            return "Working"
         }
     }
     
-    public static let special: [Tag] = [.marked]
+    public static let special: [Tag] = [.marked, .working]
 
-    case marked
+    case marked, working
     case array, hash, list, heap, tree, graph, string, stack
     case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp
     case dp, greedy, math

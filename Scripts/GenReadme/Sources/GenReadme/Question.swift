@@ -17,7 +17,6 @@ struct Question {
     var solvedPath = ""
     var solvedPagePath = ""
     var tags = [Tag]()
-    var marked = false
     var date = Date.init(timeIntervalSince1970: 0)
     var line = ""
     var lineForTag = ""
@@ -70,10 +69,10 @@ struct Question {
                     dict[qid]?.solvedPagePath = String("\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)".dropLast(pageSuffixCount))
                     solvedCount += 1
 
-                    let (tags, marked) = Parser.parseTags(pagesURL.appendingPathComponent("\(page)/Contents.swift"))
+                    let tags = Parser.parseTags(pagesURL.appendingPathComponent("\(page)/Contents.swift"))
                     dict[qid]?.tags = tags
-                    dict[qid]?.marked = marked
-                    if marked { dict[qid]?.difficultyEmoji = difficultyEmojis[0] }
+                    if tags.contains(.marked) { dict[qid]?.difficultyEmoji = difficultyEmojis[0] }
+                    if tags.contains(.working) { dict[qid]?.difficultyEmoji = difficultyEmojis[4] }
 
                     if let attr = try? FileManager.default.attributesOfItem(atPath: pagesURL.appendingPathComponent("\(page)").path) {
                         if let date = attr[FileAttributeKey.creationDate] as? Date { dict[qid]?.date = date }
