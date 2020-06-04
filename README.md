@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-91%20%2F%201343%20=%206.78%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-92%20%2F%201343%20=%206.85%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -83,6 +83,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
@@ -418,7 +419,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~ 0341. Flatten Nested List Iterator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) ~~[S]~~ 0342. Power of Four
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~ 0343. Integer Break
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) ~~[S]~~ 0344. Reverse String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~ 0345. Reverse Vowels of a String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~ 0346. Moving Average from Data Stream
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~ 0347. Top K Frequent Elements
