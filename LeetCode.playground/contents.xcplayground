@@ -94,5 +94,9 @@
         <page name='4-Median of Two Sorted Arrays'/>
         <page name='515-Find Largest Value in Each Tree Row'/>
         <page name='839-Similar String Groups'/>
+        <page name='344-Reverse String'/>
+        <page name='978-Longest Turbulent Subarray'/>
+        <page name='559-Maximum Depth of N-ary Tree'/>
+        <page name='310-Minimum Height Trees'/>
     </pages>
 </playground>
