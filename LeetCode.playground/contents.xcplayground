@@ -98,5 +98,7 @@
         <page name='978-Longest Turbulent Subarray'/>
         <page name='559-Maximum Depth of N-ary Tree'/>
         <page name='310-Minimum Height Trees'/>
+        <page name='417-Pacific Atlantic Water Flow'/>
+        <page name='528-Random Pick with Weight'/>
     </pages>
 </playground>

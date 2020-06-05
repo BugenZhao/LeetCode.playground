@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-96%20%2F%201343%20=%207.15%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-97%20%2F%201343%20=%207.22%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](./LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -98,6 +98,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](./LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
@@ -590,7 +591,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) ~~[S]~~ 0524. Longest Word in Dictionary through Deleting
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement/) ~~[S]~~ 0526. Beautiful Arrangement
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-abbreviation/) ~~[S]~~ 0527. Word Abbreviation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) ~~[S]~~ 0528. Random Pick with Weight
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minesweeper/) ~~[S]~~ 0529. Minesweeper
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) ~~[S]~~ 0530. Minimum Absolute Difference in BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lonely-pixel-i/) ~~[S]~~ 0531. Lonely Pixel I
