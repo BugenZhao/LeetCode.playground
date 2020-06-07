@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-99%20%2F%201347%20=%207.35%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-100%20%2F%201347%20=%207.42%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](./LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -113,6 +113,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span *[Array, Stack]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](./LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](./LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
@@ -931,7 +932,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/snakes-and-ladders/) ~~[S]~~ 0909. Snakes and Ladders
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-range-ii/) ~~[S]~~ 0910. Smallest Range II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/online-election/) ~~[S]~~ 0911. Online Election
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) ~~[S]~~ 0912. Sort an Array
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cat-and-mouse/) ~~[S]~~ 0913. Cat and Mouse
 - [ ] 😊 [[Q]](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) ~~[S]~~ 0914. X of a Kind in a Deck of Cards
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~ 0915. Partition Array into Disjoint Intervals

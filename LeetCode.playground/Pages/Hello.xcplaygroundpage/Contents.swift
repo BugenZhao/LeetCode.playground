@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 99 / 1347 = 7.35%
+> Progress: 100 / 1347 = 7.42%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -78,6 +78,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
+- 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](912-Sort%20an%20Array) 0912. Sort an Array *[Sort]*
 - 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](973-K%20Closest%20Points%20to%20Origin) 0973. K Closest Points to Origin *[Sort]*
