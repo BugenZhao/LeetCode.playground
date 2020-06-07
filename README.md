@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-97%20%2F%201343%20=%207.22%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-99%20%2F%201347%20=%207.35%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
@@ -36,8 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays *[Array, Binary Search]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -90,6 +90,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
@@ -97,6 +98,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
@@ -479,7 +481,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~ 0403. Frog Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~ 0404. Sum of Left Leaves
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~ 0405. Convert a Number to Hexadecimal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) ~~[S]~~ 0406. Queue Reconstruction by Height
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~ 0410. Split Array Largest Sum
@@ -582,7 +583,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/freedom-trail/) ~~[S]~~ 0514. Freedom Trail
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~ 0516. Longest Palindromic Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~ 0517. Super Washing Machines
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) ~~[S]~~ 0518. Coin Change 2
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-flip-matrix/) ~~[S]~~ 0519. Random Flip Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) ~~[S]~~ 0520. Detect Capital
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-i/) ~~[S]~~ 0521. Longest Uncommon Subsequence I 
@@ -1386,7 +1386,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) ~~[S]~~ 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) ~~[S]~~ 1466. Reorder Routes to Make All Paths Lead to the City Zero
 - [ ] 😫 [[Q]](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) ~~[S]~~ 1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-the-lonely-nodes/) ~~[S]~~ 1469. Find All the Lonely Nodes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-the-lonely-nodes/) ~~[S]~~ 1469. Find All The Lonely Nodes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shuffle-the-array/) ~~[S]~~ 1470. Shuffle the Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) ~~[S]~~ 1471. The k Strongest Values in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-browser-history/) ~~[S]~~ 1472. Design Browser History
+- [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-iii/) ~~[S]~~ 1473. Paint House III
 </details>
 
 ## How am I generated?

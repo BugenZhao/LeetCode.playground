@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 97 / 1343 = 7.22%
+> Progress: 99 / 1347 = 7.35%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -55,6 +55,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
 - 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](399-Evaluate%20Division) 0399. Evaluate Division *[Graph, Shortest Path]*
 - 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
+- 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](406-Queue%20Reconstruction%20by%20Height) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
@@ -62,6 +63,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
+- 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](525-Contiguous%20Array) 0525. Contiguous Array *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](528-Random%20Pick%20with%20Weight) 0528. Random Pick with Weight *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*

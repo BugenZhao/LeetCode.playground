@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -100,5 +100,7 @@
         <page name='310-Minimum Height Trees'/>
         <page name='417-Pacific Atlantic Water Flow'/>
         <page name='528-Random Pick with Weight'/>
+        <page name='406-Queue Reconstruction by Height'/>
+        <page name='518-Coin Change 2'/>
     </pages>
 </playground>
