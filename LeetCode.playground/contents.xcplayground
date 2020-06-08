@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -102,5 +102,9 @@
         <page name='528-Random Pick with Weight'/>
         <page name='406-Queue Reconstruction by Height'/>
         <page name='518-Coin Change 2'/>
+        <page name='912-Sort an Array'/>
+        <page name='50-Pow(x, n)'/>
+        <page name='69-Sqrt(x)'/>
+        <page name='372-Super Pow'/>
     </pages>
 </playground>
