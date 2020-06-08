@@ -67,7 +67,7 @@ class Writer {
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
 
         output += "## \(tag) Problems\n"
-        let lines = filteredDict.map(\.value.lineForTag)
+        let lines = Tag.special.contains(tag) ? filteredDict.map(\.value.line) : filteredDict.map(\.value.lineForTag)
         if lines.isEmpty { output += "*[No solution yet]*\n" }
         else { lines.forEach { output += $0 + "\n" } }
 
