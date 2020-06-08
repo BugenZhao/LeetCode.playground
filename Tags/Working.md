@@ -4,4 +4,4 @@
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Working Problems
-- [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](.././LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
+- [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 

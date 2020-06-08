@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-103%20%2F%201347%20=%207.65%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-104%20%2F%201347%20=%207.72%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](./LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -136,6 +136,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
@@ -1253,7 +1254,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/deepest-leaves-sum/) ~~[S]~~ 1302. Deepest Leaves Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ~~[S]~~ 1304. Find N Unique Integers Sum up to Zero
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ~~[S]~~ 1305. All Elements in Two Binary Search Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) ~~[S]~~ 1306. Jump Game III
 - [ ] 😫 [[Q]](https://leetcode.com/problems/verbal-arithmetic-puzzle/) ~~[S]~~ 1307. Verbal Arithmetic Puzzle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) ~~[S]~~ 1309. Decrypt String from Alphabet to Integer Mapping
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/xor-queries-of-a-subarray/) ~~[S]~~ 1310. XOR Queries of a Subarray

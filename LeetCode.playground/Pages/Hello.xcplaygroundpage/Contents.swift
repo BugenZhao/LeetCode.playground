@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 103 / 1347 = 7.65%
+> Progress: 104 / 1347 = 7.72%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -101,6 +101,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
