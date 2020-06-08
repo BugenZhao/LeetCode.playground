@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-104%20%2F%201347%20=%207.72%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-105%20%2F%201347%20=%207.80%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -79,6 +79,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
@@ -323,7 +324,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~ 0227. Basic Calculator II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~ 0229. Majority Element II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) ~~[S]~~ 0231. Power of Two
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~ 0232. Implement Queue using Stacks
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~ 0233. Number of Digit One
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~ 0234. Palindrome Linked List
