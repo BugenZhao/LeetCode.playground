@@ -106,5 +106,10 @@
         <page name='50-Pow(x, n)'/>
         <page name='69-Sqrt(x)'/>
         <page name='372-Super Pow'/>
+        <page name='231-Power of Two'/>
+        <page name='1306-Jump Game III'/>
+        <page name='100. Same Tree'/>
+        <page name='22. Generate Parentheses'/>
+        <page name='20. Valid Parentheses'/>
     </pages>
 </playground>
