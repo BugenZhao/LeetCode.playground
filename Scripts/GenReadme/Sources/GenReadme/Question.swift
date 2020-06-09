@@ -63,7 +63,8 @@ struct Question {
         /// Solved
         if let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) {
             contents.forEach { page in
-                if let qid = Int(page.split(separator: "-")[0]) {
+                let split = page.split(whereSeparator: {["-", "."].contains($0)})
+                if !split.isEmpty, let qid = Int(split[0]) {
                     dict[qid]?.solved = true
                     dict[qid]?.solvedPath = "\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")"
                     dict[qid]?.solvedPagePath = String("\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)".dropLast(pageSuffixCount))
