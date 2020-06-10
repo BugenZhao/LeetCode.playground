@@ -111,5 +111,8 @@
         <page name='100. Same Tree'/>
         <page name='22. Generate Parentheses'/>
         <page name='20. Valid Parentheses'/>
+        <page name='392. Is Subsequence'/>
+        <page name='102. Binary Tree Level Order Traversal'/>
+        <page name='103. Binary Tree Zigzag Level Order Traversal'/>
     </pages>
 </playground>

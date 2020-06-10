@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-109%20%2F%201347%20=%208.09%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-112%20%2F%201347%20=%208.31%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](./LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
@@ -35,9 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](./LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array *[Sort]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -66,6 +66,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](./LeetCode.playground/Pages/96-Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) [[S]](./LeetCode.playground/Pages/97-Interleaving%20String.xcplaygroundpage/Contents.swift) 0097. Interleaving String *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](./LeetCode.playground/Pages/100.%20Same%20Tree.xcplaygroundpage/Contents.swift) 0100. Same Tree *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](./LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
@@ -145,6 +147,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
+- [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](./LeetCode.playground/Pages/1395-Count%20Number%20of%20Teams.xcplaygroundpage/Contents.swift) 1395. Count Number of Teams *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](./LeetCode.playground/Pages/1405-Longest%20Happy%20String.xcplaygroundpage/Contents.swift) 1405. Longest Happy String *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
@@ -228,8 +231,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) ~~[S]~~ 0098. Validate Binary Search Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/symmetric-tree/) ~~[S]~~ 0101. Symmetric Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) ~~[S]~~ 0102. Binary Tree Level Order Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ~~[S]~~ 0103. Binary Tree Zigzag Level Order Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ~~[S]~~ 0104. Maximum Depth of Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~ 0105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~ 0106. Construct Binary Tree from Inorder and Postorder Traversal
@@ -1303,7 +1304,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ~~[S]~~ 1365. How Many Numbers Are Smaller Than the Current Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~ 1366. Rank Teams by Votes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) ~~[S]~~ 1367. Linked List in Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) ~~[S]~~ 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 - [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~ 1370. Increasing Decreasing String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~ 1371. Find the Longest Substring Containing Vowels in Even Counts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ~~[S]~~ 1372. Longest ZigZag Path in a Binary Tree

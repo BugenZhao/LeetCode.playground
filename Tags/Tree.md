@@ -1,10 +1,12 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-11-orange.svg)
+![Progress](https://img.shields.io/badge/Count-13-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](.././LeetCode.playground/Pages/100.%20Same%20Tree.xcplaygroundpage/Contents.swift) 0100. Same Tree 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](.././LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](.././LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](.././LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](.././LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) 
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](.././LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree 

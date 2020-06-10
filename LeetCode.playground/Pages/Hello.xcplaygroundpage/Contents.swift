@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 109 / 1347 = 8.09%
+> Progress: 112 / 1347 = 8.31%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -31,6 +31,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96-Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) [[S]](97-Interleaving%20String) 0097. Interleaving String *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](100.%20Same%20Tree) 0100. Same Tree *[Tree]*
+- 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](102.%20Binary%20Tree%20Level%20Order%20Traversal) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
+- 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](120-Triangle) 0120. Triangle *[DP, Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](121-Best%20Time%20to%20Buy%20and%20Sell%20Stock) 0121. Best Time to Buy and Sell Stock *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
@@ -110,6 +112,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
+- 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](1405-Longest%20Happy%20String) 1405. Longest Happy String *[Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
