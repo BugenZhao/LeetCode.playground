@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 113 / 1347 = 8.39%
+> Progress: 114 / 1348 = 8.46%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](69-Sqrt(x)) 0069. Sqrt(x) *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](70-Climbing%20Stairs) 0070. Climbing Stairs *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](72-Edit%20Distance) 0072. Edit Distance *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](75.%20Sort%20Colors) 0075. Sort Colors *[Array, Two Pointers]*
 - 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](87-Scramble%20String) 0087. Scramble String *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](91-Decode%20Ways) 0091. Decode Ways *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96-Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[DP]*

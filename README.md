@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-113%20%2F%201347%20=%208.39%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-114%20%2F%201348%20=%208.46%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](./LeetCode.playground/Pages/100.%20Same%20Tree.xcplaygroundpage/Contents.swift) 0100. Same Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -62,6 +62,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](./LeetCode.playground/Pages/87-Scramble%20String.xcplaygroundpage/Contents.swift) 0087. Scramble String *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](./LeetCode.playground/Pages/91-Decode%20Ways.xcplaygroundpage/Contents.swift) 0091. Decode Ways *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](./LeetCode.playground/Pages/96-Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees *[DP]*
@@ -209,7 +210,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~ 0074. Search a 2D Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) ~~[S]~~ 0075. Sort Colors
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~ 0076. Minimum Window Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets/) ~~[S]~~ 0078. Subsets
@@ -1391,6 +1391,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) ~~[S]~~ 1471. The k Strongest Values in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-browser-history/) ~~[S]~~ 1472. Design Browser History
 - [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-iii/) ~~[S]~~ 1473. Paint House III
+- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) ~~[S]~~ 1474. Delete N Nodes After M Nodes of a Linked List
 </details>
 
 ## How am I generated?

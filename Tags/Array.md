@@ -1,12 +1,13 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-8-orange.svg)
+![Progress](https://img.shields.io/badge/Count-9-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Array Problems
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](.././LeetCode.playground/Pages/3-Longest%20Substring%20Without%20Repeating%20Characters.xcplaygroundpage/Contents.swift) 0003. Longest Substring Without Repeating Characters 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](.././LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) [[S]](.././LeetCode.playground/Pages/6-ZigZag%20Conversion.xcplaygroundpage/Contents.swift) 0006. ZigZag Conversion 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](.././LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors 
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](.././LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](.././LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](.././LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array 
