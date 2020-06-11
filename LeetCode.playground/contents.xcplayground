@@ -114,5 +114,11 @@
         <page name='392. Is Subsequence'/>
         <page name='102. Binary Tree Level Order Traversal'/>
         <page name='103. Binary Tree Zigzag Level Order Traversal'/>
+        <page name='35. Search Insert Position'/>
+        <page name='75. Sort Colors'/>
+        <page name='1368. Minimum Cost to Make at Least One Valid Path in a Grid'/>
+        <page name='1436. Destination City'/>
+        <page name='1432. Max Difference You Can Get From Changing an Integer'/>
+        <page name='785. Is Graph Bipartite?'/>
     </pages>
 </playground>

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 114 / 1348 = 8.46%
+> Progress: 117 / 1348 = 8.68%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -85,6 +85,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
+- 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
@@ -118,6 +119,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](1405-Longest%20Happy%20String) 1405. Longest Happy String *[Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
+- 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
+- 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](1436.%20Destination%20City) 1436. Destination City *[Hash Table, Graph]*
 - 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 */
 
