@@ -120,5 +120,6 @@
         <page name='1436. Destination City'/>
         <page name='1432. Max Difference You Can Get From Changing an Integer'/>
         <page name='785. Is Graph Bipartite?'/>
+        <page name='380. Insert Delete GetRandom O(1)'/>
     </pages>
 </playground>

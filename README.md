@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-117%20%2F%201348%20=%208.68%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-118%20%2F%201348%20=%208.75%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](./LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City *[Hash Table, Graph]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](./LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -97,6 +97,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
@@ -466,7 +467,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) ~~[S]~~ 0377. Combination Sum IV
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ~~[S]~~ 0378. Kth Smallest Element in a Sorted Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-phone-directory/) ~~[S]~~ 0379. Design Phone Directory
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) ~~[S]~~ 0380. Insert Delete GetRandom O(1)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~ 0381. Insert Delete GetRandom O(1) - Duplicates allowed
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-random-node/) ~~[S]~~ 0382. Linked List Random Node
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~ 0384. Shuffle an Array

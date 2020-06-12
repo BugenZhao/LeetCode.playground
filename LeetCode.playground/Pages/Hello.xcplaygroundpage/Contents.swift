@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 117 / 1348 = 8.68%
+> Progress: 118 / 1348 = 8.75%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -62,6 +62,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](344-Reverse%20String) 0344. Reverse String 
 - 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](367-Valid%20Perfect%20Square) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](372-Super%20Pow) 0372. Super Pow *[Mathematics]*
+- 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](380.%20Insert%20Delete%20GetRandom%20O(1)) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](383-Ransom%20Note) 0383. Ransom Note *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
 - 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](392.%20Is%20Subsequence) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
