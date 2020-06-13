@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-10-orange.svg)
+![Progress](https://img.shields.io/badge/Count-12-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## BFS Problems
@@ -14,3 +14,5 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](.././LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](.././LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](.././LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III 
+- [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](.././LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](.././LeetCode.playground/Pages/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1391. Check if There is a Valid Path in a Grid 

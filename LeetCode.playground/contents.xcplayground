@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -121,5 +121,9 @@
         <page name='1432. Max Difference You Can Get From Changing an Integer'/>
         <page name='785. Is Graph Bipartite?'/>
         <page name='380. Insert Delete GetRandom O(1)'/>
+        <page name='1367. Linked List in Binary Tree'/>
+        <page name='1345. Jump Game IV'/>
+        <page name='1391. Check if There is a Valid Path in a Grid'/>
+        <page name='279. Perfect Squares'/>
     </pages>
 </playground>

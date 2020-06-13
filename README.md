@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-118%20%2F%201348%20=%208.75%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-122%20%2F%201348%20=%209.05%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,16 +28,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](./LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1391. Check if There is a Valid Path in a Grid *[Graph, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](./LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](./LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City *[Hash Table, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](./LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -90,6 +90,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -151,7 +152,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
+- [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](./LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](./LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1391. Check if There is a Valid Path in a Grid *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](./LeetCode.playground/Pages/1395-Count%20Number%20of%20Teams.xcplaygroundpage/Contents.swift) 1395. Count Number of Teams *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](./LeetCode.playground/Pages/1405-Longest%20Happy%20String.xcplaygroundpage/Contents.swift) 1405. Longest Happy String *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
@@ -373,7 +377,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~ 0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~ 0277. Find the Celebrity
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~ 0279. Perfect Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~ 0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~ 0281. Zigzag Iterator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~ 0282. Expression Add Operators
@@ -1286,7 +1289,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-v/) ~~[S]~~ 1340. Jump Game V
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) ~~[S]~~ 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) ~~[S]~~ 1344. Angle Between Hands of a Clock
-- [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) ~~[S]~~ 1345. Jump Game IV
 - [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-n-and-its-double-exist/) ~~[S]~~ 1346. Check If N and Its Double Exist
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) ~~[S]~~ 1347. Minimum Number of Steps to Make Two Strings Anagram
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/tweet-counts-per-frequency/) ~~[S]~~ 1348. Tweet Counts Per Frequency
@@ -1305,7 +1307,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) ~~[S]~~ 1363. Largest Multiple of Three
 - [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ~~[S]~~ 1365. How Many Numbers Are Smaller Than the Current Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~ 1366. Rank Teams by Votes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) ~~[S]~~ 1367. Linked List in Binary Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~ 1370. Increasing Decreasing String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~ 1371. Find the Longest Substring Containing Vowels in Even Counts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) ~~[S]~~ 1372. Longest ZigZag Path in a Binary Tree
@@ -1325,7 +1326,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/pizza-with-3n-slices/) ~~[S]~~ 1388. Pizza With 3n Slices
 - [ ] 😊 [[Q]](https://leetcode.com/problems/create-target-array-in-the-given-order/) ~~[S]~~ 1389. Create Target Array in the Given Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/four-divisors/) ~~[S]~~ 1390. Four Divisors
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) ~~[S]~~ 1391. Check if There is a Valid Path in a Grid
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-happy-prefix/) ~~[S]~~ 1392. Longest Happy Prefix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ~~[S]~~ 1394. Find Lucky Integer in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-underground-system/) ~~[S]~~ 1396. Design Underground System

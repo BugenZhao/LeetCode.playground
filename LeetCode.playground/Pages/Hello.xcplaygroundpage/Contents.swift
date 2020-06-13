@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 118 / 1348 = 8.75%
+> Progress: 122 / 1348 = 9.05%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -55,6 +55,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
+- 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -116,7 +117,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
+- 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](1345.%20Jump%20Game%20IV) 1345. Jump Game IV *[BFS]*
+- 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](1367.%20Linked%20List%20in%20Binary%20Tree) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
+- 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid) 1391. Check if There is a Valid Path in a Grid *[Graph, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](1405-Longest%20Happy%20String) 1405. Longest Happy String *[Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*

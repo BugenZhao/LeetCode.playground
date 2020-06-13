@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-17-orange.svg)
+![Progress](https://img.shields.io/badge/Count-18-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Graph Problems
@@ -20,4 +20,5 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](.././LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](.././LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance 
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](.././LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](.././LeetCode.playground/Pages/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1391. Check if There is a Valid Path in a Grid 
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](.././LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City 
