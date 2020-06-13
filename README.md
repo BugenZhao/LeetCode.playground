@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-122%20%2F%201348%20=%209.05%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-124%20%2F%201348%20=%209.20%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](./LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1391. Check if There is a Valid Path in a Grid *[Graph, BFS]*
@@ -36,8 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](./LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City *[Hash Table, Graph]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -91,12 +91,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
@@ -397,7 +399,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~ 0297. Serialize and Deserialize Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~ 0298. Binary Tree Longest Consecutive Sequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~ 0299. Bulls and Cows
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) ~~[S]~~ 0300. Longest Increasing Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~ 0301. Remove Invalid Parentheses
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~ 0302. Smallest Rectangle Enclosing Black Pixels
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~ 0303. Range Sum Query - Immutable
@@ -459,7 +460,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nested-list-weight-sum-ii/) ~~[S]~~ 0364. Nested List Weight Sum II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/water-and-jug-problem/) ~~[S]~~ 0365. Water and Jug Problem
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~ 0366. Find Leaves of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) ~~[S]~~ 0368. Largest Divisible Subset
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~ 0369. Plus One Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~ 0370. Range Addition
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-two-integers/) ~~[S]~~ 0371. Sum of Two Integers

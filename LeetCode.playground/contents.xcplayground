@@ -125,5 +125,7 @@
         <page name='1345. Jump Game IV'/>
         <page name='1391. Check if There is a Valid Path in a Grid'/>
         <page name='279. Perfect Squares'/>
+        <page name='300. Longest Increasing Subsequence'/>
+        <page name='368. Largest Divisible Subset'/>
     </pages>
 </playground>

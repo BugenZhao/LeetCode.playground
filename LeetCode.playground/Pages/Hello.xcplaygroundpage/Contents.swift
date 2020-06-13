@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 122 / 1348 = 9.05%
+> Progress: 124 / 1348 = 9.20%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -56,12 +56,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
+- 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](338-Counting%20Bits) 0338. Counting Bits *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](344-Reverse%20String) 0344. Reverse String 
 - 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](367-Valid%20Perfect%20Square) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
+- 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](368.%20Largest%20Divisible%20Subset) 0368. Largest Divisible Subset *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](372-Super%20Pow) 0372. Super Pow *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](380.%20Insert%20Delete%20GetRandom%20O(1)) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](383-Ransom%20Note) 0383. Ransom Note *[Hash Table]*
