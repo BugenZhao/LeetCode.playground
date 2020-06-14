@@ -67,7 +67,7 @@ class Solution {
         }
 
         //: priority: box moving `step`
-        let pq = PriorityQueue<State>(by: { $0.step < $1.step })
+        var pq = PriorityQueue<State>(by: { $0.step < $1.step })
         pq.enqueue(State(box: boxStart!, player: playerStart!, step: 0))
         //: visited: `State` without `step`
         var visited = Set<State>()
@@ -213,7 +213,7 @@ class SolutionAStar {
         }
 
         //: priority: heuristic distance to destination
-        let pq = PriorityQueue<State>(by: { $0.step + heuristic(of: $0.box) < $1.step + heuristic(of: $1.box) })
+        var pq = PriorityQueue<State>(by: { $0.step + heuristic(of: $0.box) < $1.step + heuristic(of: $1.box) })
         pq.enqueue(State(box: boxStart!, player: playerStart!, step: 0))
         //: visited: `State` without `step`
         var visited = Set<State>()

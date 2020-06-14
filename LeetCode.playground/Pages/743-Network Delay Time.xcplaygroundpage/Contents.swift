@@ -82,7 +82,7 @@ class SolutionDijkstraPQ {
 
         var dist = [Weight](repeating: inf, count: N + 1)
         dist[K] = 0
-        let pq = PriorityQueue<(node: Node, dist: Weight)>(by: { $0.dist < $1.dist })
+        var pq = PriorityQueue<(node: Node, dist: Weight)>(by: { $0.dist < $1.dist })
         pq.enqueue((K, 0))
 
         while !pq.isEmpty {

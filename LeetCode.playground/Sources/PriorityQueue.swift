@@ -1,31 +1,29 @@
-import Foundation
-
 public protocol QueueProtocol {
     associatedtype Element
 
     var size: Int { get }
-    @discardableResult func enqueue(_ item: Element) -> Bool
-    @discardableResult func dequeue() -> Element?
+    mutating func enqueue(_ item: Element) -> Bool
+    mutating func dequeue() -> Element?
     func first() -> Element?
-    func removeAll()
+    mutating func removeAll()
 }
 
 fileprivate extension Int {
-    var leftChild: Int { return self * 2 + 1 }
-    var rightChild: Int { return self * 2 + 2 }
-    var parent: Int { return (self - 1) / 2 }
+    @inline(__always) var leftChild: Int { return self * 2 + 1 }
+    @inline(__always) var rightChild: Int { return self * 2 + 2 }
+    @inline(__always) var parent: Int { return (self - 1) / 2 }
 }
 
-public class PriorityQueue<Element>: QueueProtocol {
+public struct PriorityQueue<Element>: QueueProtocol {
     private var queue = [Element]()
 
-    private func swapElementAt(_ first: Int, _ second: Int) {
+    private mutating func swapElementAt(_ first: Int, _ second: Int) {
         let tmp = queue[first]
         queue[first] = queue[second]
         queue[second] = tmp
     }
 
-    private func heapifyUp(from index: Int) {
+    private mutating func heapifyUp(from index: Int) {
         var child = index
         var parent = index.parent
 
@@ -36,7 +34,7 @@ public class PriorityQueue<Element>: QueueProtocol {
         }
     }
 
-    private func heapifyDown() {
+    private mutating func heapifyDown() {
         var parent = 0
 
         while true {
@@ -58,16 +56,20 @@ public class PriorityQueue<Element>: QueueProtocol {
         self.lessThan = lessThan
     }
 
+    @inline(__always)
     public var size: Int { return self.queue.count }
+    @inline(__always)
     public var isEmpty: Bool { return self.queue.isEmpty }
 
-    @discardableResult public func enqueue(_ item: Element) -> Bool {
+    @discardableResult
+    public mutating func enqueue(_ item: Element) -> Bool {
         queue.append(item)
         heapifyUp(from: queue.count - 1)
         return true
     }
 
-    @discardableResult public func dequeue() -> Element? {
+    @discardableResult
+    public mutating func dequeue() -> Element? {
         guard !queue.isEmpty else { return nil }
 
         switch queue.count {
@@ -85,7 +87,7 @@ public class PriorityQueue<Element>: QueueProtocol {
         return queue.first
     }
 
-    public func removeAll() {
+    public mutating func removeAll() {
         queue.removeAll()
     }
 }
