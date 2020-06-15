@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-125%20%2F%201356%20=%209.22%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-126%20%2F%201356%20=%209.29%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
@@ -37,7 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](./LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -126,6 +126,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
+- [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
@@ -819,7 +820,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) ~~[S]~~ 0783. Minimum Distance Between BST Nodes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) ~~[S]~~ 0784. Letter Case Permutation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-prime-fraction/) ~~[S]~~ 0786. K-th Smallest Prime Fraction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) ~~[S]~~ 0787. Cheapest Flights Within K Stops
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotated-digits/) ~~[S]~~ 0788. Rotated Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/escape-the-ghosts/) ~~[S]~~ 0789. Escape The Ghosts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/domino-and-tromino-tiling/) ~~[S]~~ 0790. Domino and Tromino Tiling
@@ -1396,10 +1396,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subrectangle-queries/) ~~[S]~~ 1476. Subrectangle Queries
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) ~~[S]~~ 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/allocate-mailboxes/) ~~[S]~~ 1478. Allocate Mailboxes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/running-sum-of-1d-array/) ~~[S]~~ 5453. Running Sum of 1d Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) ~~[S]~~ 5454. Least Number of Unique Integers after K Removals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) ~~[S]~~ 5455. Minimum Number of Days to Make m Bouquets
-- [ ] 😫 [[Q]](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) ~~[S]~~ 5456. Kth Ancestor of a Tree Node
+- [ ] 😊 [[Q]](https://leetcode.com/problems/running-sum-of-1d-array/) ~~[S]~~ 1480. Running Sum of 1d Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) ~~[S]~~ 1481. Least Number of Unique Integers after K Removals
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) ~~[S]~~ 1482. Minimum Number of Days to Make m Bouquets
+- [ ] 😫 [[Q]](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) ~~[S]~~ 1483. Kth Ancestor of a Tree Node
 </details>
 
 ## How am I generated?

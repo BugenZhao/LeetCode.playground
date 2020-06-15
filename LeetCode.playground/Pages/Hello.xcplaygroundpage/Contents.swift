@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 125 / 1356 = 9.22%
+> Progress: 126 / 1356 = 9.29%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -91,6 +91,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
+- 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
