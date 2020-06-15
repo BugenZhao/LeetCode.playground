@@ -1,3 +1,5 @@
+let tags: [Tag] = [.sort, .list]
+
 class Solution {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
         var pq = PriorityQueue<ListNode>(by: { lhs, rhs in lhs.val < rhs.val })

@@ -29,7 +29,7 @@ Bugen's LeetCode solutions in Swift Playground.
 
 ## Recent
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists 
+- [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
@@ -51,7 +51,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](./LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists 
+- [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack]*

@@ -1,7 +1,7 @@
 let tags: [Tag] = [.graph, .sp, .marked, .working]
 
-//: Bellman Ford
-class Solution {
+//: Dynamic Programming like Basic Bellman Ford
+class SolutionDP {
     func findCheapestPrice(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ K: Int) -> Int {
         var adj = [[(Int, Int)]](repeating: [], count: n)
         flights.forEach { adj[$0[0]].append(($0[1], $0[2])) }
@@ -12,7 +12,7 @@ class Solution {
         }
         //: `dist[k][v]`: minimal distance to `v` within`k` steps (`k - 1` stops)
 
-        for k in 1...(K + 1) { //: KEY POINT!
+        for k in 1...(K + 1) { //: KEY POINT, to control the # of stops!
             for u in 0..<n {
                 adj[u].forEach { v, weight in
                     dist[k][v] = min(dist[k][v], dist[k - 1][u] + weight, Int.max / 3)
@@ -24,14 +24,16 @@ class Solution {
     }
 }
 
-var f = Solution().findCheapestPrice
+var f = SolutionDP().findCheapestPrice
 
 f(3, [[0, 1, 100], [1, 2, 100], [0, 2, 500]], 0, 2, 0)
 f(3, [[0, 1, 100], [1, 2, 100], [0, 2, 500]], 0, 2, 1)
 f(3, [[0, 1, 2], [1, 2, 1], [2, 0, 10]], 1, 2, 1)
 
-//: BF with spatial optimization
-class Solution2 {
+/*: BF with spatial optimization
+ - Note: We still need two `dist` array, that is, update the distances atomically!!! Consider that `u` and `v` are to update, and there exists an edge `(u,v)`, if we happen to update first `u` then `v`, `v` actually gets one more stop, which is not expected since we are using the # of **the outer loop** to control the # of stops!
+ */
+class Solution {
     func findCheapestPrice(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ K: Int) -> Int {
         var adj = [[(Int, Int)]](repeating: [], count: n)
         flights.forEach { adj[$0[0]].append(($0[1], $0[2])) }
@@ -53,7 +55,7 @@ class Solution2 {
     }
 }
 
-f = Solution2().findCheapestPrice
+f = Solution().findCheapestPrice
 
 f(3, [[0, 1, 100], [1, 2, 100], [0, 2, 500]], 0, 2, 0)
 f(3, [[0, 1, 100], [1, 2, 100], [0, 2, 500]], 0, 2, 1)

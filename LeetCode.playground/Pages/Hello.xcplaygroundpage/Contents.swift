@@ -16,7 +16,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](9-Palindrome%20Number) 0009. Palindrome Number *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](20.%20Valid%20Parentheses) 0020. Valid Parentheses *[Stack]*
 - 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](22.%20Generate%20Parentheses) 0022. Generate Parentheses *[String]*
-- 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists 
+- 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
 - 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*
 - 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*
