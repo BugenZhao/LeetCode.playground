@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -131,5 +131,9 @@
         <page name='787. Cheapest Flights Within K Stops'/>
         <page name='700. Search in a Binary Search Tree'/>
         <page name='630. Course Schedule III'/>
+        <page name='1289. Minimum Falling Path Sum II'/>
+        <page name='931. Minimum Falling Path Sum'/>
+        <page name='1386. Cinema Seat Allocation'/>
+        <page name='1094. Car Pooling'/>
     </pages>
 </playground>

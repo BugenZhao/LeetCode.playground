@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 128 / 1356 = 9.44%
+> Progress: 133 / 1356 = 9.81%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -101,6 +101,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](912-Sort%20an%20Array) 0912. Sort an Array *[Sort]*
 - 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](931.%20Minimum%20Falling%20Path%20Sum) 0931. Minimum Falling Path Sum *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](973-K%20Closest%20Points%20to%20Origin) 0973. K Closest Points to Origin *[Sort]*
 - 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
@@ -114,11 +115,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*
+- 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](1090.%20Largest%20Values%20From%20Labels) 1090. Largest Values From Labels *[Greedy]*
+- 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](1094.%20Car%20Pooling) 1094. Car Pooling *[Array]*
 - 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
 - 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
+- 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
@@ -126,6 +130,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](1345.%20Jump%20Game%20IV) 1345. Jump Game IV *[BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](1367.%20Linked%20List%20in%20Binary%20Tree) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
+- 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](1386.%20Cinema%20Seat%20Allocation) 1386. Cinema Seat Allocation *[Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) [[S]](1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid) 1391. Check if There is a Valid Path in a Grid *[Graph, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/count-number-of-teams/) [[S]](1395-Count%20Number%20of%20Teams) 1395. Count Number of Teams *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](1405-Longest%20Happy%20String) 1405. Longest Happy String *[Greedy]*
