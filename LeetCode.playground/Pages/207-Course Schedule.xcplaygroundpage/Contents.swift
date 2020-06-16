@@ -59,3 +59,49 @@ class SolutionTopo {
 SolutionTopo().canFinish(2, [[1, 0]])
 SolutionTopo().canFinish(2, [[1, 0], [0, 1]])
 SolutionTopo().canFinish(3, [[1, 0], [2, 1]])
+
+
+class SolutionKosaraju {
+    func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {
+        var adj = [[Int]](repeating: [], count: numCourses)
+        var adjR = adj
+        prerequisites.forEach { pair in
+            adj[pair[0]].append(pair[1])
+            adjR[pair[1]].append(pair[0])
+        }
+
+        var visited = [Bool](repeating: false, count: numCourses)
+        var postR = [Int]()
+
+        func dfsR(_ u: Int) {
+            visited[u] = true
+            for v in adjR[u] where !visited[v] {
+                dfsR(v)
+            }
+            postR.append(u)
+        }
+
+        for u in 0..<numCourses {
+            if !visited[u] { dfsR(u) }
+        }
+
+        postR.reverse()
+        
+        visited.indices.forEach { visited[$0] = false }
+
+        func check(_ u: Int) -> Bool {
+            visited[u] = true
+            //: each CC should only contains one node
+            return adj[u].allSatisfy({ v in visited[v] })
+        }
+
+        for u in postR {
+            guard check(u) else { return false }
+        }
+        return true
+    }
+}
+
+SolutionKosaraju().canFinish(2, [[1, 0]])
+SolutionKosaraju().canFinish(2, [[1, 0], [0, 1]])
+SolutionKosaraju().canFinish(3, [[1, 0], [2, 1]])

@@ -129,5 +129,7 @@
         <page name='368. Largest Divisible Subset'/>
         <page name='23. Merge k Sorted Lists'/>
         <page name='787. Cheapest Flights Within K Stops'/>
+        <page name='700. Search in a Binary Search Tree'/>
+        <page name='630. Course Schedule III'/>
     </pages>
 </playground>
