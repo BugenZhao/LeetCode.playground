@@ -1,10 +1,11 @@
 public protocol QueueProtocol {
     associatedtype Element
 
-    var size: Int { get }
+    var count: Int { get }
+    var first: Element? { get }
+    
     mutating func enqueue(_ item: Element) -> Bool
     mutating func dequeue() -> Element?
-    func first() -> Element?
     mutating func removeAll()
 }
 
@@ -57,9 +58,11 @@ public struct PriorityQueue<Element>: QueueProtocol {
     }
 
     @inline(__always)
-    public var size: Int { return self.queue.count }
+    public var count: Int { return self.queue.count }
     @inline(__always)
     public var isEmpty: Bool { return self.queue.isEmpty }
+    @inline(__always)
+    public var first: Element? { return queue.first }
 
     @discardableResult
     public mutating func enqueue(_ item: Element) -> Bool {
@@ -81,10 +84,6 @@ public struct PriorityQueue<Element>: QueueProtocol {
             heapifyDown()
             return item
         }
-    }
-
-    public func first() -> Element? {
-        return queue.first
     }
 
     public mutating func removeAll() {
