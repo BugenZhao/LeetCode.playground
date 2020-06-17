@@ -32,17 +32,37 @@ struct Question {
     static func getRemoteQuestions() -> QuestionDict {
         var dict = QuestionDict()
         var questions = [JSON]()
+        var tryLocal = true
 
-        let semaphore = DispatchSemaphore(value: 0)
-        let task = URLSession.shared.dataTask(with: leetCodeURL!) { (data, _, _) in
-            guard let data = data else {
-                fatalError("No LeetCode data".red)
-            }
-            questions = JSON(data)["stat_status_pairs"].arrayValue
-            semaphore.signal()
+        if let date = try? FileManager.default.attributesOfItem(atPath: localCacheURL.path)[FileAttributeKey.modificationDate] as? Date,
+            date.distance(to: Date()) > 7 * 24 * 3600 {
+            tryLocal = false
+            print("Local cache will be updated".green)
         }
-        task.resume()
-        semaphore.wait()
+
+        if tryLocal, let data = try? Data(contentsOf: localCacheURL) {
+            questions = JSON(data)["stat_status_pairs"].arrayValue
+            if questions.isEmpty { tryLocal = false }
+            else { print("Using local cache: \(localCacheURL.relativePath)".green) }
+        }
+
+        if !tryLocal {
+            let semaphore = DispatchSemaphore(value: 0)
+            let task = URLSession.shared.dataTask(with: leetCodeURL!) { (data, _, _) in
+                guard let data = data else {
+                    fatalError("No LeetCode data".red)
+                }
+                questions = JSON(data)["stat_status_pairs"].arrayValue
+                guard !questions.isEmpty else {
+                    fatalError("No LeetCode data".red)
+                }
+
+                try? data.write(to: localCacheURL)
+                semaphore.signal()
+            }
+            task.resume()
+            semaphore.wait()
+        }
 
         questions.forEach { question in
             let qid = question["stat"]["frontend_question_id"].intValue
@@ -63,7 +83,7 @@ struct Question {
         /// Solved
         if let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) {
             contents.forEach { page in
-                let split = page.split(whereSeparator: {["-", "."].contains($0)})
+                let split = page.split(whereSeparator: { ["-", "."].contains($0) })
                 if !split.isEmpty, let qid = Int(split[0]) {
                     dict[qid]?.solved = true
                     dict[qid]?.solvedPath = "\(pagesRelativePath)\(page.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!)\("/Contents.swift")"

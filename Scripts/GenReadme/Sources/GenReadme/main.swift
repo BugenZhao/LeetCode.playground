@@ -8,11 +8,9 @@ var dict = Question.getRemoteQuestions()
 print("Getting local info...".yellow)
 Question.getLocalInfo(dict: &dict)
 
-print("Writing to \(readmeURL.relativeString)...".yellow)
+print("Writing...".yellow)
 Writer.writeReadme(dict, to: readmeURL)
-print("Writing to \(helloPageURL.relativeString)...".yellow)
 Writer.writeXcodePage(dict, to: helloPageURL)
-print("Writing to Tags...".yellow)
 Tag.allCases.forEach {
     Writer.writeTag(dict, tag: $0, to: makeURL(tag: $0))
 }
