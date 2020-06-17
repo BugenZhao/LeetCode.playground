@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 133 / 1356 = 9.81%
+> Progress: 134 / 1356 = 9.88%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -77,6 +77,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
 - 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
 - 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*

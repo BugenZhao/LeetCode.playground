@@ -135,5 +135,7 @@
         <page name='931. Minimum Falling Path Sum'/>
         <page name='1386. Cinema Seat Allocation'/>
         <page name='1094. Car Pooling'/>
+        <page name='1090. Largest Values From Labels'/>
+        <page name='468. Validate IP Address'/>
     </pages>
 </playground>
