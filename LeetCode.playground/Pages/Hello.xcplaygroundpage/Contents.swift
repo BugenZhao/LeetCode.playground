@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 139 / 1356 = 10.25%
+> Progress: 141 / 1356 = 10.40%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -56,6 +56,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
 - 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
 - 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
+- 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](274.%20H-Index) 0274. H-Index *[Array, Sort]*
+- 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](275.%20H-Index%20II) 0275. H-Index II *[Binary Search, Array]*
 - 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
 - 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*

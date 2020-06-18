@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-139%20%2F%201356%20=%2010.25%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-141%20%2F%201356%20=%2010.40%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](./LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index *[Array, Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
@@ -36,8 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](./LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](./LeetCode.playground/Pages/1094.%20Car%20Pooling.xcplaygroundpage/Contents.swift) 1094. Car Pooling *[Array]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](./LeetCode.playground/Pages/1386.%20Cinema%20Seat%20Allocation.xcplaygroundpage/Contents.swift) 1386. Cinema Seat Allocation *[Greedy]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](./LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum *[DP]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -91,6 +91,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](./LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index *[Array, Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
@@ -388,8 +390,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~ 0271. Encode and Decode Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~ 0272. Closest Binary Search Tree Value II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~ 0273. Integer to English Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index/) ~~[S]~~ 0274. H-Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~ 0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~ 0277. Find the Celebrity
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~ 0280. Wiggle Sort

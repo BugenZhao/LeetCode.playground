@@ -1,11 +1,12 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-8-orange.svg)
+![Progress](https://img.shields.io/badge/Count-9-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](.././LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](.././LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](.././LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](.././LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](.././LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](.././LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square 
