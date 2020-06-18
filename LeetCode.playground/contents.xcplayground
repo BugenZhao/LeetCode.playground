@@ -139,5 +139,8 @@
         <page name='468. Validate IP Address'/>
         <page name='130. Surrounded Regions'/>
         <page name='1203. Sort Items by Groups Respecting Dependencies'/>
+        <page name='506. Relative Ranks'/>
+        <page name='848. Shifting Letters'/>
+        <page name='857. Minimum Cost to Hire K Workers'/>
     </pages>
 </playground>

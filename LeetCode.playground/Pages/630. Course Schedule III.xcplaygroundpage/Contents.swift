@@ -1,4 +1,4 @@
-let tags: [Tag] = [.greedy]
+let tags: [Tag] = [.greedy, .marked]
 
 extension Array where Element == Int {
     var deadline: Int { self[1] }

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 136 / 1356 = 10.03%
+> Progress: 139 / 1356 = 10.25%
 
 ## Problems
 - 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -81,6 +81,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
 - 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
+- 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*
 - 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](525-Contiguous%20Array) 0525. Contiguous Array *[Array]*
@@ -88,7 +89,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](559-Maximum%20Depth%20of%20N-ary%20Tree) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 
-- 😫 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
+- 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
 - 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
 - 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph, BFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*
@@ -97,7 +98,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
+- 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](848.%20Shifting%20Letters) 0848. Shifting Letters 
 - 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
+- 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](857.%20Minimum%20Cost%20to%20Hire%20K%20Workers) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*

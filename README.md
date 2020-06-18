@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-136%20%2F%201356%20=%2010.03%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-139%20%2F%201356%20=%2010.25%25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 
@@ -28,6 +28,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
+- [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](./LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](./LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
@@ -35,9 +38,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](./LeetCode.playground/Pages/1094.%20Car%20Pooling.xcplaygroundpage/Contents.swift) 1094. Car Pooling *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](./LeetCode.playground/Pages/1386.%20Cinema%20Seat%20Allocation.xcplaygroundpage/Contents.swift) 1386. Cinema Seat Allocation *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](./LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum *[DP]*
-- [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -116,6 +116,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
@@ -123,7 +124,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](./LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
-- [X] 😫 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
@@ -132,7 +133,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span *[Array, Stack]*
@@ -592,7 +595,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-element-ii/) ~~[S]~~ 0503. Next Greater Element II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/base-7/) ~~[S]~~ 0504. Base 7
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze-ii/) ~~[S]~~ 0505. The Maze II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) ~~[S]~~ 0506. Relative Ranks
 - [ ] 😊 [[Q]](https://leetcode.com/problems/perfect-number/) ~~[S]~~ 0507. Perfect Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/most-frequent-subtree-sum/) ~~[S]~~ 0508. Most Frequent Subtree Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fibonacci-number/) ~~[S]~~ 0509. Fibonacci Number
@@ -885,7 +887,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-mountain-in-array/) ~~[S]~~ 0845. Longest Mountain in Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/hand-of-straights/) ~~[S]~~ 0846. Hand of Straights
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~ 0847. Shortest Path Visiting All Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) ~~[S]~~ 0848. Shifting Letters
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~ 0849. Maximize Distance to Closest Person
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~ 0851. Loud and Rich
 - [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~ 0852. Peak Index in a Mountain Array
@@ -893,7 +894,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-similar-strings/) ~~[S]~~ 0854. K-Similar Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/exam-room/) ~~[S]~~ 0855. Exam Room
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/score-of-parentheses/) ~~[S]~~ 0856. Score of Parentheses
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) ~~[S]~~ 0857. Minimum Cost to Hire K Workers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mirror-reflection/) ~~[S]~~ 0858. Mirror Reflection
 - [ ] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) ~~[S]~~ 0859. Buddy Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/lemonade-change/) ~~[S]~~ 0860. Lemonade Change
