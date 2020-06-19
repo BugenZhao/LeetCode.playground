@@ -54,12 +54,15 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Shortest Path"
         case .working:
             return "Working"
+        case .annoying:
+            return "Annoying"
         }
     }
-    
-    public static let special: [Tag] = [.marked, .working]
 
-    case marked, working
+    public static let specialWithEmojis: [Tag: String] = [.marked: "🔞", .working: "📝", .annoying: "🤬"]
+    public static let special = Array(Tag.specialWithEmojis.keys)
+
+    case marked, working, annoying
     case array, hash, list, heap, tree, graph, string, stack
     case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp
     case dp, greedy, math

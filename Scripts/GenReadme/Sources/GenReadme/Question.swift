@@ -18,10 +18,6 @@ struct Question {
     var solvedPagePath = ""
     var tags = [Tag]()
     var date = Date.init(timeIntervalSince1970: 0)
-    var line = ""
-    var lineForTag = ""
-    var lineForXcode = ""
-    var lineWithDate = ""
 
     var qid: Int
     var difficulty: Int
@@ -92,8 +88,10 @@ struct Question {
 
                     let tags = Parser.parseTags(pagesURL.appendingPathComponent("\(page)/Contents.swift"))
                     dict[qid]?.tags = tags
-                    if tags.contains(.marked) { dict[qid]?.difficultyEmoji = difficultyEmojis[0] }
-                    if tags.contains(.working) { dict[qid]?.difficultyEmoji = difficultyEmojis[4] }
+
+                    for specialTag in Tag.special {
+                        if tags.contains(specialTag) { dict[qid]?.difficultyEmoji = Tag.specialWithEmojis[specialTag]!; break }
+                    }
 
                     if let attr = try? FileManager.default.attributesOfItem(atPath: pagesURL.appendingPathComponent("\(page)").path) {
                         if let date = attr[FileAttributeKey.creationDate] as? Date { dict[qid]?.date = date }
@@ -101,37 +99,27 @@ struct Question {
                 }
             }
         }
+    }
 
-        /// Update line
-        dict.forEach { qid, question in
-            var line: String
-            var lineForTag: String
-            var lineForXcode: String
-            var lineWithDate: String
+    func line(with options: FormatOptions = .preset) -> String {
+        if solved {
+            var line = "- [X] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(titleSlug)/) "
 
-            if question.solved {
-                line = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
-                lineForTag = "- [X] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](../\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
-                lineForXcode = "- \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPagePath)) \(String(format: "%04d", qid)). \(question.title) "
-                lineWithDate = "- [X] (\(dateFormatter.string(from: question.date))) \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) [[S]](\(question.solvedPath)) \(String(format: "%04d", qid)). \(question.title) "
+            if options.contains(.xcodePath) { line.append("[[S]](\(solvedPagePath)) ") }
+            else if options.contains(.tagPath) { line.append("[[S]](../\(solvedPath)) ") }
+            else { line.append("[[S]](\(solvedPath)) ") }
 
-                let tags = question.tags.filter { !Tag.special.contains($0) }
+            line.append("\(String(format: "%04d", qid)). \(title) ")
+
+            if options.contains(.withTags) {
+                let tags = self.tags.filter { !Tag.special.contains($0) }
                 if !tags.isEmpty {
                     line.append("*\(tags)*")
-                    lineForXcode.append("*\(tags)*")
-                    lineWithDate.append("*\(tags)*")
                 }
-            } else {
-                line = "- [ ] \(question.difficultyEmoji) [[Q]](https://leetcode.com/problems/\(question.titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(question.title)"
-                lineForTag = line
-                lineForXcode = line
-                lineWithDate = line
             }
-
-            dict[qid]!.line = line
-            dict[qid]!.lineForTag = lineForTag
-            dict[qid]!.lineForXcode = lineForXcode
-            dict[qid]!.lineWithDate = lineWithDate
+            return line
+        } else {
+            return "- [ ] \(difficultyEmoji) [[Q]](https://leetcode.com/problems/\(titleSlug)/) ~~[S]~~ \(String(format: "%04d", qid)). \(title)"
         }
     }
 }
