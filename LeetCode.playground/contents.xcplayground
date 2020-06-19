@@ -145,5 +145,7 @@
         <page name='274. H-Index'/>
         <page name='275. H-Index II'/>
         <page name='686. Repeated String Match'/>
+        <page name='1235. Maximum Profit in Job Scheduling'/>
+        <page name='1044. Longest Duplicate Substring'/>
     </pages>
 </playground>
