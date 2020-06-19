@@ -2,6 +2,10 @@
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
 ![Progress](https://img.shields.io/badge/Progress-144%20%2F%201356%20=%2010.62%25-orange.svg)
 
+```swift
+let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
+```
+
 Bugen's LeetCode solutions in Swift Playground.
 
 ## Tags
@@ -135,7 +139,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
+- [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*

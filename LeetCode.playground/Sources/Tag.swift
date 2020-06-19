@@ -60,7 +60,7 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
     }
 
     public static let specialWithEmojis: [Tag: String] = [.marked: "🔞", .working: "📝", .annoying: "🤬"]
-    public static let special = Array(Tag.specialWithEmojis.keys)
+    public static let special: [Tag] = [.working, .marked, .annoying]
 
     case marked, working, annoying
     case array, hash, list, heap, tree, graph, string, stack

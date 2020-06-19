@@ -17,6 +17,7 @@ class Writer {
         output += "# LeetCode.playground\n"
         output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
         output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(count)))%25-orange.svg)\n\n"
+        output += "```swift\nlet priorities = [\"Algorithm & Complexity\", \"Clarity\", \"Running Time\"]\n```\n\n"
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
 
         output += "\n## Tags\n"

@@ -99,7 +99,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
+- [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](848.%20Shifting%20Letters) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
