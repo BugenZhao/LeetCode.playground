@@ -142,5 +142,8 @@
         <page name='506. Relative Ranks'/>
         <page name='848. Shifting Letters'/>
         <page name='857. Minimum Cost to Hire K Workers'/>
+        <page name='274. H-Index'/>
+        <page name='275. H-Index II'/>
+        <page name='686. Repeated String Match'/>
     </pages>
 </playground>
