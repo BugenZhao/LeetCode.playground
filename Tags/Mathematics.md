@@ -1,12 +1,13 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-19-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](.././LeetCode.playground/Pages/7-Reverse%20Integer.xcplaygroundpage/Contents.swift) 0007. Reverse Integer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](.././LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](.././LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](.././LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](.././LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](.././LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](.././LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two 

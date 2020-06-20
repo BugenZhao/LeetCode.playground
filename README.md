@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-144%20%2F%201356%20=%2010.62%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-145%20%2F%201356%20=%2010.69%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -33,6 +33,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](./LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](./LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
@@ -42,7 +43,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](./LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](./LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions *[Graph, DFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -65,6 +65,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](./LeetCode.playground/Pages/55-Jump%20Game.xcplaygroundpage/Contents.swift) 0055. Jump Game *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
@@ -232,7 +233,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~ 0057. Insert Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~ 0058. Length of Last Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~ 0059. Spiral Matrix II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) ~~[S]~~ 0060. Permutation Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~ 0061. Rotate List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) ~~[S]~~ 0062. Unique Paths
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) ~~[S]~~ 0063. Unique Paths II

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 144 / 1356 = 10.62%
+> Progress: 145 / 1356 = 10.69%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -25,6 +25,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](50-Pow(x,%20n)) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](69-Sqrt(x)) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](70-Climbing%20Stairs) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](72-Edit%20Distance) 0072. Edit Distance *[DP]*
