@@ -147,5 +147,7 @@
         <page name='686. Repeated String Match'/>
         <page name='1235. Maximum Profit in Job Scheduling'/>
         <page name='1044. Longest Duplicate Substring'/>
+        <page name='60. Permutation Sequence'/>
+        <page name='920. Number of Music Playlists'/>
     </pages>
 </playground>
