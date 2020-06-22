@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-146%20%2F%201356%20=%2010.77%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-147%20%2F%201356%20=%2010.84%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -33,6 +33,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](./LeetCode.playground/Pages/920.%20Number%20of%20Music%20Playlists.xcplaygroundpage/Contents.swift) 0920. Number of Music Playlists *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](./LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
@@ -42,7 +43,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
-- [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -87,6 +87,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
@@ -326,7 +327,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~ 0171. Excel Sheet Column Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~ 0173. Binary Search Tree Iterator
-- [ ] 😫 [[Q]](https://leetcode.com/problems/dungeon-game/) ~~[S]~~ 0174. Dungeon Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) ~~[S]~~ 0179. Largest Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~ 0186. Reverse Words in a String II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences

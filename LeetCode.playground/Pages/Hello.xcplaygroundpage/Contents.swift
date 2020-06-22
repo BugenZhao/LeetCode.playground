@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 146 / 1356 = 10.77%
+> Progress: 147 / 1356 = 10.84%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -47,6 +47,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](132-Palindrome%20Partitioning%20II) 0132. Palindrome Partitioning II *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*

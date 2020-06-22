@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-29-orange.svg)
+![Progress](https://img.shields.io/badge/Count-30-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
@@ -19,6 +19,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](.././LeetCode.playground/Pages/131-Palindrome%20Partitioning.xcplaygroundpage/Contents.swift) 0131. Palindrome Partitioning 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](.././LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](.././LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](.././LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](.././LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](.././LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset 
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](.././LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence 
