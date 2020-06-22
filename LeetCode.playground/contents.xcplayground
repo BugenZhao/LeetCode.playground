@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='raw'>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -150,5 +150,7 @@
         <page name='60. Permutation Sequence'/>
         <page name='920. Number of Music Playlists'/>
         <page name='174. Dungeon Game'/>
+        <page name='136. Single Number'/>
+        <page name='137. Single Number II'/>
     </pages>
 </playground>
