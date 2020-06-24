@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 149 / 1356 = 10.99%
+> Progress: 150 / 1361 = 11.02%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -32,7 +32,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](75.%20Sort%20Colors) 0075. Sort Colors *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](87-Scramble%20String) 0087. Scramble String *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](91-Decode%20Ways) 0091. Decode Ways *[DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96-Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96.%20Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[Tree]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) [[S]](97-Interleaving%20String) 0097. Interleaving String *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](100.%20Same%20Tree) 0100. Same Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](102.%20Binary%20Tree%20Level%20Order%20Traversal) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
@@ -55,6 +55,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](222.%20Count%20Complete%20Tree%20Nodes) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
