@@ -46,9 +46,9 @@ class Writer {
         output += "</details>\n"
 
         output += "\n## How am I generated?\n"
-        output += "Based on *SwiftSyntax*, the generator walks through the directories and analyzes the syntax of each solution to fetch its metadata.\n\nFor example, it can collect the tag info if the following statement appears in the solution:\n\n"
+        output += "Based on *SwiftSyntax*, the renderer walks through the directories and analyzes the syntax of each solution to fetch its metadata.\n\nFor example, it can collect the tag info if the following statement appears in the solution:\n\n"
         output += "```swift\nlet tags: [Tag] = [.marked, .dp, .graph]\n```\n\n"
-        output += "For more details, check [here](./Scripts/GenReadme/)!"
+        output += "For more details, check [here](./Scripts/Renderer/)!"
 
 
         do { try output.data(using: String.Encoding.utf8)?.write(to: url) }

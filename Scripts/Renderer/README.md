@@ -1,6 +1,6 @@
-# GenReadme
+# Renderer
 
-Based on *SwiftSyntax*, the generator walks through the directories and analyzes the syntax of each solution to fetch its metadata.
+Based on *SwiftSyntax*, the renderer walks through the directories and analyzes the syntax of each solution to fetch its metadata.
 
 For example, it can collect the tag info if the following statement appears in the solution:
 

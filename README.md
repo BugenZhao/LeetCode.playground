@@ -1413,7 +1413,7 @@ Bugen's LeetCode solutions in Swift Playground.
 </details>
 
 ## How am I generated?
-Based on *SwiftSyntax*, the generator walks through the directories and analyzes the syntax of each solution to fetch its metadata.
+Based on *SwiftSyntax*, the renderer walks through the directories and analyzes the syntax of each solution to fetch its metadata.
 
 For example, it can collect the tag info if the following statement appears in the solution:
 
@@ -1421,4 +1421,4 @@ For example, it can collect the tag info if the following statement appears in t
 let tags: [Tag] = [.marked, .dp, .graph]
 ```
 
-For more details, check [here](./Scripts/GenReadme/)!
+For more details, check [here](./Scripts/Renderer/)!

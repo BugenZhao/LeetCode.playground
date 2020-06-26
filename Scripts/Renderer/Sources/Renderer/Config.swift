@@ -15,7 +15,7 @@ let leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
 let fileManager = FileManager.default
 
 let currentURL = URL(fileURLWithPath: fileManager.currentDirectoryPath)
-let localCacheURL = URL(fileURLWithPath: "./Scripts/GenReadme/Resources/Questions.json", relativeTo: currentURL)
+let localCacheURL = URL(fileURLWithPath: "./Scripts/Renderer/Resources/Questions.json", relativeTo: currentURL)
 let pagesRelativePath = "./LeetCode.playground/Pages/"
 let pagesURL = URL(fileURLWithPath: pagesRelativePath, relativeTo: currentURL)
 
