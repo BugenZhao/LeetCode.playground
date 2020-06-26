@@ -152,5 +152,10 @@
         <page name='174. Dungeon Game'/>
         <page name='136. Single Number'/>
         <page name='137. Single Number II'/>
+        <page name='96. Unique Binary Search Trees'/>
+        <page name='222. Count Complete Tree Nodes'/>
+        <page name='287. Find the Duplicate Number'/>
+        <page name='141. Linked List Cycle'/>
+        <page name='142. Linked List Cycle II'/>
     </pages>
 </playground>

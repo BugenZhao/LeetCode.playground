@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 150 / 1361 = 11.02%
+> Progress: 153 / 1361 = 11.24%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -48,6 +48,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](136.%20Single%20Number) 0136. Single Number *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](141.%20Linked%20List%20Cycle) 0141. Linked List Cycle *[Linked List, Two Pointers]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](142.%20Linked%20List%20Cycle%20II) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
@@ -65,6 +67,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](275.%20H-Index%20II) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
+- [X] 📝 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
