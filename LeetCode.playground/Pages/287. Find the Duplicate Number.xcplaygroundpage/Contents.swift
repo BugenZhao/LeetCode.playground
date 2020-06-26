@@ -1,4 +1,4 @@
-let tags: [Tag] = [.binSearch, .twoPtrs, .working]
+let tags: [Tag] = [.binSearch, .twoPtrs]
 
 class SolutionBS {
     func findDuplicate(_ nums: [Int]) -> Int {
@@ -15,3 +15,6 @@ let f = SolutionBS().findDuplicate
 
 f([1, 3, 4, 2, 2])
 f([1, 2, 2, 2, 2])
+
+//: Another approach: find the cycle by `num[i] = k -> nums[k]`
+// refer to 142

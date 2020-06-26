@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -157,5 +157,6 @@
         <page name='287. Find the Duplicate Number'/>
         <page name='141. Linked List Cycle'/>
         <page name='142. Linked List Cycle II'/>
+        <page name='129. Sum Root to Leaf Numbers'/>
     </pages>
 </playground>

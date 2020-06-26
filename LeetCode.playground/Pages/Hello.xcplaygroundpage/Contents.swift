@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 153 / 1361 = 11.24%
+> Progress: 154 / 1361 = 11.32%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -42,6 +42,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) 0123. Best Time to Buy and Sell Stock III *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](127-Word%20Ladder) 0127. Word Ladder *[Graph, BFS, Shortest Path]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](129.%20Sum%20Root%20to%20Leaf%20Numbers) 0129. Sum Root to Leaf Numbers *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](130.%20Surrounded%20Regions) 0130. Surrounded Regions *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](131-Palindrome%20Partitioning) 0131. Palindrome Partitioning *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](132-Palindrome%20Partitioning%20II) 0132. Palindrome Partitioning II *[DP]*
@@ -67,7 +68,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](275.%20H-Index%20II) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
-- [X] 📝 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
