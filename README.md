@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-154%20%2F%201361%20=%2011.32%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-155%20%2F%201361%20=%2011.39%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -33,6 +33,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](./LeetCode.playground/Pages/129.%20Sum%20Root%20to%20Leaf%20Numbers.xcplaygroundpage/Contents.swift) 0129. Sum Root to Leaf Numbers *[Tree, BFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](./LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle *[Linked List, Two Pointers]*
@@ -42,7 +43,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](./LeetCode.playground/Pages/920.%20Number%20of%20Music%20Playlists.xcplaygroundpage/Contents.swift) 0920. Number of Music Playlists *[DP]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -132,6 +132,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
@@ -584,7 +585,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-good-base/) ~~[S]~~ 0483. Smallest Good Base
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-permutation/) ~~[S]~~ 0484. Find Permutation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/max-consecutive-ones/) ~~[S]~~ 0485. Max Consecutive Ones
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) ~~[S]~~ 0486. Predict the Winner
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/max-consecutive-ones-ii/) ~~[S]~~ 0487. Max Consecutive Ones II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/zuma-game/) ~~[S]~~ 0488. Zuma Game
 - [ ] 😫 [[Q]](https://leetcode.com/problems/robot-room-cleaner/) ~~[S]~~ 0489. Robot Room Cleaner

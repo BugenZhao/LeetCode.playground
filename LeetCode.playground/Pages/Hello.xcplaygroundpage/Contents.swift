@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 154 / 1361 = 11.32%
+> Progress: 155 / 1361 = 11.39%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -92,6 +92,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](486.%20Predict%20the%20Winner) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*
