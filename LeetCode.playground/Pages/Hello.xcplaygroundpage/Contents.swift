@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 160 / 1361 = 11.76%
+> Progress: 162 / 1361 = 11.90%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -28,6 +28,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](62.%20Unique%20Paths) 0062. Unique Paths *[Mathematics, DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](63.%20Unique%20Paths%20II) 0063. Unique Paths II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](69-Sqrt(x)) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](70-Climbing%20Stairs) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](72-Edit%20Distance) 0072. Edit Distance *[DP]*
