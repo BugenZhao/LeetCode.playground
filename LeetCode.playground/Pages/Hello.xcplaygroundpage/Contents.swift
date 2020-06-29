@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 159 / 1361 = 11.68%
+> Progress: 160 / 1361 = 11.76%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -75,6 +75,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) [[S]](322.%20Reconstruct%20Itinerary) 0322. Coin Change *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](338-Counting%20Bits) 0338. Counting Bits *[Mathematics]*
