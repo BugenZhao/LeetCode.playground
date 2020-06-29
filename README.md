@@ -33,7 +33,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
-- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) [[S]](./LeetCode.playground/Pages/322.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0322. Coin Change *[DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) [[S]](./LeetCode.playground/Pages/332.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0332. Reconstruct Itinerary *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](./LeetCode.playground/Pages/203.%20Remove%20Linked%20List%20Elements.xcplaygroundpage/Contents.swift) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](./LeetCode.playground/Pages/27.%20Remove%20Element.xcplaygroundpage/Contents.swift) 0027. Remove Element *[Array, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
@@ -115,9 +115,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) [[S]](./LeetCode.playground/Pages/322.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0322. Coin Change *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) [[S]](./LeetCode.playground/Pages/332.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0332. Reconstruct Itinerary *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
@@ -443,6 +443,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher/) ~~[S]~~ 0319. Bulb Switcher
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generalized-abbreviation/) ~~[S]~~ 0320. Generalized Abbreviation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/create-maximum-number/) ~~[S]~~ 0321. Create Maximum Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change/) ~~[S]~~ 0322. Coin Change
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ~~[S]~~ 0323. Number of Connected Components in an Undirected Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort-ii/) ~~[S]~~ 0324. Wiggle Sort II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~ 0325. Maximum Size Subarray Sum Equals k
@@ -450,7 +451,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~ 0327. Count of Range Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~ 0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~ 0331. Verify Preorder Serialization of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) ~~[S]~~ 0332. Reconstruct Itinerary
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-bst-subtree/) ~~[S]~~ 0333. Largest BST Subtree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-triplet-subsequence/) ~~[S]~~ 0334. Increasing Triplet Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/self-crossing/) ~~[S]~~ 0335. Self Crossing
