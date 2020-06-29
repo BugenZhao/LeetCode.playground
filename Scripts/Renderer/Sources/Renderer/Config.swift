@@ -10,7 +10,7 @@ import Foundation
 let difficultyEmojis = ["🔞", "😊", "🤨", "😫", "📝"]
 let swiftVersion = "5.2"
 
-let leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
+var leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
 
 let fileManager = FileManager.default
 

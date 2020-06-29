@@ -5,7 +5,8 @@ gen:
 	swift run -c release --package-path Scripts/Renderer
 	
 icloud:
-	rsync -u -r ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
+	rsync -r ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
+	sed -i ".bak" "s/macos/ios/g" ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents/LeetCode.playground/contents.xcplayground
 
 clean:
 	rm -f README.md

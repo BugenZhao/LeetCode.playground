@@ -1,5 +1,14 @@
 import Foundation
 import ShellOut
+import ArgumentParser
+
+struct Options: ParsableArguments {
+    @Option(help: "LeetCode API URL")
+    var leetCodeURLString = "https://leetcode.com/api/problems/algorithms/"
+}
+
+let options = Options.parseOrExit()
+leetCodeURL = URL(string: options.leetCodeURLString)
 
 dateFormatter.dateFormat = "MM-dd"
 
