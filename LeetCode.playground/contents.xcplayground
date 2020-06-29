@@ -158,5 +158,10 @@
         <page name='141. Linked List Cycle'/>
         <page name='142. Linked List Cycle II'/>
         <page name='129. Sum Root to Leaf Numbers'/>
+        <page name='486. Predict the Winner'/>
+        <page name='26. Remove Duplicates from Sorted Array'/>
+        <page name='80. Remove Duplicates from Sorted Array II'/>
+        <page name='27. Remove Element'/>
+        <page name='203. Remove Linked List Elements'/>
     </pages>
 </playground>
