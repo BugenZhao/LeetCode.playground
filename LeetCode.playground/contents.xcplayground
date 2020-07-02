@@ -165,5 +165,9 @@
         <page name='203. Remove Linked List Elements'/>
         <page name='332. Reconstruct Itinerary'/>
         <page name='62. Unique Paths'/>
+        <page name='63. Unique Paths II'/>
+        <page name='441. Arranging Coins'/>
+        <page name='107. Binary Tree Level Order Traversal II'/>
+        <page name='1496. Path Crossing'/>
     </pages>
 </playground>

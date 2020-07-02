@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 162 / 1361 = 11.90%
+> Progress: 166 / 1370 = 12.12%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -42,6 +42,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](100.%20Same%20Tree) 0100. Same Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](102.%20Binary%20Tree%20Level%20Order%20Traversal) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](107.%20Binary%20Tree%20Level%20Order%20Traversal%20II) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](120-Triangle) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](121-Best%20Time%20to%20Buy%20and%20Sell%20Stock) 0121. Best Time to Buy and Sell Stock *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
@@ -95,6 +96,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](441.%20Arranging%20Coins) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
@@ -145,6 +147,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](1090.%20Largest%20Values%20From%20Labels) 1090. Largest Values From Labels *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](1094.%20Car%20Pooling) 1094. Car Pooling *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
+- [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](1122.%20Relative%20Sort%20Array) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](1235.%20Maximum%20Profit%20in%20Job%20Scheduling) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
@@ -167,6 +170,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](1436.%20Destination%20City) 1436. Destination City *[Hash Table, Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](1496.%20Path%20Crossing) 1496. Path Crossing *[Hash Table]*
 */
 
 var array = ["Swift", "Playground", "LeetCode", "Bugen! 😄"]
