@@ -169,5 +169,8 @@
         <page name='441. Arranging Coins'/>
         <page name='107. Binary Tree Level Order Traversal II'/>
         <page name='1496. Path Crossing'/>
+        <page name='1122. Relative Sort Array'/>
+        <page name='957. Prison Cells After N Days'/>
+        <page name='153. Find Minimum in Rotated Sorted Array'/>
     </pages>
 </playground>
