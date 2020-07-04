@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-23-orange.svg)
+![Progress](https://img.shields.io/badge/Count-24-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
@@ -14,6 +14,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](.././LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](.././LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](.././LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](.././LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](.././LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](.././LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](.././LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square 

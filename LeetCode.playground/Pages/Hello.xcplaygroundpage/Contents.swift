@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 169 / 1370 = 12.34%
+> Progress: 172 / 1370 = 12.55%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -73,6 +73,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](263.%20Ugly%20Number) 0263. Ugly Number 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](264.%20Ugly%20Number%20II) 0264. Ugly Number II *[Mathematics, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](274.%20H-Index) 0274. H-Index *[Array, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](275.%20H-Index%20II) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
@@ -112,6 +114,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](559-Maximum%20Depth%20of%20N-ary%20Tree) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](593.%20Valid%20Square) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-169%20%2F%201370%20=%2012.34%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-172%20%2F%201370%20=%2012.55%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -33,6 +33,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Mathematics](./Tags/Mathematics.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](./LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](./LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
@@ -40,9 +43,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](./LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](./LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](./LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II *[DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](./LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths *[Mathematics, DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) [[S]](./LeetCode.playground/Pages/332.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0332. Reconstruct Itinerary *[DFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -113,6 +113,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](./LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](./LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index *[Array, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
@@ -152,6 +154,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](./LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
@@ -395,8 +398,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-smaller/) ~~[S]~~ 0259. 3Sum Smaller
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) ~~[S]~~ 0260. Single Number III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/graph-valid-tree/) ~~[S]~~ 0261. Graph Valid Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) ~~[S]~~ 0263. Ugly Number
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) ~~[S]~~ 0264. Ugly Number II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-ii/) ~~[S]~~ 0265. Paint House II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-permutation/) ~~[S]~~ 0266. Palindrome Permutation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-permutation-ii/) ~~[S]~~ 0267. Palindrome Permutation II
@@ -671,7 +672,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) ~~[S]~~ 0590. N-ary Tree Postorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/tag-validator/) ~~[S]~~ 0591. Tag Validator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-addition-and-subtraction/) ~~[S]~~ 0592. Fraction Addition and Subtraction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) ~~[S]~~ 0593. Valid Square
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) ~~[S]~~ 0594. Longest Harmonious Subsequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-addition-ii/) ~~[S]~~ 0598. Range Addition II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) ~~[S]~~ 0599. Minimum Index Sum of Two Lists

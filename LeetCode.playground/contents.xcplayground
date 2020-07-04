@@ -172,5 +172,9 @@
         <page name='1122. Relative Sort Array'/>
         <page name='957. Prison Cells After N Days'/>
         <page name='153. Find Minimum in Rotated Sorted Array'/>
+        <page name='33. Search in Rotated Sorted Array'/>
+        <page name='593. Valid Square'/>
+        <page name='263. Ugly Number'/>
+        <page name='264. Ugly Number II'/>
     </pages>
 </playground>
