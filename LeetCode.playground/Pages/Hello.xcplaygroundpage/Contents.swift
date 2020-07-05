@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 177 / 1370 = 12.92%
+> Progress: 178 / 1370 = 12.99%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -35,6 +35,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](70-Climbing%20Stairs) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](72-Edit%20Distance) 0072. Edit Distance *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](75.%20Sort%20Colors) 0075. Sort Colors *[Array, Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](78.%20Subsets) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](87-Scramble%20String) 0087. Scramble String *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](91-Decode%20Ways) 0091. Decode Ways *[DP]*

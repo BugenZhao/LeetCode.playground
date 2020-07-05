@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-177%20%2F%201370%20=%2012.92%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-178%20%2F%201370%20=%2012.99%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](./LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -76,6 +76,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](./LeetCode.playground/Pages/87-Scramble%20String.xcplaygroundpage/Contents.swift) 0087. Scramble String *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](./LeetCode.playground/Pages/91-Decode%20Ways.xcplaygroundpage/Contents.swift) 0091. Decode Ways *[DP]*
@@ -274,7 +275,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~ 0074. Search a 2D Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~ 0076. Minimum Window Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets/) ~~[S]~~ 0078. Subsets
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~ 0079. Word Search
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ~~[S]~~ 0081. Search in Rotated Sorted Array II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) ~~[S]~~ 0082. Remove Duplicates from Sorted List II

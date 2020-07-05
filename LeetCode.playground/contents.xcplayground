@@ -181,5 +181,6 @@
         <page name='190. Reverse Bits'/>
         <page name='693. Binary Number with Alternating Bits'/>
         <page name='477. Total Hamming Distance'/>
+        <page name='78. Subsets'/>
     </pages>
 </playground>
