@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='raw'>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -176,5 +176,10 @@
         <page name='593. Valid Square'/>
         <page name='263. Ugly Number'/>
         <page name='264. Ugly Number II'/>
+        <page name='461. Hamming Distance'/>
+        <page name='191. Number of 1 Bits'/>
+        <page name='190. Reverse Bits'/>
+        <page name='693. Binary Number with Alternating Bits'/>
+        <page name='477. Total Hamming Distance'/>
     </pages>
 </playground>

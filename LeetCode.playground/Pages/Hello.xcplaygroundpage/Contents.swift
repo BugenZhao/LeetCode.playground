@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 172 / 1370 = 12.55%
+> Progress: 177 / 1370 = 12.92%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -53,14 +53,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](130.%20Surrounded%20Regions) 0130. Surrounded Regions *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](131-Palindrome%20Partitioning) 0131. Palindrome Partitioning *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](132-Palindrome%20Partitioning%20II) 0132. Palindrome Partitioning II *[DP]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](136.%20Single%20Number) 0136. Single Number *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](136.%20Single%20Number) 0136. Single Number *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](141.%20Linked%20List%20Cycle) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](142.%20Linked%20List%20Cycle%20II) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](190.%20Reverse%20Bits) 0190. Reverse Bits *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](191.%20Number%20of%201%20Bits) 0191. Number of 1 Bits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](203.%20Remove%20Linked%20List%20Elements) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
@@ -102,9 +104,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](441.%20Arranging%20Coins) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](461.%20Hamming%20Distance) 0461. Hamming Distance 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](472-Concatenated%20Words) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](476-Number%20Complement) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](477.%20Total%20Hamming%20Distance) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](486.%20Predict%20the%20Winner) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
@@ -117,6 +121,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](593.%20Valid%20Square) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](693.%20Binary%20Number%20with%20Alternating%20Bits) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*

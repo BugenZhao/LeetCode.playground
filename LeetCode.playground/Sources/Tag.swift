@@ -56,6 +56,8 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Working"
         case .annoying:
             return "Annoying"
+        case .bit:
+            return "Bit Manipulation"
         }
     }
 
@@ -65,5 +67,5 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
     case marked, working, annoying
     case array, hash, list, heap, tree, graph, string, stack
     case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp
-    case dp, greedy, math
+    case dp, greedy, math, bit
 }

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-172%20%2F%201370%20=%2012.55%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-177%20%2F%201370%20=%2012.92%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -31,18 +31,19 @@ Bugen's LeetCode solutions in Swift Playground.
 - [DP](./Tags/DP.md)
 - [Greedy](./Tags/Greedy.md)
 - [Mathematics](./Tags/Mathematics.md)
+- [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](./LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
+- [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](./LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](./LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](./LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array *[Hash Table, Sort]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](./LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](./LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -93,14 +94,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](./LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](./LeetCode.playground/Pages/131-Palindrome%20Partitioning.xcplaygroundpage/Contents.swift) 0131. Palindrome Partitioning *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II *[DP]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](./LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](./LeetCode.playground/Pages/203.%20Remove%20Linked%20List%20Elements.xcplaygroundpage/Contents.swift) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
@@ -142,9 +145,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](./LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
@@ -157,6 +162,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
@@ -344,8 +350,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) ~~[S]~~ 0188. Best Time to Buy and Sell Stock IV
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-bits/) ~~[S]~~ 0190. Reverse Bits
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) ~~[S]~~ 0191. Number of 1 Bits
 - [ ] 😊 [[Q]](https://leetcode.com/problems/house-robber/) ~~[S]~~ 0198. House Robber
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~ 0201. Bitwise AND of Numbers Range
@@ -567,7 +571,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~ 0458. Poor Pigs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) ~~[S]~~ 0459. Repeated Substring Pattern
 - [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~ 0460. LFU Cache
-- [ ] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) ~~[S]~~ 0461. Hamming Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ~~[S]~~ 0462. Minimum Moves to Equal Array Elements II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) ~~[S]~~ 0463. Island Perimeter
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/can-i-win/) ~~[S]~~ 0464. Can I Win
@@ -580,7 +583,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~ 0473. Matchsticks to Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~ 0474. Ones and Zeroes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) ~~[S]~~ 0477. Total Hamming Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~ 0478. Generate Random Point in a Circle
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~ 0479. Largest Palindrome Product
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-median/) ~~[S]~~ 0480. Sliding Window Median
@@ -751,7 +753,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/employee-importance/) ~~[S]~~ 0690. Employee Importance
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stickers-to-spell-word/) ~~[S]~~ 0691. Stickers to Spell Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-words/) ~~[S]~~ 0692. Top K Frequent Words
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) ~~[S]~~ 0693. Binary Number with Alternating Bits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-distinct-islands/) ~~[S]~~ 0694. Number of Distinct Islands
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/max-area-of-island/) ~~[S]~~ 0695. Max Area of Island
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-binary-substrings/) ~~[S]~~ 0696. Count Binary Substrings
