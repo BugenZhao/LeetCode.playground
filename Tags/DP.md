@@ -1,10 +1,11 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-32-orange.svg)
+![Progress](https://img.shields.io/badge/Count-33-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](.././LeetCode.playground/Pages/5-Longest%20Palindromic%20Substring.xcplaygroundpage/Contents.swift) 0005. Longest Palindromic Substring 
+- [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](.././LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching 
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](.././LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](.././LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](.././LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths 

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-182%20%2F%201370%20=%2013.28%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-183%20%2F%201370%20=%2013.36%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](./LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
-- [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -55,6 +55,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](./LeetCode.playground/Pages/7-Reverse%20Integer.xcplaygroundpage/Contents.swift) 0007. Reverse Integer *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](./LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number *[Mathematics]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
@@ -232,7 +233,6 @@ Bugen's LeetCode solutions in Swift Playground.
 <details>
 <summary>Todo</summary>
 
-- [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~ 0010. Regular Expression Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) ~~[S]~~ 0011. Container With Most Water
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~ 0012. Integer to Roman
 - [ ] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) ~~[S]~~ 0013. Roman to Integer
