@@ -182,5 +182,8 @@
         <page name='693. Binary Number with Alternating Bits'/>
         <page name='477. Total Hamming Distance'/>
         <page name='78. Subsets'/>
+        <page name='201. Bitwise AND of Numbers Range'/>
+        <page name='1290. Convert Binary Number in a Linked List to Integer'/>
+        <page name='389. Find the Difference'/>
     </pages>
 </playground>

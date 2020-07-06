@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-178%20%2F%201370%20=%2012.99%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-182%20%2F%201370%20=%2013.28%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,16 +34,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](./LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](./LeetCode.playground/Pages/201.%20Bitwise%20AND%20of%20Numbers%20Range.xcplaygroundpage/Contents.swift) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](./LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](./LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -106,6 +106,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](./LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](./LeetCode.playground/Pages/201.%20Bitwise%20AND%20of%20Numbers%20Range.xcplaygroundpage/Contents.swift) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](./LeetCode.playground/Pages/203.%20Remove%20Linked%20List%20Elements.xcplaygroundpage/Contents.swift) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
@@ -137,6 +138,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](./LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
@@ -208,6 +210,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
@@ -222,6 +225,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](./LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City *[Hash Table, Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](./LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
 
@@ -352,7 +356,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/house-robber/) ~~[S]~~ 0198. House Robber
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~ 0201. Bitwise AND of Numbers Range
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~ 0206. Reverse Linked List
@@ -508,7 +511,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~ 0385. Mini Parser
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~ 0386. Lexicographical Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-absolute-file-path/) ~~[S]~~ 0388. Longest Absolute File Path
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~ 0389. Find the Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~ 0390. Elimination Game
 - [ ] 😫 [[Q]](https://leetcode.com/problems/perfect-rectangle/) ~~[S]~~ 0391. Perfect Rectangle
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/utf-8-validation/) ~~[S]~~ 0393. UTF-8 Validation
@@ -1254,7 +1256,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) ~~[S]~~ 1286. Iterator for Combination
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1287. Element Appearing More Than 25% In Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~ 1288. Remove Covered Intervals
-- [ ] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) ~~[S]~~ 1290. Convert Binary Number in a Linked List to Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~ 1291. Sequential Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~ 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~ 1293. Shortest Path in a Grid with Obstacles Elimination
@@ -1384,7 +1385,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) ~~[S]~~ 1453. Maximum Number of Darts Inside of a Circular Dartboard
 - [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) ~~[S]~~ 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) ~~[S]~~ 1456. Maximum Number of Vowels in a Substring of Given Length
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) ~~[S]~~ 1457. Pseudo-Palindromic Paths in a Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) ~~[S]~~ 1458. Max Dot Product of Two Subsequences
 - [ ] 😊 [[Q]](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) ~~[S]~~ 1460. Make Two Arrays Equal by Reversing Sub-arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ~~[S]~~ 1461. Check If a String Contains All Binary Codes of Size K

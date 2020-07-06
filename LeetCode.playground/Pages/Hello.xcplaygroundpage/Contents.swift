@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 178 / 1370 = 12.99%
+> Progress: 182 / 1370 = 13.28%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -65,6 +65,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](190.%20Reverse%20Bits) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](191.%20Number%20of%201%20Bits) 0191. Number of 1 Bits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](201.%20Bitwise%20AND%20of%20Numbers%20Range) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](203.%20Remove%20Linked%20List%20Elements) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
@@ -96,6 +97,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](380.%20Insert%20Delete%20GetRandom%20O(1)) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](383-Ransom%20Note) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](389.%20Find%20the%20Difference) 0389. Find the Difference *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](392.%20Is%20Subsequence) 0392. Is Subsequence *[DP, Greedy, Two Pointers, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](399-Evaluate%20Division) 0399. Evaluate Division *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
@@ -167,6 +169,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
@@ -181,6 +184,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](1436.%20Destination%20City) 1436. Destination City *[Hash Table, Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](1496.%20Path%20Crossing) 1496. Path Crossing *[Hash Table]*
 */
