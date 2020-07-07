@@ -187,5 +187,10 @@
         <page name='389. Find the Difference'/>
         <page name='1457. Pseudo-Palindromic Paths in a Binary Tree'/>
         <page name='10. Regular Expression Matching'/>
+        <page name='66. Plus One'/>
+        <page name='1250. Check If It Is a Good Array'/>
+        <page name='397. Integer Replacement'/>
+        <page name='342. Power of Four'/>
+        <page name='326. Power of Three'/>
     </pages>
 </playground>
