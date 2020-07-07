@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-189%20%2F%201370%20=%2013.80%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-190%20%2F%201370%20=%2013.87%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 - [X] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](./LeetCode.playground/Pages/342.%20Power%20of%20Four.xcplaygroundpage/Contents.swift) 0342. Power of Four *[Bit Manipulation]*
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](./LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference *[Bit Manipulation]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -154,6 +154,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
+- [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](./LeetCode.playground/Pages/468.%20Validate%20IP%20Address.xcplaygroundpage/Contents.swift) 0468. Validate IP Address 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](./LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words *[String, Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement *[Mathematics]*
@@ -576,7 +577,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) ~~[S]~~ 0459. Repeated Substring Pattern
 - [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~ 0460. LFU Cache
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ~~[S]~~ 0462. Minimum Moves to Equal Array Elements II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) ~~[S]~~ 0463. Island Perimeter
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/can-i-win/) ~~[S]~~ 0464. Can I Win
 - [ ] 😫 [[Q]](https://leetcode.com/problems/optimal-account-balancing/) ~~[S]~~ 0465. Optimal Account Balancing
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-the-repetitions/) ~~[S]~~ 0466. Count The Repetitions
