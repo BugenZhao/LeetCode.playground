@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 190 / 1370 = 13.87%
+> Progress: 191 / 1370 = 13.94%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -15,6 +15,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](8-String%20to%20Integer%20(atoi)) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](9-Palindrome%20Number) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](10.%20Regular%20Expression%20Matching) 0010. Regular Expression Matching *[String, DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](15.%203Sum) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](20.%20Valid%20Parentheses) 0020. Valid Parentheses *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](22.%20Generate%20Parentheses) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*

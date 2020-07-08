@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-190%20%2F%201370%20=%2013.87%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-191%20%2F%201370%20=%2013.94%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 - [X] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](./LeetCode.playground/Pages/66.%20Plus%20One.xcplaygroundpage/Contents.swift) 0066. Plus One 
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](./LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference *[Bit Manipulation]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -56,6 +56,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](./LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
@@ -244,7 +245,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~ 0012. Integer to Roman
 - [ ] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) ~~[S]~~ 0013. Roman to Integer
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) ~~[S]~~ 0014. Longest Common Prefix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum/) ~~[S]~~ 0015. 3Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) ~~[S]~~ 0016. 3Sum Closest
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~ 0017. Letter Combinations of a Phone Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum

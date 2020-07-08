@@ -1,9 +1,10 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-11-orange.svg)
+![Progress](https://img.shields.io/badge/Count-12-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Two Pointers Problems
+- [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](.././LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](.././LeetCode.playground/Pages/26.%20Remove%20Duplicates%20from%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0026. Remove Duplicates from Sorted Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](.././LeetCode.playground/Pages/27.%20Remove%20Element.xcplaygroundpage/Contents.swift) 0027. Remove Element 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](.././LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors 
