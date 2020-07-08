@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
@@ -21,5 +21,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](.././LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](.././LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](.././LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](.././LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree 

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 191 / 1370 = 13.94%
+> Progress: 192 / 1370 = 14.01%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -172,6 +172,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](1122.%20Relative%20Sort%20Array) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](1235.%20Maximum%20Profit%20in%20Job%20Scheduling) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](1250.%20Check%20If%20It%20Is%20a%20Good%20Array) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*

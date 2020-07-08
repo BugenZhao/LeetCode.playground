@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-11-orange.svg)
+![Progress](https://img.shields.io/badge/Count-12-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DFS Problems
@@ -14,4 +14,5 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](.././LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition 
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](.././LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](.././LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree 

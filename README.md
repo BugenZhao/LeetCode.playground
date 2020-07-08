@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-191%20%2F%201370%20=%2013.94%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-192%20%2F%201370%20=%2014.01%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](./LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 - [X] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](./LeetCode.playground/Pages/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.xcplaygroundpage/Contents.swift) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](./LeetCode.playground/Pages/66.%20Plus%20One.xcplaygroundpage/Contents.swift) 0066. Plus One 
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -213,6 +213,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](./LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](./LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](./LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](./LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](./LeetCode.playground/Pages/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.xcplaygroundpage/Contents.swift) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
@@ -1213,7 +1214,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-scheduler/) ~~[S]~~ 1229. Meeting Scheduler
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/toss-strange-coins/) ~~[S]~~ 1230. Toss Strange Coins
 - [ ] 😫 [[Q]](https://leetcode.com/problems/divide-chocolate/) ~~[S]~~ 1231. Divide Chocolate
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) ~~[S]~~ 1233. Remove Sub-Folders from the Filesystem
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) ~~[S]~~ 1234. Replace the Substring for Balanced String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/web-crawler/) ~~[S]~~ 1236. Web Crawler
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) ~~[S]~~ 1237. Find Positive Integer Solution for a Given Equation
