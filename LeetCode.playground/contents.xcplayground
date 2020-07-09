@@ -192,5 +192,12 @@
         <page name='397. Integer Replacement'/>
         <page name='342. Power of Four'/>
         <page name='326. Power of Three'/>
+        <page name='15. 3Sum'/>
+        <page name='463. Island Perimeter'/>
+        <page name='784. Letter Case Permutation'/>
+        <page name='1233. Remove Sub-Folders from the Filesystem'/>
+        <page name='662. Maximum Width of Binary Tree'/>
+        <page name='492. Construct the Rectangle'/>
+        <page name='600. Non-negative Integers without Consecutive Ones'/>
     </pages>
 </playground>
