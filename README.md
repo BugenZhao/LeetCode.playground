@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-199%20%2F%201375%20=%2014.47%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-200%20%2F%201375%20=%2014.55%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](./LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](./LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -155,6 +155,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
@@ -552,7 +553,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-quad-tree/) ~~[S]~~ 0427. Construct Quad Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/) ~~[S]~~ 0428. Serialize and Deserialize N-ary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) ~~[S]~~ 0429. N-ary Tree Level Order Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ~~[S]~~ 0430. Flatten a Multilevel Doubly Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/) ~~[S]~~ 0431. Encode N-ary Tree to Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/all-oone-data-structure/) ~~[S]~~ 0432. All O`one Data Structure
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~ 0433. Minimum Genetic Mutation
