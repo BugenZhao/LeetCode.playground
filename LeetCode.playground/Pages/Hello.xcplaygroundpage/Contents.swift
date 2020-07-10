@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 198 / 1375 = 14.40%
+> Progress: 199 / 1375 = 14.47%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](33.%20Search%20in%20Rotated%20Sorted%20Array) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](41.%20First%20Missing%20Positive) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](44-Wildcard%20Matching) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](45-Jump%20Game%20II) 0045. Jump Game II *[Greedy, BFS]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-198%20%2F%201375%20=%2014.40%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-199%20%2F%201375%20=%2014.47%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](./LeetCode.playground/Pages/11.%20Container%20With%20Most%20Water.xcplaygroundpage/Contents.swift) 0011. Container With Most Water *[Two Pointers, Greedy]*
@@ -43,7 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](./LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
-- [X] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -68,6 +68,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](./LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](./LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
@@ -266,7 +267,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~ 0038. Count and Say
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) ~~[S]~~ 0039. Combination Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) ~~[S]~~ 0040. Combination Sum II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/first-missing-positive/) ~~[S]~~ 0041. First Missing Positive
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~ 0043. Multiply Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~ 0046. Permutations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
