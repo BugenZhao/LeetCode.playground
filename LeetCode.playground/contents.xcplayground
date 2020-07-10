@@ -199,5 +199,7 @@
         <page name='662. Maximum Width of Binary Tree'/>
         <page name='492. Construct the Rectangle'/>
         <page name='600. Non-negative Integers without Consecutive Ones'/>
+        <page name='11. Container With Most Water'/>
+        <page name='19. Remove Nth Node From End of List'/>
     </pages>
 </playground>

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 195 / 1375 = 14.18%
+> Progress: 198 / 1375 = 14.40%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -15,8 +15,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](8-String%20to%20Integer%20(atoi)) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](9-Palindrome%20Number) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](10.%20Regular%20Expression%20Matching) 0010. Regular Expression Matching *[String, DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](11.%20Container%20With%20Most%20Water) 0011. Container With Most Water *[Two Pointers, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](15.%203Sum) 0015. 3Sum *[Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](19.%20Remove%20Nth%20Node%20From%20End%20of%20List) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](20.%20Valid%20Parentheses) 0020. Valid Parentheses *[Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](21.%20Merge%20Two%20Sorted%20Lists) 0021. Merge Two Sorted Lists *[Linked List]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](22.%20Generate%20Parentheses) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](26.%20Remove%20Duplicates%20from%20Sorted%20Array) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-195%20%2F%201375%20=%2014.18%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-198%20%2F%201375%20=%2014.40%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](./LeetCode.playground/Pages/11.%20Container%20With%20Most%20Water.xcplaygroundpage/Contents.swift) 0011. Container With Most Water *[Two Pointers, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](./LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](./LeetCode.playground/Pages/492.%20Construct%20the%20Rectangle.xcplaygroundpage/Contents.swift) 0492. Construct the Rectangle 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](./LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree *[Tree]*
@@ -41,9 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
 - [X] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
-- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
-- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](./LeetCode.playground/Pages/342.%20Power%20of%20Four.xcplaygroundpage/Contents.swift) 0342. Power of Four *[Bit Manipulation]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) [[S]](./LeetCode.playground/Pages/397.%20Integer%20Replacement.xcplaygroundpage/Contents.swift) 0397. Integer Replacement *[Mathematics]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -56,8 +56,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) [[S]](./LeetCode.playground/Pages/8-String%20to%20Integer%20(atoi).xcplaygroundpage/Contents.swift) 0008. String to Integer (atoi) *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](./LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](./LeetCode.playground/Pages/10.%20Regular%20Expression%20Matching.xcplaygroundpage/Contents.swift) 0010. Regular Expression Matching *[String, DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](./LeetCode.playground/Pages/11.%20Container%20With%20Most%20Water.xcplaygroundpage/Contents.swift) 0011. Container With Most Water *[Two Pointers, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](./LeetCode.playground/Pages/22.%20Generate%20Parentheses.xcplaygroundpage/Contents.swift) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](./LeetCode.playground/Pages/26.%20Remove%20Duplicates%20from%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
@@ -245,15 +248,12 @@ Bugen's LeetCode solutions in Swift Playground.
 <details>
 <summary>Todo</summary>
 
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) ~~[S]~~ 0011. Container With Most Water
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) ~~[S]~~ 0012. Integer to Roman
 - [ ] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) ~~[S]~~ 0013. Roman to Integer
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) ~~[S]~~ 0014. Longest Common Prefix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) ~~[S]~~ 0016. 3Sum Closest
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~ 0017. Letter Combinations of a Phone Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ~~[S]~~ 0019. Remove Nth Node From End of List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) ~~[S]~~ 0021. Merge Two Sorted Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~ 0024. Swap Nodes in Pairs
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~ 0025. Reverse Nodes in k-Group
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~ 0028. Implement strStr()
