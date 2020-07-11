@@ -203,5 +203,7 @@
         <page name='19. Remove Nth Node From End of List'/>
         <page name='21. Merge Two Sorted Lists'/>
         <page name='41. First Missing Positive'/>
+        <page name='430. Flatten a Multilevel Doubly Linked List'/>
+        <page name='1043. Partition Array for Maximum Sum'/>
     </pages>
 </playground>
