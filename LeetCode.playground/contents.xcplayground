@@ -205,5 +205,8 @@
         <page name='41. First Missing Positive'/>
         <page name='430. Flatten a Multilevel Doubly Linked List'/>
         <page name='1043. Partition Array for Maximum Sum'/>
+        <page name='962. Maximum Width Ramp'/>
+        <page name='1344. Angle Between Hands of a Clock'/>
+        <page name='151. Reverse Words in a String'/>
     </pages>
 </playground>
