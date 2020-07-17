@@ -7,6 +7,7 @@ class Solution {
     func strStr(_ haystack: String, _ needle: String) -> Int {
         let txt = Array(haystack)
         let pat = Array(needle)
+        if pat.isEmpty { return 0 }
         
         var pmt = [Int](repeating: 0, count: pat.count) //: build Partial Match Table
         var len = 0
