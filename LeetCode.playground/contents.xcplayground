@@ -208,5 +208,7 @@
         <page name='962. Maximum Width Ramp'/>
         <page name='1344. Angle Between Hands of a Clock'/>
         <page name='151. Reverse Words in a String'/>
+        <page name='16. 3Sum Closest'/>
+        <page name='347. Top K Frequent Elements'/>
     </pages>
 </playground>

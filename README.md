@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-205%20%2F%201375%20=%2014.91%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-207%20%2F%201385%20=%2014.95%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -34,6 +34,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](./LeetCode.playground/Pages/347.%20Top%20K%20Frequent%20Elements.xcplaygroundpage/Contents.swift) 0347. Top K Frequent Elements 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](./LeetCode.playground/Pages/16.%203Sum%20Closest.xcplaygroundpage/Contents.swift) 0016. 3Sum Closest *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
@@ -42,8 +44,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](./LeetCode.playground/Pages/11.%20Container%20With%20Most%20Water.xcplaygroundpage/Contents.swift) 0011. Container With Most Water *[Two Pointers, Greedy]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -66,6 +66,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](./LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](./LeetCode.playground/Pages/26.%20Remove%20Duplicates%20from%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](./LeetCode.playground/Pages/27.%20Remove%20Element.xcplaygroundpage/Contents.swift) 0027. Remove Element *[Array, Two Pointers]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
@@ -143,6 +144,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](./LeetCode.playground/Pages/342.%20Power%20of%20Four.xcplaygroundpage/Contents.swift) 0342. Power of Four *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](./LeetCode.playground/Pages/347.%20Top%20K%20Frequent%20Elements.xcplaygroundpage/Contents.swift) 0347. Top K Frequent Elements 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
@@ -262,7 +264,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~ 0024. Swap Nodes in Pairs
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~ 0025. Reverse Nodes in k-Group
-- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~ 0028. Implement strStr()
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~ 0031. Next Permutation
@@ -487,7 +488,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~ 0343. Integer Break
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~ 0345. Reverse Vowels of a String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~ 0346. Moving Average from Data Stream
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~ 0347. Top K Frequent Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-tic-tac-toe/) ~~[S]~~ 0348. Design Tic-Tac-Toe
 - [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays/) ~~[S]~~ 0349. Intersection of Two Arrays
 - [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ~~[S]~~ 0350. Intersection of Two Arrays II
@@ -1425,6 +1425,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) ~~[S]~~ 1503. Last Moment Before All Ants Fall Out of a Plank
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-submatrices-with-all-ones/) ~~[S]~~ 1504. Count Submatrices With All Ones
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) ~~[S]~~ 1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-root-of-n-ary-tree/) ~~[S]~~ 1506. Find Root of N-Ary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/reformat-date/) ~~[S]~~ 1507. Reformat Date
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) ~~[S]~~ 1508. Range Sum of Sorted Subarray Sums
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) ~~[S]~~ 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+- [ ] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) ~~[S]~~ 1510. Stone Game IV
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-good-pairs/) ~~[S]~~ 1512. Number of Good Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-substrings-with-only-1s/) ~~[S]~~ 1513. Number of Substrings With Only 1s
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-probability/) ~~[S]~~ 1514. Path with Maximum Probability
+- [ ] 😫 [[Q]](https://leetcode.com/problems/best-position-for-a-service-centre/) ~~[S]~~ 1515. Best Position for a Service Centre
+- [ ] 😫 [[Q]](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/) ~~[S]~~ 1516. Move Sub-Tree of N-Ary Tree
 </details>
 
 ## How am I generated?

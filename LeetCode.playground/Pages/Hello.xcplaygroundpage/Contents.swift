@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 205 / 1375 = 14.91%
+> Progress: 207 / 1385 = 14.95%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -25,6 +25,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](26.%20Remove%20Duplicates%20from%20Sorted%20Array) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](27.%20Remove%20Element) 0027. Remove Element *[Array, Two Pointers]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](28.%20Implement%20strStr()) 0028. Implement strStr() *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](33.%20Search%20in%20Rotated%20Sorted%20Array) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*
@@ -102,6 +103,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](338-Counting%20Bits) 0338. Counting Bits *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](342.%20Power%20of%20Four) 0342. Power of Four *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](344-Reverse%20String) 0344. Reverse String 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](347.%20Top%20K%20Frequent%20Elements) 0347. Top K Frequent Elements 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](367-Valid%20Perfect%20Square) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](368.%20Largest%20Divisible%20Subset) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](372-Super%20Pow) 0372. Super Pow *[Mathematics]*
