@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-207%20%2F%201385%20=%2014.95%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-210%20%2F%201385%20=%2015.16%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -32,8 +32,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Greedy](./Tags/Greedy.md)
 - [Mathematics](./Tags/Mathematics.md)
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
+- [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Two Pointers, Hash Table, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Two Pointers, Array, O(n)]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](./LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](./LeetCode.playground/Pages/347.%20Top%20K%20Frequent%20Elements.xcplaygroundpage/Contents.swift) 0347. Top K Frequent Elements 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](./LeetCode.playground/Pages/16.%203Sum%20Closest.xcplaygroundpage/Contents.swift) 0016. 3Sum Closest *[Two Pointers]*
@@ -41,9 +45,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](./LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](./LeetCode.playground/Pages/1043.%20Partition%20Array%20for%20Maximum%20Sum.xcplaygroundpage/Contents.swift) 1043. Partition Array for Maximum Sum *[DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -81,10 +82,12 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](./LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](./LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](./LeetCode.playground/Pages/66.%20Plus%20One.xcplaygroundpage/Contents.swift) 0066. Plus One 
+- [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](./LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Two Pointers, Hash Table, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](./LeetCode.playground/Pages/87-Scramble%20String.xcplaygroundpage/Contents.swift) 0087. Scramble String *[DP]*
@@ -121,6 +124,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Two Pointers, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
@@ -288,12 +292,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~ 0061. Rotate List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) ~~[S]~~ 0064. Minimum Path Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-number/) ~~[S]~~ 0065. Valid Number
-- [ ] 😊 [[Q]](https://leetcode.com/problems/add-binary/) ~~[S]~~ 0067. Add Binary
 - [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~ 0074. Search a 2D Matrix
-- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~ 0076. Minimum Window Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~ 0079. Word Search
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ~~[S]~~ 0081. Search in Rotated Sorted Array II
@@ -374,7 +376,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~ 0206. Reverse Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~ 0209. Minimum Size Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~ 0211. Add and Search Word - Data structure design
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~ 0212. Word Search II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~ 0213. House Robber II
