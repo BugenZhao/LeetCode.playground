@@ -1,4 +1,4 @@
-let tags: [Tag] = [.twoPtrs, .array, .ON]
+let tags: [Tag] = [.sliding, .array, .ON]
 
 class Solution {
     func minSubArrayLen(_ s: Int, _ nums: [Int]) -> Int {
