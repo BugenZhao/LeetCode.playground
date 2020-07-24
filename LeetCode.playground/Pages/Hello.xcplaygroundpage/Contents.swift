@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 210 / 1385 = 15.16%
+> Progress: 211 / 1385 = 15.23%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -90,6 +90,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](260.%20Single%20Number%20III) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](263.%20Ugly%20Number) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](264.%20Ugly%20Number%20II) 0264. Ugly Number II *[Mathematics, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](274.%20H-Index) 0274. H-Index *[Array, Sort]*

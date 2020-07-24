@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-210%20%2F%201385%20=%2015.16%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-211%20%2F%201385%20=%2015.23%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -35,6 +35,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](./LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Sliding Windows, Hash Table, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](./LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
@@ -44,7 +45,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](./LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](./LeetCode.playground/Pages/1043.%20Partition%20Array%20for%20Maximum%20Sum.xcplaygroundpage/Contents.swift) 1043. Partition Array for Maximum Sum *[DP]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -132,6 +132,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](./LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](./LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](./LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](./LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index *[Array, Sort]*
@@ -419,7 +420,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-paths/) ~~[S]~~ 0257. Binary Tree Paths
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-digits/) ~~[S]~~ 0258. Add Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-smaller/) ~~[S]~~ 0259. 3Sum Smaller
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) ~~[S]~~ 0260. Single Number III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/graph-valid-tree/) ~~[S]~~ 0261. Graph Valid Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-ii/) ~~[S]~~ 0265. Paint House II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-permutation/) ~~[S]~~ 0266. Palindrome Permutation
