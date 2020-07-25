@@ -217,5 +217,7 @@
         <page name='260. Single Number III'/>
         <page name='135. Candy'/>
         <page name='1365. How Many Numbers Are Smaller Than the Current Number'/>
+        <page name='154. Find Minimum in Rotated Sorted Array II'/>
+        <page name='797. All Paths From Source to Target'/>
     </pages>
 </playground>
