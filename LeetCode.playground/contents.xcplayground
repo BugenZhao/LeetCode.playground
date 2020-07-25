@@ -215,5 +215,7 @@
         <page name='209. Minimum Size Subarray Sum'/>
         <page name='76. Minimum Window Substring'/>
         <page name='260. Single Number III'/>
+        <page name='135. Candy'/>
+        <page name='1365. How Many Numbers Are Smaller Than the Current Number'/>
     </pages>
 </playground>

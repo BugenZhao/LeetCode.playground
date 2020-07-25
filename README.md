@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-212%20%2F%201385%20=%2015.31%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-214%20%2F%201390%20=%2015.40%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -35,6 +35,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](./LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy *[Greedy, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](./LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Sliding Windows, Hash Table, O(n)]*
@@ -43,8 +45,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](./LeetCode.playground/Pages/347.%20Top%20K%20Frequent%20Elements.xcplaygroundpage/Contents.swift) 0347. Top K Frequent Elements 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](./LeetCode.playground/Pages/16.%203Sum%20Closest.xcplaygroundpage/Contents.swift) 0016. 3Sum Closest *[Two Pointers]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -78,7 +78,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](./LeetCode.playground/Pages/55-Jump%20Game.xcplaygroundpage/Contents.swift) 0055. Jump Game *[Greedy]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](./LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](./LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](./LeetCode.playground/Pages/66.%20Plus%20One.xcplaygroundpage/Contents.swift) 0066. Plus One 
@@ -115,6 +115,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
@@ -247,6 +248,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](./LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](./LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](./LeetCode.playground/Pages/1386.%20Cinema%20Seat%20Allocation.xcplaygroundpage/Contents.swift) 1386. Cinema Seat Allocation *[Greedy]*
@@ -348,7 +350,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-points-on-a-line/) ~~[S]~~ 0149. Max Points on a Line
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ~~[S]~~ 0150. Evaluate Reverse Polish Notation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) ~~[S]~~ 0152. Maximum Product Subarray
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) ~~[S]~~ 0154. Find Minimum in Rotated Sorted Array II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/min-stack/) ~~[S]~~ 0155. Min Stack
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-upside-down/) ~~[S]~~ 0156. Binary Tree Upside Down
 - [ ] 😊 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4/) ~~[S]~~ 0157. Read N Characters Given Read4
@@ -510,7 +511,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~ 0366. Find Leaves of Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~ 0369. Plus One Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~ 0370. Range Addition
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-two-integers/) ~~[S]~~ 0371. Sum of Two Integers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-two-integers/) ~~[S]~~ 0371. Sum of Two Integers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) ~~[S]~~ 0373. Find K Pairs with Smallest Sums
 - [ ] 😊 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower/) ~~[S]~~ 0374. Guess Number Higher or Lower
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) ~~[S]~~ 0375. Guess Number Higher or Lower II
@@ -815,7 +816,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-completing-word/) ~~[S]~~ 0748. Shortest Completing Word
 - [ ] 😫 [[Q]](https://leetcode.com/problems/contain-virus/) ~~[S]~~ 0749. Contain Virus
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-corner-rectangles/) ~~[S]~~ 0750. Number Of Corner Rectangles
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ip-to-cidr/) ~~[S]~~ 0751. IP to CIDR
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/ip-to-cidr/) ~~[S]~~ 0751. IP to CIDR
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/open-the-lock/) ~~[S]~~ 0752. Open the Lock
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cracking-the-safe/) ~~[S]~~ 0753. Cracking the Safe
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reach-a-number/) ~~[S]~~ 0754. Reach a Number
@@ -1315,7 +1316,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-tree-nodes/) ~~[S]~~ 1361. Validate Binary Tree Nodes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-divisors/) ~~[S]~~ 1362. Closest Divisors
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) ~~[S]~~ 1363. Largest Multiple of Three
-- [ ] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ~~[S]~~ 1365. How Many Numbers Are Smaller Than the Current Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~ 1366. Rank Teams by Votes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~ 1370. Increasing Decreasing String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~ 1371. Find the Longest Substring Containing Vowels in Even Counts
@@ -1436,6 +1436,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-probability/) ~~[S]~~ 1514. Path with Maximum Probability
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-position-for-a-service-centre/) ~~[S]~~ 1515. Best Position for a Service Centre
 - [ ] 😫 [[Q]](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/) ~~[S]~~ 1516. Move Sub-Tree of N-Ary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/water-bottles/) ~~[S]~~ 1518. Water Bottles
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) ~~[S]~~ 1519. Number of Nodes in the Sub-Tree With the Same Label
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) ~~[S]~~ 1520. Maximum Number of Non-Overlapping Substrings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) ~~[S]~~ 1521. Find a Value of a Mysterious Function Closest to Target
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/diameter-of-n-ary-tree/) ~~[S]~~ 1522. Diameter of N-Ary Tree
 </details>
 
 ## How am I generated?

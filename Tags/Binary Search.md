@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-15-orange.svg)
+![Progress](https://img.shields.io/badge/Count-16-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
@@ -8,6 +8,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](.././LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array 
+- [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](.././LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](.././LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](.././LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](.././LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number 
