@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Hello'/>
         <page name='Scratch'/>
@@ -219,5 +219,6 @@
         <page name='1365. How Many Numbers Are Smaller Than the Current Number'/>
         <page name='154. Find Minimum in Rotated Sorted Array II'/>
         <page name='797. All Paths From Source to Target'/>
+        <page name='315. Count of Smaller Numbers After Self'/>
     </pages>
 </playground>

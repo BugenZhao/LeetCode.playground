@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 216 / 1390 = 15.54%
+> Progress: 217 / 1390 = 15.61%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -102,7 +102,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](315.%20Count%20of%20Smaller%20Numbers%20After%20Self) 0315. Count of Smaller Numbers After Self *[Sort]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](315.%20Count%20of%20Smaller%20Numbers%20After%20Self) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](326.%20Power%20of%20Three) 0326. Power of Three 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](328-Odd%20Even%20Linked%20List) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](329-Longest%20Increasing%20Path%20in%20a%20Matrix) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -137,6 +137,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](477.%20Total%20Hamming%20Distance) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](486.%20Predict%20the%20Winner) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](492.%20Construct%20the%20Rectangle) 0492. Construct the Rectangle 
+- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](493.%20Reverse%20Pairs) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*

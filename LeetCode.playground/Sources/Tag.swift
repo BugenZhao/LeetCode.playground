@@ -60,6 +60,8 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Bit Manipulation"
         case .ON:
             return "O(n)"
+        case .dq:
+            return "Divide & Conquer"
         }
     }
 
@@ -68,6 +70,6 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
 
     case marked, working, annoying
     case array, hash, list, heap, tree, graph, string, stack
-    case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp
+    case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp, dq
     case dp, greedy, math, bit, ON
 }

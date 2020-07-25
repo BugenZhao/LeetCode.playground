@@ -46,7 +46,7 @@ class SolutionMerge {
             switch hi - lo + 1 {
             case 0, 1:
                 return
-            case 2:
+            case 2: //: optional
                 if nums[lo] > nums[hi] { nums.swapAt(lo, hi) }
             default:
                 let mid = lo + (hi - lo) / 2

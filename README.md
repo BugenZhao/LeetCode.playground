@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-216%20%2F%201390%20=%2015.54%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-217%20%2F%201390%20=%2015.61%25-orange.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [DFS](./Tags/DFS.md)
 - [BFS](./Tags/BFS.md)
 - [Shortest Path](./Tags/Shortest%20Path.md)
+- [Divide & Conquer](./Tags/Divide%20&%20Conquer.md)
 - [DP](./Tags/DP.md)
 - [Greedy](./Tags/Greedy.md)
 - [Mathematics](./Tags/Mathematics.md)
@@ -35,7 +36,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
-- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
@@ -44,7 +46,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Sliding Windows, Hash Table, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](./LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
-- [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -144,7 +145,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [[S]](./LeetCode.playground/Pages/329-Longest%20Increasing%20Path%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 0329. Longest Increasing Path in a Matrix *[Graph]*
@@ -179,6 +180,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](./LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](./LeetCode.playground/Pages/492.%20Construct%20the%20Rectangle.xcplaygroundpage/Contents.swift) 0492. Construct the Rectangle 
+- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
@@ -610,7 +612,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/robot-room-cleaner/) ~~[S]~~ 0489. Robot Room Cleaner
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze/) ~~[S]~~ 0490. The Maze
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-subsequences/) ~~[S]~~ 0491. Increasing Subsequences
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) ~~[S]~~ 0493. Reverse Pairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/target-sum/) ~~[S]~~ 0494. Target Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) ~~[S]~~ 0495. Teemo Attacking
 - [ ] 😊 [[Q]](https://leetcode.com/problems/next-greater-element-i/) ~~[S]~~ 0496. Next Greater Element I

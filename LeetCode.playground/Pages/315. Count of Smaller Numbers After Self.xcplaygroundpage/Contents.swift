@@ -1,23 +1,18 @@
-//: Count inverse pairs by merge sort
-let tags: [Tag] = [.sort, .marked]
+//: Count reverse pairs with indices by merge sort
+let tags: [Tag] = [.sort, .dq, .marked]
 
 class Solution {
     func countSmaller(_ nums: [Int]) -> [Int] {
         var nums = Array(nums.map { -$0 }.reversed().enumerated()) //: use rev-neg, **keeping the index**
         var counts = nums.map { _ in 0 } //: `counts[i]`: # of larger numbers on the left of `nums[index]`
 
-        //: count inverse pairs by merge sort `<`
+        //: count reverse pairs by merge sort `<`
         //: we may also sort by `>` to avoid redundant reversing and negating
         var tmp = nums
         func worker(_ lo: Int, _ hi: Int) {
             switch hi - lo + 1 {
             case 0, 1:
                 return
-            case 2:
-                if nums[lo].1 > nums[hi].1 {
-                    counts[nums[hi].0] += 1 //: use original index
-                    nums.swapAt(lo, hi)
-                }
             default:
                 let mid = lo + (hi - lo) / 2
                 worker(lo, mid)
@@ -30,7 +25,7 @@ class Solution {
                     if nums[i].1 <= nums[j].1 { tmp[cur] = nums[i]; i += 1 }
                     else { //: `nums[i].1 > nums[j].1`: all nums in `nums[i...mid]` are larger than `nums[j]`
                         tmp[cur] = nums[j]
-                        counts[tmp[cur].0] += mid - i + 1
+                        counts[tmp[cur].0] += mid - i + 1 //: use original index
                         j += 1
                     }
                     cur += 1
