@@ -1,6 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
 ![Progress](https://img.shields.io/badge/Progress-217%20%2F%201390%20=%2015.61%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-68-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-111-e7af5f.svg)
+![Hard](https://img.shields.io/badge/Hard-38-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]

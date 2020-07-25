@@ -11,12 +11,23 @@ class Writer {
     @discardableResult
     static func writeReadme(_ dict: QuestionDict, to url: URL) -> Bool {
         let count = dict.count
-        let solvedCount = dict.filter(\.value.solved).count
+        let difficultyCount = (1...3).map { d in dict.filter { $1.difficulty == d }.count }
+        
+        let solved = dict.filter(\.value.solved)
+        let solvedCount = solved.count
+        let difficultySolvedCount = (1...3).map { d in solved.filter { $1.difficulty == d }.count }
+        let difficulties = ["Easy", "Medium", "Hard"]
+        let difficultyColors = ["74b566", "e7af5f", "ca5c54"]
 
         var output = ""
         output += "# LeetCode.playground\n"
         output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
-        output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(count)))%25-orange.svg)\n\n"
+        output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(count)))%25-orange.svg)\n"
+        for i in 0..<3 {
+            output += "![\(difficulties[i])](https://img.shields.io/badge/\(difficulties[i])-\(difficultySolvedCount[i])-\(difficultyColors[i]).svg)\n"
+        }
+        
+        output += "\n"
         output += "```swift\nlet priorities = [\"Algorithm & Complexity\", \"Clarity\", \"Running Time\"]\n```\n\n"
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
 
