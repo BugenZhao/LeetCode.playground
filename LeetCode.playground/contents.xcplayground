@@ -220,5 +220,8 @@
         <page name='154. Find Minimum in Rotated Sorted Array II'/>
         <page name='797. All Paths From Source to Target'/>
         <page name='315. Count of Smaller Numbers After Self'/>
+        <page name='493. Reverse Pairs'/>
+        <page name='258. Add Digits'/>
+        <page name='12. Integer to Roman'/>
     </pages>
 </playground>

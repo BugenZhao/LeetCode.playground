@@ -1,17 +1,20 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-24-orange.svg)
+![Progress](https://img.shields.io/badge/Count-27-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](.././LeetCode.playground/Pages/7-Reverse%20Integer.xcplaygroundpage/Contents.swift) 0007. Reverse Integer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](.././LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](.././LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman 
+- [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](.././LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](.././LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) 
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](.././LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](.././LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](.././LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](.././LeetCode.playground/Pages/204-Count%20Primes.xcplaygroundpage/Contents.swift) 0204. Count Primes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](.././LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two 
+- [X] 😊 [[Q]](https://leetcode.com/problems/add-digits/) [[S]](.././LeetCode.playground/Pages/258.%20Add%20Digits.xcplaygroundpage/Contents.swift) 0258. Add Digits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](.././LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](.././LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](.././LeetCode.playground/Pages/338-Counting%20Bits.xcplaygroundpage/Contents.swift) 0338. Counting Bits 

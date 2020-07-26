@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 217 / 1390 = 15.61%
+> Progress: 220 / 1390 = 15.83%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -16,6 +16,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](9-Palindrome%20Number) 0009. Palindrome Number *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) [[S]](10.%20Regular%20Expression%20Matching) 0010. Regular Expression Matching *[String, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](11.%20Container%20With%20Most%20Water) 0011. Container With Most Water *[Two Pointers, Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](12.%20Integer%20to%20Roman) 0012. Integer to Roman *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](13.%20Roman%20to%20Integer) 0013. Roman to Integer *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](15.%203Sum) 0015. 3Sum *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](16.%203Sum%20Closest) 0016. 3Sum Closest *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](19.%20Remove%20Nth%20Node%20From%20End%20of%20List) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
@@ -92,6 +94,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](242-Valid%20Anagram) 0242. Valid Anagram *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/add-digits/) [[S]](258.%20Add%20Digits) 0258. Add Digits *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](260.%20Single%20Number%20III) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](263.%20Ugly%20Number) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](264.%20Ugly%20Number%20II) 0264. Ugly Number II *[Mathematics, Two Pointers]*
