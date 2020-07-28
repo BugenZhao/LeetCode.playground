@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-220%20%2F%201390%20=%2015.83%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-222%20%2F%201390%20=%2015.97%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-112-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-114-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-38-ca5c54.svg)
 
 ```swift
@@ -39,6 +39,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](./LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](./LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-digits/) [[S]](./LeetCode.playground/Pages/258.%20Add%20Digits.xcplaygroundpage/Contents.swift) 0258. Add Digits *[Mathematics]*
@@ -47,8 +49,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
-- [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](./LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy *[Greedy, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](./LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -103,6 +103,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](./LeetCode.playground/Pages/100.%20Same%20Tree.xcplaygroundpage/Contents.swift) 0100. Same Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](./LeetCode.playground/Pages/102.%20Binary%20Tree%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](./LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](./LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock *[DP]*
@@ -327,8 +329,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) ~~[S]~~ 0099. Recover Binary Search Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/symmetric-tree/) ~~[S]~~ 0101. Symmetric Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ~~[S]~~ 0104. Maximum Depth of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~ 0105. Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~ 0106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ~~[S]~~ 0108. Convert Sorted Array to Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ~~[S]~~ 0109. Convert Sorted List to Binary Search Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/balanced-binary-tree/) ~~[S]~~ 0110. Balanced Binary Tree

@@ -223,5 +223,7 @@
         <page name='493. Reverse Pairs'/>
         <page name='258. Add Digits'/>
         <page name='12. Integer to Roman'/>
+        <page name='13. Roman to Integer'/>
+        <page name='106. Construct Binary Tree from Inorder and Postorder Traversal'/>
     </pages>
 </playground>

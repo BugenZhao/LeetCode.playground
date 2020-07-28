@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 220 / 1390 = 15.83%
+> Progress: 222 / 1390 = 15.97%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -57,6 +57,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](100.%20Same%20Tree) 0100. Same Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[S]](102.%20Binary%20Tree%20Level%20Order%20Traversal) 0102. Binary Tree Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](107.%20Binary%20Tree%20Level%20Order%20Traversal%20II) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](120-Triangle) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](121-Best%20Time%20to%20Buy%20and%20Sell%20Stock) 0121. Best Time to Buy and Sell Stock *[DP]*
