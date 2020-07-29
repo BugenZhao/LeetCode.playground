@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 222 / 1390 = 15.97%
+> Progress: 223 / 1390 = 16.04%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -153,6 +153,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](567-Permutation%20in%20String) 0567. Permutation in String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](593.%20Valid%20Square) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](600.%20Non-negative%20Integers%20without%20Consecutive%20Ones) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](621.%20Task%20Scheduler) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](662.%20Maximum%20Width%20of%20Binary%20Tree) 0662. Maximum Width of Binary Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*

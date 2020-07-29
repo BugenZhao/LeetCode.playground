@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-222%20%2F%201390%20=%2015.97%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-223%20%2F%201390%20=%2016.04%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-114-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-115-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-38-ca5c54.svg)
 
 ```swift
@@ -39,6 +39,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](./LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer *[Mathematics]*
@@ -48,7 +49,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -199,6 +199,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](./LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](./LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](./LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](./LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
@@ -701,7 +702,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-triangle-number/) ~~[S]~~ 0611. Valid Triangle Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-bold-tag-in-string/) ~~[S]~~ 0616. Add Bold Tag in String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-binary-trees/) ~~[S]~~ 0617. Merge Two Binary Trees
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/task-scheduler/) ~~[S]~~ 0621. Task Scheduler
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-queue/) ~~[S]~~ 0622. Design Circular Queue
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-one-row-to-tree/) ~~[S]~~ 0623. Add One Row to Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-distance-in-arrays/) ~~[S]~~ 0624. Maximum Distance in Arrays
