@@ -1,4 +1,5 @@
-let tags: [Tag] = [.marked, .dp]
+//: See *309. Best Time to Buy and Sell Stock with Cooldown* for a better understanding of state machine method
+let tags: [Tag] = [.marked, .dp, .state]
 
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {

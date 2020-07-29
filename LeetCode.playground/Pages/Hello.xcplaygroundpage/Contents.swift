@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 223 / 1390 = 16.04%
+> Progress: 224 / 1390 = 16.12%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -63,7 +63,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](120-Triangle) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](121-Best%20Time%20to%20Buy%20and%20Sell%20Stock) 0121. Best Time to Buy and Sell Stock *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) 0123. Best Time to Buy and Sell Stock III *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) 0123. Best Time to Buy and Sell Stock III *[DP, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](127-Word%20Ladder) 0127. Word Ladder *[Graph, BFS, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](129.%20Sum%20Root%20to%20Leaf%20Numbers) 0129. Sum Root to Leaf Numbers *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](130.%20Surrounded%20Regions) 0130. Surrounded Regions *[Graph, DFS]*
@@ -71,7 +71,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](132-Palindrome%20Partitioning%20II) 0132. Palindrome Partitioning II *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](135.%20Candy) 0135. Candy *[Greedy, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](136.%20Single%20Number) 0136. Single Number *[Bit Manipulation]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Bit Manipulation, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](141.%20Linked%20List%20Cycle) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](142.%20Linked%20List%20Cycle%20II) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
@@ -106,6 +106,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](315.%20Count%20of%20Smaller%20Numbers%20After%20Self) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](326.%20Power%20of%20Three) 0326. Power of Three 

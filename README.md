@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-223%20%2F%201390%20=%2016.04%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-224%20%2F%201390%20=%2016.12%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-115-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-116-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-38-ca5c54.svg)
 
 ```swift
@@ -36,9 +36,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [Greedy](./Tags/Greedy.md)
 - [Mathematics](./Tags/Mathematics.md)
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
+- [State Machine](./Tags/State%20Machine.md)
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
@@ -48,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -109,7 +110,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](./LeetCode.playground/Pages/123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.xcplaygroundpage/Contents.swift) 0123. Best Time to Buy and Sell Stock III *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [[S]](./LeetCode.playground/Pages/123-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.xcplaygroundpage/Contents.swift) 0123. Best Time to Buy and Sell Stock III *[DP, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](./LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder *[Graph, BFS, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](./LeetCode.playground/Pages/129.%20Sum%20Root%20to%20Leaf%20Numbers.xcplaygroundpage/Contents.swift) 0129. Sum Root to Leaf Numbers *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](./LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions *[Graph, DFS]*
@@ -117,7 +118,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](./LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy *[Greedy, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Bit Manipulation]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Bit Manipulation, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](./LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
@@ -152,6 +153,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
@@ -468,7 +470,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/additive-number/) ~~[S]~~ 0306. Additive Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-query-mutable/) ~~[S]~~ 0307. Range Sum Query - Mutable
 - [ ] 😫 [[Q]](https://leetcode.com/problems/range-sum-query-2d-mutable/) ~~[S]~~ 0308. Range Sum Query 2D - Mutable
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) ~~[S]~~ 0309. Best Time to Buy and Sell Stock with Cooldown
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sparse-matrix-multiplication/) ~~[S]~~ 0311. Sparse Matrix Multiplication
 - [ ] 😫 [[Q]](https://leetcode.com/problems/burst-balloons/) ~~[S]~~ 0312. Burst Balloons
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/super-ugly-number/) ~~[S]~~ 0313. Super Ugly Number

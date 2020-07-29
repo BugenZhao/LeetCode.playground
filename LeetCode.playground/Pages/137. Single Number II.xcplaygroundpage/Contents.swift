@@ -3,7 +3,7 @@
  - 01 + 1 = 10
  - 10 + 1 = 00
  */
-let tags: [Tag] = [.bit]
+let tags: [Tag] = [.bit, .state]
 
 class Solution {
     func singleNumber(_ nums: [Int]) -> Int {
