@@ -1,8 +1,5 @@
-/*:
- Only one transaction -> Dynamic programming
- */
-
-let tags: [Tag] = [.dp]
+//: Only one transaction: Dynamic Programming || State Machine
+let tags: [Tag] = [.dp, .state]
 
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
@@ -31,3 +28,16 @@ f([7, 1, 5, 3, 6, 4])
 f([1, 2, 3])
 f([1])
 f([5, 4, 3, 2, 1, -10, -20])
+
+
+class SolutionStateMachine {
+    func maxProfit(_ prices: [Int]) -> Int {
+        if prices.isEmpty { return 0 }
+
+        let initial = 0; var (bought, sold) = (-prices[0], 0)
+        for price in prices.dropFirst() {
+            (bought, sold) = (max(bought, initial - price), max(sold, bought + price))
+        }
+        return sold
+    }
+}

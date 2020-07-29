@@ -1,4 +1,4 @@
-let tags: [Tag] = [.dp, .state, .dp]
+let tags: [Tag] = [.dp, .state, .ON]
 
 class Solution {
     func maxProfit(_ prices: [Int]) -> Int {

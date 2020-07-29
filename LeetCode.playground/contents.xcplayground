@@ -228,5 +228,7 @@
         <page name='105. Construct Binary Tree from Preorder and Inorder Traversal'/>
         <page name='621. Task Scheduler'/>
         <page name='309. Best Time to Buy and Sell Stock with Cooldown'/>
+        <page name='714. Best Time to Buy and Sell Stock with Transaction Fee'/>
+        <page name='188. Best Time to Buy and Sell Stock IV'/>
     </pages>
 </playground>
