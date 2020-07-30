@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-226%20%2F%201390%20=%2016.26%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-228%20%2F%201390%20=%2016.40%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-117-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-39-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-41-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -40,6 +40,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
@@ -48,8 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](./LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](./LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/add-digits/) [[S]](./LeetCode.playground/Pages/258.%20Add%20Digits.xcplaygroundpage/Contents.swift) 0258. Add Digits *[Mathematics]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -83,6 +83,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](./LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](./LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](./LeetCode.playground/Pages/55-Jump%20Game.xcplaygroundpage/Contents.swift) 0055. Jump Game *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
@@ -301,8 +303,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~ 0048. Rotate Image
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~ 0049. Group Anagrams
-- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~ 0051. N-Queens
-- [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~ 0052. N-Queens II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~ 0056. Merge Intervals
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~ 0057. Insert Interval

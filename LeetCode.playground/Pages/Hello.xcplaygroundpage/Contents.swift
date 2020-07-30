@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 226 / 1390 = 16.26%
+> Progress: 228 / 1390 = 16.40%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -36,6 +36,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](44-Wildcard%20Matching) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](45-Jump%20Game%20II) 0045. Jump Game II *[Greedy, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](50-Pow(x,%20n)) 0050. Pow(x, n) *[Mathematics]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](51.%20N-Queens) 0051. N-Queens *[DFS, Bit Manipulation]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](52.%20N-Queens%20II) 0052. N-Queens II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
