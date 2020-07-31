@@ -1,3 +1,5 @@
+let tags: [Tag] = [.dp, .marked]
+
 class SolutionBruteForceTLE {
     func superEggDrop(_ K: Int, _ N: Int) -> Int {
         //: `dp[k][n]`: the minimum # of moves to know `F` **with certainty**, in a building with `n` floors using `k` eggs
