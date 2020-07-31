@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-230%20%2F%201390%20=%2016.55%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-231%20%2F%201390%20=%2016.62%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-117-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-118-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
 
 ```swift
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -90,6 +90,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](./LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](./LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](./LeetCode.playground/Pages/66.%20Plus%20One.xcplaygroundpage/Contents.swift) 0066. Plus One 
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](./LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
@@ -311,7 +312,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~ 0058. Length of Last Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~ 0059. Spiral Matrix II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~ 0061. Rotate List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) ~~[S]~~ 0064. Minimum Path Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-number/) ~~[S]~~ 0065. Valid Number
 - [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path

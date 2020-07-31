@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-40-orange.svg)
+![Progress](https://img.shields.io/badge/Count-41-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
@@ -10,6 +10,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](.././LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](.././LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](.././LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](.././LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum 
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](.././LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs 
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](.././LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance 
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](.././LeetCode.playground/Pages/87-Scramble%20String.xcplaygroundpage/Contents.swift) 0087. Scramble String 

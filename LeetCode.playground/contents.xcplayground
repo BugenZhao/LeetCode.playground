@@ -234,5 +234,6 @@
         <page name='52. N-Queens II'/>
         <page name='140. Word Break II'/>
         <page name='887. Super Egg Drop'/>
+        <page name='64. Minimum Path Sum'/>
     </pages>
 </playground>

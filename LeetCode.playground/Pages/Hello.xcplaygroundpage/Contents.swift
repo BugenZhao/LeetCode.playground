@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 230 / 1390 = 16.55%
+> Progress: 231 / 1390 = 16.62%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -43,6 +43,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](62.%20Unique%20Paths) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](63.%20Unique%20Paths%20II) 0063. Unique Paths II *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](64.%20Minimum%20Path%20Sum) 0064. Minimum Path Sum *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](66.%20Plus%20One) 0066. Plus One 
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](67.%20Add%20Binary) 0067. Add Binary 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](69-Sqrt(x)) 0069. Sqrt(x) *[Mathematics]*

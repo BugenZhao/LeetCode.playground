@@ -30,12 +30,11 @@ f(1, 2)
 f(1, 10)
 f(10, 1)
 
+
 class Solution {
     func superEggDrop(_ K: Int, _ N: Int) -> Int {
         //: `dp[k][m]`: the maximum # of floors we can check in a `m` moves using `k` eggs
         var dp = [[Int]](repeating: .init(repeating: 0, count: N + 1), count: K + 1)
-        for n in 1...N { dp[1][n] = n }
-
         for m in 1... {
             for k in 1...K {
                 dp[k][m] = dp[k - 1][m - 1] + 1 + dp[k][m - 1]
@@ -53,3 +52,23 @@ g(2, 6)
 g(1, 2)
 g(1, 10)
 g(10, 1)
+
+
+class SolutionSpace {
+    func superEggDrop(_ K: Int, _ N: Int) -> Int {
+        var dp = [Int](repeating: 0, count: K + 1)
+        for m in 1... {
+            for k in (1...K).reversed() { dp[k] += dp[k - 1] + 1 }
+            if dp[K] >= N { return m }
+        }
+        return 114_514
+    }
+}
+
+let h = SolutionSpace().superEggDrop
+
+h(3, 14)
+h(2, 6)
+h(1, 2)
+h(1, 10)
+h(10, 1)
