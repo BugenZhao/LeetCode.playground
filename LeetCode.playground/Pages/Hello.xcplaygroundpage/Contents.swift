@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 228 / 1390 = 16.40%
+> Progress: 230 / 1390 = 16.55%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -75,6 +75,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](136.%20Single%20Number) 0136. Single Number *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](137.%20Single%20Number%20II) 0137. Single Number II *[Bit Manipulation, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](139-Word%20Break) 0139. Word Break *[DP]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](140.%20Word%20Break%20II) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](141.%20Linked%20List%20Cycle) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](142.%20Linked%20List%20Cycle%20II) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](151.%20Reverse%20Words%20in%20a%20String) 0151. Reverse Words in a String 
@@ -178,6 +179,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](857.%20Minimum%20Cost%20to%20Hire%20K%20Workers) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](887.%20Super%20Egg%20Drop) 0887. Super Egg Drop 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](912-Sort%20an%20Array) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*

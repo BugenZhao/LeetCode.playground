@@ -231,5 +231,8 @@
         <page name='714. Best Time to Buy and Sell Stock with Transaction Fee'/>
         <page name='188. Best Time to Buy and Sell Stock IV'/>
         <page name='51. N-Queens'/>
+        <page name='52. N-Queens II'/>
+        <page name='140. Word Break II'/>
+        <page name='887. Super Egg Drop'/>
     </pages>
 </playground>

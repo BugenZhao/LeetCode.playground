@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-228%20%2F%201390%20=%2016.40%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-230%20%2F%201390%20=%2016.55%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-117-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-41-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -40,6 +40,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop 
+- [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
@@ -48,8 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](./LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](./LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman *[Mathematics]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -122,6 +122,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Bit Manipulation, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/word-break/) [[S]](./LeetCode.playground/Pages/139-Word%20Break.xcplaygroundpage/Contents.swift) 0139. Word Break *[DP]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](./LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
@@ -225,6 +226,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span *[Array, Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](./LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
@@ -353,7 +355,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~ 0133. Clone Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~ 0134. Gas Station
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) ~~[S]~~ 0138. Copy List with Random Pointer
-- [ ] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) ~~[S]~~ 0140. Word Break II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-list/) ~~[S]~~ 0143. Reorder List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-preorder-traversal/) ~~[S]~~ 0144. Binary Tree Preorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-postorder-traversal/) ~~[S]~~ 0145. Binary Tree Postorder Traversal
@@ -947,7 +948,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~ 0883. Projection Area of 3D Shapes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~ 0884. Uncommon Words from Two Sentences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~ 0885. Spiral Matrix III
-- [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~ 0887. Super Egg Drop
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~ 0888. Fair Candy Swap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~ 0889. Construct Binary Tree from Preorder and Postorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-pattern/) ~~[S]~~ 0890. Find and Replace Pattern
