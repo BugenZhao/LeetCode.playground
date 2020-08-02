@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 231 / 1390 = 16.62%
+> Progress: 232 / 1399 = 16.58%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -152,6 +152,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](520.%20Detect%20Capital) 0520. Detect Capital 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](525-Contiguous%20Array) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](528-Random%20Pick%20with%20Weight) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](540-Single%20Element%20in%20a%20Sorted%20Array) 0540. Single Element in a Sorted Array *[Binary Search]*

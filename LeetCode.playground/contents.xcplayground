@@ -235,5 +235,6 @@
         <page name='140. Word Break II'/>
         <page name='887. Super Egg Drop'/>
         <page name='64. Minimum Path Sum'/>
+        <page name='520. Detect Capital'/>
     </pages>
 </playground>

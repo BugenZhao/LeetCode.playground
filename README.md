@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-231%20%2F%201390%20=%2016.62%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-70-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-232%20%2F%201399%20=%2016.58%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-71-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-118-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
 
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](./LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -199,6 +199,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./LeetCode.playground/Pages/525-Contiguous%20Array.xcplaygroundpage/Contents.swift) 0525. Contiguous Array *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) [[S]](./LeetCode.playground/Pages/528-Random%20Pick%20with%20Weight.xcplaygroundpage/Contents.swift) 0528. Random Pick with Weight *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
@@ -574,7 +575,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~ 0434. Number of Segments in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~ 0435. Non-overlapping Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
-- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ~~[S]~~ 0442. Find All Duplicates in an Array
@@ -640,7 +641,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~ 0516. Longest Palindromic Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~ 0517. Super Washing Machines
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-flip-matrix/) ~~[S]~~ 0519. Random Flip Matrix
-- [ ] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) ~~[S]~~ 0520. Detect Capital
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-i/) ~~[S]~~ 0521. Longest Uncommon Subsequence I 
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) ~~[S]~~ 0522. Longest Uncommon Subsequence II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/continuous-subarray-sum/) ~~[S]~~ 0523. Continuous Subarray Sum
@@ -1443,9 +1443,18 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/) ~~[S]~~ 1516. Move Sub-Tree of N-Ary Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/water-bottles/) ~~[S]~~ 1518. Water Bottles
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) ~~[S]~~ 1519. Number of Nodes in the Sub-Tree With the Same Label
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) ~~[S]~~ 1520. Maximum Number of Non-Overlapping Substrings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) ~~[S]~~ 1520. Maximum Number of Non-Overlapping Substrings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) ~~[S]~~ 1521. Find a Value of a Mysterious Function Closest to Target
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/diameter-of-n-ary-tree/) ~~[S]~~ 1522. Diameter of N-Ary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) ~~[S]~~ 1523. Count Odd Numbers in an Interval Range
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) ~~[S]~~ 1524. Number of Sub-arrays With Odd Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) ~~[S]~~ 1525. Number of Good Ways to Split a String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) ~~[S]~~ 1526. Minimum Number of Increments on Subarrays to Form a Target Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/shuffle-string/) ~~[S]~~ 1528. Shuffle String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher-iv/) ~~[S]~~ 1529. Bulb Switcher IV
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) ~~[S]~~ 1530. Number of Good Leaf Nodes Pairs
+- [ ] 😫 [[Q]](https://leetcode.com/problems/string-compression-ii/) ~~[S]~~ 1531. String Compression II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-index-of-the-large-integer/) ~~[S]~~ 1533. Find the Index of the Large Integer
 </details>
 
 ## How am I generated?
