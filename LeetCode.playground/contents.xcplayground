@@ -236,5 +236,7 @@
         <page name='887. Super Egg Drop'/>
         <page name='64. Minimum Path Sum'/>
         <page name='520. Detect Capital'/>
+        <page name='125. Valid Palindrome'/>
+        <page name='705. Design HashSet'/>
     </pages>
 </playground>

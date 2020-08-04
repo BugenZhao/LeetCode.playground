@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-233%20%2F%201399%20=%2016.65%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-72-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-234%20%2F%201399%20=%2016.73%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-73-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-118-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
 
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) [[S]](./LeetCode.playground/Pages/125.%20Valid%20Palindrome.xcplaygroundpage/Contents.swift) 0125. Valid Palindrome 
 - [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -214,6 +214,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
@@ -781,7 +782,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~ 0702. Search in a Sorted Array of Unknown Size
 - [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~ 0703. Kth Largest Element in a Stream
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~ 0704. Binary Search
-- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) ~~[S]~~ 0705. Design HashSet
 - [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashmap/) ~~[S]~~ 0706. Design HashMap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~ 0707. Design Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~ 0708. Insert into a Sorted Circular Linked List

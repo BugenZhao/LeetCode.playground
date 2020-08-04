@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 233 / 1399 = 16.65%
+> Progress: 234 / 1399 = 16.73%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -167,6 +167,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](693.%20Binary%20Number%20with%20Alternating%20Bits) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](705.%20Design%20HashSet) 0705. Design HashSet *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*
