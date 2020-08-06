@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-24-orange.svg)
+![Progress](https://img.shields.io/badge/Count-25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
@@ -13,6 +13,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](.././LeetCode.playground/Pages/129.%20Sum%20Root%20to%20Leaf%20Numbers.xcplaygroundpage/Contents.swift) 0129. Sum Root to Leaf Numbers 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](.././LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](.././LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](.././LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](.././LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](.././LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](.././LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST 

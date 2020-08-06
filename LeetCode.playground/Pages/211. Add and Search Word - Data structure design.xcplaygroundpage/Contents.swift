@@ -1,3 +1,5 @@
+let tags: [Tag] = [.tree, .dfs]
+
 final class WordDictionary {
     final class Node {
         var isEnd = false

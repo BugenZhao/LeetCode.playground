@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 235 / 1399 = 16.80%
+> Progress: 236 / 1399 = 16.87%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -96,7 +96,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](209.%20Minimum%20Size%20Subarray%20Sum) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design) 0211. Add and Search Word - Data structure design 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](222.%20Count%20Complete%20Tree%20Nodes) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
@@ -141,6 +141,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](441.%20Arranging%20Coins) 0441. Arranging Coins *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](442.%20Find%20All%20Duplicates%20in%20an%20Array) 0442. Find All Duplicates in an Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](461.%20Hamming%20Distance) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](463.%20Island%20Perimeter) 0463. Island Perimeter 

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-15-orange.svg)
+![Progress](https://img.shields.io/badge/Count-16-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DFS Problems
@@ -8,6 +8,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](.././LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](.././LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions 
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](.././LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](.././LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](.././LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) [[S]](.././LeetCode.playground/Pages/332.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0332. Reconstruct Itinerary 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](.././LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow 

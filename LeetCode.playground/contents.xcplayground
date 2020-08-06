@@ -238,5 +238,7 @@
         <page name='520. Detect Capital'/>
         <page name='125. Valid Palindrome'/>
         <page name='705. Design HashSet'/>
+        <page name='211. Add and Search Word - Data structure design'/>
+        <page name='442. Find All Duplicates in an Array'/>
     </pages>
 </playground>

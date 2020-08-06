@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-235%20%2F%201399%20=%2016.80%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-236%20%2F%201399%20=%2016.87%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-73-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-119-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-120-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
 
 ```swift
@@ -40,7 +40,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) [[S]](./LeetCode.playground/Pages/125.%20Valid%20Palindrome.xcplaygroundpage/Contents.swift) 0125. Valid Palindrome 
 - [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -143,7 +143,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
@@ -188,6 +188,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
@@ -579,7 +580,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) ~~[S]~~ 0442. Find All Duplicates in an Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/string-compression/) ~~[S]~~ 0443. String Compression
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequence-reconstruction/) ~~[S]~~ 0444. Sequence Reconstruction
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers-ii/) ~~[S]~~ 0445. Add Two Numbers II
