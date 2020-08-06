@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-236%20%2F%201399%20=%2016.87%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-237%20%2F%201399%20=%2016.94%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-73-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-120-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-43-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-44-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
-- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -159,6 +159,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
@@ -462,7 +463,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/nim-game/) ~~[S]~~ 0292. Nim Game
 - [ ] 😊 [[Q]](https://leetcode.com/problems/flip-game/) ~~[S]~~ 0293. Flip Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-game-ii/) ~~[S]~~ 0294. Flip Game II
-- [ ] 😫 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) ~~[S]~~ 0295. Find Median from Data Stream
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-meeting-point/) ~~[S]~~ 0296. Best Meeting Point
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~ 0297. Serialize and Deserialize Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~ 0298. Binary Tree Longest Consecutive Sequence
