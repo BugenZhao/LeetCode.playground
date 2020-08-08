@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-240%20%2F%201399%20=%2017.16%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-241%20%2F%201399%20=%2017.23%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-74-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-122-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-123-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-44-ca5c54.svg)
 
 ```swift
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) [[S]](./LeetCode.playground/Pages/125.%20Valid%20Palindrome.xcplaygroundpage/Contents.swift) 0125. Valid Palindrome 
 - [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -189,6 +189,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
@@ -578,7 +579,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~ 0434. Number of Segments in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~ 0435. Non-overlapping Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~ 0437. Path Sum III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
 - [ ] 😊 [[Q]](https://leetcode.com/problems/string-compression/) ~~[S]~~ 0443. String Compression

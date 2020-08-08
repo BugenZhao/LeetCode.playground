@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-28-orange.svg)
+![Progress](https://img.shields.io/badge/Count-29-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
@@ -21,6 +21,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](.././LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](.././LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](.././LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](.././LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](.././LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](.././LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](.././LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree 

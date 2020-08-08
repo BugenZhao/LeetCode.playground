@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 240 / 1399 = 17.16%
+> Progress: 241 / 1399 = 17.23%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -142,6 +142,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](437.%20Path%20Sum%20III) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](441.%20Arranging%20Coins) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](442.%20Find%20All%20Duplicates%20in%20an%20Array) 0442. Find All Duplicates in an Array *[Array, O(n)]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DFS Problems
@@ -14,6 +14,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](.././LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-itinerary/) [[S]](.././LeetCode.playground/Pages/332.%20Reconstruct%20Itinerary.xcplaygroundpage/Contents.swift) 0332. Reconstruct Itinerary 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](.././LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](.././LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](.././LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](.././LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](.././LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target 
