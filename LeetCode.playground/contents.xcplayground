@@ -240,5 +240,8 @@
         <page name='705. Design HashSet'/>
         <page name='211. Add and Search Word - Data structure design'/>
         <page name='442. Find All Duplicates in an Array'/>
+        <page name='295. Find Median from Data Stream'/>
+        <page name='987. Vertical Order Traversal of a Binary Tree'/>
+        <page name='112. Path Sum'/>
     </pages>
 </playground>

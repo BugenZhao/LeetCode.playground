@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-25-orange.svg)
+![Progress](https://img.shields.io/badge/Count-28-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
@@ -10,6 +10,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](.././LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](.././LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](.././LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal 
+- [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](.././LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](.././LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](.././LeetCode.playground/Pages/129.%20Sum%20Root%20to%20Leaf%20Numbers.xcplaygroundpage/Contents.swift) 0129. Sum Root to Leaf Numbers 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](.././LeetCode.playground/Pages/199-Binary%20Tree%20Right%20Side%20View.xcplaygroundpage/Contents.swift) 0199. Binary Tree Right Side View 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](.././LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) 
@@ -24,6 +26,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](.././LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](.././LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](.././LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree 
+- [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](.././LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](.././LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](.././LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem 

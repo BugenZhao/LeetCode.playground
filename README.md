@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-237%20%2F%201399%20=%2016.94%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-73-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-120-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-240%20%2F%201399%20=%2017.16%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-74-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-122-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-44-ca5c54.svg)
 
 ```swift
@@ -40,6 +40,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
+- [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
@@ -47,9 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-palindrome/) [[S]](./LeetCode.playground/Pages/125.%20Valid%20Palindrome.xcplaygroundpage/Contents.swift) 0125. Valid Palindrome 
 - [X] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) [[S]](./LeetCode.playground/Pages/520.%20Detect%20Capital.xcplaygroundpage/Contents.swift) 0520. Detect Capital 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](./LeetCode.playground/Pages/64.%20Minimum%20Path%20Sum.xcplaygroundpage/Contents.swift) 0064. Minimum Path Sum *[DP]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](./LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II *[DP, DFS, String]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -110,6 +110,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](./LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](./LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock *[DP, State Machine]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
@@ -247,6 +249,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](./LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections *[Two Pointers, Greedy]*
+- [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](./LeetCode.playground/Pages/990-Satisfiability%20of%20Equality%20Equations.xcplaygroundpage/Contents.swift) 0990. Satisfiability of Equality Equations *[Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
@@ -346,8 +349,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ~~[S]~~ 0109. Convert Sorted List to Binary Search Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/balanced-binary-tree/) ~~[S]~~ 0110. Balanced Binary Tree
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) ~~[S]~~ 0111. Minimum Depth of Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum/) ~~[S]~~ 0112. Path Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) ~~[S]~~ 0113. Path Sum II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ~~[S]~~ 0114. Flatten Binary Tree to Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences/) ~~[S]~~ 0115. Distinct Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ~~[S]~~ 0116. Populating Next Right Pointers in Each Node
@@ -1034,7 +1035,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) ~~[S]~~ 0982. Triples with Bitwise AND Equal To Zero
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) ~~[S]~~ 0983. Minimum Cost For Tickets
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~ 0985. Sum of Even Numbers After Queries
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) ~~[S]~~ 0987. Vertical Order Traversal of a Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-starting-from-leaf/) ~~[S]~~ 0988. Smallest String Starting From Leaf
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-to-array-form-of-integer/) ~~[S]~~ 0989. Add to Array-Form of Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) ~~[S]~~ 0991. Broken Calculator
