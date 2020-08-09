@@ -40,7 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
-- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
@@ -253,7 +253,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](./LeetCode.playground/Pages/990-Satisfiability%20of%20Equality%20Equations.xcplaygroundpage/Contents.swift) 0990. Satisfiability of Equality Equations *[Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree *[Tree, DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*

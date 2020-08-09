@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Count-22-orange.svg)
+![Progress](https://img.shields.io/badge/Count-23-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Graph Problems
@@ -18,6 +18,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](.././LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](.././LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](.././LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](.././LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges 
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](.././LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](.././LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](.././LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location 

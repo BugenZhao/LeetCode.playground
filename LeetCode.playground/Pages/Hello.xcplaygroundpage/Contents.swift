@@ -206,7 +206,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) [[S]](990-Satisfiability%20of%20Equality%20Equations) 0990. Satisfiability of Equality Equations *[Union Find]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](993-Cousins%20in%20Binary%20Tree) 0993. Cousins in Binary Tree *[Tree, DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](994.%20Rotting%20Oranges) 0994. Rotting Oranges 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](994.%20Rotting%20Oranges) 0994. Rotting Oranges *[Graph, BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](997-Find%20the%20Town%20Judge) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*

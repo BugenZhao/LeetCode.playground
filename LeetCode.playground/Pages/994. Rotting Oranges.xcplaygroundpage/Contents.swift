@@ -1,3 +1,5 @@
+let tags: [Tag] = [.graph, .bfs]
+
 class Solution {
     let ds = [(1, 0), (-1, 0), (0, 1), (0, -1)]
     func orangesRotting(_ grid: [[Int]]) -> Int {
