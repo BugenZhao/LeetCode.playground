@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 242 / 1404 = 17.24%
+> Progress: 243 / 1404 = 17.31%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -86,6 +86,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](171.%20Excel%20Sheet%20Column%20Number) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](190.%20Reverse%20Bits) 0190. Reverse Bits *[Bit Manipulation]*

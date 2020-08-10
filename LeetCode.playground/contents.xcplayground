@@ -246,5 +246,6 @@
         <page name='113. Path Sum II'/>
         <page name='437. Path Sum III'/>
         <page name='994. Rotting Oranges'/>
+        <page name='171. Excel Sheet Column Number'/>
     </pages>
 </playground>
