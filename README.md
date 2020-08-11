@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-243%20%2F%201404%20=%2017.31%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-74-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-125-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-44-ca5c54.svg)
+![Progress](https://img.shields.io/badge/Progress-248%20%2F%201404%20=%2017.66%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-77-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-126-e7af5f.svg)
+![Hard](https://img.shields.io/badge/Hard-45-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -40,16 +40,16 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](./LeetCode.playground/Pages/1363.%20Largest%20Multiple%20of%20Three.xcplaygroundpage/Contents.swift) 1363. Largest Multiple of Three *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](./LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph *[Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) [[S]](./LeetCode.playground/Pages/118.%20Pascal's%20Triangle.xcplaygroundpage/Contents.swift) 0118. Pascal's Triangle 
+- [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](./LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
-- [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -112,6 +112,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](./LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) [[S]](./LeetCode.playground/Pages/118.%20Pascal's%20Triangle.xcplaygroundpage/Contents.swift) 0118. Pascal's Triangle 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](./LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle *[DP, Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./LeetCode.playground/Pages/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.xcplaygroundpage/Contents.swift) 0121. Best Time to Buy and Sell Stock *[DP, State Machine]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) [[S]](./LeetCode.playground/Pages/122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.xcplaygroundpage/Contents.swift) 0122. Best Time to Buy and Sell Stock II *[Greedy]*
@@ -122,6 +123,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](./LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) [[S]](./LeetCode.playground/Pages/131-Palindrome%20Partitioning.xcplaygroundpage/Contents.swift) 0131. Palindrome Partitioning *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) [[S]](./LeetCode.playground/Pages/132-Palindrome%20Partitioning%20II.xcplaygroundpage/Contents.swift) 0132. Palindrome Partitioning II *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](./LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph *[Graph]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](./LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy *[Greedy, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](./LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-ii/) [[S]](./LeetCode.playground/Pages/137.%20Single%20Number%20II.xcplaygroundpage/Contents.swift) 0137. Single Number II *[Bit Manipulation, State Machine]*
@@ -175,6 +177,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](./LeetCode.playground/Pages/342.%20Power%20of%20Four.xcplaygroundpage/Contents.swift) 0342. Power of Four *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./LeetCode.playground/Pages/344-Reverse%20String.xcplaygroundpage/Contents.swift) 0344. Reverse String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) [[S]](./LeetCode.playground/Pages/347.%20Top%20K%20Frequent%20Elements.xcplaygroundpage/Contents.swift) 0347. Top K Frequent Elements 
+- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](./LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
@@ -258,6 +261,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](./LeetCode.playground/Pages/1043.%20Partition%20Array%20for%20Maximum%20Sum.xcplaygroundpage/Contents.swift) 1043. Partition Array for Maximum Sum *[DP]*
@@ -282,6 +286,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](./LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](./LeetCode.playground/Pages/1363.%20Largest%20Multiple%20of%20Three.xcplaygroundpage/Contents.swift) 1363. Largest Multiple of Three *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](./LeetCode.playground/Pages/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.xcplaygroundpage/Contents.swift) 1365. How Many Numbers Are Smaller Than the Current Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](./LeetCode.playground/Pages/1367.%20Linked%20List%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1367. Linked List in Binary Tree *[Tree, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) [[S]](./LeetCode.playground/Pages/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.xcplaygroundpage/Contents.swift) 1368. Minimum Cost to Make at Least One Valid Path in a Grid *[Graph, Shortest Path]*
@@ -356,12 +361,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/distinct-subsequences/) ~~[S]~~ 0115. Distinct Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) ~~[S]~~ 0116. Populating Next Right Pointers in Each Node
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) ~~[S]~~ 0117. Populating Next Right Pointers in Each Node II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~ 0118. Pascal's Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~ 0119. Pascal's Triangle II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~ 0124. Binary Tree Maximum Path Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~ 0126. Word Ladder II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~ 0128. Longest Consecutive Sequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) ~~[S]~~ 0133. Clone Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gas-station/) ~~[S]~~ 0134. Gas Station
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) ~~[S]~~ 0138. Copy List with Random Pointer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-list/) ~~[S]~~ 0143. Reorder List
@@ -508,7 +511,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~ 0346. Moving Average from Data Stream
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-tic-tac-toe/) ~~[S]~~ 0348. Design Tic-Tac-Toe
 - [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays/) ~~[S]~~ 0349. Intersection of Two Arrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ~~[S]~~ 0350. Intersection of Two Arrays II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/android-unlock-patterns/) ~~[S]~~ 0351. Android Unlock Patterns
 - [ ] 😫 [[Q]](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) ~~[S]~~ 0352. Data Stream as Disjoint Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-snake-game/) ~~[S]~~ 0353. Design Snake Game
@@ -1067,7 +1069,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) ~~[S]~~ 1022. Sum of Root To Leaf Binary Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~ 1023. Camelcase Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~ 1024. Video Stitching
-- [ ] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) ~~[S]~~ 1025. Divisor Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~ 1026. Maximum Difference Between Node and Ancestor
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~ 1027. Longest Arithmetic Sequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~ 1028. Recover a Tree From Preorder Traversal
@@ -1320,7 +1321,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-days-between-two-dates/) ~~[S]~~ 1360. Number of Days Between Two Dates
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-tree-nodes/) ~~[S]~~ 1361. Validate Binary Tree Nodes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-divisors/) ~~[S]~~ 1362. Closest Divisors
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) ~~[S]~~ 1363. Largest Multiple of Three
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rank-teams-by-votes/) ~~[S]~~ 1366. Rank Teams by Votes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/increasing-decreasing-string/) ~~[S]~~ 1370. Increasing Decreasing String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) ~~[S]~~ 1371. Find the Longest Substring Containing Vowels in Even Counts

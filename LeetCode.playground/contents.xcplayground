@@ -247,5 +247,9 @@
         <page name='437. Path Sum III'/>
         <page name='994. Rotting Oranges'/>
         <page name='171. Excel Sheet Column Number'/>
+        <page name='350. Intersection of Two Arrays II'/>
+        <page name='1025. Divisor Game'/>
+        <page name='118. Pascal&apos;s Triangle'/>
+        <page name='133. Clone Graph'/>
     </pages>
 </playground>
