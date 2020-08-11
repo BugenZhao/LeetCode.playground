@@ -6,7 +6,7 @@
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
-struct LeetCodePlayGround: CustomStringConvertible {
+struct LeetCodePlayground: CustomStringConvertible {
     let language    = "Swift 5.2"
     let description = "Bugen's LeetCode solutions in Swift Playground."
 

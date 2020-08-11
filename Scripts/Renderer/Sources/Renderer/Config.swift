@@ -37,7 +37,7 @@ let pageSuffixCount = ".xcplaygroundpage".count
 let dateFormatter = DateFormatter()
 
 let intro = """
-struct LeetCodePlayGround: CustomStringConvertible {
+struct LeetCodePlayground: CustomStringConvertible {
     let language    = "Swift 5.2"
     let description = "Bugen's LeetCode solutions in Swift Playground."
 
