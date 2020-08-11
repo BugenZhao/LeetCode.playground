@@ -35,3 +35,25 @@ func makeURL(tag: Tag, urlAllowed: Bool = false) -> URL {
 let pageSuffixCount = ".xcplaygroundpage".count
 
 let dateFormatter = DateFormatter()
+
+let intro = """
+struct LeetCodePlayGround: CustomStringConvertible {
+    let language    = "Swift 5.2"
+    let description = "Bugen's LeetCode solutions in Swift Playground."
+
+    typealias Priority = UInt
+    enum Goal: Priority {
+        case algorithm  = 0
+        case clarity    = 1
+        case runtime    = 2
+    }
+
+    enum Difficulty: String {
+        case easy       = "😊"
+        case medium     = "🤨"
+        case hard       = "😫"
+        case marked     = "🔞"
+        case annoying   = "🤬"
+    }
+}
+"""

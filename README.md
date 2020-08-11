@@ -6,10 +6,27 @@
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
-let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
+struct LeetCodePlayGround: CustomStringConvertible {
+    let language    = "Swift 5.2"
+    let description = "Bugen's LeetCode solutions in Swift Playground."
+
+    typealias Priority = UInt
+    enum Goal: Priority {
+        case algorithm  = 0
+        case clarity    = 1
+        case runtime    = 2
+    }
+
+    enum Difficulty: String {
+        case easy       = "😊"
+        case medium     = "🤨"
+        case hard       = "😫"
+        case marked     = "🔞"
+        case annoying   = "🤬"
+    }
+}
 ```
 
-Bugen's LeetCode solutions in Swift Playground.
 
 ## Tags
 - [**Marked**](./Tags/Marked.md)
