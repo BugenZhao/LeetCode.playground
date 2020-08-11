@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-248%20%2F%201404%20=%2017.66%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-249%20%2F%201404%20=%2017.74%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-77-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-126-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-45-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
 let priorities = ["Algorithm & Complexity", "Clarity", "Running Time"]
@@ -40,6 +40,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](./LeetCode.playground/Pages/1363.%20Largest%20Multiple%20of%20Three.xcplaygroundpage/Contents.swift) 1363. Largest Multiple of Three *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](./LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) [[S]](./LeetCode.playground/Pages/118.%20Pascal's%20Triangle.xcplaygroundpage/Contents.swift) 0118. Pascal's Triangle 
@@ -49,7 +50,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](./LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](./LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -191,6 +191,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
+- [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
@@ -557,7 +558,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~ 0405. Convert a Number to Hexadecimal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
-- [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~ 0410. Split Array Largest Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~ 0411. Minimum Unique Word Abbreviation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~ 0412. Fizz Buzz
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~ 0413. Arithmetic Slices

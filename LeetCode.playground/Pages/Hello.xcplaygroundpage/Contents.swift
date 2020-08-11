@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 248 / 1404 = 17.66%
+> Progress: 249 / 1404 = 17.74%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -144,6 +144,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](406-Queue%20Reconstruction%20by%20Height) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
+- [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](410.%20Split%20Array%20Largest%20Sum) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](437.%20Path%20Sum%20III) 0437. Path Sum III *[Hash Table, Tree, DFS]*
