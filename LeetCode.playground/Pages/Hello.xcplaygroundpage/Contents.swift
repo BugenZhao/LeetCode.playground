@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 250 / 1404 = 17.81%
+> Progress: 251 / 1404 = 17.88%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -233,6 +233,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](1286.%20Iterator%20for%20Combination) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*

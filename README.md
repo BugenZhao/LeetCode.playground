@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-250%20%2F%201404%20=%2017.81%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-251%20%2F%201404%20=%2017.88%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-78-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-126-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-127-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
@@ -57,6 +57,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) [[S]](./LeetCode.playground/Pages/119.%20Pascal's%20Triangle%20II.xcplaygroundpage/Contents.swift) 0119. Pascal's Triangle II 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](./LeetCode.playground/Pages/1363.%20Largest%20Multiple%20of%20Three.xcplaygroundpage/Contents.swift) 1363. Largest Multiple of Three *[Mathematics]*
@@ -66,7 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](./LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -297,6 +297,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
@@ -1279,7 +1280,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) ~~[S]~~ 1282. Group the People Given the Group Size They Belong To
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~ 1283. Find the Smallest Divisor Given a Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) ~~[S]~~ 1286. Iterator for Combination
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1287. Element Appearing More Than 25% In Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~ 1288. Remove Covered Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~ 1291. Sequential Digits
