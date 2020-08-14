@@ -254,5 +254,7 @@
         <page name='1363. Largest Multiple of Three'/>
         <page name='410. Split Array Largest Sum'/>
         <page name='119. Pascal&apos;s Triangle II'/>
+        <page name='1286. Iterator for Combination'/>
+        <page name='1021. Remove Outermost Parentheses'/>
     </pages>
 </playground>

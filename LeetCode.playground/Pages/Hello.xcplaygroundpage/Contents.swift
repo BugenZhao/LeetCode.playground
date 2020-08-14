@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 251 / 1404 = 17.88%
+> Progress: 252 / 1404 = 17.95%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -216,6 +216,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](997-Find%20the%20Town%20Judge) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](1021.%20Remove%20Outermost%20Parentheses) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](1025.%20Divisor%20Game) 1025. Divisor Game *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*

@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-251%20%2F%201404%20=%2017.88%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-78-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-252%20%2F%201404%20=%2017.95%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-79-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-127-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
@@ -57,6 +57,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) [[S]](./LeetCode.playground/Pages/119.%20Pascal's%20Triangle%20II.xcplaygroundpage/Contents.swift) 0119. Pascal's Triangle II 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
@@ -66,7 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](./LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II *[Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](./LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges *[Graph, BFS]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -280,6 +280,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
@@ -1083,7 +1084,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-prefix-divisible-by-5/) ~~[S]~~ 1018. Binary Prefix Divisible By 5
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-node-in-linked-list/) ~~[S]~~ 1019. Next Greater Node In Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-enclaves/) ~~[S]~~ 1020. Number of Enclaves
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) ~~[S]~~ 1021. Remove Outermost Parentheses
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) ~~[S]~~ 1022. Sum of Root To Leaf Binary Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~ 1023. Camelcase Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~ 1024. Video Stitching
