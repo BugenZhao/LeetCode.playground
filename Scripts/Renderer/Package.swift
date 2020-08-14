@@ -11,8 +11,8 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.0"),
-        .package(url: "https://github.com/SwiftDocOrg/SwiftSemantics",from: "0.1.0"),
-        .package(name: "SwiftSyntax", url: "https://github.com/apple/swift-syntax.git",from: "0.50100.0"),
+        .package(url: "https://github.com/SwiftDocOrg/SwiftSemantics", from: "0.1.0"),
+        .package(name: "SwiftSyntax", url: "https://github.com/apple/swift-syntax.git", .revision("swift-5.3-DEVELOPMENT-SNAPSHOT-2020-08-10-a")),
         .package(url: "https://github.com/onevcat/Rainbow", from: "3.0.0"),
         .package(url: "https://github.com/JohnSundell/ShellOut.git", from: "2.3.0"),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "0.2.0")

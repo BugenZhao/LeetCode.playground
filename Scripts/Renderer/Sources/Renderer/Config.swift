@@ -8,7 +8,7 @@
 import Foundation
 
 let difficultyEmojis = ["🔞", "😊", "🤨", "😫", "📝"]
-let swiftVersion = "5.2"
+let swiftVersion = "5.3"
 
 var leetCodeURL = URL(string: "https://leetcode.com/api/problems/algorithms/")
 
@@ -38,7 +38,7 @@ let dateFormatter = DateFormatter()
 
 let intro = """
 struct LeetCodePlayground: CustomStringConvertible {
-    let language    = "Swift 5.2"
+    let language    = "Swift \(swiftVersion)"
     let description = "Bugen's LeetCode solutions in Swift Playground."
 
     typealias Priority = UInt

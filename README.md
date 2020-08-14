@@ -1,5 +1,5 @@
 # LeetCode.playground
-![Language](https://img.shields.io/badge/Language-Swift%205.2-orange.svg)
+![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
 ![Progress](https://img.shields.io/badge/Progress-252%20%2F%201404%20=%2017.95%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-79-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-127-e7af5f.svg)
@@ -7,7 +7,7 @@
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
-    let language    = "Swift 5.2"
+    let language    = "Swift 5.3"
     let description = "Bugen's LeetCode solutions in Swift Playground."
 
     typealias Priority = UInt
