@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 252 / 1404 = 17.95%
+> Progress: 254 / 1404 = 18.09%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -148,6 +148,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](410.%20Split%20Array%20Largest%20Sum) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](435.%20Non-overlapping%20Intervals) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](437.%20Path%20Sum%20III) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](438-Find%20All%20Anagrams%20in%20a%20String) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](441.%20Arranging%20Coins) 0441. Arranging Coins *[Mathematics]*
@@ -227,6 +228,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](1122.%20Relative%20Sort%20Array) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](1221.%20Split%20a%20String%20in%20Balanced%20Strings) 1221. Split a String in Balanced Strings 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](1232-Check%20If%20It%20Is%20a%20Straight%20Line) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](1235.%20Maximum%20Profit%20in%20Job%20Scheduling) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*

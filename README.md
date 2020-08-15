@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-252%20%2F%201404%20=%2017.95%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-79-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-127-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-254%20%2F%201404%20=%2018.09%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-80-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-128-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
@@ -57,6 +57,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) [[S]](./LeetCode.playground/Pages/119.%20Pascal's%20Triangle%20II.xcplaygroundpage/Contents.swift) 0119. Pascal's Triangle II 
@@ -65,8 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](./LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph *[Graph]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) [[S]](./LeetCode.playground/Pages/118.%20Pascal's%20Triangle.xcplaygroundpage/Contents.swift) 0118. Pascal's Triangle 
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](./LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II *[Two Pointers]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -212,6 +212,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
@@ -291,6 +292,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](./LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](./LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](./LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](./LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
@@ -599,7 +601,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/all-oone-data-structure/) ~~[S]~~ 0432. All O`one Data Structure
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~ 0433. Minimum Genetic Mutation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~ 0434. Number of Segments in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~ 0435. Non-overlapping Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
@@ -1232,7 +1233,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) ~~[S]~~ 1218. Longest Arithmetic Subsequence of Given Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-gold/) ~~[S]~~ 1219. Path with Maximum Gold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-vowels-permutation/) ~~[S]~~ 1220. Count Vowels Permutation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) ~~[S]~~ 1221. Split a String in Balanced Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/queens-that-can-attack-the-king/) ~~[S]~~ 1222. Queens That Can Attack the King
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/dice-roll-simulation/) ~~[S]~~ 1223. Dice Roll Simulation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-equal-frequency/) ~~[S]~~ 1224. Maximum Equal Frequency

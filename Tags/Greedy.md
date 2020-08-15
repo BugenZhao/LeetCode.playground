@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-21-orange.svg)
+![Progress](https://img.shields.io/badge/Count-22-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Greedy Problems
@@ -14,6 +14,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](.././LeetCode.playground/Pages/392.%20Is%20Subsequence.xcplaygroundpage/Contents.swift) 0392. Is Subsequence 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](.././LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](.././LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](.././LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](.././LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](.././LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](.././LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People 
