@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 254 / 1404 = 18.09%
+> Progress: 257 / 1404 = 18.30%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -234,11 +234,14 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](1235.%20Maximum%20Profit%20in%20Job%20Scheduling) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](1250.%20Check%20If%20It%20Is%20a%20Good%20Array) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy) 1266. Minimum Time Visiting All Points 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](1286.%20Iterator%20for%20Combination) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits) 1295. Find Numbers with Even Number of Digits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*

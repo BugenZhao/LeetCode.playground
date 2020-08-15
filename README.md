@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-254%20%2F%201404%20=%2018.09%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-80-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-257%20%2F%201404%20=%2018.30%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-83-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-128-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
@@ -57,16 +57,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
-- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
+- [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) [[S]](./LeetCode.playground/Pages/119.%20Pascal's%20Triangle%20II.xcplaygroundpage/Contents.swift) 0119. Pascal's Triangle II 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](./LeetCode.playground/Pages/1363.%20Largest%20Multiple%20of%20Three.xcplaygroundpage/Contents.swift) 1363. Largest Multiple of Three *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](./LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph *[Graph]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) [[S]](./LeetCode.playground/Pages/118.%20Pascal's%20Triangle.xcplaygroundpage/Contents.swift) 0118. Pascal's Triangle 
-- [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -298,11 +298,14 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](./LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](./LeetCode.playground/Pages/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.xcplaygroundpage/Contents.swift) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](./LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
@@ -1266,7 +1269,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) ~~[S]~~ 1261. Find Elements in a Contaminated Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/greatest-sum-divisible-by-three/) ~~[S]~~ 1262. Greatest Sum Divisible by Three
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) ~~[S]~~ 1265. Print Immutable Linked List in Reverse
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) ~~[S]~~ 1266. Minimum Time Visiting All Points
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-servers-that-communicate/) ~~[S]~~ 1267. Count Servers that Communicate
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-suggestions-system/) ~~[S]~~ 1268. Search Suggestions System
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) ~~[S]~~ 1269. Number of Ways to Stay in the Same Place After Some Steps
@@ -1276,7 +1278,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) ~~[S]~~ 1274. Number of Ships in a Rectangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) ~~[S]~~ 1275. Find Winner on a Tic Tac Toe Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) ~~[S]~~ 1276. Number of Burgers with No Waste of Ingredients
-- [ ] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) ~~[S]~~ 1281. Subtract the Product and Sum of Digits of an Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) ~~[S]~~ 1282. Group the People Given the Group Size They Belong To
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~ 1283. Find the Smallest Divisor Given a Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
@@ -1285,7 +1286,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~ 1291. Sequential Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~ 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~ 1293. Shortest Path in a Grid with Obstacles Elimination
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) ~~[S]~~ 1295. Find Numbers with Even Number of Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) ~~[S]~~ 1296. Divide Array in Sets of K Consecutive Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) ~~[S]~~ 1297. Maximum Number of Occurrences of a Substring
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) ~~[S]~~ 1298. Maximum Candies You Can Get from Boxes
