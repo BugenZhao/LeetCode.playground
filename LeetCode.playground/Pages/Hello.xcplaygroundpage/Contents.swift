@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 257 / 1404 = 18.30%
+> Progress: 261 / 1404 = 18.59%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -242,12 +242,15 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits) 1295. Find Numbers with Even Number of Digits 
+- [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) 1299. Replace Elements with Greatest Element on Right Side 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](1313.%20Decompress%20Run-Length%20Encoded%20List) 1313. Decompress Run-Length Encoded List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](1344.%20Angle%20Between%20Hands%20of%20a%20Clock) 1344. Angle Between Hands of a Clock 
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](1345.%20Jump%20Game%20IV) 1345. Jump Game IV *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) 1351. Count Negative Numbers in a Sorted Matrix 
 - [X] 😫 [[Q]](https://leetcode.com/problems/largest-multiple-of-three/) [[S]](1363.%20Largest%20Multiple%20of%20Three) 1363. Largest Multiple of Three *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) [[S]](1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number) 1365. How Many Numbers Are Smaller Than the Current Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/linked-list-in-binary-tree/) [[S]](1367.%20Linked%20List%20in%20Binary%20Tree) 1367. Linked List in Binary Tree *[Tree, DFS]*
@@ -259,6 +262,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies) 1431. Kids With the Greatest Number of Candies *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](1436.%20Destination%20City) 1436. Destination City *[Hash Table, Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time) 1450. Number of Students Doing Homework at a Given Time 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](1496.%20Path%20Crossing) 1496. Path Crossing *[Hash Table]*
