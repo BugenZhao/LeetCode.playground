@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 264 / 1417 = 18.63%
+> Progress: 267 / 1417 = 18.84%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -185,6 +185,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](763.%20Partition%20Labels) 0763. Partition Labels *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](771-Jewels%20and%20Stones%20) 0771. Jewels and Stones *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](784.%20Letter%20Case%20Permutation) 0784. Letter Case Permutation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
@@ -226,6 +227,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](1044.%20Longest%20Duplicate%20Substring) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](1090.%20Largest%20Values%20From%20Labels) 1090. Largest Values From Labels *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](1094.%20Car%20Pooling) 1094. Car Pooling *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](1103.%20Distribute%20Candies%20to%20People) 1103. Distribute Candies to People 
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](1108-Defanging%20an%20IP%20Address) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](1122.%20Relative%20Sort%20Array) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](1200.%20Minimum%20Absolute%20Difference) 1200. Minimum Absolute Difference 
@@ -240,6 +242,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](1277-Count%20Square%20Submatrices%20with%20All%20Ones) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](1278-Palindrome%20Partitioning%20III) 1278. Palindrome Partitioning III *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) 1281. Subtract the Product and Sum of Digits of an Integer 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To) 1282. Group the People Given the Group Size They Belong To 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](1286.%20Iterator%20for%20Combination) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*

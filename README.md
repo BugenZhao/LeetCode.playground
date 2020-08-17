@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-264%20%2F%201417%20=%2018.63%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-90-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-128-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-267%20%2F%201417%20=%2018.84%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-91-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-130-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
@@ -57,16 +57,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](./LeetCode.playground/Pages/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.xcplaygroundpage/Contents.swift) 1351. Count Negative Numbers in a Sorted Matrix 
-- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
-- [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
-- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](./LeetCode.playground/Pages/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.xcplaygroundpage/Contents.swift) 1282. Group the People Given the Group Size They Belong To 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
-- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](./LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
-- [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
+- [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](./LeetCode.playground/Pages/1103.%20Distribute%20Candies%20to%20People.xcplaygroundpage/Contents.swift) 1103. Distribute Candies to People 
+- [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -249,6 +249,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](./LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](./LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/letter-case-permutation/) [[S]](./LeetCode.playground/Pages/784.%20Letter%20Case%20Permutation.xcplaygroundpage/Contents.swift) 0784. Letter Case Permutation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
@@ -290,6 +291,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](./LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](./LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](./LeetCode.playground/Pages/1094.%20Car%20Pooling.xcplaygroundpage/Contents.swift) 1094. Car Pooling *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](./LeetCode.playground/Pages/1103.%20Distribute%20Candies%20to%20People.xcplaygroundpage/Contents.swift) 1103. Distribute Candies to People 
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](./LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array *[Hash Table, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
@@ -304,6 +306,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](./LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](./LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](./LeetCode.playground/Pages/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.xcplaygroundpage/Contents.swift) 1282. Group the People Given the Group Size They Belong To 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
@@ -869,7 +872,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-anagram-mappings/) ~~[S]~~ 0760. Find Anagram Mappings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/special-binary-string/) ~~[S]~~ 0761. Special Binary String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) ~~[S]~~ 0762. Prime Number of Set Bits in Binary Representation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) ~~[S]~~ 0763. Partition Labels
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-plus-sign/) ~~[S]~~ 0764. Largest Plus Sign
 - [ ] 😫 [[Q]](https://leetcode.com/problems/couples-holding-hands/) ~~[S]~~ 0765. Couples Holding Hands
 - [ ] 😊 [[Q]](https://leetcode.com/problems/toeplitz-matrix/) ~~[S]~~ 0766. Toeplitz Matrix
@@ -1155,7 +1157,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) ~~[S]~~ 1100. Find K-Length Substrings With No Repeated Characters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) ~~[S]~~ 1101. The Earliest Moment When Everyone Become Friends
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-minimum-value/) ~~[S]~~ 1102. Path With Maximum Minimum Value
-- [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) ~~[S]~~ 1103. Distribute Candies to People
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) ~~[S]~~ 1104. Path In Zigzag Labelled Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/filling-bookcase-shelves/) ~~[S]~~ 1105. Filling Bookcase Shelves
 - [ ] 😫 [[Q]](https://leetcode.com/problems/parsing-a-boolean-expression/) ~~[S]~~ 1106. Parsing A Boolean Expression
@@ -1283,7 +1284,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) ~~[S]~~ 1274. Number of Ships in a Rectangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) ~~[S]~~ 1275. Find Winner on a Tic Tac Toe Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) ~~[S]~~ 1276. Number of Burgers with No Waste of Ingredients
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) ~~[S]~~ 1282. Group the People Given the Group Size They Belong To
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~ 1283. Find the Smallest Divisor Given a Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1287. Element Appearing More Than 25% In Sorted Array
