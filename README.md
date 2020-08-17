@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-261%20%2F%201404%20=%2018.59%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-87-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-264%20%2F%201417%20=%2018.63%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-90-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-128-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
@@ -57,16 +57,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](./LeetCode.playground/Pages/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.xcplaygroundpage/Contents.swift) 1351. Count Negative Numbers in a Sorted Matrix 
+- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
 - [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](./LeetCode.playground/Pages/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.xcplaygroundpage/Contents.swift) 1351. Count Negative Numbers in a Sorted Matrix 
-- [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
-- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
-- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
-- [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
-- [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
+- [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -166,7 +166,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./LeetCode.playground/Pages/208-Implement%20Trie%20(Prefix%20Tree).xcplaygroundpage/Contents.swift) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](./LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Add and Search Word - Data structure design *[Tree, DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Design Add and Search Words Data Structure *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
@@ -254,6 +254,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
@@ -291,6 +292,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/car-pooling/) [[S]](./LeetCode.playground/Pages/1094.%20Car%20Pooling.xcplaygroundpage/Contents.swift) 1094. Car Pooling *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/defanging-an-ip-address/) [[S]](./LeetCode.playground/Pages/1108-Defanging%20an%20IP%20Address.xcplaygroundpage/Contents.swift) 1108. Defanging an IP Address 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](./LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array *[Hash Table, Sort]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](./LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
@@ -308,6 +310,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](./LeetCode.playground/Pages/1306-Jump%20Game%20III.xcplaygroundpage/Contents.swift) 1306. Jump Game III *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) [[S]](./LeetCode.playground/Pages/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.xcplaygroundpage/Contents.swift) 1309. Decrypt String from Alphabet to Integer Mapping 
 - [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
@@ -930,7 +933,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/consecutive-numbers-sum/) ~~[S]~~ 0829. Consecutive Numbers Sum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/positions-of-large-groups/) ~~[S]~~ 0830. Positions of Large Groups
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/masking-personal-information/) ~~[S]~~ 0831. Masking Personal Information
-- [ ] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) ~~[S]~~ 0832. Flipping an Image
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-in-string/) ~~[S]~~ 0833. Find And Replace in String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-distances-in-tree/) ~~[S]~~ 0834. Sum of Distances in Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) ~~[S]~~ 0835. Image Overlap
@@ -1096,7 +1098,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~ 1023. Camelcase Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~ 1024. Video Stitching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~ 1026. Maximum Difference Between Node and Ancestor
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~ 1027. Longest Arithmetic Sequence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-subsequence/) ~~[S]~~ 1027. Longest Arithmetic Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~ 1028. Recover a Tree From Preorder Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/matrix-cells-in-distance-order/) ~~[S]~~ 1030. Matrix Cells in Distance Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) ~~[S]~~ 1031. Maximum Sum of Two Non-Overlapping Subarrays
@@ -1224,7 +1226,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-knight-moves/) ~~[S]~~ 1197. Minimum Knight Moves
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) ~~[S]~~ 1198. Find Smallest Common Element in All Rows
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-time-to-build-blocks/) ~~[S]~~ 1199. Minimum Time to Build Blocks
-- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) ~~[S]~~ 1200. Minimum Absolute Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-iii/) ~~[S]~~ 1201. Ugly Number III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-with-swaps/) ~~[S]~~ 1202. Smallest String With Swaps
 - [ ] 😫 [[Q]](https://leetcode.com/problems/design-skiplist/) ~~[S]~~ 1206. Design Skiplist
@@ -1236,7 +1237,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/two-sum-bsts/) ~~[S]~~ 1214. Two Sum BSTs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/stepping-numbers/) ~~[S]~~ 1215. Stepping Numbers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-palindrome-iii/) ~~[S]~~ 1216. Valid Palindrome III
-- [ ] 😊 [[Q]](https://leetcode.com/problems/play-with-chips/) ~~[S]~~ 1217. Play with Chips
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) ~~[S]~~ 1217. Minimum Cost to Move Chips to The Same Position
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) ~~[S]~~ 1218. Longest Arithmetic Subsequence of Given Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-gold/) ~~[S]~~ 1219. Path with Maximum Gold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-vowels-permutation/) ~~[S]~~ 1220. Count Vowels Permutation
@@ -1299,7 +1300,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ~~[S]~~ 1304. Find N Unique Integers Sum up to Zero
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) ~~[S]~~ 1305. All Elements in Two Binary Search Trees
 - [ ] 😫 [[Q]](https://leetcode.com/problems/verbal-arithmetic-puzzle/) ~~[S]~~ 1307. Verbal Arithmetic Puzzle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) ~~[S]~~ 1309. Decrypt String from Alphabet to Integer Mapping
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/xor-queries-of-a-subarray/) ~~[S]~~ 1310. XOR Queries of a Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/get-watched-videos-by-your-friends/) ~~[S]~~ 1311. Get Watched Videos by Your Friends
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) ~~[S]~~ 1312. Minimum Insertion Steps to Make a String Palindrome
@@ -1477,6 +1477,19 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) ~~[S]~~ 1536. Minimum Swaps to Arrange a Binary Grid
 - [ ] 😫 [[Q]](https://leetcode.com/problems/get-the-maximum-score/) ~~[S]~~ 1537. Get the Maximum Score
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/) ~~[S]~~ 1538. Guess the Majority in a Hidden Array
+- [ ] 😊 [[Q]](https://leetcode.com/problems/kth-missing-positive-number/) ~~[S]~~ 1539. Kth Missing Positive Number
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-convert-string-in-k-moves/) ~~[S]~~ 1540. Can Convert String in K Moves
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) ~~[S]~~ 1541. Minimum Insertions to Balance a Parentheses String
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-longest-awesome-substring/) ~~[S]~~ 1542. Find Longest Awesome Substring
+- [ ] 😊 [[Q]](https://leetcode.com/problems/make-the-string-great/) ~~[S]~~ 1544. Make The String Great
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) ~~[S]~~ 1545. Find Kth Bit in Nth Binary String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) ~~[S]~~ 1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) ~~[S]~~ 1547. Minimum Cost to Cut a Stick
+- [ ] 😫 [[Q]](https://leetcode.com/problems/the-most-similar-path-in-a-graph/) ~~[S]~~ 1548. The Most Similar Path in a Graph
+- [ ] 😊 [[Q]](https://leetcode.com/problems/three-consecutive-odds/) ~~[S]~~ 1550. Three Consecutive Odds
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) ~~[S]~~ 1551. Minimum Operations to Make Array Equal
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/magnetic-force-between-two-balls/) ~~[S]~~ 1552. Magnetic Force Between Two Balls
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) ~~[S]~~ 1553. Minimum Number of Days to Eat N Oranges
 </details>
 
 ## How am I generated?
