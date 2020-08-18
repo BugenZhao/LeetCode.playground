@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-267%20%2F%201417%20=%2018.84%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-268%20%2F%201417%20=%2018.91%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-91-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-130-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-131-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
 ```swift
@@ -57,16 +57,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](./LeetCode.playground/Pages/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.xcplaygroundpage/Contents.swift) 1351. Count Negative Numbers in a Sorted Matrix 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](./LeetCode.playground/Pages/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.xcplaygroundpage/Contents.swift) 1282. Group the People Given the Group Size They Belong To 
+- [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
-- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
-- [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
-- [X] 😊 [[Q]](https://leetcode.com/problems/split-a-string-in-balanced-strings/) [[S]](./LeetCode.playground/Pages/1221.%20Split%20a%20String%20in%20Balanced%20Strings.xcplaygroundpage/Contents.swift) 1221. Split a String in Balanced Strings 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](./LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
-- [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](./LeetCode.playground/Pages/1103.%20Distribute%20Candies%20to%20People.xcplaygroundpage/Contents.swift) 1103. Distribute Candies to People 
-- [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
+- [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
+- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](./LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -271,6 +271,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](./LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](./LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](./LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
@@ -1054,7 +1055,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/least-operators-to-express-number/) ~~[S]~~ 0964. Least Operators to Express Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~ 0965. Univalued Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~ 0966. Vowel Spellchecker
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) ~~[S]~~ 0967. Numbers With Same Consecutive Differences
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~ 0968. Binary Tree Cameras
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) ~~[S]~~ 0969. Pancake Sorting
 - [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~ 0970. Powerful Integers
