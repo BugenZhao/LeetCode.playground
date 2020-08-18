@@ -94,7 +94,7 @@ struct Question {
                     }
 
                     if let attr = try? FileManager.default.attributesOfItem(atPath: pagesURL.appendingPathComponent("\(page)").path) {
-                        if let date = attr[FileAttributeKey.creationDate] as? Date { dict[qid]?.date = date }
+                        if let date = attr[FileAttributeKey.modificationDate] as? Date { dict[qid]?.date = date }
                     }
                 }
             }
