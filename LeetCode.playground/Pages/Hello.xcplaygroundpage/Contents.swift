@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 268 / 1417 = 18.91%
+> Progress: 269 / 1417 = 18.98%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -191,6 +191,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](797.%20All%20Paths%20From%20Source%20to%20Target) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](824.%20Goat%20Latin) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](832.%20Flipping%20an%20Image) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](848.%20Shifting%20Letters) 0848. Shifting Letters 

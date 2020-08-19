@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-268%20%2F%201417%20=%2018.91%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-91-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-269%20%2F%201417%20=%2018.98%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-92-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-131-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-46-ca5c54.svg)
 
@@ -57,6 +57,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](./LeetCode.playground/Pages/1103.%20Distribute%20Candies%20to%20People.xcplaygroundpage/Contents.swift) 1103. Distribute Candies to People 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](./LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels *[Greedy]*
@@ -66,7 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-absolute-difference/) [[S]](./LeetCode.playground/Pages/1200.%20Minimum%20Absolute%20Difference.xcplaygroundpage/Contents.swift) 1200. Minimum Absolute Difference 
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) [[S]](./LeetCode.playground/Pages/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.xcplaygroundpage/Contents.swift) 1351. Count Negative Numbers in a Sorted Matrix 
-- [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -255,6 +255,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
@@ -928,7 +929,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) ~~[S]~~ 0821. Shortest Distance to a Character
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/card-flipping-game/) ~~[S]~~ 0822. Card Flipping Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-trees-with-factors/) ~~[S]~~ 0823. Binary Trees With Factors
-- [ ] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) ~~[S]~~ 0824. Goat Latin
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/friends-of-appropriate-ages/) ~~[S]~~ 0825. Friends Of Appropriate Ages
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/most-profit-assigning-work/) ~~[S]~~ 0826. Most Profit Assigning Work
 - [ ] 😫 [[Q]](https://leetcode.com/problems/making-a-large-island/) ~~[S]~~ 0827. Making A Large Island
