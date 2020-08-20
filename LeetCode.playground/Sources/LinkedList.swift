@@ -9,6 +9,18 @@ public class ListNode {
     }
 }
 
+public extension ListNode {
+    var count: Int {
+        var count = 0
+        var node: ListNode? = self
+        while node != nil {
+            count += 1
+            node = node!.next
+        }
+        return count
+    }
+}
+
 /// Bugen's extension to linked list
 public extension ListNode {
     static func makeLinkedList<T: Collection>(from collection: T) -> ListNode?

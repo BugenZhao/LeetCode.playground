@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 269 / 1417 = 18.98%
+> Progress: 270 / 1417 = 19.05%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -85,6 +85,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](140.%20Word%20Break%20II) 0140. Word Break II *[DP, DFS, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](141.%20Linked%20List%20Cycle) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](142.%20Linked%20List%20Cycle%20II) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](143.%20Reorder%20List) 0143. Reorder List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](151.%20Reverse%20Words%20in%20a%20String) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
