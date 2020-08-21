@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 276 / 1417 = 19.48%
+> Progress: 277 / 1417 = 19.55%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -18,6 +18,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](11.%20Container%20With%20Most%20Water) 0011. Container With Most Water *[Two Pointers, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](12.%20Integer%20to%20Roman) 0012. Integer to Roman *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](13.%20Roman%20to%20Integer) 0013. Roman to Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](14.%20Longest%20Common%20Prefix) 0014. Longest Common Prefix *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](15.%203Sum) 0015. 3Sum *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](16.%203Sum%20Closest) 0016. 3Sum Closest *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](19.%20Remove%20Nth%20Node%20From%20End%20of%20List) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*

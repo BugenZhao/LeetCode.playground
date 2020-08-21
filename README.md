@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-276%20%2F%201417%20=%2019.48%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-95-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-277%20%2F%201417%20=%2019.55%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-96-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-134-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-47-ca5c54.svg)
 
@@ -57,6 +57,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](./LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II *[Linked List]*
@@ -66,7 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](./LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
-- [X] 😊 [[Q]](https://leetcode.com/problems/distribute-candies-to-people/) [[S]](./LeetCode.playground/Pages/1103.%20Distribute%20Candies%20to%20People.xcplaygroundpage/Contents.swift) 1103. Distribute Candies to People 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -82,6 +82,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/container-with-most-water/) [[S]](./LeetCode.playground/Pages/11.%20Container%20With%20Most%20Water.xcplaygroundpage/Contents.swift) 0011. Container With Most Water *[Two Pointers, Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](./LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](./LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](./LeetCode.playground/Pages/16.%203Sum%20Closest.xcplaygroundpage/Contents.swift) 0016. 3Sum Closest *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
@@ -349,7 +350,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 <details>
 <summary>Todo</summary>
 
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) ~~[S]~~ 0014. Longest Common Prefix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~ 0017. Letter Combinations of a Phone Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
