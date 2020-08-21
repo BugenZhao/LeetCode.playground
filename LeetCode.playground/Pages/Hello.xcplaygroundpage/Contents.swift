@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 270 / 1417 = 19.05%
+> Progress: 273 / 1417 = 19.27%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -25,6 +25,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](21.%20Merge%20Two%20Sorted%20Lists) 0021. Merge Two Sorted Lists *[Linked List]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](22.%20Generate%20Parentheses) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) [[S]](24.%20Swap%20Nodes%20in%20Pairs) 0024. Swap Nodes in Pairs *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](26.%20Remove%20Duplicates%20from%20Sorted%20Array) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](27.%20Remove%20Element) 0027. Remove Element *[Array, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](28.%20Implement%20strStr()) 0028. Implement strStr() *[String]*
@@ -55,6 +56,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](87-Scramble%20String) 0087. Scramble String *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](91-Decode%20Ways) 0091. Decode Ways *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](92.%20Reverse%20Linked%20List%20II) 0092. Reverse Linked List II *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96.%20Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[Tree]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/interleaving-string/) [[S]](97-Interleaving%20String) 0097. Interleaving String *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](100.%20Same%20Tree) 0100. Same Tree *[Tree]*
@@ -99,6 +101,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](201.%20Bitwise%20AND%20of%20Numbers%20Range) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](203.%20Remove%20Linked%20List%20Elements) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](206.%20Reverse%20Linked%20List) 0206. Reverse Linked List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](209.%20Minimum%20Size%20Subarray%20Sum) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
