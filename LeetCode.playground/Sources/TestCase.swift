@@ -2,6 +2,7 @@ import Foundation
 
 public final class TestCase {
     public let lines: [String]
+    public let count: Int
     public let name: String
     public private(set) var lineNo = 0
 
@@ -10,6 +11,7 @@ public final class TestCase {
         guard let path = Bundle.main.path(forResource: name, ofType: nil) else { return nil }
         guard let content = try? String(contentsOfFile: path) else { return nil }
         lines = content.components(separatedBy: .newlines)
+        count = lines.map { $0.count }.reduce(0, +)
     }
 
     public func next<T>() -> T? {
@@ -22,6 +24,6 @@ public final class TestCase {
 
 extension TestCase: CustomStringConvertible {
     public var description: String {
-        return "\(Self.self)(\"\(self.name)\", \(lines.count) lines)"
+        return "\(Self.self)(\"\(self.name)\", \(lines.count) lines, \(count) chars)"
     }
 }

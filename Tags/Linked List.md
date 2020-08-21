@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-14-orange.svg)
+![Progress](https://img.shields.io/badge/Count-15-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Linked List Problems
@@ -18,3 +18,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](.././LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List 
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](.././LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](.././LeetCode.playground/Pages/328-Odd%20Even%20Linked%20List.xcplaygroundpage/Contents.swift) 0328. Odd Even Linked List 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](.././LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts 

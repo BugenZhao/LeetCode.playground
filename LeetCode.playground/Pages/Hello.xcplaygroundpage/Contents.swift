@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 277 / 1417 = 19.55%
+> Progress: 281 / 1417 = 19.83%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -21,6 +21,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](14.%20Longest%20Common%20Prefix) 0014. Longest Common Prefix *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](15.%203Sum) 0015. 3Sum *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](16.%203Sum%20Closest) 0016. 3Sum Closest *[Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](17.%20Letter%20Combinations%20of%20a%20Phone%20Number) 0017. Letter Combinations of a Phone Number *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](19.%20Remove%20Nth%20Node%20From%20End%20of%20List) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](20.%20Valid%20Parentheses) 0020. Valid Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](21.%20Merge%20Two%20Sorted%20Lists) 0021. Merge Two Sorted Lists *[Linked List]*
@@ -57,6 +58,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](78.%20Subsets) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](87-Scramble%20String) 0087. Scramble String *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](90.%20Subsets%20II) 0090. Subsets II *[Array, Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](91-Decode%20Ways) 0091. Decode Ways *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](92.%20Reverse%20Linked%20List%20II) 0092. Reverse Linked List II *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](96.%20Unique%20Binary%20Search%20Trees) 0096. Unique Binary Search Trees *[Tree]*
@@ -188,6 +190,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](705.%20Design%20HashSet) 0705. Design HashSet *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](725.%20Split%20Linked%20List%20in%20Parts) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](733-Flood%20Fill) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](743-Network%20Delay%20Time) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](746-Min%20Cost%20Climbing%20Stairs) 0746. Min Cost Climbing Stairs *[DP]*
@@ -197,6 +200,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](785.%20Is%20Graph%20Bipartite?) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](787.%20Cheapest%20Flights%20Within%20K%20Stops) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](797.%20All%20Paths%20From%20Source%20to%20Target) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](815.%20Bus%20Routes) 0815. Bus Routes *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](824.%20Goat%20Latin) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](832.%20Flipping%20an%20Image) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 

@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-277%20%2F%201417%20=%2019.55%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-281%20%2F%201417%20=%2019.83%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-96-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-134-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-47-ca5c54.svg)
+![Medium](https://img.shields.io/badge/Medium-137-e7af5f.svg)
+![Hard](https://img.shields.io/badge/Hard-48-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -57,16 +57,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](./LeetCode.playground/Pages/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.xcplaygroundpage/Contents.swift) 0017. Letter Combinations of a Phone Number *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](./LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II *[Linked List]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](./LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[S]](./LeetCode.playground/Pages/25.%20Reverse%20Nodes%20in%20k-Group.xcplaygroundpage/Contents.swift) 0025. Reverse Nodes in k-Group *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) [[S]](./LeetCode.playground/Pages/24.%20Swap%20Nodes%20in%20Pairs.xcplaygroundpage/Contents.swift) 0024. Swap Nodes in Pairs *[Linked List]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](./LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -85,6 +85,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum/) [[S]](./LeetCode.playground/Pages/15.%203Sum.xcplaygroundpage/Contents.swift) 0015. 3Sum *[Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/3sum-closest/) [[S]](./LeetCode.playground/Pages/16.%203Sum%20Closest.xcplaygroundpage/Contents.swift) 0016. 3Sum Closest *[Two Pointers]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](./LeetCode.playground/Pages/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.xcplaygroundpage/Contents.swift) 0017. Letter Combinations of a Phone Number *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[S]](./LeetCode.playground/Pages/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.xcplaygroundpage/Contents.swift) 0019. Remove Nth Node From End of List *[Linked List, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](./LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./LeetCode.playground/Pages/21.%20Merge%20Two%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0021. Merge Two Sorted Lists *[Linked List]*
@@ -121,6 +122,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/scramble-string/) [[S]](./LeetCode.playground/Pages/87-Scramble%20String.xcplaygroundpage/Contents.swift) 0087. Scramble String *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/decode-ways/) [[S]](./LeetCode.playground/Pages/91-Decode%20Ways.xcplaygroundpage/Contents.swift) 0091. Decode Ways *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](./LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](./LeetCode.playground/Pages/96.%20Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees *[Tree]*
@@ -252,6 +254,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
@@ -261,6 +264,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
@@ -350,7 +354,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 <details>
 <summary>Todo</summary>
 
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ~~[S]~~ 0017. Letter Combinations of a Phone Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
@@ -387,7 +390,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-list/) ~~[S]~~ 0086. Partition List
 - [ ] 😊 [[Q]](https://leetcode.com/problems/merge-sorted-array/) ~~[S]~~ 0088. Merge Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/gray-code/) ~~[S]~~ 0089. Gray Code
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) ~~[S]~~ 0090. Subsets II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-ip-addresses/) ~~[S]~~ 0093. Restore IP Addresses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-inorder-traversal/) ~~[S]~~ 0094. Binary Tree Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees-ii/) ~~[S]~~ 0095. Unique Binary Search Trees II
@@ -841,7 +843,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-comments/) ~~[S]~~ 0722. Remove Comments
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/candy-crush/) ~~[S]~~ 0723. Candy Crush
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-pivot-index/) ~~[S]~~ 0724. Find Pivot Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) ~~[S]~~ 0725. Split Linked List in Parts
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-atoms/) ~~[S]~~ 0726. Number of Atoms
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-subsequence/) ~~[S]~~ 0727. Minimum Window Subsequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/self-dividing-numbers/) ~~[S]~~ 0728. Self Dividing Numbers
@@ -922,7 +923,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-triangle-area/) ~~[S]~~ 0812. Largest Triangle Area
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-sum-of-averages/) ~~[S]~~ 0813. Largest Sum of Averages
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-pruning/) ~~[S]~~ 0814. Binary Tree Pruning
-- [ ] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) ~~[S]~~ 0815. Bus Routes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ambiguous-coordinates/) ~~[S]~~ 0816. Ambiguous Coordinates
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-components/) ~~[S]~~ 0817. Linked List Components
 - [ ] 😫 [[Q]](https://leetcode.com/problems/race-car/) ~~[S]~~ 0818. Race Car
