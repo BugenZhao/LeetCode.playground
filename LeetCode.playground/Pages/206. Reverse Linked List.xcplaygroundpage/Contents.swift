@@ -1,4 +1,4 @@
-let tags: [Tag] = [.list]
+let tags: [Tag] = [.list, .marked]
 
 class Solution {
     func reverseList(_ head: ListNode?) -> ListNode? {

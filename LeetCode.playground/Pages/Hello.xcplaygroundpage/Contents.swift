@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 273 / 1417 = 19.27%
+> Progress: 276 / 1417 = 19.48%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -26,6 +26,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/generate-parentheses/) [[S]](22.%20Generate%20Parentheses) 0022. Generate Parentheses *[String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](23.%20Merge%20k%20Sorted%20Lists) 0023. Merge k Sorted Lists *[Sort, Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) [[S]](24.%20Swap%20Nodes%20in%20Pairs) 0024. Swap Nodes in Pairs *[Linked List]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[S]](25.%20Reverse%20Nodes%20in%20k-Group) 0025. Reverse Nodes in k-Group *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](26.%20Remove%20Duplicates%20from%20Sorted%20Array) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](27.%20Remove%20Element) 0027. Remove Element *[Array, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](28.%20Implement%20strStr()) 0028. Implement strStr() *[String]*
@@ -101,7 +102,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](201.%20Bitwise%20AND%20of%20Numbers%20Range) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](203.%20Remove%20Linked%20List%20Elements) 0203. Remove Linked List Elements *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](204-Count%20Primes) 0204. Count Primes *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](206.%20Reverse%20Linked%20List) 0206. Reverse Linked List *[Linked List]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](206.%20Reverse%20Linked%20List) 0206. Reverse Linked List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](207-Course%20Schedule) 0207. Course Schedule *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](208-Implement%20Trie%20(Prefix%20Tree)) 0208. Implement Trie (Prefix Tree) *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](209.%20Minimum%20Size%20Subarray%20Sum) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
@@ -205,9 +206,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](887.%20Super%20Egg%20Drop) 0887. Super Egg Drop *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](905.%20Sort%20Array%20By%20Parity) 0905. Sort Array By Parity *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](912-Sort%20an%20Array) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](918-Maximum%20Sum%20Circular%20Subarray) 0918. Maximum Sum Circular Subarray *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](920.%20Number%20of%20Music%20Playlists) 0920. Number of Music Playlists *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](922.%20Sort%20Array%20By%20Parity%20II) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](931.%20Minimum%20Falling%20Path%20Sum) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](957.%20Prison%20Cells%20After%20N%20Days) 0957. Prison Cells After N Days *[Hash Table]*
