@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 281 / 1417 = 19.83%
+> Progress: 283 / 1417 = 19.97%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -171,6 +171,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](486.%20Predict%20the%20Winner) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](492.%20Construct%20the%20Rectangle) 0492. Construct the Rectangle 
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](493.%20Reverse%20Pairs) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](497.%20Random%20Point%20in%20Non-overlapping%20Rectangles) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](518-Coin%20Change%202) 0518. Coin Change 2 *[DP]*
@@ -285,6 +286,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time) 1450. Number of Students Doing Homework at a Given Time 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](1496.%20Path%20Crossing) 1496. Path Crossing *[Hash Table]*
 */
 

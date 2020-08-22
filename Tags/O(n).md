@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-10-orange.svg)
+![Progress](https://img.shields.io/badge/Count-11-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## O(n) Problems
@@ -14,3 +14,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](.././LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](.././LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](.././LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II 
+- [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](.././LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop 

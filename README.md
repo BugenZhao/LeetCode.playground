@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-281%20%2F%201417%20=%2019.83%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-96-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-137-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-283%20%2F%201417%20=%2019.97%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-97-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-138-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-48-ca5c54.svg)
 
 ```swift
@@ -57,6 +57,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [O(n)](./Tags/O(n).md)
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
@@ -65,8 +67,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](./LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II *[Linked List]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](./LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List *[Linked List]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[S]](./LeetCode.playground/Pages/25.%20Reverse%20Nodes%20in%20k-Group.xcplaygroundpage/Contents.swift) 0025. Reverse Nodes in k-Group *[Linked List]*
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
@@ -235,6 +235,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](./LeetCode.playground/Pages/492.%20Construct%20the%20Rectangle.xcplaygroundpage/Contents.swift) 0492. Construct the Rectangle 
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 *[DP]*
@@ -349,6 +350,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](./LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
 
 <details>
@@ -667,7 +669,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/target-sum/) ~~[S]~~ 0494. Target Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) ~~[S]~~ 0495. Teemo Attacking
 - [ ] 😊 [[Q]](https://leetcode.com/problems/next-greater-element-i/) ~~[S]~~ 0496. Next Greater Element I
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) ~~[S]~~ 0497. Random Point in Non-overlapping Rectangles
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse/) ~~[S]~~ 0498. Diagonal Traverse
 - [ ] 😫 [[Q]](https://leetcode.com/problems/the-maze-iii/) ~~[S]~~ 0499. The Maze III
 - [ ] 😊 [[Q]](https://leetcode.com/problems/keyboard-row/) ~~[S]~~ 0500. Keyboard Row
@@ -1422,7 +1423,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-browser-history/) ~~[S]~~ 1472. Design Browser History
 - [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-iii/) ~~[S]~~ 1473. Paint House III
 - [ ] 😊 [[Q]](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) ~~[S]~~ 1474. Delete N Nodes After M Nodes of a Linked List
-- [ ] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) ~~[S]~~ 1475. Final Prices With a Special Discount in a Shop
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subrectangle-queries/) ~~[S]~~ 1476. Subrectangle Queries
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) ~~[S]~~ 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/allocate-mailboxes/) ~~[S]~~ 1478. Allocate Mailboxes
