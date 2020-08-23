@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 283 / 1417 = 19.97%
+> Progress: 284 / 1417 = 20.04%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -237,6 +237,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](1021.%20Remove%20Outermost%20Parentheses) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](1025.%20Divisor%20Game) 1025. Divisor Game *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](1032.%20Stream%20of%20Characters) 1032. Stream of Characters *[Tree, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](1043.%20Partition%20Array%20for%20Maximum%20Sum) 1043. Partition Array for Maximum Sum *[DP]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](1044.%20Longest%20Duplicate%20Substring) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*

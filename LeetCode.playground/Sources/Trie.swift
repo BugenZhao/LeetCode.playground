@@ -1,44 +1,50 @@
-// import Character
-
-public class Trie {
+public final class Trie {
     public private(set) var isEnd: Bool = false
-    public private(set) var children = [Trie?](repeating: nil, count: 26)
+    public private(set) var children = [Character: Trie]()
 
     /** Initialize your data structure here. */
     public init() { }
 
     /** Inserts a word into the trie. */
-    public func insert(_ word: String) {
-        let word = Array(word)
+    public func insert<T>(_ word: T) where T: Sequence, T.Element == Character {
         var root = self
         for letter in word {
-            if root.children[letter.alphaOrder] == nil {
-                root.children[letter.alphaOrder] = Trie()
+            if root.children[letter] == nil {
+                root.children[letter] = Trie()
             }
-            root = root.children[letter.alphaOrder]!
+            root = root.children[letter]!
         }
         root.isEnd = true
     }
 
     /** Returns if the word is in the trie. */
-    public func search(_ word: String) -> Bool {
-        let word = Array(word)
+    public func search<T>(_ word: T) -> Bool where T: Sequence, T.Element == Character {
         var root = self
         for letter in word {
-            guard let next = root.children[letter.alphaOrder] else { return false }
+            guard let next = root.children[letter] else { return false }
             root = next
         }
         return root.isEnd
     }
 
     /** Returns if there is any word in the trie that starts with the given prefix. */
-    public func startsWith(_ prefix: String) -> Bool {
-        let word = Array(prefix)
+    public func startsWith<T>(_ prefix: T) -> Bool where T: Sequence, T.Element == Character {
         var root = self
-        for letter in word {
-            guard let next = root.children[letter.alphaOrder] else { return false }
+        for letter in prefix {
+            guard let next = root.children[letter] else { return false }
             root = next
         }
         return true
+    }
+}
+
+
+extension Trie: Hashable {
+    public static func == (lhs: Trie, rhs: Trie) -> Bool {
+        return lhs === rhs
+    }
+
+    public func hash(into hasher: inout Hasher) {
+        ObjectIdentifier(self).hash(into: &hasher)
     }
 }
