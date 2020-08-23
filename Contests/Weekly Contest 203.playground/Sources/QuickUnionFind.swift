@@ -1,8 +1,8 @@
 public struct QuickUnionFind {
     public typealias SetIndex = Int
 
-    private var parentOf: [SetIndex]
-    private var sizeOf: [Int]
+    public var parentOf: [SetIndex]
+    public var sizeOf: [Int]
 
     public private(set) var count: Int
 
