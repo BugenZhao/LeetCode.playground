@@ -18,6 +18,8 @@ let currentURL = URL(fileURLWithPath: fileManager.currentDirectoryPath)
 let localCacheURL = URL(fileURLWithPath: "./Scripts/Renderer/Resources/Questions.json", relativeTo: currentURL)
 let pagesRelativePath = "./LeetCode.playground/Pages/"
 let pagesURL = URL(fileURLWithPath: pagesRelativePath, relativeTo: currentURL)
+let contestsRelativePath = "./Contests/"
+let contestsURL = URL(fileURLWithPath: contestsRelativePath, relativeTo: currentURL)
 
 let readmeURL = URL(fileURLWithPath: "./README.md", relativeTo: currentURL)
 let helloPageURL = URL(fileURLWithPath: "./LeetCode.playground/Pages/Hello.xcplaygroundpage/Contents.swift", relativeTo: currentURL)
@@ -33,6 +35,7 @@ func makeURL(tag: Tag, urlAllowed: Bool = false) -> URL {
 }
 
 let pageSuffixCount = ".xcplaygroundpage".count
+let playgroundSuffix = ".playground"
 
 let dateFormatter = DateFormatter()
 
@@ -57,3 +60,5 @@ struct LeetCodePlayground: CustomStringConvertible {
     }
 }
 """
+
+let languageBadge = "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"

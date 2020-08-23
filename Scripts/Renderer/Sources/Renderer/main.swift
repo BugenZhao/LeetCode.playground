@@ -16,9 +16,10 @@ print("Fetching questions...".yellow)
 var dict = Question.getRemoteQuestions()
 print("Getting local info...".yellow)
 Question.getLocalInfo(dict: &dict)
+let contestList = Contest.getList()
 
 print("Writing...".yellow)
-Writer.writeReadme(dict, to: readmeURL)
+Writer.writeReadme(dict, contestList, to: readmeURL)
 Writer.writeXcodePage(dict, to: helloPageURL)
 Tag.allCases.forEach {
     Writer.writeTag(dict, tag: $0, to: makeURL(tag: $0))

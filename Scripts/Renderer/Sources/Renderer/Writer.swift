@@ -9,10 +9,9 @@ import Foundation
 
 class Writer {
     @discardableResult
-    static func writeReadme(_ dict: QuestionDict, to url: URL) -> Bool {
+    static func writeReadme(_ dict: QuestionDict, _ contests: ContestList, to url: URL) -> Bool {
         let count = dict.count
-//        let difficultyCount = (1...3).map { d in dict.filter { $1.difficulty == d }.count }
-        
+
         let solved = dict.filter(\.value.solved)
         let solvedCount = solved.count
         let difficultySolvedCount = (1...3).map { d in solved.filter { $1.difficulty == d }.count }
@@ -21,24 +20,37 @@ class Writer {
 
         var output = ""
         output += "# LeetCode.playground\n"
-        output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
+        output += languageBadge
         output += "![Progress](https://img.shields.io/badge/Progress-\(solvedCount)%20%2F%20\(count)%20=%20\(String(format: "%.2f", 100.0 * Double(solvedCount) / Double(count)))%25-orange.svg)\n"
         for i in 0..<3 {
             output += "![\(difficulties[i])](https://img.shields.io/badge/\(difficulties[i])-\(difficultySolvedCount[i])-\(difficultyColors[i]).svg)\n"
         }
-        
+
         output += "\n"
         output += "```swift\n\(intro)\n```\n\n"
 
         output += "\n## Tags\n"
-        Tag.allCases.forEach { tag in
+        func writeTagEntry(_ tag: Tag) {
             output += "- [\(tag)](\(makePath(tag: tag, urlAllowed: true)))\n"
+        }
+        if Tag.allCases.count <= 10 {
+            Tag.allCases.forEach(writeTagEntry)
+        } else {
+            Tag.allCases.prefix(10).forEach(writeTagEntry)
+            output += "\n<details>\n<summary>More</summary>\n\n"
+            Tag.allCases[10...].forEach(writeTagEntry)
+            output += "</details>\n"
         }
 
         output += "\n## Recent\n"
         dict.sorted(by: { lhs, rhs in lhs.value.date > rhs.value.date })
             .prefix(10)
             .map { $0.value.line() }
+            .forEach { output += $0 + "\n" }
+
+        output += "\n## Contests\n"
+        contests.sorted(by: { lhs, rhs in lhs.title > rhs.title })
+            .map { $0.line() }
             .forEach { output += $0 + "\n" }
 
         output += "\n## Problems\n"
@@ -73,13 +85,13 @@ class Writer {
 
         var output = ""
         output += "# LeetCode.playground\n"
-        output += "![Language](https://img.shields.io/badge/Language-Swift%20\(swiftVersion)-orange.svg)\n"
+        output += languageBadge
         output += "![Progress](https://img.shields.io/badge/Count-\(count)-orange.svg)\n\n"
         output += "Bugen's LeetCode solutions in Swift Playground.\n"
 
         output += "## \(tag) Problems\n"
         let lines = Tag.special.contains(tag) ?
-            filteredDict.map { $0.value.line(with: [.tagPath, .withTags]) } :
+        filteredDict.map { $0.value.line(with: [.tagPath, .withTags]) }:
             filteredDict.map { $0.value.line(with: [.tagPath]) }
         if lines.isEmpty { output += "*[No solution yet]*\n" }
         else { lines.forEach { output += $0 + "\n" } }

@@ -39,6 +39,10 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [Tree](./Tags/Tree.md)
 - [Graph](./Tags/Graph.md)
 - [String](./Tags/String.md)
+
+<details>
+<summary>More</summary>
+
 - [Stack](./Tags/Stack.md)
 - [Sort](./Tags/Sort.md)
 - [Binary Search](./Tags/Binary%20Search.md)
@@ -55,6 +59,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 - [State Machine](./Tags/State%20Machine.md)
 - [O(n)](./Tags/O(n).md)
+</details>
 
 ## Recent
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
@@ -67,6 +72,10 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity *[Sort, O(n)]*
+
+## Contests
+- [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
+- [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-202/) [[S]](./Contests/Weekly%20Contest%20202.playground/Pages/) Weekly Contest 202
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum *[Hash Table]*
