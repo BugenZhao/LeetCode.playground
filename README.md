@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-284%20%2F%201417%20=%2020.04%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-97-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-285%20%2F%201422%20=%2020.04%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-98-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-138-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](./LeetCode.playground/Pages/404.%20Sum%20of%20Left%20Leaves.xcplaygroundpage/Contents.swift) 0404. Sum of Left Leaves *[Tree, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](./LeetCode.playground/Pages/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.xcplaygroundpage/Contents.swift) 0017. Letter Combinations of a Phone Number *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity *[Sort, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -224,6 +224,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) [[S]](./LeetCode.playground/Pages/397.%20Integer%20Replacement.xcplaygroundpage/Contents.swift) 0397. Integer Replacement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](./LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](./LeetCode.playground/Pages/404.%20Sum%20of%20Left%20Leaves.xcplaygroundpage/Contents.swift) 0404. Sum of Left Leaves *[Tree, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
@@ -606,7 +607,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~ 0400. Nth Digit
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~ 0401. Binary Watch
 - [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~ 0403. Frog Jump
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~ 0404. Sum of Left Leaves
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~ 0405. Convert a Number to Hexadecimal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
@@ -1499,6 +1499,11 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) ~~[S]~~ 1551. Minimum Operations to Make Array Equal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/magnetic-force-between-two-balls/) ~~[S]~~ 1552. Magnetic Force Between Two Balls
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) ~~[S]~~ 1553. Minimum Number of Days to Eat N Oranges
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/strings-differ-by-one-character/) ~~[S]~~ 1554. Strings Differ by One Character
+- [ ] 😊 [[Q]](https://leetcode.com/problems/thousand-separator/) ~~[S]~~ 1556. Thousand Separator
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) ~~[S]~~ 1557. Minimum Number of Vertices to Reach All Nodes
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) ~~[S]~~ 1558. Minimum Numbers of Function Calls to Make Target Array
+- [ ] 😫 [[Q]](https://leetcode.com/problems/detect-cycles-in-2d-grid/) ~~[S]~~ 1559. Detect Cycles in 2D Grid
 </details>
 
 ## How am I generated?

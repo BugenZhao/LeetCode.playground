@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 284 / 1417 = 20.04%
+> Progress: 285 / 1422 = 20.04%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -151,6 +151,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-replacement/) [[S]](397.%20Integer%20Replacement) 0397. Integer Replacement *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](399-Evaluate%20Division) 0399. Evaluate Division *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](402-Remove%20K%20Digits) 0402. Remove K Digits *[Mathematics, Stack, Greedy]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](404.%20Sum%20of%20Left%20Leaves) 0404. Sum of Left Leaves *[Tree, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](406-Queue%20Reconstruction%20by%20Height) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](409-Longest%20Palindrome) 0409. Longest Palindrome 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](410.%20Split%20Array%20Largest%20Sum) 0410. Split Array Largest Sum *[Binary Search]*
