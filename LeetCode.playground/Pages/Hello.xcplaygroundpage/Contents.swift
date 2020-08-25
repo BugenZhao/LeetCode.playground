@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 287 / 1422 = 20.18%
+> Progress: 288 / 1422 = 20.25%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -36,6 +36,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](31.%20Next%20Permutation) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](33.%20Search%20in%20Rotated%20Sorted%20Array) 0033. Search in Rotated Sorted Array *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](41.%20First%20Missing%20Positive) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*

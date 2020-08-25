@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-287%20%2F%201422%20=%2020.18%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-288%20%2F%201422%20=%2020.25%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-98-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-140-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-141-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](./LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](./LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers *[Bit Manipulation, Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](./LeetCode.playground/Pages/404.%20Sum%20of%20Left%20Leaves.xcplaygroundpage/Contents.swift) 0404. Sum of Left Leaves *[Tree, DFS]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](./LeetCode.playground/Pages/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.xcplaygroundpage/Contents.swift) 0017. Letter Combinations of a Phone Number *[Array]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -109,6 +109,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](./LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack]*
@@ -371,7 +372,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~ 0034. Find First and Last Position of Element in Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) ~~[S]~~ 0036. Valid Sudoku
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~ 0037. Sudoku Solver
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~ 0038. Count and Say
