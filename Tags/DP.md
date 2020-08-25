@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-41-orange.svg)
+![Progress](https://img.shields.io/badge/Count-42-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
@@ -39,6 +39,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](.././LeetCode.playground/Pages/920.%20Number%20of%20Music%20Playlists.xcplaygroundpage/Contents.swift) 0920. Number of Music Playlists 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](.././LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](.././LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](.././LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](.././LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](.././LeetCode.playground/Pages/1043.%20Partition%20Array%20for%20Maximum%20Sum.xcplaygroundpage/Contents.swift) 1043. Partition Array for Maximum Sum 
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](.././LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling 

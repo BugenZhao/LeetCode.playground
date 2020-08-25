@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-288%20%2F%201422%20=%2020.25%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-289%20%2F%201422%20=%2020.32%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-98-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-141-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-142-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](./LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](./LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers *[Bit Manipulation, Mathematics]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -302,6 +302,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](./LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections *[Two Pointers, Greedy]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree *[Tree, DFS]*
@@ -1078,7 +1079,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) ~~[S]~~ 0980. Unique Paths III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/time-based-key-value-store/) ~~[S]~~ 0981. Time Based Key-Value Store
 - [ ] 😫 [[Q]](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) ~~[S]~~ 0982. Triples with Bitwise AND Equal To Zero
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) ~~[S]~~ 0983. Minimum Cost For Tickets
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~ 0985. Sum of Even Numbers After Queries
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-starting-from-leaf/) ~~[S]~~ 0988. Smallest String Starting From Leaf
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-to-array-form-of-integer/) ~~[S]~~ 0989. Add to Array-Form of Integer
