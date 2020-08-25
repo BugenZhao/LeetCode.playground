@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-285%20%2F%201422%20=%2020.04%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-287%20%2F%201422%20=%2020.18%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-98-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-138-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-140-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](./LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers *[Bit Manipulation, Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](./LeetCode.playground/Pages/404.%20Sum%20of%20Left%20Leaves.xcplaygroundpage/Contents.swift) 0404. Sum of Left Leaves *[Tree, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) [[S]](./LeetCode.playground/Pages/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.xcplaygroundpage/Contents.swift) 0017. Letter Combinations of a Phone Number *[Array]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/longest-common-prefix/) [[S]](./LeetCode.playground/Pages/14.%20Longest%20Common%20Prefix.xcplaygroundpage/Contents.swift) 0014. Longest Common Prefix *[String]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -105,6 +105,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](./LeetCode.playground/Pages/26.%20Remove%20Duplicates%20from%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](./LeetCode.playground/Pages/27.%20Remove%20Element.xcplaygroundpage/Contents.swift) 0027. Remove Element *[Array, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./LeetCode.playground/Pages/28.%20Implement%20strStr().xcplaygroundpage/Contents.swift) 0028. Implement strStr() *[String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](./LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers *[Bit Manipulation, Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](./LeetCode.playground/Pages/32-Longest%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
@@ -368,9 +370,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 <summary>Todo</summary>
 
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~ 0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~ 0031. Next Permutation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~ 0034. Find First and Last Position of Element in Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) ~~[S]~~ 0036. Valid Sudoku
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~ 0037. Sudoku Solver

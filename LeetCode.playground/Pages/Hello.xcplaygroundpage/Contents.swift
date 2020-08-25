@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 285 / 1422 = 20.04%
+> Progress: 287 / 1422 = 20.18%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -32,6 +32,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](26.%20Remove%20Duplicates%20from%20Sorted%20Array) 0026. Remove Duplicates from Sorted Array *[Array, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](27.%20Remove%20Element) 0027. Remove Element *[Array, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](28.%20Implement%20strStr()) 0028. Implement strStr() *[String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](29.%20Divide%20Two%20Integers) 0029. Divide Two Integers *[Bit Manipulation, Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](31.%20Next%20Permutation) 0031. Next Permutation *[Sort, O(n), Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) [[S]](32-Longest%20Valid%20Parentheses) 0032. Longest Valid Parentheses *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](33.%20Search%20in%20Rotated%20Sorted%20Array) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*

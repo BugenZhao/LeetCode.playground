@@ -1,9 +1,10 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-15-orange.svg)
+![Progress](https://img.shields.io/badge/Count-16-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Bit Manipulation Problems
+- [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](.././LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers 
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](.././LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](.././LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets 
 - [X] 😊 [[Q]](https://leetcode.com/problems/single-number/) [[S]](.././LeetCode.playground/Pages/136.%20Single%20Number.xcplaygroundpage/Contents.swift) 0136. Single Number 

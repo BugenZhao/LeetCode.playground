@@ -1,5 +1,3 @@
-import Foundation
-
 public extension RandomAccessCollection {
     /// Finds such index N that predicate is true for all elements up to
     /// but not including the index N, and is false for all elements

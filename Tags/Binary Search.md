@@ -1,10 +1,11 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-19-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
 - [X] 🔞 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](.././LeetCode.playground/Pages/4-Median%20of%20Two%20Sorted%20Arrays.xcplaygroundpage/Contents.swift) 0004. Median of Two Sorted Arrays 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](.././LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](.././LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array 

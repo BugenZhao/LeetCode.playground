@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-29-orange.svg)
+![Progress](https://img.shields.io/badge/Count-30-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
@@ -8,6 +8,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) [[S]](.././LeetCode.playground/Pages/9-Palindrome%20Number.xcplaygroundpage/Contents.swift) 0009. Palindrome Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/integer-to-roman/) [[S]](.././LeetCode.playground/Pages/12.%20Integer%20to%20Roman.xcplaygroundpage/Contents.swift) 0012. Integer to Roman 
 - [X] 😊 [[Q]](https://leetcode.com/problems/roman-to-integer/) [[S]](.././LeetCode.playground/Pages/13.%20Roman%20to%20Integer.xcplaygroundpage/Contents.swift) 0013. Roman to Integer 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) [[S]](.././LeetCode.playground/Pages/29.%20Divide%20Two%20Integers.xcplaygroundpage/Contents.swift) 0029. Divide Two Integers 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](.././LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) 
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](.././LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](.././LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths 
