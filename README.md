@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-289%20%2F%201422%20=%2020.32%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-98-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-290%20%2F%201422%20=%2020.39%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-99-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-142-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](./LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation *[Sort, O(n), Binary Search]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](./LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II *[Array, Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -231,6 +231,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](./LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](./LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](./LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
@@ -612,7 +613,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~ 0411. Minimum Unique Word Abbreviation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~ 0412. Fizz Buzz
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~ 0413. Arithmetic Slices
 - [ ] 😊 [[Q]](https://leetcode.com/problems/third-maximum-number/) ~~[S]~~ 0414. Third Maximum Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-strings/) ~~[S]~~ 0415. Add Strings

@@ -1,5 +1,32 @@
 let tags: [Tag] = [.dp, .marked]
 
+class Solution {
+    func superEggDrop(_ K: Int, _ N: Int) -> Int {
+        //: `dp[k][m]`: the maximum # of floors we can check (**cover**) in a `m` moves using `k` eggs
+        var dp = [[Int]](repeating: .init(repeating: 0, count: N + 1), count: K + 1)
+        for m in 1... {
+            for k in 1...K {
+                //: `A <- dp[k-1][m-1]`, `B <- dp[k][m-1]`
+                //: drop an egg from the `A + 1`-th floor
+                //: if it breaks, then we need to check `1...A` floors, which is able to do
+                //: otherwise, we are able to check `A+2...A+2+B-1` floors
+                dp[k][m] = dp[k - 1][m - 1] + 1 + dp[k][m - 1]
+            }
+            if dp[K][m] >= N { return m }
+        }
+        return 114_514
+    }
+}
+
+let g = Solution().superEggDrop
+
+g(3, 14)
+g(2, 6)
+g(1, 2)
+g(1, 10)
+g(10, 1)
+
+
 class SolutionBruteForceTLE {
     func superEggDrop(_ K: Int, _ N: Int) -> Int {
         //: `dp[k][n]`: the minimum # of moves to know `F` **with certainty**, in a building with `n` floors using `k` eggs
@@ -29,29 +56,6 @@ f(2, 6)
 f(1, 2)
 f(1, 10)
 f(10, 1)
-
-
-class Solution {
-    func superEggDrop(_ K: Int, _ N: Int) -> Int {
-        //: `dp[k][m]`: the maximum # of floors we can check in a `m` moves using `k` eggs
-        var dp = [[Int]](repeating: .init(repeating: 0, count: N + 1), count: K + 1)
-        for m in 1... {
-            for k in 1...K {
-                dp[k][m] = dp[k - 1][m - 1] + 1 + dp[k][m - 1]
-            }
-            if dp[K][m] >= N { return m }
-        }
-        return 114_514
-    }
-}
-
-let g = Solution().superEggDrop
-
-g(3, 14)
-g(2, 6)
-g(1, 2)
-g(1, 10)
-g(10, 1)
 
 
 class SolutionSpace {
