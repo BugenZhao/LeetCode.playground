@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 291 / 1422 = 20.46%
+> Progress: 296 / 1422 = 20.82%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -38,6 +38,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](33.%20Search%20in%20Rotated%20Sorted%20Array) 0033. Search in Rotated Sorted Array *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](35.%20Search%20Insert%20Position) 0035. Search Insert Position *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](36.%20Valid%20Sudoku) 0036. Valid Sudoku *[Hash Table]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](39.%20Combination%20Sum) 0039. Combination Sum *[DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](40.%20Combination%20Sum%20II) 0040. Combination Sum II *[DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](41.%20First%20Missing%20Positive) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](44-Wildcard%20Matching) 0044. Wildcard Matching *[DFS, Greedy]*
@@ -114,6 +117,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](209.%20Minimum%20Size%20Subarray%20Sum) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[S]](211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design) 0211. Design Add and Search Words Data Structure *[Tree, DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](216.%20Combination%20Sum%20III) 0216. Combination Sum III *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](222.%20Count%20Complete%20Tree%20Nodes) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
@@ -216,6 +220,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](881-Boats%20to%20Save%20People) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](886-Possible%20Bipartition) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](887.%20Super%20Egg%20Drop) 0887. Super Egg Drop *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/monotonic-array/) [[S]](896.%20Monotonic%20Array) 0896. Monotonic Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](901-Online%20Stock%20Span) 0901. Online Stock Span *[Array, Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](905.%20Sort%20Array%20By%20Parity) 0905. Sort Array By Parity *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](912-Sort%20an%20Array) 0912. Sort an Array *[Sort]*

@@ -1,10 +1,11 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-16-orange.svg)
+![Progress](https://img.shields.io/badge/Count-17-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Hash Table Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](.././LeetCode.playground/Pages/1-Two%20Sum.xcplaygroundpage/Contents.swift) 0001. Two Sum 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](.././LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku 
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](.././LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](.././LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](.././LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram 
