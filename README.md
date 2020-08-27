@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-297%20%2F%201422%20=%2020.89%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-298%20%2F%201422%20=%2020.96%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-148-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-149-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval *[Hash Table, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) [[S]](./LeetCode.playground/Pages/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.xcplaygroundpage/Contents.swift) 1404. Number of Steps to Reduce a Number in Binary Representation to One *[O(n), Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -240,6 +240,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](./LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](./LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](./LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval *[Hash Table, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](./LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III *[Hash Table, Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
@@ -635,7 +636,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/all-oone-data-structure/) ~~[S]~~ 0432. All O`one Data Structure
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~ 0433. Minimum Genetic Mutation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~ 0434. Number of Segments in a String
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~ 0436. Find Right Interval
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~ 0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~ 0440. K-th Smallest in Lexicographical Order
 - [ ] 😊 [[Q]](https://leetcode.com/problems/string-compression/) ~~[S]~~ 0443. String Compression
