@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-20-orange.svg)
+![Progress](https://img.shields.io/badge/Count-21-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Array Problems
@@ -11,6 +11,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](.././LeetCode.playground/Pages/26.%20Remove%20Duplicates%20from%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0026. Remove Duplicates from Sorted Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-element/) [[S]](.././LeetCode.playground/Pages/27.%20Remove%20Element.xcplaygroundpage/Contents.swift) 0027. Remove Element 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](.././LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](.././LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](.././LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](.././LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](.././LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II 

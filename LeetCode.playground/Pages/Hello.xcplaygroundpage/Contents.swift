@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 298 / 1422 = 20.96%
+> Progress: 300 / 1422 = 21.10%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -43,8 +43,10 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](40.%20Combination%20Sum%20II) 0040. Combination Sum II *[DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](41.%20First%20Missing%20Positive) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](42-Trapping%20Rain%20Water) 0042. Trapping Rain Water *[Stack]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](43.%20Multiply%20Strings) 0043. Multiply Strings *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](44-Wildcard%20Matching) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](45-Jump%20Game%20II) 0045. Jump Game II *[Greedy, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](48.%20Rotate%20Image) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](50-Pow(x,%20n)) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](51.%20N-Queens) 0051. N-Queens *[DFS, Bit Manipulation]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](52.%20N-Queens%20II) 0052. N-Queens II 

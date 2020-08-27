@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-298%20%2F%201422%20=%2020.96%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-300%20%2F%201422%20=%2021.10%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-149-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-151-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](./LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval *[Hash Table, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](./LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/monotonic-array/) [[S]](./LeetCode.playground/Pages/896.%20Monotonic%20Array.xcplaygroundpage/Contents.swift) 0896. Monotonic Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) [[S]](./LeetCode.playground/Pages/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.xcplaygroundpage/Contents.swift) 1404. Number of Steps to Reduce a Number in Binary Representation to One *[O(n), Bit Manipulation]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -116,8 +116,10 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](./LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water *[Stack]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](./LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](./LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](./LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](./LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
@@ -384,10 +386,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~ 0037. Sudoku Solver
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~ 0038. Count and Say
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~ 0043. Multiply Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~ 0046. Permutations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~ 0048. Rotate Image
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~ 0049. Group Anagrams
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~ 0056. Merge Intervals
