@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-296%20%2F%201422%20=%2020.82%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-297%20%2F%201422%20=%2020.89%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-147-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-148-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](./LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum *[DFS]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](./LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -223,6 +223,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./LeetCode.playground/Pages/367-Valid%20Perfect%20Square.xcplaygroundpage/Contents.swift) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](./LeetCode.playground/Pages/368.%20Largest%20Divisible%20Subset.xcplaygroundpage/Contents.swift) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](./LeetCode.playground/Pages/372-Super%20Pow.xcplaygroundpage/Contents.swift) 0372. Super Pow *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](./LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String *[String]*
@@ -592,7 +593,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower/) ~~[S]~~ 0374. Guess Number Higher or Lower
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) ~~[S]~~ 0375. Guess Number Higher or Lower II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-subsequence/) ~~[S]~~ 0376. Wiggle Subsequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) ~~[S]~~ 0377. Combination Sum IV
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) ~~[S]~~ 0378. Kth Smallest Element in a Sorted Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-phone-directory/) ~~[S]~~ 0379. Design Phone Directory
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~ 0381. Insert Delete GetRandom O(1) - Duplicates allowed

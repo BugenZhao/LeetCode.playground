@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 296 / 1422 = 20.82%
+> Progress: 297 / 1422 = 20.89%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -150,6 +150,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](367-Valid%20Perfect%20Square) 0367. Valid Perfect Square *[Mathematics, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) [[S]](368.%20Largest%20Divisible%20Subset) 0368. Largest Divisible Subset *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/super-pow/) [[S]](372-Super%20Pow) 0372. Super Pow *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](377.%20Combination%20Sum%20IV) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](380.%20Insert%20Delete%20GetRandom%20O(1)) 0380. Insert Delete GetRandom O(1) *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](383-Ransom%20Note) 0383. Ransom Note *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](387-First%20Unique%20Character%20in%20a%20String) 0387. First Unique Character in a String *[String]*
