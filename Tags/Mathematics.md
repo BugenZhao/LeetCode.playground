@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-33-orange.svg)
+![Progress](https://img.shields.io/badge/Count-34-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Mathematics Problems
@@ -28,6 +28,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](.././LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](.././LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() 
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](.././LeetCode.playground/Pages/476-Number%20Complement.xcplaygroundpage/Contents.swift) 0476. Number Complement 
+- [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](.././LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](.././LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](.././LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](.././LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game 

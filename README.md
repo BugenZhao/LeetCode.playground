@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-301%20%2F%201422%20=%2021.17%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-302%20%2F%201422%20=%2021.24%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-152-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-49-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-50-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](./LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](./LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](./LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](./LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/monotonic-array/) [[S]](./LeetCode.playground/Pages/896.%20Monotonic%20Array.xcplaygroundpage/Contents.swift) 0896. Monotonic Array 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -277,6 +277,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
@@ -843,7 +844,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~ 0707. Design Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~ 0708. Insert into a Sorted Circular Linked List
 - [ ] 😊 [[Q]](https://leetcode.com/problems/to-lower-case/) ~~[S]~~ 0709. To Lower Case
-- [ ] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) ~~[S]~~ 0710. Random Pick with Blacklist
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-distinct-islands-ii/) ~~[S]~~ 0711. Number of Distinct Islands II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) ~~[S]~~ 0712. Minimum ASCII Delete Sum for Two Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) ~~[S]~~ 0713. Subarray Product Less Than K
