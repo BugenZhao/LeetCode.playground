@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 302 / 1422 = 21.24%
+> Progress: 303 / 1422 = 21.31%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -238,6 +238,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](957.%20Prison%20Cells%20After%20N%20Days) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](962.%20Maximum%20Width%20Ramp) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](967.%20Numbers%20With%20Same%20Consecutive%20Differences) 0967. Numbers With Same Consecutive Differences *[DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](969.%20Pancake%20Sorting) 0969. Pancake Sorting *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](973-K%20Closest%20Points%20to%20Origin) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](974-Subarray%20Sums%20Divisible%20by%20K) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](978-Longest%20Turbulent%20Subarray) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-12-orange.svg)
+![Progress](https://img.shields.io/badge/Count-13-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Sort Problems
@@ -14,5 +14,6 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](.././LeetCode.playground/Pages/905.%20Sort%20Array%20By%20Parity.xcplaygroundpage/Contents.swift) 0905. Sort Array By Parity 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](.././LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](.././LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](.././LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](.././LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](.././LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array 

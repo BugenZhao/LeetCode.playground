@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-302%20%2F%201422%20=%2021.24%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-303%20%2F%201422%20=%2021.31%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-152-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-153-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-50-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](./LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](./LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](./LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum *[DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](./LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku *[Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -311,6 +311,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](./LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](./LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](./LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
@@ -1069,7 +1070,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~ 0965. Univalued Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~ 0966. Vowel Spellchecker
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~ 0968. Binary Tree Cameras
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) ~~[S]~~ 0969. Pancake Sorting
 - [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~ 0970. Powerful Integers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~ 0971. Flip Binary Tree To Match Preorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~ 0972. Equal Rational Numbers
