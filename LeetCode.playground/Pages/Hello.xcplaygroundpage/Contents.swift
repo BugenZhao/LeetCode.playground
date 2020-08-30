@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 303 / 1422 = 21.31%
+> Progress: 304 / 1422 = 21.38%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -235,6 +235,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](922.%20Sort%20Array%20By%20Parity%20II) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](931.%20Minimum%20Falling%20Path%20Sum) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](952.%20Largest%20Component%20Size%20by%20Common%20Factor) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](957.%20Prison%20Cells%20After%20N%20Days) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](962.%20Maximum%20Width%20Ramp) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](967.%20Numbers%20With%20Same%20Consecutive%20Differences) 0967. Numbers With Same Consecutive Differences *[DFS]*

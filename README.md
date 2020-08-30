@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-303%20%2F%201422%20=%2021.31%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-304%20%2F%201422%20=%2021.38%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-153-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-50-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-51-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](./LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](./LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](./LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](./LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum *[DFS]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -308,6 +308,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](./LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](./LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](./LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](./LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](./LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](./LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
@@ -1056,7 +1057,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) ~~[S]~~ 0949. Largest Time for Given Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reveal-cards-in-increasing-order/) ~~[S]~~ 0950. Reveal Cards In Increasing Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-equivalent-binary-trees/) ~~[S]~~ 0951. Flip Equivalent Binary Trees
-- [ ] 😫 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) ~~[S]~~ 0952. Largest Component Size by Common Factor
 - [ ] 😊 [[Q]](https://leetcode.com/problems/verifying-an-alien-dictionary/) ~~[S]~~ 0953. Verifying an Alien Dictionary
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/array-of-doubled-pairs/) ~~[S]~~ 0954. Array of Doubled Pairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) ~~[S]~~ 0955. Delete Columns to Make Sorted II
