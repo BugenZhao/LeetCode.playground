@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-307%20%2F%201422%20=%2021.59%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-308%20%2F%201422%20=%2021.66%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-155-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-156-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-52-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](./LeetCode.playground/Pages/841.%20Keys%20and%20Rooms.xcplaygroundpage/Contents.swift) 0841. Keys and Rooms *[Graph, DFS]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](./LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](./LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals *[Sort]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](./LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](./LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval *[Hash Table, Binary Search]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -249,6 +249,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
@@ -650,7 +651,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) ~~[S]~~ 0449. Serialize and Deserialize BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) ~~[S]~~ 0450. Delete Node in a BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~ 0452. Minimum Number of Arrows to Burst Balloons
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
