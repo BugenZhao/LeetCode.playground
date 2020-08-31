@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-304%20%2F%201422%20=%2021.38%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-307%20%2F%201422%20=%2021.59%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-153-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-51-ca5c54.svg)
+![Medium](https://img.shields.io/badge/Medium-155-e7af5f.svg)
+![Hard](https://img.shields.io/badge/Hard-52-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,9 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](./LeetCode.playground/Pages/841.%20Keys%20and%20Rooms.xcplaygroundpage/Contents.swift) 0841. Keys and Rooms *[Graph, DFS]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](./LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval *[Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](./LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals *[Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](./LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](./LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
@@ -69,9 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](./LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](./LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval *[Hash Table, Binary Search]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iv/) [[S]](./LeetCode.playground/Pages/377.%20Combination%20Sum%20IV.xcplaygroundpage/Contents.swift) 0377. Combination Sum IV *[DFS, DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](./LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -125,6 +125,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](./LeetCode.playground/Pages/52.%20N-Queens%20II.xcplaygroundpage/Contents.swift) 0052. N-Queens II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./LeetCode.playground/Pages/53-Maximum%20Subarray.xcplaygroundpage/Contents.swift) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](./LeetCode.playground/Pages/55-Jump%20Game.xcplaygroundpage/Contents.swift) 0055. Jump Game *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](./LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals *[Sort]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](./LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](./LeetCode.playground/Pages/62.%20Unique%20Paths.xcplaygroundpage/Contents.swift) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](./LeetCode.playground/Pages/63.%20Unique%20Paths%20II.xcplaygroundpage/Contents.swift) 0063. Unique Paths II *[DP]*
@@ -293,6 +295,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](./LeetCode.playground/Pages/841.%20Keys%20and%20Rooms.xcplaygroundpage/Contents.swift) 0841. Keys and Rooms *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
@@ -394,8 +397,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~ 0049. Group Anagrams
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~ 0056. Merge Intervals
-- [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~ 0057. Insert Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~ 0058. Length of Last Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~ 0059. Spiral Matrix II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~ 0061. Rotate List
@@ -961,7 +962,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/new-21-game/) ~~[S]~~ 0837. New 21 Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/push-dominoes/) ~~[S]~~ 0838. Push Dominoes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/magic-squares-in-grid/) ~~[S]~~ 0840. Magic Squares In Grid
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) ~~[S]~~ 0841. Keys and Rooms
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) ~~[S]~~ 0842. Split Array into Fibonacci Sequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/guess-the-word/) ~~[S]~~ 0843. Guess the Word
 - [ ] 😊 [[Q]](https://leetcode.com/problems/backspace-string-compare/) ~~[S]~~ 0844. Backspace String Compare

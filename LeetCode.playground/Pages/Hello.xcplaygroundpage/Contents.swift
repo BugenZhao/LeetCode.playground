@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 304 / 1422 = 21.38%
+> Progress: 307 / 1422 = 21.59%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -52,6 +52,8 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) [[S]](52.%20N-Queens%20II) 0052. N-Queens II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](56.%20Merge%20Intervals) 0056. Merge Intervals *[Sort]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](57.%20Insert%20Interval) 0057. Insert Interval *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](62.%20Unique%20Paths) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](63.%20Unique%20Paths%20II) 0063. Unique Paths II *[DP]*
@@ -220,6 +222,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](824.%20Goat%20Latin) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](832.%20Flipping%20an%20Image) 0832. Flipping an Image 
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](839-Similar%20String%20Groups) 0839. Similar String Groups 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](841.%20Keys%20and%20Rooms) 0841. Keys and Rooms *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](848.%20Shifting%20Letters) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](850-Rectangle%20Area%20II) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](857.%20Minimum%20Cost%20to%20Hire%20K%20Workers) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
