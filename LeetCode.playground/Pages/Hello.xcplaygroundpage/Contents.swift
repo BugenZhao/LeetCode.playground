@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 308 / 1422 = 21.66%
+> Progress: 310 / 1431 = 21.66%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -178,6 +178,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](442.%20Find%20All%20Duplicates%20in%20an%20Array) 0442. Find All Duplicates in an Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](450.%20Delete%20Node%20in%20a%20BST) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](451-Sort%20Characters%20By%20Frequency) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](459.%20Repeated%20Substring%20Pattern) 0459. Repeated Substring Pattern *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](461.%20Hamming%20Distance) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](463.%20Island%20Perimeter) 0463. Island Perimeter 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-ip-address/) [[S]](468.%20Validate%20IP%20Address) 0468. Validate IP Address 
@@ -203,7 +204,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](621.%20Task%20Scheduler) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](630.%20Course%20Schedule%20III) 0630. Course Schedule III *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](662.%20Maximum%20Width%20of%20Binary%20Tree) 0662. Maximum Width of Binary Tree *[Tree]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](693.%20Binary%20Number%20with%20Alternating%20Bits) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](705.%20Design%20HashSet) 0705. Design HashSet *[Hash Table]*
@@ -239,6 +240,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](922.%20Sort%20Array%20By%20Parity%20II) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](931.%20Minimum%20Falling%20Path%20Sum) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](949.%20Largest%20Time%20for%20Given%20Digits) 0949. Largest Time for Given Digits *[String, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](952.%20Largest%20Component%20Size%20by%20Common%20Factor) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](957.%20Prison%20Cells%20After%20N%20Days) 0957. Prison Cells After N Days *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](962.%20Maximum%20Width%20Ramp) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
@@ -259,7 +261,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](1021.%20Remove%20Outermost%20Parentheses) 1021. Remove Outermost Parentheses *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](1025.%20Divisor%20Game) 1025. Divisor Game *[Mathematics]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](1032.%20Stream%20of%20Characters) 1032. Stream of Characters *[Tree, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](1043.%20Partition%20Array%20for%20Maximum%20Sum) 1043. Partition Array for Maximum Sum *[DP]*

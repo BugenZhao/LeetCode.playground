@@ -22,7 +22,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](.././LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](.././LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](.././LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections 
-- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](.././LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](.././LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](.././LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](.././LeetCode.playground/Pages/1386.%20Cinema%20Seat%20Allocation.xcplaygroundpage/Contents.swift) 1386. Cinema Seat Allocation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](.././LeetCode.playground/Pages/1405-Longest%20Happy%20String.xcplaygroundpage/Contents.swift) 1405. Longest Happy String 

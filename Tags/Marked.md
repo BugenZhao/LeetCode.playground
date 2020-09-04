@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-33-orange.svg)
+![Progress](https://img.shields.io/badge/Count-34-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## **Marked** Problems
@@ -25,6 +25,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](.././LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](.././LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](.././LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](.././LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](.././LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](.././LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](.././LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
