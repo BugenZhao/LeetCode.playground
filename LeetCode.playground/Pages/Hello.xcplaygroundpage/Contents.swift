@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 310 / 1431 = 21.66%
+> Progress: 313 / 1431 = 21.87%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -122,6 +122,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[S]](211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design) 0211. Design Add and Search Words Data Structure *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](216.%20Combination%20Sum%20III) 0216. Combination Sum III *[DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](217.%20Contains%20Duplicate) 0217. Contains Duplicate *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](219.%20Contains%20Duplicate%20II) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](220.%20Contains%20Duplicate%20III) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](222.%20Count%20Complete%20Tree%20Nodes) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*

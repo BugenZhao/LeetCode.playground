@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-310%20%2F%201431%20=%2021.66%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-100-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-158-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-313%20%2F%201431%20=%2021.87%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-102-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-159-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-52-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,9 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](./LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](./LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](./LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits *[String, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
@@ -69,9 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](./LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](./LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals *[Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](./LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](./LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/implement-rand10-using-rand7/) [[S]](./LeetCode.playground/Pages/470.%20Implement%20Rand10()%20Using%20Rand7().xcplaygroundpage/Contents.swift) 0470. Implement Rand10() Using Rand7() *[Mathematics]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
@@ -195,6 +195,9 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./LeetCode.playground/Pages/210-Course%20Schedule%20II.xcplaygroundpage/Contents.swift) 0210. Course Schedule II *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[S]](./LeetCode.playground/Pages/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.xcplaygroundpage/Contents.swift) 0211. Design Add and Search Words Data Structure *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](./LeetCode.playground/Pages/216.%20Combination%20Sum%20III.xcplaygroundpage/Contents.swift) 0216. Combination Sum III *[DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](./LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](./LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
@@ -475,10 +478,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~ 0213. House Robber II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-palindrome/) ~~[S]~~ 0214. Shortest Palindrome
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-largest-element-in-an-array/) ~~[S]~~ 0215. Kth Largest Element in an Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) ~~[S]~~ 0217. Contains Duplicate
 - [ ] 😫 [[Q]](https://leetcode.com/problems/the-skyline-problem/) ~~[S]~~ 0218. The Skyline Problem
-- [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) ~~[S]~~ 0219. Contains Duplicate II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) ~~[S]~~ 0220. Contains Duplicate III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximal-square/) ~~[S]~~ 0221. Maximal Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rectangle-area/) ~~[S]~~ 0223. Rectangle Area
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~ 0224. Basic Calculator

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-21-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Hash Table Problems
@@ -8,6 +8,9 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](.././LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku 
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](.././LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](.././LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II 
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](.././LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate 
+- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](.././LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](.././LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](.././LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](.././LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) 
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](.././LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note 
