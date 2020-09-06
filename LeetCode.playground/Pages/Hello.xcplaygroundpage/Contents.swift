@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 313 / 1431 = 21.87%
+> Progress: 316 / 1431 = 22.08%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -55,9 +55,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](56.%20Merge%20Intervals) 0056. Merge Intervals *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](57.%20Insert%20Interval) 0057. Insert Interval *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](61.%20Rotate%20List) 0061. Rotate List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](62.%20Unique%20Paths) 0062. Unique Paths *[Mathematics, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) [[S]](63.%20Unique%20Paths%20II) 0063. Unique Paths II *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-path-sum/) [[S]](64.%20Minimum%20Path%20Sum) 0064. Minimum Path Sum *[DP]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/valid-number/) [[S]](65.%20Valid%20Number) 0065. Valid Number *[State Machine, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/plus-one/) [[S]](66.%20Plus%20One) 0066. Plus One 
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](67.%20Add%20Binary) 0067. Add Binary 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](69-Sqrt(x)) 0069. Sqrt(x) *[Mathematics]*
@@ -292,6 +294,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) 1299. Replace Elements with Greatest Element on Right Side 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) [[S]](1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees) 1305. All Elements in Two Binary Search Trees *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game-iii/) [[S]](1306-Jump%20Game%20III) 1306. Jump Game III *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) [[S]](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping) 1309. Decrypt String from Alphabet to Integer Mapping 
 - [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](1313.%20Decompress%20Run-Length%20Encoded%20List) 1313. Decompress Run-Length Encoded List 

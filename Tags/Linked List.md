@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-15-orange.svg)
+![Progress](https://img.shields.io/badge/Count-16-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Linked List Problems
@@ -10,6 +10,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](.././LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) [[S]](.././LeetCode.playground/Pages/24.%20Swap%20Nodes%20in%20Pairs.xcplaygroundpage/Contents.swift) 0024. Swap Nodes in Pairs 
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[S]](.././LeetCode.playground/Pages/25.%20Reverse%20Nodes%20in%20k-Group.xcplaygroundpage/Contents.swift) 0025. Reverse Nodes in k-Group 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](.././LeetCode.playground/Pages/61.%20Rotate%20List.xcplaygroundpage/Contents.swift) 0061. Rotate List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](.././LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](.././LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](.././LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II 
