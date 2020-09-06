@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true'>
+    <pages>
+        <page name='1576. Replace All ?&apos;s to Avoid Consecutive Repeating Characters'/>
+        <page name='1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers'/>
+        <page name='1578. Minimum Deletion Cost to Avoid Repeating Letters'/>
+        <page name='1579. Remove Max Number of Edges to Keep Graph Fully Traversable'/>
+    </pages>
+</playground>
