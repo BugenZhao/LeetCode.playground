@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-22-orange.svg)
+![Progress](https://img.shields.io/badge/Count-23-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Hash Table Problems
@@ -12,6 +12,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](.././LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](.././LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III 
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](.././LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram 
+- [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](.././LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) [[S]](.././LeetCode.playground/Pages/380.%20Insert%20Delete%20GetRandom%20O(1).xcplaygroundpage/Contents.swift) 0380. Insert Delete GetRandom O(1) 
 - [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](.././LeetCode.playground/Pages/383-Ransom%20Note.xcplaygroundpage/Contents.swift) 0383. Ransom Note 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](.././LeetCode.playground/Pages/436.%20Find%20Right%20Interval.xcplaygroundpage/Contents.swift) 0436. Find Right Interval 

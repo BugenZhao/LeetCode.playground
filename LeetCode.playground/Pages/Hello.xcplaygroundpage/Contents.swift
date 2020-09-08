@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 317 / 1431 = 22.15%
+> Progress: 319 / 1431 = 22.29%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -142,6 +142,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](278-First%20Bad%20Version) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](279.%20Perfect%20Squares) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](290.%20Word%20Pattern) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](295.%20Find%20Median%20from%20Data%20Stream) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
@@ -266,6 +267,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](1009-Complement%20of%20Base%2010%20Integer) 1009. Complement of Base 10 Integer *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](1021.%20Remove%20Outermost%20Parentheses) 1021. Remove Outermost Parentheses *[Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](1025.%20Divisor%20Game) 1025. Divisor Game *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](1032.%20Stream%20of%20Characters) 1032. Stream of Characters *[Tree, String]*

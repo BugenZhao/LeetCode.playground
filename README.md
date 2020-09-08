@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-317%20%2F%201431%20=%2022.15%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-102-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-319%20%2F%201431%20=%2022.29%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-104-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-162-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) [[S]](./LeetCode.playground/Pages/835.%20Image%20Overlap.xcplaygroundpage/Contents.swift) 0835. Image Overlap *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/valid-number/) [[S]](./LeetCode.playground/Pages/65.%20Valid%20Number.xcplaygroundpage/Contents.swift) 0065. Valid Number *[State Machine, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](./LeetCode.playground/Pages/61.%20Rotate%20List.xcplaygroundpage/Contents.swift) 0061. Rotate List *[Linked List]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](./LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](./LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits *[String, Mathematics]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -216,6 +216,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
@@ -340,6 +341,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) [[S]](./LeetCode.playground/Pages/1009-Complement%20of%20Base%2010%20Integer.xcplaygroundpage/Contents.swift) 1009. Complement of Base 10 Integer *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](./LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses *[Stack]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/divisor-game/) [[S]](./LeetCode.playground/Pages/1025.%20Divisor%20Game.xcplaygroundpage/Contents.swift) 1025. Divisor Game *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
@@ -535,7 +537,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/walls-and-gates/) ~~[S]~~ 0286. Walls and Gates
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-word-abbreviation/) ~~[S]~~ 0288. Unique Word Abbreviation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/game-of-life/) ~~[S]~~ 0289. Game of Life
-- [ ] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) ~~[S]~~ 0290. Word Pattern
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-pattern-ii/) ~~[S]~~ 0291. Word Pattern II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/nim-game/) ~~[S]~~ 0292. Nim Game
 - [ ] 😊 [[Q]](https://leetcode.com/problems/flip-game/) ~~[S]~~ 0293. Flip Game
@@ -1110,7 +1111,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-prefix-divisible-by-5/) ~~[S]~~ 1018. Binary Prefix Divisible By 5
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-greater-node-in-linked-list/) ~~[S]~~ 1019. Next Greater Node In Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-enclaves/) ~~[S]~~ 1020. Number of Enclaves
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) ~~[S]~~ 1022. Sum of Root To Leaf Binary Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/camelcase-matching/) ~~[S]~~ 1023. Camelcase Matching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/video-stitching/) ~~[S]~~ 1024. Video Stitching
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~ 1026. Maximum Difference Between Node and Ancestor
