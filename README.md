@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-319%20%2F%201431%20=%2022.29%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-320%20%2F%201431%20=%2022.36%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-104-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-162-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-163-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](./LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) [[S]](./LeetCode.playground/Pages/835.%20Image%20Overlap.xcplaygroundpage/Contents.swift) 0835. Image Overlap *[Hash Table]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](./LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](./LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](./LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits *[String, Mathematics]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -181,6 +181,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](./LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](./LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
@@ -464,7 +465,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-peak-element/) ~~[S]~~ 0162. Find Peak Element
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-gap/) ~~[S]~~ 0164. Maximum Gap
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) ~~[S]~~ 0165. Compare Version Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~ 0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~ 0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~ 0168. Excel Sheet Column Title

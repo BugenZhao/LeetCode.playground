@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-17-orange.svg)
+![Progress](https://img.shields.io/badge/Count-18-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## String Problems
@@ -12,6 +12,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](.././LeetCode.playground/Pages/60.%20Permutation%20Sequence.xcplaygroundpage/Contents.swift) 0060. Permutation Sequence 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/valid-number/) [[S]](.././LeetCode.playground/Pages/65.%20Valid%20Number.xcplaygroundpage/Contents.swift) 0065. Valid Number 
 - [X] 😫 [[Q]](https://leetcode.com/problems/word-break-ii/) [[S]](.././LeetCode.playground/Pages/140.%20Word%20Break%20II.xcplaygroundpage/Contents.swift) 0140. Word Break II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](.././LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers 
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](.././LeetCode.playground/Pages/387-First%20Unique%20Character%20in%20a%20String.xcplaygroundpage/Contents.swift) 0387. First Unique Character in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](.././LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](.././LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern 
