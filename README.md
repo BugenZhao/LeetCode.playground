@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-320%20%2F%201431%20=%2022.36%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-104-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-321%20%2F%201431%20=%2022.43%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-105-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-163-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](./LeetCode.playground/Pages/299.%20Bulls%20and%20Cows.xcplaygroundpage/Contents.swift) 0299. Bulls and Cows 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](./LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) [[S]](./LeetCode.playground/Pages/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 1305. All Elements in Two Binary Search Trees *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](./LeetCode.playground/Pages/219.%20Contains%20Duplicate%20II.xcplaygroundpage/Contents.swift) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](./LeetCode.playground/Pages/217.%20Contains%20Duplicate.xcplaygroundpage/Contents.swift) 0217. Contains Duplicate *[Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -219,6 +219,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](./LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](./LeetCode.playground/Pages/299.%20Bulls%20and%20Cows.xcplaygroundpage/Contents.swift) 0299. Bulls and Cows 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
@@ -544,7 +545,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-meeting-point/) ~~[S]~~ 0296. Best Meeting Point
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~ 0297. Serialize and Deserialize Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~ 0298. Binary Tree Longest Consecutive Sequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~ 0299. Bulls and Cows
 - [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~ 0301. Remove Invalid Parentheses
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~ 0302. Smallest Rectangle Enclosing Black Pixels
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~ 0303. Range Sum Query - Immutable

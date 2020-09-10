@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 320 / 1431 = 22.36%
+> Progress: 321 / 1431 = 22.43%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -145,6 +145,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](290.%20Word%20Pattern) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](295.%20Find%20Median%20from%20Data%20Stream) 0295. Find Median from Data Stream *[Heap]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](299.%20Bulls%20and%20Cows) 0299. Bulls and Cows 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*
