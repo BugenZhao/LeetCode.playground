@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-17-orange.svg)
+![Progress](https://img.shields.io/badge/Count-18-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Bit Manipulation Problems
@@ -14,6 +14,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](.././LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III 
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) [[S]](.././LeetCode.playground/Pages/342.%20Power%20of%20Four.xcplaygroundpage/Contents.swift) 0342. Power of Four 
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) [[S]](.././LeetCode.playground/Pages/389.%20Find%20the%20Difference.xcplaygroundpage/Contents.swift) 0389. Find the Difference 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](.././LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) [[S]](.././LeetCode.playground/Pages/477.%20Total%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0477. Total Hamming Distance 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](.././LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones 
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](.././LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits 

@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 322 / 1441 = 22.35%
+> Progress: 326 / 1441 = 22.62%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -54,6 +54,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](56.%20Merge%20Intervals) 0056. Merge Intervals *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](57.%20Insert%20Interval) 0057. Insert Interval *[Sort]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) [[S]](58.%20Length%20of%20Last%20Word) 0058. Length of Last Word 
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](61.%20Rotate%20List) 0061. Rotate List *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) [[S]](62.%20Unique%20Paths) 0062. Unique Paths *[Mathematics, DP]*
@@ -115,6 +116,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](190.%20Reverse%20Bits) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](191.%20Number%20of%201%20Bits) 0191. Number of 1 Bits 
+- [X] 😊 [[Q]](https://leetcode.com/problems/house-robber/) [[S]](198.%20House%20Robber) 0198. House Robber *[DP, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-right-side-view/) [[S]](199-Binary%20Tree%20Right%20Side%20View) 0199. Binary Tree Right Side View *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) [[S]](201.%20Bitwise%20AND%20of%20Numbers%20Range) 0201. Bitwise AND of Numbers Range *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](203.%20Remove%20Linked%20List%20Elements) 0203. Remove Linked List Elements *[Linked List]*
@@ -125,6 +127,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](209.%20Minimum%20Size%20Subarray%20Sum) 0209. Minimum Size Subarray Sum *[Sliding Windows, Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](210-Course%20Schedule%20II) 0210. Course Schedule II *[Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[S]](211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design) 0211. Design Add and Search Words Data Structure *[Tree, DFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) [[S]](213.%20House%20Robber%20II) 0213. House Robber II *[DP, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) [[S]](216.%20Combination%20Sum%20III) 0216. Combination Sum III *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) [[S]](217.%20Contains%20Duplicate) 0217. Contains Duplicate *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) [[S]](219.%20Contains%20Duplicate%20II) 0219. Contains Duplicate II *[Hash Table, Sliding Windows]*
@@ -178,6 +181,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](410.%20Split%20Array%20Largest%20Sum) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](412.%20Fizz%20Buzz) 0412. Fizz Buzz 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](417-Pacific%20Atlantic%20Water%20Flow) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array) 0421. Maximum XOR of Two Numbers in an Array *[Bit Manipulation, O(n), Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](435.%20Non-overlapping%20Intervals) 0435. Non-overlapping Intervals *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](436.%20Find%20Right%20Interval) 0436. Find Right Interval *[Hash Table, Binary Search]*
