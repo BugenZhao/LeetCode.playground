@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-25-orange.svg)
+![Progress](https://img.shields.io/badge/Count-26-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Graph Problems
@@ -20,6 +20,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](.././LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](.././LeetCode.playground/Pages/841.%20Keys%20and%20Rooms.xcplaygroundpage/Contents.swift) 0841. Keys and Rooms 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](.././LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition 
+- [X] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) [[S]](.././LeetCode.playground/Pages/980.%20Unique%20Paths%20III.xcplaygroundpage/Contents.swift) 0980. Unique Paths III 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) [[S]](.././LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift) 0994. Rotting Oranges 
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](.././LeetCode.playground/Pages/997-Find%20the%20Town%20Judge.xcplaygroundpage/Contents.swift) 0997. Find the Town Judge 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](.././LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies 

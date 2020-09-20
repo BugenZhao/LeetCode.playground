@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-328%20%2F%201441%20=%2022.76%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-329%20%2F%201441%20=%2022.83%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-169-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) [[S]](./LeetCode.playground/Pages/980.%20Unique%20Paths%20III.xcplaygroundpage/Contents.swift) 0980. Unique Paths III *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) [[S]](./LeetCode.playground/Pages/1041.%20Robot%20Bounded%20In%20Circle.xcplaygroundpage/Contents.swift) 1041. Robot Bounded In Circle 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](./LeetCode.playground/Pages/1291.%20Sequential%20Digits.xcplaygroundpage/Contents.swift) 1291. Sequential Digits *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/house-robber/) [[S]](./LeetCode.playground/Pages/198.%20House%20Robber.xcplaygroundpage/Contents.swift) 0198. House Robber *[DP, O(n)]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) [[S]](./LeetCode.playground/Pages/152.%20Maximum%20Product%20Subarray.xcplaygroundpage/Contents.swift) 0152. Maximum Product Subarray *[DP, Divide & Conquer, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](./LeetCode.playground/Pages/299.%20Bulls%20and%20Cows.xcplaygroundpage/Contents.swift) 0299. Bulls and Cows 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](./LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -337,6 +337,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) [[S]](./LeetCode.playground/Pages/974-Subarray%20Sums%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 0974. Subarray Sums Divisible by K *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-turbulent-subarray/) [[S]](./LeetCode.playground/Pages/978-Longest%20Turbulent%20Subarray.xcplaygroundpage/Contents.swift) 0978. Longest Turbulent Subarray *[DP, Sliding Windows]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) [[S]](./LeetCode.playground/Pages/980.%20Unique%20Paths%20III.xcplaygroundpage/Contents.swift) 0980. Unique Paths III *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-cost-for-tickets/) [[S]](./LeetCode.playground/Pages/983.%20Minimum%20Cost%20For%20Tickets.xcplaygroundpage/Contents.swift) 0983. Minimum Cost For Tickets *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](./LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](./LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections *[Two Pointers, Greedy]*
@@ -1082,7 +1083,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-perimeter-triangle/) ~~[S]~~ 0976. Largest Perimeter Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/squares-of-a-sorted-array/) ~~[S]~~ 0977. Squares of a Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/distribute-coins-in-binary-tree/) ~~[S]~~ 0979. Distribute Coins in Binary Tree
-- [ ] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) ~~[S]~~ 0980. Unique Paths III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/time-based-key-value-store/) ~~[S]~~ 0981. Time Based Key-Value Store
 - [ ] 😫 [[Q]](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) ~~[S]~~ 0982. Triples with Bitwise AND Equal To Zero
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~ 0985. Sum of Even Numbers After Queries
