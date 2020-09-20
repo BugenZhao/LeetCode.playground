@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 326 / 1441 = 22.62%
+> Progress: 328 / 1441 = 22.76%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -279,6 +279,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](1029-Two%20City%20Scheduling) 1029. Two City Scheduling *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](1032.%20Stream%20of%20Characters) 1032. Stream of Characters *[Tree, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](1035-Uncrossed%20Lines) 1035. Uncrossed Lines *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) [[S]](1041.%20Robot%20Bounded%20In%20Circle) 1041. Robot Bounded In Circle 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](1043.%20Partition%20Array%20for%20Maximum%20Sum) 1043. Partition Array for Maximum Sum *[DP]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](1044.%20Longest%20Duplicate%20Substring) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](1090.%20Largest%20Values%20From%20Labels) 1090. Largest Values From Labels *[Greedy]*
@@ -302,6 +303,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](1286.%20Iterator%20for%20Combination) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](1291.%20Sequential%20Digits) 1291. Sequential Digits *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) 1299. Replace Elements with Greatest Element on Right Side 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) [[S]](1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees) 1305. All Elements in Two Binary Search Trees *[Tree]*

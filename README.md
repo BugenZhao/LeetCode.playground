@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-326%20%2F%201441%20=%2022.62%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-328%20%2F%201441%20=%2022.76%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-167-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-169-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) [[S]](./LeetCode.playground/Pages/1041.%20Robot%20Bounded%20In%20Circle.xcplaygroundpage/Contents.swift) 1041. Robot Bounded In Circle 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](./LeetCode.playground/Pages/1291.%20Sequential%20Digits.xcplaygroundpage/Contents.swift) 1291. Sequential Digits *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/house-robber/) [[S]](./LeetCode.playground/Pages/198.%20House%20Robber.xcplaygroundpage/Contents.swift) 0198. House Robber *[DP, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](./LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array *[Bit Manipulation, O(n), Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) [[S]](./LeetCode.playground/Pages/213.%20House%20Robber%20II.xcplaygroundpage/Contents.swift) 0213. House Robber II *[DP, O(n)]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](./LeetCode.playground/Pages/299.%20Bulls%20and%20Cows.xcplaygroundpage/Contents.swift) 0299. Bulls and Cows 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](./LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [[S]](./LeetCode.playground/Pages/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.xcplaygroundpage/Contents.swift) 1022. Sum of Root To Leaf Binary Numbers *[Tree, DFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](./LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) [[S]](./LeetCode.playground/Pages/835.%20Image%20Overlap.xcplaygroundpage/Contents.swift) 0835. Image Overlap *[Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -353,6 +353,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling *[Greedy]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](./LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters *[Tree, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./LeetCode.playground/Pages/1035-Uncrossed%20Lines.xcplaygroundpage/Contents.swift) 1035. Uncrossed Lines *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) [[S]](./LeetCode.playground/Pages/1041.%20Robot%20Bounded%20In%20Circle.xcplaygroundpage/Contents.swift) 1041. Robot Bounded In Circle 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-array-for-maximum-sum/) [[S]](./LeetCode.playground/Pages/1043.%20Partition%20Array%20for%20Maximum%20Sum.xcplaygroundpage/Contents.swift) 1043. Partition Array for Maximum Sum *[DP]*
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](./LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring *[Hash Table, Sliding Windows, String, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](./LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels *[Greedy]*
@@ -376,6 +377,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](./LeetCode.playground/Pages/1291.%20Sequential%20Digits.xcplaygroundpage/Contents.swift) 1291. Sequential Digits *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [[S]](./LeetCode.playground/Pages/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.xcplaygroundpage/Contents.swift) 1295. Find Numbers with Even Number of Digits 
 - [X] 😊 [[Q]](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [[S]](./LeetCode.playground/Pages/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.xcplaygroundpage/Contents.swift) 1299. Replace Elements with Greatest Element on Right Side 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) [[S]](./LeetCode.playground/Pages/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 1305. All Elements in Two Binary Search Trees *[Tree]*
@@ -1125,7 +1127,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) ~~[S]~~ 1038. Binary Search Tree to Greater Sum Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) ~~[S]~~ 1039. Minimum Score Triangulation of Polygon
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) ~~[S]~~ 1040. Moving Stones Until Consecutive II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) ~~[S]~~ 1041. Robot Bounded In Circle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/flower-planting-with-no-adjacent/) ~~[S]~~ 1042. Flower Planting With No Adjacent
 - [ ] 😊 [[Q]](https://leetcode.com/problems/last-stone-weight/) ~~[S]~~ 1046. Last Stone Weight
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) ~~[S]~~ 1047. Remove All Adjacent Duplicates In String
@@ -1301,7 +1302,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1287. Element Appearing More Than 25% In Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~ 1288. Remove Covered Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~ 1291. Sequential Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~ 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~ 1293. Shortest Path in a Grid with Obstacles Elimination
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) ~~[S]~~ 1296. Divide Array in Sets of K Consecutive Numbers
