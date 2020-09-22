@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 329 / 1441 = 22.83%
+> Progress: 330 / 1454 = 22.70%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -53,7 +53,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](53-Maximum%20Subarray) 0053. Maximum Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) [[S]](55-Jump%20Game) 0055. Jump Game *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](56.%20Merge%20Intervals) 0056. Merge Intervals *[Sort]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](57.%20Insert%20Interval) 0057. Insert Interval *[Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](57.%20Insert%20Interval) 0057. Insert Interval *[Sort]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) [[S]](58.%20Length%20of%20Last%20Word) 0058. Length of Last Word 
 - [X] 😫 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](60.%20Permutation%20Sequence) 0060. Permutation Sequence *[Mathematics, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](61.%20Rotate%20List) 0061. Rotate List *[Linked List]*
@@ -110,7 +110,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](165.%20Compare%20Version%20Numbers) 0165. Compare Version Numbers *[String]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](171.%20Excel%20Sheet%20Column%20Number) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
@@ -134,6 +134,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](220.%20Contains%20Duplicate%20III) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](222.%20Count%20Complete%20Tree%20Nodes) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](226-Invert%20Binary%20Tree) 0226. Invert Binary Tree *[Tree]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](229.%20Majority%20Element%20II) 0229. Majority Element II *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](230-Kth%20Smallest%20Element%20in%20a%20BST) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](231-Power%20of%20Two) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](237-Delete%20Node%20in%20a%20Linked%20List) 0237. Delete Node in a Linked List *[Linked List]*
@@ -149,7 +150,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](287.%20Find%20the%20Duplicate%20Number) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](290.%20Word%20Pattern) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](295.%20Find%20Median%20from%20Data%20Stream) 0295. Find Median from Data Stream *[Heap]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](299.%20Bulls%20and%20Cows) 0299. Bulls and Cows 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](299.%20Bulls%20and%20Cows) 0299. Bulls and Cows 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](300.%20Longest%20Increasing%20Subsequence) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](310-Minimum%20Height%20Trees) 0310. Minimum Height Trees *[Tree]*

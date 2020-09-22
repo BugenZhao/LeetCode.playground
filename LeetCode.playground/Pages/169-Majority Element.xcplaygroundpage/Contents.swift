@@ -1,4 +1,7 @@
-let tags: [Tag] = [.array]
+//: Boyer-Moore Voting Algorithm
+//: imagining that there is an **arena challenge**, the one whose count of occurrence is `> n/2` will beat all the other candidates
+
+let tags: [Tag] = [.array, .ON]
 
 class Solution {
     func majorityElement(_ nums: [Int]) -> Int {

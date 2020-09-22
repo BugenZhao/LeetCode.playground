@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-21-orange.svg)
+![Progress](https://img.shields.io/badge/Count-22-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Array Problems
@@ -17,6 +17,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](.././LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](.././LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](.././LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](.././LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](.././LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](.././LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](.././LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String 

@@ -7,7 +7,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) [[S]](.././LeetCode.playground/Pages/23.%20Merge%20k%20Sorted%20Lists.xcplaygroundpage/Contents.swift) 0023. Merge k Sorted Lists 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](.././LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](.././LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals 
-- [X] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](.././LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](.././LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](.././LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](.././LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](.././LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height 

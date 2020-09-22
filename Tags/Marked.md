@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-35-orange.svg)
+![Progress](https://img.shields.io/badge/Count-36-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## **Marked** Problems
@@ -21,6 +21,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](.././LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](.././LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](.././LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List *[Linked List]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](.././LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](.././LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](.././LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](.././LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
