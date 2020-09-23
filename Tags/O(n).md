@@ -1,11 +1,12 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## O(n) Problems
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](.././LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation 
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](.././LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/gas-station/) [[S]](.././LeetCode.playground/Pages/134.%20Gas%20Station.xcplaygroundpage/Contents.swift) 0134. Gas Station 
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](.././LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) [[S]](.././LeetCode.playground/Pages/152.%20Maximum%20Product%20Subarray.xcplaygroundpage/Contents.swift) 0152. Maximum Product Subarray 
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](.././LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element 
