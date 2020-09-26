@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-331%20%2F%201454%20=%2022.76%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-333%20%2F%201454%20=%2022.90%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-105-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-173-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-175-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](./LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number *[Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](./LeetCode.playground/Pages/495.%20Teemo%20Attacking.xcplaygroundpage/Contents.swift) 0495. Teemo Attacking *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/gas-station/) [[S]](./LeetCode.playground/Pages/134.%20Gas%20Station.xcplaygroundpage/Contents.swift) 0134. Gas Station *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](./LeetCode.playground/Pages/1291.%20Sequential%20Digits.xcplaygroundpage/Contents.swift) 1291. Sequential Digits *[DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/house-robber/) [[S]](./LeetCode.playground/Pages/198.%20House%20Robber.xcplaygroundpage/Contents.swift) 0198. House Robber *[DP, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](./LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array *[Bit Manipulation, O(n), Greedy]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) [[S]](./LeetCode.playground/Pages/213.%20House%20Robber%20II.xcplaygroundpage/Contents.swift) 0213. House Robber II *[DP, O(n)]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) [[S]](./LeetCode.playground/Pages/58.%20Length%20of%20Last%20Word.xcplaygroundpage/Contents.swift) 0058. Length of Last Word 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
@@ -188,6 +188,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](./LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](./LeetCode.playground/Pages/191.%20Number%20of%201%20Bits.xcplaygroundpage/Contents.swift) 0191. Number of 1 Bits 
@@ -278,6 +279,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](./LeetCode.playground/Pages/486.%20Predict%20the%20Winner.xcplaygroundpage/Contents.swift) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](./LeetCode.playground/Pages/492.%20Construct%20the%20Rectangle.xcplaygroundpage/Contents.swift) 0492. Construct the Rectangle 
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](./LeetCode.playground/Pages/493.%20Reverse%20Pairs.xcplaygroundpage/Contents.swift) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](./LeetCode.playground/Pages/495.%20Teemo%20Attacking.xcplaygroundpage/Contents.swift) 0495. Teemo Attacking *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](./LeetCode.playground/Pages/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.xcplaygroundpage/Contents.swift) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](./LeetCode.playground/Pages/506.%20Relative%20Ranks.xcplaygroundpage/Contents.swift) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](./LeetCode.playground/Pages/515-Find%20Largest%20Value%20in%20Each%20Tree%20Row.xcplaygroundpage/Contents.swift) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
@@ -479,7 +481,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~ 0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~ 0173. Binary Search Tree Iterator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) ~~[S]~~ 0179. Largest Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~ 0186. Reverse Words in a String II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
@@ -692,7 +693,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-maze/) ~~[S]~~ 0490. The Maze
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/increasing-subsequences/) ~~[S]~~ 0491. Increasing Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/target-sum/) ~~[S]~~ 0494. Target Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) ~~[S]~~ 0495. Teemo Attacking
 - [ ] 😊 [[Q]](https://leetcode.com/problems/next-greater-element-i/) ~~[S]~~ 0496. Next Greater Element I
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/diagonal-traverse/) ~~[S]~~ 0498. Diagonal Traverse
 - [ ] 😫 [[Q]](https://leetcode.com/problems/the-maze-iii/) ~~[S]~~ 0499. The Maze III

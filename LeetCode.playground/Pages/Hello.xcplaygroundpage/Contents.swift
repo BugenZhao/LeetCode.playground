@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 331 / 1454 = 22.76%
+> Progress: 333 / 1454 = 22.90%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -114,6 +114,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](169-Majority%20Element) 0169. Majority Element *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](171.%20Excel%20Sheet%20Column%20Number) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](174.%20Dungeon%20Game) 0174. Dungeon Game *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](179.%20Largest%20Number) 0179. Largest Number *[Sort]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](190.%20Reverse%20Bits) 0190. Reverse Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-1-bits/) [[S]](191.%20Number%20of%201%20Bits) 0191. Number of 1 Bits 
@@ -204,6 +205,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/predict-the-winner/) [[S]](486.%20Predict%20the%20Winner) 0486. Predict the Winner *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/construct-the-rectangle/) [[S]](492.%20Construct%20the%20Rectangle) 0492. Construct the Rectangle 
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-pairs/) [[S]](493.%20Reverse%20Pairs) 0493. Reverse Pairs *[Sort, Two Pointers, Divide & Conquer]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](495.%20Teemo%20Attacking) 0495. Teemo Attacking *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) [[S]](497.%20Random%20Point%20in%20Non-overlapping%20Rectangles) 0497. Random Point in Non-overlapping Rectangles *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-ranks/) [[S]](506.%20Relative%20Ranks) 0506. Relative Ranks 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [[S]](515-Find%20Largest%20Value%20in%20Each%20Tree%20Row) 0515. Find Largest Value in Each Tree Row *[Tree, BFS]*
