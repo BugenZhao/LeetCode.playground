@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 334 / 1454 = 22.97%
+> Progress: 335 / 1460 = 22.95%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -258,6 +258,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](920.%20Number%20of%20Music%20Playlists) 0920. Number of Music Playlists *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](922.%20Sort%20Array%20By%20Parity%20II) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](931.%20Minimum%20Falling%20Path%20Sum) 0931. Minimum Falling Path Sum *[DP]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](933.%20Number%20of%20Recent%20Calls) 0933. Number of Recent Calls *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](936-Stamping%20The%20Sequence) 0936. Stamping The Sequence *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](949.%20Largest%20Time%20for%20Given%20Digits) 0949. Largest Time for Given Digits *[String, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](952.%20Largest%20Component%20Size%20by%20Common%20Factor) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
