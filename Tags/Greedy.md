@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-24-orange.svg)
+![Progress](https://img.shields.io/badge/Count-25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Greedy Problems
@@ -25,6 +25,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](.././LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](.././LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](.././LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](.././LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/cinema-seat-allocation/) [[S]](.././LeetCode.playground/Pages/1386.%20Cinema%20Seat%20Allocation.xcplaygroundpage/Contents.swift) 1386. Cinema Seat Allocation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-happy-string/) [[S]](.././LeetCode.playground/Pages/1405-Longest%20Happy%20String.xcplaygroundpage/Contents.swift) 1405. Longest Happy String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](.././LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer 

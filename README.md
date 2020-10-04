@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-336%20%2F%201460%20=%2023.01%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-337%20%2F%201460%20=%2023.08%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-177-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-178-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](./LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](./LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) [[S]](./LeetCode.playground/Pages/980.%20Unique%20Paths%20III.xcplaygroundpage/Contents.swift) 0980. Unique Paths III *[Graph, DFS]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/robot-bounded-in-circle/) [[S]](./LeetCode.playground/Pages/1041.%20Robot%20Bounded%20In%20Circle.xcplaygroundpage/Contents.swift) 1041. Robot Bounded In Circle 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
@@ -384,6 +384,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](./LeetCode.playground/Pages/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.xcplaygroundpage/Contents.swift) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](./LeetCode.playground/Pages/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.xcplaygroundpage/Contents.swift) 1282. Group the People Given the Group Size They Belong To 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](./LeetCode.playground/Pages/1286.%20Iterator%20for%20Combination.xcplaygroundpage/Contents.swift) 1286. Iterator for Combination *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](./LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](./LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](./LeetCode.playground/Pages/1291.%20Sequential%20Digits.xcplaygroundpage/Contents.swift) 1291. Sequential Digits *[DFS]*
@@ -1302,7 +1303,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) ~~[S]~~ 1283. Find the Smallest Divisor Given a Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~ 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~ 1287. Element Appearing More Than 25% In Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~ 1288. Remove Covered Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) ~~[S]~~ 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) ~~[S]~~ 1293. Shortest Path in a Grid with Obstacles Elimination
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) ~~[S]~~ 1296. Divide Array in Sets of K Consecutive Numbers

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-16-orange.svg)
+![Progress](https://img.shields.io/badge/Count-17-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Sort Problems
@@ -20,3 +20,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](.././LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](.././LeetCode.playground/Pages/973-K%20Closest%20Points%20to%20Origin.xcplaygroundpage/Contents.swift) 0973. K Closest Points to Origin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/relative-sort-array/) [[S]](.././LeetCode.playground/Pages/1122.%20Relative%20Sort%20Array.xcplaygroundpage/Contents.swift) 1122. Relative Sort Array 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](.././LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals 

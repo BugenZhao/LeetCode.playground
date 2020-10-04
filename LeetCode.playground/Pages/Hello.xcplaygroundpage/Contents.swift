@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 336 / 1460 = 23.01%
+> Progress: 337 / 1460 = 23.08%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -309,6 +309,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) [[S]](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) 1281. Subtract the Product and Sum of Digits of an Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) [[S]](1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To) 1282. Group the People Given the Group Size They Belong To 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) [[S]](1286.%20Iterator%20for%20Combination) 1286. Iterator for Combination *[Bit Manipulation]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](1288.%20Remove%20Covered%20Intervals) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](1289.%20Minimum%20Falling%20Path%20Sum%20II) 1289. Minimum Falling Path Sum II *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) 1290. Convert Binary Number in a Linked List to Integer *[Bit Manipulation]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) [[S]](1291.%20Sequential%20Digits) 1291. Sequential Digits *[DFS]*
