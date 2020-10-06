@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 337 / 1460 = 23.08%
+> Progress: 338 / 1460 = 23.15%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -225,6 +225,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](686.%20Repeated%20String%20Match) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](693.%20Binary%20Number%20with%20Alternating%20Bits) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](700.%20Search%20in%20a%20Binary%20Search%20Tree) 0700. Search in a Binary Search Tree *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](701.%20Insert%20into%20a%20Binary%20Search%20Tree) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](705.%20Design%20HashSet) 0705. Design HashSet *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](710.%20Random%20Pick%20with%20Blacklist) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](713.%20Subarray%20Product%20Less%20Than%20K) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*

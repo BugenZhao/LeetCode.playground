@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-34-orange.svg)
+![Progress](https://img.shields.io/badge/Count-35-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
@@ -29,6 +29,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](.././LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](.././LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](.././LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](.././LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree 
 - [X] 🤬 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](.././LeetCode.playground/Pages/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0987. Vertical Order Traversal of a Binary Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](.././LeetCode.playground/Pages/993-Cousins%20in%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0993. Cousins in Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](.././LeetCode.playground/Pages/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.xcplaygroundpage/Contents.swift) 1008. Construct Binary Search Tree from Preorder Traversal 

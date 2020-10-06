@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-337%20%2F%201460%20=%2023.08%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-338%20%2F%201460%20=%2023.15%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-178-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-179-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](./LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](./LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/gas-station/) [[S]](./LeetCode.playground/Pages/134.%20Gas%20Station.xcplaygroundpage/Contents.swift) 0134. Gas Station *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
-- [X] 😫 [[Q]](https://leetcode.com/problems/unique-paths-iii/) [[S]](./LeetCode.playground/Pages/980.%20Unique%20Paths%20III.xcplaygroundpage/Contents.swift) 0980. Unique Paths III *[Graph, DFS]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
@@ -300,6 +300,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](./LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
@@ -851,7 +852,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/degree-of-an-array/) ~~[S]~~ 0697. Degree of an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) ~~[S]~~ 0698. Partition to K Equal Sum Subsets
 - [ ] 😫 [[Q]](https://leetcode.com/problems/falling-squares/) ~~[S]~~ 0699. Falling Squares
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ~~[S]~~ 0701. Insert into a Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~ 0702. Search in a Sorted Array of Unknown Size
 - [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~ 0703. Kth Largest Element in a Stream
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~ 0704. Binary Search
