@@ -2,7 +2,7 @@
 # LeetCode.playground
 Bugen's LeetCode solutions in Swift Playground.
 
-> Progress: 338 / 1460 = 23.15%
+> Progress: 339 / 1460 = 23.22%
 
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](1-Two%20Sum) 0001. Two Sum *[Hash Table]*
@@ -321,6 +321,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) [[S]](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping) 1309. Decrypt String from Alphabet to Integer Mapping 
 - [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](1313.%20Decompress%20Run-Length%20Encoded%20List) 1313. Decompress Run-Length Encoded List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](1319-Number%20of%20Operations%20to%20Make%20Network%20Connected) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](1334-Find%20the%20City) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](1344.%20Angle%20Between%20Hands%20of%20a%20Clock) 1344. Angle Between Hands of a Clock 

@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-338%20%2F%201460%20=%2023.15%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-339%20%2F%201460%20=%2023.22%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-179-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-53-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](./LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](./LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array *[Hash Table]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](./LeetCode.playground/Pages/495.%20Teemo%20Attacking.xcplaygroundpage/Contents.swift) 0495. Teemo Attacking *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/gas-station/) [[S]](./LeetCode.playground/Pages/134.%20Gas%20Station.xcplaygroundpage/Contents.swift) 0134. Gas Station *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
@@ -396,6 +396,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) [[S]](./LeetCode.playground/Pages/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.xcplaygroundpage/Contents.swift) 1309. Decrypt String from Alphabet to Integer Mapping 
 - [X] 😊 [[Q]](https://leetcode.com/problems/decompress-run-length-encoded-list/) [[S]](./LeetCode.playground/Pages/1313.%20Decompress%20Run-Length%20Encoded%20List.xcplaygroundpage/Contents.swift) 1313. Decompress Run-Length Encoded List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](./LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](./LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](./LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](./LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](./LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
@@ -1328,7 +1329,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) ~~[S]~~ 1326. Minimum Number of Taps to Open to Water a Garden
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/break-a-palindrome/) ~~[S]~~ 1328. Break a Palindrome
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-the-matrix-diagonally/) ~~[S]~~ 1329. Sort the Matrix Diagonally
-- [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) ~~[S]~~ 1330. Reverse Subarray To Maximize Array Value
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rank-transform-of-an-array/) ~~[S]~~ 1331. Rank Transform of an Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-palindromic-subsequences/) ~~[S]~~ 1332. Remove Palindromic Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) ~~[S]~~ 1333. Filter Restaurants by Vegan-Friendly, Price and Distance
