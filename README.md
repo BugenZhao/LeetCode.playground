@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-339%20%2F%201460%20=%2023.22%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-106-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-179-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-341%20%2F%201460%20=%2023.36%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-107-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-180-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-search/) [[S]](./LeetCode20Q4.playground/Pages/704.%20Binary%20Search.xcplaygroundpage/Contents.swift) 0704. Binary Search *[Binary Search, Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](./LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](./LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](./LeetCode.playground/Pages/495.%20Teemo%20Attacking.xcplaygroundpage/Contents.swift) 0495. Teemo Attacking *[O(n)]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/gas-station/) [[S]](./LeetCode.playground/Pages/134.%20Gas%20Station.xcplaygroundpage/Contents.swift) 0134. Gas Station *[O(n)]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
@@ -267,6 +267,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./LeetCode.playground/Pages/438-Find%20All%20Anagrams%20in%20a%20String.xcplaygroundpage/Contents.swift) 0438. Find All Anagrams in a String *[Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) [[S]](./LeetCode.playground/Pages/441.%20Arranging%20Coins.xcplaygroundpage/Contents.swift) 0441. Arranging Coins *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](./LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array *[Array, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
@@ -301,6 +302,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](./LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/binary-search/) [[S]](./LeetCode20Q4.playground/Pages/704.%20Binary%20Search.xcplaygroundpage/Contents.swift) 0704. Binary Search *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](./LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
@@ -667,7 +669,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ~~[S]~~ 0446. Arithmetic Slices II - Subsequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) ~~[S]~~ 0449. Serialize and Deserialize BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~ 0452. Minimum Number of Arrows to Burst Balloons
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
@@ -855,7 +856,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/falling-squares/) ~~[S]~~ 0699. Falling Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~ 0702. Search in a Sorted Array of Unknown Size
 - [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~ 0703. Kth Largest Element in a Stream
-- [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~ 0704. Binary Search
 - [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashmap/) ~~[S]~~ 0706. Design HashMap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~ 0707. Design Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~ 0708. Insert into a Sorted Circular Linked List
