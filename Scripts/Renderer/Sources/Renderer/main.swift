@@ -20,7 +20,7 @@ let contestList = Contest.getList()
 
 print("Writing...".yellow)
 Writer.writeReadme(dict, contestList, to: readmeURL)
-Writer.writeXcodePage(dict, to: helloPageURL)
+//Writer.writeXcodePage(dict, to: helloPageURL)
 Tag.allCases.forEach {
     Writer.writeTag(dict, tag: $0, to: makeURL(tag: $0))
 }

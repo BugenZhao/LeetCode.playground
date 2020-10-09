@@ -77,7 +77,8 @@ struct Question {
         var solvedCount = 0
 
         /// Solved
-        if let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) {
+        for (pagesURL, pagesRelativePath) in zip(pagesURLs, pagesRelativePaths) {
+            guard let contents = try? fileManager.contentsOfDirectory(atPath: pagesURL.path) else { continue }
             contents.forEach { page in
                 let split = page.split(whereSeparator: { ["-", "."].contains($0) })
                 if !split.isEmpty, let qid = Int(split[0]) {
