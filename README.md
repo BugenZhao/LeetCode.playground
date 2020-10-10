@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-341%20%2F%201460%20=%2023.36%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-342%20%2F%201469%20=%2023.28%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-107-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-180-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-181-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-search/) [[S]](./LeetCode20Q4.playground/Pages/704.%20Binary%20Search.xcplaygroundpage/Contents.swift) 0704. Binary Search *[Binary Search, Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](./LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](./LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](./LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number *[Sort]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/teemo-attacking/) [[S]](./LeetCode.playground/Pages/495.%20Teemo%20Attacking.xcplaygroundpage/Contents.swift) 0495. Teemo Attacking *[O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
@@ -270,6 +270,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
@@ -492,7 +493,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~ 0173. Binary Search Tree Iterator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~ 0186. Reverse Words in a String II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-array/) ~~[S]~~ 0189. Rotate Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
@@ -571,7 +572,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/burst-balloons/) ~~[S]~~ 0312. Burst Balloons
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/super-ugly-number/) ~~[S]~~ 0313. Super Ugly Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) ~~[S]~~ 0314. Binary Tree Vertical Order Traversal
-- [ ] 😫 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) ~~[S]~~ 0316. Remove Duplicate Letters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) ~~[S]~~ 0316. Remove Duplicate Letters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-distance-from-all-buildings/) ~~[S]~~ 0317. Shortest Distance from All Buildings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-word-lengths/) ~~[S]~~ 0318. Maximum Product of Word Lengths
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bulb-switcher/) ~~[S]~~ 0319. Bulb Switcher
@@ -669,7 +670,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ~~[S]~~ 0446. Arithmetic Slices II - Subsequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~ 0452. Minimum Number of Arrows to Burst Balloons
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) ~~[S]~~ 0455. Assign Cookies
@@ -686,7 +686,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/encode-string-with-shortest-length/) ~~[S]~~ 0471. Encode String with Shortest Length
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~ 0473. Matchsticks to Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~ 0474. Ones and Zeroes
-- [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~ 0475. Heaters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~ 0478. Generate Random Point in a Circle
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~ 0479. Largest Palindrome Product
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-median/) ~~[S]~~ 0480. Sliding Window Median
@@ -763,7 +763,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~ 0573. Squirrel Simulation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies/) ~~[S]~~ 0575. Distribute Candies
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/out-of-boundary-paths/) ~~[S]~~ 0576. Out of Boundary Paths
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ~~[S]~~ 0581. Shortest Unsorted Continuous Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ~~[S]~~ 0581. Shortest Unsorted Continuous Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/kill-process/) ~~[S]~~ 0582. Kill Process
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-operation-for-two-strings/) ~~[S]~~ 0583. Delete Operation for Two Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/erect-the-fence/) ~~[S]~~ 0587. Erect the Fence
@@ -784,7 +784,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-binary-trees/) ~~[S]~~ 0617. Merge Two Binary Trees
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-circular-queue/) ~~[S]~~ 0622. Design Circular Queue
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-one-row-to-tree/) ~~[S]~~ 0623. Add One Row to Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-distance-in-arrays/) ~~[S]~~ 0624. Maximum Distance in Arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-distance-in-arrays/) ~~[S]~~ 0624. Maximum Distance in Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-factorization/) ~~[S]~~ 0625. Minimum Factorization
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-three-numbers/) ~~[S]~~ 0628. Maximum Product of Three Numbers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-inverse-pairs-array/) ~~[S]~~ 0629. K Inverse Pairs Array
@@ -1544,6 +1544,15 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/throne-inheritance/) ~~[S]~~ 1600. Throne Inheritance
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) ~~[S]~~ 1601. Maximum Number of Achievable Transfer Requests
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) ~~[S]~~ 1602. Find Nearest Right Node in Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/design-parking-system/) ~~[S]~~ 1603. Design Parking System
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) ~~[S]~~ 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) ~~[S]~~ 1605. Find Valid Matrix Given Row and Column Sums
+- [ ] 😫 [[Q]](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) ~~[S]~~ 1606. Find Servers That Handled Most Number of Requests
+- [ ] 😊 [[Q]](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) ~~[S]~~ 1608. Special Array With X Elements Greater Than or Equal X
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/even-odd-tree/) ~~[S]~~ 1609. Even Odd Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-visible-points/) ~~[S]~~ 1610. Maximum Number of Visible Points
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) ~~[S]~~ 1611. Minimum One Bit Operations to Make Integers Zero
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) ~~[S]~~ 1612. Check If Two Expression Trees are Equivalent
 </details>
 
 ## How am I generated?

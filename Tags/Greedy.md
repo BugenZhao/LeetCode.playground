@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-25-orange.svg)
+![Progress](https://img.shields.io/badge/Count-26-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Greedy Problems
@@ -16,6 +16,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](.././LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](.././LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](.././LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](.././LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](.././LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](.././LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](.././LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers 
