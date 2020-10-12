@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-343%20%2F%201469%20=%2023.35%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-107-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-344%20%2F%201469%20=%2023.42%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-108-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-182-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) [[S]](./LeetCode20Q4.playground/Pages/316.%20Remove%20Duplicate%20Letters.xcplaygroundpage/Contents.swift) 0316. Remove Duplicate Letters *[Greedy, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](./LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](./LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](./LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-210/) [[S]](./Contests/Weekly%20Contest%20210.playground/Pages/) Weekly Contest 210
@@ -329,6 +329,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](./LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People *[Greedy, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./LeetCode.playground/Pages/886-Possible%20Bipartition.xcplaygroundpage/Contents.swift) 0886. Possible Bipartition *[Graph, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](./LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
@@ -988,7 +989,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/exam-room/) ~~[S]~~ 0855. Exam Room
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/score-of-parentheses/) ~~[S]~~ 0856. Score of Parentheses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mirror-reflection/) ~~[S]~~ 0858. Mirror Reflection
-- [ ] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) ~~[S]~~ 0859. Buddy Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/lemonade-change/) ~~[S]~~ 0860. Lemonade Change
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/score-after-flipping-matrix/) ~~[S]~~ 0861. Score After Flipping Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) ~~[S]~~ 0862. Shortest Subarray with Sum at Least K

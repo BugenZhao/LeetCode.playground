@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## String Problems
@@ -19,6 +19,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](.././LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern 
 - [X] 😫 [[Q]](https://leetcode.com/problems/concatenated-words/) [[S]](.././LeetCode.playground/Pages/472-Concatenated%20Words.xcplaygroundpage/Contents.swift) 0472. Concatenated Words 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](.././LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match 
+- [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](.././LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](.././LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits 
 - [X] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) [[S]](.././LeetCode.playground/Pages/1032.%20Stream%20of%20Characters.xcplaygroundpage/Contents.swift) 1032. Stream of Characters 
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](.././LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring 
