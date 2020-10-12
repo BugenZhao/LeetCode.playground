@@ -4,5 +4,6 @@
         <page name='704. Binary Search'/>
         <page name='449. Serialize and Deserialize BST'/>
         <page name='452. Minimum Number of Arrows to Burst Balloons'/>
+        <page name='316. Remove Duplicate Letters'/>
     </pages>
 </playground>
