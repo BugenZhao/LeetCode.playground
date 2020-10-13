@@ -5,5 +5,7 @@
         <page name='449. Serialize and Deserialize BST'/>
         <page name='452. Minimum Number of Arrows to Burst Balloons'/>
         <page name='316. Remove Duplicate Letters'/>
+        <page name='859. Buddy Strings'/>
+        <page name='148. Sort List'/>
     </pages>
 </playground>

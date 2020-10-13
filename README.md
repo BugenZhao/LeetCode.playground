@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-344%20%2F%201469%20=%2023.42%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-345%20%2F%201469%20=%2023.49%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-108-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-182-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-183-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](./LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List *[Linked List, Divide & Conquer, Sort, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) [[S]](./LeetCode20Q4.playground/Pages/316.%20Remove%20Duplicate%20Letters.xcplaygroundpage/Contents.swift) 0316. Remove Duplicate Letters *[Greedy, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](./LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](./LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-210/) [[S]](./Contests/Weekly%20Contest%20210.playground/Pages/) Weekly Contest 210
@@ -182,6 +182,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](./LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](./LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II *[Linked List, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](./LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List *[Linked List]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](./LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List *[Linked List, Divide & Conquer, Sort, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string/) [[S]](./LeetCode.playground/Pages/151.%20Reverse%20Words%20in%20a%20String.xcplaygroundpage/Contents.swift) 0151. Reverse Words in a String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) [[S]](./LeetCode.playground/Pages/152.%20Maximum%20Product%20Subarray.xcplaygroundpage/Contents.swift) 0152. Maximum Product Subarray *[DP, Divide & Conquer, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](./LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
@@ -475,7 +476,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-postorder-traversal/) ~~[S]~~ 0145. Binary Tree Postorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lru-cache/) ~~[S]~~ 0146. LRU Cache
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) ~~[S]~~ 0147. Insertion Sort List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) ~~[S]~~ 0148. Sort List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-points-on-a-line/) ~~[S]~~ 0149. Max Points on a Line
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ~~[S]~~ 0150. Evaluate Reverse Polish Notation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/min-stack/) ~~[S]~~ 0155. Min Stack

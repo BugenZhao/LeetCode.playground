@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-19-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Sort Problems
@@ -8,6 +8,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](.././LeetCode.playground/Pages/31.%20Next%20Permutation.xcplaygroundpage/Contents.swift) 0031. Next Permutation 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) [[S]](.././LeetCode.playground/Pages/56.%20Merge%20Intervals.xcplaygroundpage/Contents.swift) 0056. Merge Intervals 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insert-interval/) [[S]](.././LeetCode.playground/Pages/57.%20Insert%20Interval.xcplaygroundpage/Contents.swift) 0057. Insert Interval 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](.././LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](.././LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](.././LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](.././LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self 

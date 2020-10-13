@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Two Pointers Problems
@@ -14,6 +14,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](.././LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](.././LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](.././LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](.././LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](.././LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](.././LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number 
 - [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [[S]](.././LeetCode.playground/Pages/350.%20Intersection%20of%20Two%20Arrays%20II.xcplaygroundpage/Contents.swift) 0350. Intersection of Two Arrays II 
