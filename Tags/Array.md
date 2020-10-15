@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-23-orange.svg)
+![Progress](https://img.shields.io/badge/Count-24-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Array Problems
@@ -16,6 +16,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [[S]](.././LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0080. Remove Duplicates from Sorted Array II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets-ii/) [[S]](.././LeetCode.playground/Pages/90.%20Subsets%20II.xcplaygroundpage/Contents.swift) 0090. Subsets II 
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](.././LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](.././LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](.././LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](.././LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](.././LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index 

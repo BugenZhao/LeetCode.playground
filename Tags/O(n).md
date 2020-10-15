@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-23-orange.svg)
+![Progress](https://img.shields.io/badge/Count-24-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## O(n) Problems
@@ -10,6 +10,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/candy/) [[S]](.././LeetCode.playground/Pages/135.%20Candy.xcplaygroundpage/Contents.swift) 0135. Candy 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) [[S]](.././LeetCode.playground/Pages/152.%20Maximum%20Product%20Subarray.xcplaygroundpage/Contents.swift) 0152. Maximum Product Subarray 
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](.././LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](.././LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/house-robber/) [[S]](.././LeetCode.playground/Pages/198.%20House%20Robber.xcplaygroundpage/Contents.swift) 0198. House Robber 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) [[S]](.././LeetCode.playground/Pages/209.%20Minimum%20Size%20Subarray%20Sum.xcplaygroundpage/Contents.swift) 0209. Minimum Size Subarray Sum 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) [[S]](.././LeetCode.playground/Pages/213.%20House%20Robber%20II.xcplaygroundpage/Contents.swift) 0213. House Robber II 
