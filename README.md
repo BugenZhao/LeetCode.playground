@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-346%20%2F%201469%20=%2023.55%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-348%20%2F%201474%20=%2023.61%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-108-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-184-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-186-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](./LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](./LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List *[Linked List, Divide & Conquer, Sort, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-search/) [[S]](./LeetCode20Q4.playground/Pages/704.%20Binary%20Search.xcplaygroundpage/Contents.swift) 0704. Binary Search *[Binary Search, Array]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](./LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [[S]](./LeetCode.playground/Pages/701.%20Insert%20into%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0701. Insert into a Binary Search Tree *[Tree]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals *[Greedy, Sort]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-210/) [[S]](./Contests/Weekly%20Contest%20210.playground/Pages/) Weekly Contest 210
@@ -142,6 +142,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](./LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](./LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) [[S]](./LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift) 0076. Minimum Window Substring *[Sliding Windows, Hash Table, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subsets/) [[S]](./LeetCode.playground/Pages/78.%20Subsets.xcplaygroundpage/Contents.swift) 0078. Subsets *[Bit Manipulation]*
@@ -192,6 +193,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](./LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](./LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-number/) [[S]](./LeetCode.playground/Pages/179.%20Largest%20Number.xcplaygroundpage/Contents.swift) 0179. Largest Number *[Sort]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) [[S]](./LeetCode.playground/Pages/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.xcplaygroundpage/Contents.swift) 0188. Best Time to Buy and Sell Stock IV *[Greedy, DP, State Machine]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](./LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-bits/) [[S]](./LeetCode.playground/Pages/190.%20Reverse%20Bits.xcplaygroundpage/Contents.swift) 0190. Reverse Bits *[Bit Manipulation]*
@@ -443,7 +445,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~ 0074. Search a 2D Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~ 0079. Word Search
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ~~[S]~~ 0081. Search in Rotated Sorted Array II
@@ -496,7 +497,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-iterator/) ~~[S]~~ 0173. Binary Search Tree Iterator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reverse-words-in-a-string-ii/) ~~[S]~~ 0186. Reverse Words in a String II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) ~~[S]~~ 0187. Repeated DNA Sequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-islands/) ~~[S]~~ 0200. Number of Islands
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~ 0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~ 0205. Isomorphic Strings
@@ -844,7 +844,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-empty-slots/) ~~[S]~~ 0683. K Empty Slots
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) ~~[S]~~ 0684. Redundant Connection
 - [ ] 😫 [[Q]](https://leetcode.com/problems/redundant-connection-ii/) ~~[S]~~ 0685. Redundant Connection II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-univalue-path/) ~~[S]~~ 0687. Longest Univalue Path
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-univalue-path/) ~~[S]~~ 0687. Longest Univalue Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-probability-in-chessboard/) ~~[S]~~ 0688. Knight Probability in Chessboard
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) ~~[S]~~ 0689. Maximum Sum of 3 Non-Overlapping Subarrays
 - [ ] 😊 [[Q]](https://leetcode.com/problems/employee-importance/) ~~[S]~~ 0690. Employee Importance
@@ -1554,6 +1554,11 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-visible-points/) ~~[S]~~ 1610. Maximum Number of Visible Points
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) ~~[S]~~ 1611. Minimum One Bit Operations to Make Integers Zero
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) ~~[S]~~ 1612. Check If Two Expression Trees are Equivalent
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) ~~[S]~~ 1614. Maximum Nesting Depth of the Parentheses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximal-network-rank/) ~~[S]~~ 1615. Maximal Network Rank
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) ~~[S]~~ 1616. Split Two Strings to Make Palindrome
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) ~~[S]~~ 1617. Count Subtrees With Max Distance Between Cities
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) ~~[S]~~ 1618. Maximum Font to Fit a Sentence in a Screen
 </details>
 
 ## How am I generated?

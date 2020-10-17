@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-23-orange.svg)
+![Progress](https://img.shields.io/badge/Count-24-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
@@ -9,6 +9,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/33.%20Search%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0033. Search in Rotated Sorted Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](.././LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](.././LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](.././LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](.././LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array 
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](.././LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](.././LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II 

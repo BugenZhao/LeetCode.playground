@@ -8,5 +8,7 @@
         <page name='859. Buddy Strings'/>
         <page name='148. Sort List'/>
         <page name='189. Rotate Array'/>
+        <page name='74. Search a 2D Matrix'/>
+        <page name='187. Repeated DNA Sequences'/>
     </pages>
 </playground>
