@@ -62,7 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
-- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](./LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
@@ -221,7 +221,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-anagram/) [[S]](./LeetCode.playground/Pages/242-Valid%20Anagram.xcplaygroundpage/Contents.swift) 0242. Valid Anagram *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-digits/) [[S]](./LeetCode.playground/Pages/258.%20Add%20Digits.xcplaygroundpage/Contents.swift) 0258. Add Digits *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](./LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
