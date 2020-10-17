@@ -10,5 +10,6 @@
         <page name='189. Rotate Array'/>
         <page name='74. Search a 2D Matrix'/>
         <page name='187. Repeated DNA Sequences'/>
+        <page name='240. Search a 2D Matrix II'/>
     </pages>
 </playground>
