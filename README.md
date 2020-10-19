@@ -74,6 +74,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-search/) [[S]](./LeetCode20Q4.playground/Pages/704.%20Binary%20Search.xcplaygroundpage/Contents.swift) 0704. Binary Search *[Binary Search, Array]*
 
 ## Contests
+- [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-210/) [[S]](./Contests/Weekly%20Contest%20210.playground/Pages/) Weekly Contest 210
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
