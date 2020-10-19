@@ -11,5 +11,6 @@
         <page name='74. Search a 2D Matrix'/>
         <page name='187. Repeated DNA Sequences'/>
         <page name='240. Search a 2D Matrix II'/>
+        <page name='1007. Minimum Domino Rotations For Equal Row'/>
     </pages>
 </playground>
