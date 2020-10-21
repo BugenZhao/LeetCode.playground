@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-350%20%2F%201474%20=%2023.74%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-351%20%2F%201474%20=%2023.81%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-108-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-188-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-189-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](./LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](./LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) [[S]](./LeetCode20Q4.playground/Pages/316.%20Remove%20Duplicate%20Letters.xcplaygroundpage/Contents.swift) 0316. Remove Duplicate Letters *[Greedy, DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](./LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST *[Tree, Stack, String]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -319,6 +319,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](./LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](./LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](./LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](./LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](./LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time *[Graph, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](./LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/partition-labels/) [[S]](./LeetCode.playground/Pages/763.%20Partition%20Labels.xcplaygroundpage/Contents.swift) 0763. Partition Labels *[Greedy]*
@@ -885,7 +886,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/my-calendar-ii/) ~~[S]~~ 0731. My Calendar II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/my-calendar-iii/) ~~[S]~~ 0732. My Calendar III
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sentence-similarity/) ~~[S]~~ 0734. Sentence Similarity
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) ~~[S]~~ 0735. Asteroid Collision
 - [ ] 😫 [[Q]](https://leetcode.com/problems/parse-lisp-expression/) ~~[S]~~ 0736. Parse Lisp Expression
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sentence-similarity-ii/) ~~[S]~~ 0737. Sentence Similarity II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/monotone-increasing-digits/) ~~[S]~~ 0738. Monotone Increasing Digits
