@@ -14,5 +14,7 @@
         <page name='1007. Minimum Domino Rotations For Equal Row'/>
         <page name='735. Asteroid Collision'/>
         <page name='456. 132 Pattern'/>
+        <page name='111. Minimum Depth of Binary Tree'/>
+        <page name='948. Bag of Tokens'/>
     </pages>
 </playground>

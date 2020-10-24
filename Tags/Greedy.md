@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-27-orange.svg)
+![Progress](https://img.shields.io/badge/Count-28-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Greedy Problems
@@ -23,6 +23,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](.././LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/boats-to-save-people/) [[S]](.././LeetCode.playground/Pages/881-Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift) 0881. Boats to Save People 
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](.././LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](.././LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](.././LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](.././LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](.././LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling 
