@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-351%20%2F%201474%20=%2023.81%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-352%20%2F%201474%20=%2023.88%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-108-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-189-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-190-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](./LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](./LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](./LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](./LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List *[Linked List, Divide & Conquer, Sort, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) [[S]](./LeetCode20Q4.playground/Pages/316.%20Remove%20Duplicate%20Letters.xcplaygroundpage/Contents.swift) 0316. Remove Duplicate Letters *[Greedy, DP]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -280,6 +280,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](./LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](./LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](./LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern *[Stack, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](./LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
 - [X] 😊 [[Q]](https://leetcode.com/problems/island-perimeter/) [[S]](./LeetCode.playground/Pages/463.%20Island%20Perimeter.xcplaygroundpage/Contents.swift) 0463. Island Perimeter 
@@ -679,7 +680,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) ~~[S]~~ 0455. Assign Cookies
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/132-pattern/) ~~[S]~~ 0456. 132 Pattern
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-array-loop/) ~~[S]~~ 0457. Circular Array Loop
 - [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~ 0458. Poor Pigs
 - [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~ 0460. LFU Cache
