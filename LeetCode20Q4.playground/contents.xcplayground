@@ -13,5 +13,6 @@
         <page name='240. Search a 2D Matrix II'/>
         <page name='1007. Minimum Domino Rotations For Equal Row'/>
         <page name='735. Asteroid Collision'/>
+        <page name='456. 132 Pattern'/>
     </pages>
 </playground>
