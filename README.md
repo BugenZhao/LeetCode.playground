@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-355%20%2F%201483%20=%2023.94%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-356%20%2F%201483%20=%2024.01%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-109-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-191-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-192-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-55-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) [[S]](./LeetCode20Q4.playground/Pages/799.%20Champagne%20Tower.xcplaygroundpage/Contents.swift) 0799. Champagne Tower *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](./LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](./LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens *[Two Pointers, O(n), Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) [[S]](./LeetCode20Q4.playground/Pages/111.%20Minimum%20Depth%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0111. Minimum Depth of Binary Tree *[Tree]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](./LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -330,6 +330,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) [[S]](./LeetCode.playground/Pages/785.%20Is%20Graph%20Bipartite?.xcplaygroundpage/Contents.swift) 0785. Is Graph Bipartite? *[Graph, DFS]*
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops *[Graph, Shortest Path]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](./LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) [[S]](./LeetCode20Q4.playground/Pages/799.%20Champagne%20Tower.xcplaygroundpage/Contents.swift) 0799. Champagne Tower *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](./LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](./LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](./LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
@@ -943,7 +944,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) ~~[S]~~ 0795. Number of Subarrays with Bounded Maximum
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotate-string/) ~~[S]~~ 0796. Rotate String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rotation-with-highest-score/) ~~[S]~~ 0798. Smallest Rotation with Highest Score
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) ~~[S]~~ 0799. Champagne Tower
 - [ ] 😊 [[Q]](https://leetcode.com/problems/similar-rgb-color/) ~~[S]~~ 0800. Similar RGB Color
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) ~~[S]~~ 0801. Minimum Swaps To Make Sequences Increasing
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-eventual-safe-states/) ~~[S]~~ 0802. Find Eventual Safe States
