@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-47-orange.svg)
+![Progress](https://img.shields.io/badge/Count-48-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
@@ -51,3 +51,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](.././LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones 
 - [X] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iii/) [[S]](.././LeetCode.playground/Pages/1278-Palindrome%20Partitioning%20III.xcplaygroundpage/Contents.swift) 1278. Palindrome Partitioning III 
 - [X] 📝 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) [[S]](.././LeetCode.playground/Pages/1289.%20Minimum%20Falling%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 1289. Minimum Falling Path Sum II 
+- [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](.././LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV 

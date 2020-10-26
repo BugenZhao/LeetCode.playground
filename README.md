@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-354%20%2F%201474%20=%2024.02%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-355%20%2F%201483%20=%2023.94%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-109-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-191-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-54-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-55-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](./LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](./LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens *[Two Pointers, O(n), Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) [[S]](./LeetCode20Q4.playground/Pages/111.%20Minimum%20Depth%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0111. Minimum Depth of Binary Tree *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](./LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern *[Stack, O(n)]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](./LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](./LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List *[Linked List, Divide & Conquer, Sort, Two Pointers]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -437,6 +437,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](./LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](./LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
+- [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](./LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 
 <details>
 <summary>Todo</summary>
@@ -516,7 +517,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~ 0224. Basic Calculator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~ 0225. Implement Stack using Queues
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~ 0227. Basic Calculator II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
+- [ ] 😊 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~ 0232. Implement Queue using Stacks
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~ 0233. Number of Digit One
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~ 0234. Palindrome Linked List
@@ -1466,7 +1467,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reformat-date/) ~~[S]~~ 1507. Reformat Date
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) ~~[S]~~ 1508. Range Sum of Sorted Subarray Sums
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) ~~[S]~~ 1509. Minimum Difference Between Largest and Smallest Value in Three Moves
-- [ ] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) ~~[S]~~ 1510. Stone Game IV
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-good-pairs/) ~~[S]~~ 1512. Number of Good Pairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-substrings-with-only-1s/) ~~[S]~~ 1513. Number of Substrings With Only 1s
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-maximum-probability/) ~~[S]~~ 1514. Path with Maximum Probability
@@ -1561,6 +1561,15 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) ~~[S]~~ 1616. Split Two Strings to Make Palindrome
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) ~~[S]~~ 1617. Count Subtrees With Max Distance Between Cities
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) ~~[S]~~ 1618. Maximum Font to Fit a Sentence in a Screen
+- [ ] 😊 [[Q]](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) ~~[S]~~ 1619. Mean of Array After Removing Some Elements
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) ~~[S]~~ 1620. Coordinate With Maximum Network Quality
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) ~~[S]~~ 1621. Number of Sets of K Non-Overlapping Line Segments
+- [ ] 😫 [[Q]](https://leetcode.com/problems/fancy-sequence/) ~~[S]~~ 1622. Fancy Sequence
+- [ ] 😊 [[Q]](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) ~~[S]~~ 1624. Largest Substring Between Two Equal Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) ~~[S]~~ 1625. Lexicographically Smallest String After Applying Operations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/best-team-with-no-conflicts/) ~~[S]~~ 1626. Best Team With No Conflicts
+- [ ] 😫 [[Q]](https://leetcode.com/problems/graph-connectivity-with-threshold/) ~~[S]~~ 1627. Graph Connectivity With Threshold
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/) ~~[S]~~ 1628. Design an Expression Tree With Evaluate Function
 </details>
 
 ## How am I generated?
