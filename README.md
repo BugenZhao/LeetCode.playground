@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-356%20%2F%201483%20=%2024.01%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-109-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-192-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-358%20%2F%201483%20=%2024.14%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-110-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-193-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-55-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/summary-ranges/) [[S]](./LeetCode20Q4.playground/Pages/228.%20Summary%20Ranges.xcplaygroundpage/Contents.swift) 0228. Summary Ranges 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) [[S]](./LeetCode20Q4.playground/Pages/849.%20Maximize%20Distance%20to%20Closest%20Person.xcplaygroundpage/Contents.swift) 0849. Maximize Distance to Closest Person *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) [[S]](./LeetCode20Q4.playground/Pages/799.%20Champagne%20Tower.xcplaygroundpage/Contents.swift) 0799. Champagne Tower *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](./LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](./LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens *[Two Pointers, O(n), Greedy]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](./LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](./LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](./LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](./LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-dna-sequences/) [[S]](./LeetCode20Q4.playground/Pages/187.%20Repeated%20DNA%20Sequences.xcplaygroundpage/Contents.swift) 0187. Repeated DNA Sequences *[Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -219,6 +219,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) [[S]](./LeetCode.playground/Pages/220.%20Contains%20Duplicate%20III.xcplaygroundpage/Contents.swift) 0220. Contains Duplicate III *[Hash Table, Sliding Windows]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](./LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree *[Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/summary-ranges/) [[S]](./LeetCode20Q4.playground/Pages/228.%20Summary%20Ranges.xcplaygroundpage/Contents.swift) 0228. Summary Ranges 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/majority-element-ii/) [[S]](./LeetCode.playground/Pages/229.%20Majority%20Element%20II.xcplaygroundpage/Contents.swift) 0229. Majority Element II *[Array, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./LeetCode.playground/Pages/231-Power%20of%20Two.xcplaygroundpage/Contents.swift) 0231. Power of Two *[Mathematics]*
@@ -338,6 +339,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 📝 [[Q]](https://leetcode.com/problems/similar-string-groups/) [[S]](./LeetCode.playground/Pages/839-Similar%20String%20Groups.xcplaygroundpage/Contents.swift) 0839. Similar String Groups 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/keys-and-rooms/) [[S]](./LeetCode.playground/Pages/841.%20Keys%20and%20Rooms.xcplaygroundpage/Contents.swift) 0841. Keys and Rooms *[Graph, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) [[S]](./LeetCode.playground/Pages/848.%20Shifting%20Letters.xcplaygroundpage/Contents.swift) 0848. Shifting Letters 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) [[S]](./LeetCode20Q4.playground/Pages/849.%20Maximize%20Distance%20to%20Closest%20Person.xcplaygroundpage/Contents.swift) 0849. Maximize Distance to Closest Person *[O(n)]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./LeetCode.playground/Pages/850-Rectangle%20Area%20II.xcplaygroundpage/Contents.swift) 0850. Rectangle Area II *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](./LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/buddy-strings/) [[S]](./LeetCode20Q4.playground/Pages/859.%20Buddy%20Strings.xcplaygroundpage/Contents.swift) 0859. Buddy Strings *[String]*
@@ -518,7 +520,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~ 0224. Basic Calculator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~ 0225. Implement Stack using Queues
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~ 0227. Basic Calculator II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~ 0228. Summary Ranges
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~ 0232. Implement Queue using Stacks
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~ 0233. Number of Digit One
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~ 0234. Palindrome Linked List
@@ -986,7 +987,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-mountain-in-array/) ~~[S]~~ 0845. Longest Mountain in Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/hand-of-straights/) ~~[S]~~ 0846. Hand of Straights
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~ 0847. Shortest Path Visiting All Nodes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~ 0849. Maximize Distance to Closest Person
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~ 0851. Loud and Rich
 - [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~ 0852. Peak Index in a Mountain Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/car-fleet/) ~~[S]~~ 0853. Car Fleet
