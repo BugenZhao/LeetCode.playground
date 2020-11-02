@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-30-orange.svg)
+![Progress](https://img.shields.io/badge/Count-31-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DFS Problems
@@ -8,6 +8,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](.././LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](.././LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching 
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](.././LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens 
+- [X] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) [[S]](.././LeetCode20Q4.playground/Pages/99.%20Recover%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0099. Recover Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](.././LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](.././LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](.././LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions 

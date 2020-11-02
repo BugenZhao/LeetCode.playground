@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-17-orange.svg)
+![Progress](https://img.shields.io/badge/Count-18-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Linked List Problems
@@ -15,6 +15,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](.././LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](.././LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](.././LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) [[S]](.././LeetCode20Q4.playground/Pages/147.%20Insertion%20Sort%20List.xcplaygroundpage/Contents.swift) 0147. Insertion Sort List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](.././LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](.././LeetCode.playground/Pages/203.%20Remove%20Linked%20List%20Elements.xcplaygroundpage/Contents.swift) 0203. Remove Linked List Elements 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](.././LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List 
