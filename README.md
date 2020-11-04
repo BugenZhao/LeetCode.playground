@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-360%20%2F%201483%20=%2024.28%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-110-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-361%20%2F%201496%20=%2024.13%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-111-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-194-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-56-ca5c54.svg)
 
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/consecutive-characters/) [[S]](./LeetCode20Q4.playground/Pages/1446.%20Consecutive%20Characters.xcplaygroundpage/Contents.swift) 1446. Consecutive Characters 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) [[S]](./LeetCode20Q4.playground/Pages/147.%20Insertion%20Sort%20List.xcplaygroundpage/Contents.swift) 0147. Insertion Sort List *[Linked List]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) [[S]](./LeetCode20Q4.playground/Pages/99.%20Recover%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0099. Recover Binary Search Tree *[O(n), DFS, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/summary-ranges/) [[S]](./LeetCode20Q4.playground/Pages/228.%20Summary%20Ranges.xcplaygroundpage/Contents.swift) 0228. Summary Ranges 
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](./LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](./LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens *[Two Pointers, O(n), Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) [[S]](./LeetCode20Q4.playground/Pages/111.%20Minimum%20Depth%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0111. Minimum Depth of Binary Tree *[Tree]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](./LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern *[Stack, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](./LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -242,7 +242,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bulls-and-cows/) [[S]](./LeetCode.playground/Pages/299.%20Bulls%20and%20Cows.xcplaygroundpage/Contents.swift) 0299. Bulls and Cows 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](./LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown *[DP, State Machine, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](./LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](./LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-duplicate-letters/) [[S]](./LeetCode20Q4.playground/Pages/316.%20Remove%20Duplicate%20Letters.xcplaygroundpage/Contents.swift) 0316. Remove Duplicate Letters *[Greedy, DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./LeetCode.playground/Pages/326.%20Power%20of%20Three.xcplaygroundpage/Contents.swift) 0326. Power of Three 
@@ -437,6 +437,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[S]](./LeetCode.playground/Pages/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies.xcplaygroundpage/Contents.swift) 1431. Kids With the Greatest Number of Candies *[Array]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) [[S]](./LeetCode.playground/Pages/1432.%20Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer.xcplaygroundpage/Contents.swift) 1432. Max Difference You Can Get From Changing an Integer *[Mathematics, Greedy]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/destination-city/) [[S]](./LeetCode.playground/Pages/1436.%20Destination%20City.xcplaygroundpage/Contents.swift) 1436. Destination City *[Hash Table, Graph]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/consecutive-characters/) [[S]](./LeetCode20Q4.playground/Pages/1446.%20Consecutive%20Characters.xcplaygroundpage/Contents.swift) 1446. Consecutive Characters 
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) [[S]](./LeetCode.playground/Pages/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.xcplaygroundpage/Contents.swift) 1450. Number of Students Doing Homework at a Given Time 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](./LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](./LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
@@ -499,7 +500,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) ~~[S]~~ 0160. Intersection of Two Linked Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/one-edit-distance/) ~~[S]~~ 0161. One Edit Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-peak-element/) ~~[S]~~ 0162. Find Peak Element
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
+- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-gap/) ~~[S]~~ 0164. Maximum Gap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~ 0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~ 0167. Two Sum II - Input array is sorted
@@ -679,7 +680,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequence-reconstruction/) ~~[S]~~ 0444. Sequence Reconstruction
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers-ii/) ~~[S]~~ 0445. Add Two Numbers II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) ~~[S]~~ 0446. Arithmetic Slices II - Subsequence
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~ 0447. Number of Boomerangs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
@@ -1415,7 +1416,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) ~~[S]~~ 1442. Count Triplets That Can Form Two Arrays of Equal XOR
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) ~~[S]~~ 1443. Minimum Time to Collect All Apples in a Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) ~~[S]~~ 1444. Number of Ways of Cutting a Pizza
-- [ ] 😊 [[Q]](https://leetcode.com/problems/consecutive-characters/) ~~[S]~~ 1446. Consecutive Characters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplified-fractions/) ~~[S]~~ 1447. Simplified Fractions
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) ~~[S]~~ 1448. Count Good Nodes in Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) ~~[S]~~ 1449. Form Largest Integer With Digits That Add up to Target
@@ -1570,6 +1570,19 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/best-team-with-no-conflicts/) ~~[S]~~ 1626. Best Team With No Conflicts
 - [ ] 😫 [[Q]](https://leetcode.com/problems/graph-connectivity-with-threshold/) ~~[S]~~ 1627. Graph Connectivity With Threshold
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/) ~~[S]~~ 1628. Design an Expression Tree With Evaluate Function
+- [ ] 😊 [[Q]](https://leetcode.com/problems/slowest-key/) ~~[S]~~ 1629. Slowest Key
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-subarrays/) ~~[S]~~ 1630. Arithmetic Subarrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/path-with-minimum-effort/) ~~[S]~~ 1631. Path With Minimum Effort
+- [ ] 😫 [[Q]](https://leetcode.com/problems/rank-transform-of-a-matrix/) ~~[S]~~ 1632. Rank Transform of a Matrix
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) ~~[S]~~ 1634. Add Two Polynomials Represented as Linked Lists
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-increasing-frequency/) ~~[S]~~ 1636. Sort Array by Increasing Frequency
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) ~~[S]~~ 1637. Widest Vertical Area Between Two Points Containing No Points
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) ~~[S]~~ 1638. Count Substrings That Differ by One Character
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) ~~[S]~~ 1639. Number of Ways to Form a Target String Given a Dictionary
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-array-formation-through-concatenation/) ~~[S]~~ 1640. Check Array Formation Through Concatenation
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-sorted-vowel-strings/) ~~[S]~~ 1641. Count Sorted Vowel Strings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/furthest-building-you-can-reach/) ~~[S]~~ 1642. Furthest Building You Can Reach
+- [ ] 😫 [[Q]](https://leetcode.com/problems/kth-smallest-instructions/) ~~[S]~~ 1643. Kth Smallest Instructions
 </details>
 
 ## How am I generated?

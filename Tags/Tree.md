@@ -21,7 +21,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](.././LeetCode.playground/Pages/222.%20Count%20Complete%20Tree%20Nodes.xcplaygroundpage/Contents.swift) 0222. Count Complete Tree Nodes 
 - [X] 😊 [[Q]](https://leetcode.com/problems/invert-binary-tree/) [[S]](.././LeetCode.playground/Pages/226-Invert%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0226. Invert Binary Tree 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](.././LeetCode.playground/Pages/230-Kth%20Smallest%20Element%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0230. Kth Smallest Element in a BST 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](.././LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](.././LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) [[S]](.././LeetCode.playground/Pages/404.%20Sum%20of%20Left%20Leaves.xcplaygroundpage/Contents.swift) 0404. Sum of Left Leaves 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](.././LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](.././LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III 

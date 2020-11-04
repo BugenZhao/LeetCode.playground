@@ -2,7 +2,7 @@
  ### Find min height trees
  Aka., find the center(s) of the tree. Just keep removing the leaves and there will be 1 or 2 centers left.
  */
-let tags: [Tag] = [.tree]
+let tags: [Tag] = [.tree, .marked]
 
 class Solution {
     func findMinHeightTrees(_ n: Int, _ edges: [[Int]]) -> [Int] {

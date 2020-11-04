@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-41-orange.svg)
+![Progress](https://img.shields.io/badge/Count-42-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## **Marked** Problems
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](.././LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](.././LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](.././LeetCode.playground/Pages/300.%20Longest%20Increasing%20Subsequence.xcplaygroundpage/Contents.swift) 0300. Longest Increasing Subsequence *[DP, Binary Search]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-height-trees/) [[S]](.././LeetCode.playground/Pages/310-Minimum%20Height%20Trees.xcplaygroundpage/Contents.swift) 0310. Minimum Height Trees *[Tree]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) [[S]](.././LeetCode.playground/Pages/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.xcplaygroundpage/Contents.swift) 0315. Count of Smaller Numbers After Self *[Sort, Divide & Conquer]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/queue-reconstruction-by-height/) [[S]](.././LeetCode.playground/Pages/406-Queue%20Reconstruction%20by%20Height.xcplaygroundpage/Contents.swift) 0406. Queue Reconstruction by Height *[Greedy, Sort]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) [[S]](.././LeetCode.playground/Pages/435.%20Non-overlapping%20Intervals.xcplaygroundpage/Contents.swift) 0435. Non-overlapping Intervals *[Greedy]*
