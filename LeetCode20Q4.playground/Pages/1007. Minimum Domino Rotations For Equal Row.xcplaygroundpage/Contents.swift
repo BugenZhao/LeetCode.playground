@@ -1,5 +1,6 @@
 class Solution {
     func minDominoRotations(_ A: [Int], _ B: [Int]) -> Int {
+        3.advanced(by: 4)
         var countA = [Int: Int]()
         var countB = [Int: Int]()
         for (a, b) in zip(A, B) {

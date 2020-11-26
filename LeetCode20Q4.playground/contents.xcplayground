@@ -20,5 +20,12 @@
         <page name='799. Champagne Tower'/>
         <page name='228. Summary Ranges'/>
         <page name='849. Maximize Distance to Closest Person'/>
+        <page name='99. Recover Binary Search Tree'/>
+        <page name='147. Insertion Sort List'/>
+        <page name='1446. Consecutive Characters'/>
+        <page name='98. Validate Binary Search Tree'/>
+        <page name='1217. Minimum Cost to Move Chips to The Same Position'/>
+        <page name='1283. Find the Smallest Divisor Given a Threshold'/>
+        <page name='1015. Smallest Integer Divisible by K'/>
     </pages>
 </playground>
