@@ -16,7 +16,7 @@ let fileManager = FileManager.default
 
 let currentURL = URL(fileURLWithPath: fileManager.currentDirectoryPath)
 let localCacheURL = URL(fileURLWithPath: "./Scripts/Renderer/Resources/Questions.json", relativeTo: currentURL)
-let pagesRelativePaths = ["", "20Q4"].map { "./LeetCode\($0).playground/Pages/" }
+let pagesRelativePaths = try! fileManager.contentsOfDirectory(atPath: "./").filter { $0.hasPrefix("LeetCode") && $0.hasSuffix(".playground") }.map { $0 + "/Pages/" }
 let pagesURLs = pagesRelativePaths.map { URL(fileURLWithPath: $0, relativeTo: currentURL) }
 let contestsRelativePath = "./Contests/"
 let contestsURL = URL(fileURLWithPath: contestsRelativePath, relativeTo: currentURL)
