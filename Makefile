@@ -11,6 +11,10 @@ icloud:
 	rsync -ur ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
 	sed -i ".bak" "s/macos/ios/g" ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents/LeetCode.playground/contents.xcplayground
 	
+lc-%:
+	cp -R Templates/LC.playground LeetCode$*.playground
+	make sync
+	
 clean:
 	rm -f README.md
 	rm -f ./Scripts/*.json
