@@ -5,7 +5,7 @@
 Bugen's LeetCode solutions in Swift Playground.
 ## Graph Problems
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](.././LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](.././LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder 
+- [X] 😫 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](.././LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) [[S]](.././LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift) 0130. Surrounded Regions 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/clone-graph/) [[S]](.././LeetCode.playground/Pages/133.%20Clone%20Graph.xcplaygroundpage/Contents.swift) 0133. Clone Graph 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](.././LeetCode.playground/Pages/207-Course%20Schedule.xcplaygroundpage/Contents.swift) 0207. Course Schedule 

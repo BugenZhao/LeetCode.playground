@@ -5,7 +5,7 @@
 Bugen's LeetCode solutions in Swift Playground.
 ## Shortest Path Problems
 - [X] 🤨 [[Q]](https://leetcode.com/problems/triangle/) [[S]](.././LeetCode.playground/Pages/120-Triangle.xcplaygroundpage/Contents.swift) 0120. Triangle 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](.././LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder 
+- [X] 😫 [[Q]](https://leetcode.com/problems/word-ladder/) [[S]](.././LeetCode.playground/Pages/127-Word%20Ladder.xcplaygroundpage/Contents.swift) 0127. Word Ladder 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) [[S]](.././LeetCode.playground/Pages/399-Evaluate%20Division.xcplaygroundpage/Contents.swift) 0399. Evaluate Division 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/network-delay-time/) [[S]](.././LeetCode.playground/Pages/743-Network%20Delay%20Time.xcplaygroundpage/Contents.swift) 0743. Network Delay Time 
 - [X] 📝 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](.././LeetCode.playground/Pages/787.%20Cheapest%20Flights%20Within%20K%20Stops.xcplaygroundpage/Contents.swift) 0787. Cheapest Flights Within K Stops 
