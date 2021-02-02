@@ -1,5 +1,3 @@
-let tags: [Tag] = [.tree]
-
 class Solution {
     func countAndSay(_ N: Int) -> String {
         if N == 1 { return "1" }

@@ -1,3 +1,5 @@
+let tags: [Tag] = [.tree]
+
 class Solution {
     func trimBST(_ root: TreeNode?, _ low: Int, _ high: Int) -> TreeNode? {
         guard let root = root else { return nil }
