@@ -4,5 +4,6 @@
         <page name='38. Count and Say'/>
         <page name='669. Trim a Binary Search Tree'/>
         <page name='46. Permutations'/>
+        <page name='684. Redundant Connection'/>
     </pages>
 </playground>

@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-368%20%2F%201581%20=%2023.28%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-370%20%2F%201581%20=%2023.40%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-198-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-200-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
@@ -70,8 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) [[S]](LeetCode20Q4.playground/Pages/1015.%20Smallest%20Integer%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 1015. Smallest Integer Divisible by K 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [[S]](LeetCode20Q4.playground/Pages/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.xcplaygroundpage/Contents.swift) 1283. Find the Smallest Divisor Given a Threshold 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
-- [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-222/) [[S]](./Contests/Weekly%20Contest%20222.playground/Pages/) Weekly Contest 222
@@ -319,6 +319,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-width-of-binary-tree/) [[S]](LeetCode.playground/Pages/662.%20Maximum%20Width%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0662. Maximum Width of Binary Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/repeated-string-match/) [[S]](LeetCode.playground/Pages/686.%20Repeated%20String%20Match.xcplaygroundpage/Contents.swift) 0686. Repeated String Match *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/binary-number-with-alternating-bits/) [[S]](LeetCode.playground/Pages/693.%20Binary%20Number%20with%20Alternating%20Bits.xcplaygroundpage/Contents.swift) 0693. Binary Number with Alternating Bits *[Bit Manipulation]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](LeetCode.playground/Pages/700.%20Search%20in%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0700. Search in a Binary Search Tree *[Tree]*
@@ -368,6 +369,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits *[String, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/prison-cells-after-n-days/) [[S]](LeetCode.playground/Pages/957.%20Prison%20Cells%20After%20N%20Days.xcplaygroundpage/Contents.swift) 0957. Prison Cells After N Days *[Hash Table]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](LeetCode.playground/Pages/967.%20Numbers%20With%20Same%20Consecutive%20Differences.xcplaygroundpage/Contents.swift) 0967. Numbers With Same Consecutive Differences *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) [[S]](LeetCode.playground/Pages/969.%20Pancake%20Sorting.xcplaygroundpage/Contents.swift) 0969. Pancake Sorting *[Sort]*
@@ -856,7 +858,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/next-closest-time/) ~~[S]~~ 0681. Next Closest Time
 - [ ] 😊 [[Q]](https://leetcode.com/problems/baseball-game/) ~~[S]~~ 0682. Baseball Game
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-empty-slots/) ~~[S]~~ 0683. K Empty Slots
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) ~~[S]~~ 0684. Redundant Connection
 - [ ] 😫 [[Q]](https://leetcode.com/problems/redundant-connection-ii/) ~~[S]~~ 0685. Redundant Connection II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-univalue-path/) ~~[S]~~ 0687. Longest Univalue Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/knight-probability-in-chessboard/) ~~[S]~~ 0688. Knight Probability in Chessboard
@@ -1082,7 +1083,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) ~~[S]~~ 0955. Delete Columns to Make Sorted II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/tallest-billboard/) ~~[S]~~ 0956. Tallest Billboard
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) ~~[S]~~ 0958. Check Completeness of a Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) ~~[S]~~ 0959. Regions Cut By Slashes
 - [ ] 😫 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) ~~[S]~~ 0960. Delete Columns to Make Sorted III
 - [ ] 😊 [[Q]](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) ~~[S]~~ 0961. N-Repeated Element in Size 2N Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-area-rectangle-ii/) ~~[S]~~ 0963. Minimum Area Rectangle II

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-42-orange.svg)
+![Progress](https://img.shields.io/badge/Count-43-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## **Marked** Problems
@@ -41,6 +41,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) [[S]](../LeetCode.playground/Pages/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.xcplaygroundpage/Contents.swift) 0857. Minimum Cost to Hire K Workers *[Heap, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](../LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](../LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](../LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](../LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp *[Stack, Two Pointers]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) [[S]](../LeetCode.playground/Pages/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.xcplaygroundpage/Contents.swift) 1203. Sort Items by Groups Respecting Dependencies *[Graph, DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](../LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
