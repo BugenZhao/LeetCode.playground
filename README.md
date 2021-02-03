@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-406%20%2F%201581%20=%2025.68%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-398%20%2F%201581%20=%2025.17%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-200-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
@@ -74,14 +74,12 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 
 ## Contests
-- [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-222/) [[S]](./Contests/Weekly%20Contest%20222.playground/Pages/) Weekly Contest 222
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-210/) [[S]](./Contests/Weekly%20Contest%20210.playground/Pages/) Weekly Contest 210
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-209/) [[S]](./Contests/Weekly%20Contest%20209.playground/Pages/) Weekly Contest 209
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-205/) [[S]](./Contests/Weekly%20Contest%20205.playground/Pages/) Weekly Contest 205
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-203/) [[S]](./Contests/Weekly%20Contest%20203.playground/Pages/) Weekly Contest 203
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-202/) [[S]](./Contests/Weekly%20Contest%20202.playground/Pages/) Weekly Contest 202
-- [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-111/) [[S]](./Contests/Weekly%20Contest%20111.playground/Pages/) Weekly Contest 111
 - [X] 🔖 [[C]](https://leetcode.com/contest/biweekly-contest-37/) [[S]](./Contests/Biweekly%20Contest%2037.playground/Pages/) Biweekly Contest 37
 
 ## Problems
