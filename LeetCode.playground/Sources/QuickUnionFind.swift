@@ -14,7 +14,8 @@ public struct QuickUnionFind {
         return parentOf[index]
     }
 
-    public mutating func union(_ lhs: SetIndex, _ rhs: SetIndex) {
+    @discardableResult
+    public mutating func union(_ lhs: SetIndex, _ rhs: SetIndex) -> Bool {
         let lhsIndex = set(by: lhs)
         let rhsIndex = set(by: rhs)
         if lhsIndex != rhsIndex {
@@ -26,6 +27,9 @@ public struct QuickUnionFind {
                 sizeOf[lhsIndex] += sizeOf[rhsIndex]
             }
             count -= 1
+            return true
+        } else {
+            return false
         }
     }
 
