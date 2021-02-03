@@ -27,6 +27,8 @@ struct Contest {
     var title: String
     var titleSlug: String
     var path: String
+    
+    let questionCount: Int = 4
 
     init(kind: Kind, id: Int, path: String) {
         self.kind = kind

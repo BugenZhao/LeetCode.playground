@@ -13,7 +13,7 @@ class Writer {
         let count = dict.count
 
         let solved = dict.filter(\.value.solved)
-        let solvedCount = solved.count
+        let solvedCount = solved.count + contests.map(\.questionCount).reduce(0, +)
         let difficultySolvedCount = (1...3).map { d in solved.filter { $1.difficulty == d }.count }
         let difficulties = ["Easy", "Medium", "Hard"]
         let difficultyColors = ["74b566", "e7af5f", "ca5c54"]

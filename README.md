@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-370%20%2F%201581%20=%2023.40%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-406%20%2F%201581%20=%2025.68%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-200-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
