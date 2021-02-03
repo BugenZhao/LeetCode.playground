@@ -3,5 +3,6 @@
     <pages>
         <page name='38. Count and Say'/>
         <page name='669. Trim a Binary Search Tree'/>
+        <page name='46. Permutations'/>
     </pages>
 </playground>

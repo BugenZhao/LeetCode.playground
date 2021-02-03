@@ -1,12 +1,13 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-31-orange.svg)
+![Progress](https://img.shields.io/badge/Count-32-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DFS Problems
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](../LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](../LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](../LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](../LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations 
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](../LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens 
 - [X] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) [[S]](../LeetCode20Q4.playground/Pages/99.%20Recover%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0099. Recover Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](../LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum 

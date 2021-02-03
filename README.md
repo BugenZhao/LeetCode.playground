@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-367%20%2F%201581%20=%2023.21%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-368%20%2F%201581%20=%2023.28%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-197-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-198-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) [[S]](LeetCode20Q4.playground/Pages/98.%20Validate%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0098. Validate Binary Search Tree 
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II *[O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/rotate-array/) [[S]](LeetCode20Q4.playground/Pages/189.%20Rotate%20Array.xcplaygroundpage/Contents.swift) 0189. Rotate Array *[Array, O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-222/) [[S]](./Contests/Weekly%20Contest%20222.playground/Pages/) Weekly Contest 222
@@ -127,6 +127,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/multiply-strings/) [[S]](LeetCode.playground/Pages/43.%20Multiply%20Strings.xcplaygroundpage/Contents.swift) 0043. Multiply Strings *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/wildcard-matching/) [[S]](LeetCode.playground/Pages/44-Wildcard%20Matching.xcplaygroundpage/Contents.swift) 0044. Wildcard Matching *[DFS, Greedy]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/jump-game-ii/) [[S]](LeetCode.playground/Pages/45-Jump%20Game%20II.xcplaygroundpage/Contents.swift) 0045. Jump Game II *[Greedy, BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) [[S]](LeetCode.playground/Pages/48.%20Rotate%20Image.xcplaygroundpage/Contents.swift) 0048. Rotate Image *[Array, Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](LeetCode.playground/Pages/50-Pow(x,%20n).xcplaygroundpage/Contents.swift) 0050. Pow(x, n) *[Mathematics]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/n-queens/) [[S]](LeetCode.playground/Pages/51.%20N-Queens.xcplaygroundpage/Contents.swift) 0051. N-Queens *[DFS, Bit Manipulation]*
@@ -459,7 +460,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~ 0018. 4Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~ 0030. Substring with Concatenation of All Words
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~ 0037. Sudoku Solver
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations/) ~~[S]~~ 0046. Permutations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~ 0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~ 0049. Group Anagrams
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix

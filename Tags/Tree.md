@@ -1,9 +1,10 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-39-orange.svg)
+![Progress](https://img.shields.io/badge/Count-40-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Tree Problems
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](../LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/unique-binary-search-trees/) [[S]](../LeetCode.playground/Pages/96.%20Unique%20Binary%20Search%20Trees.xcplaygroundpage/Contents.swift) 0096. Unique Binary Search Trees 
 - [X] 😫 [[Q]](https://leetcode.com/problems/recover-binary-search-tree/) [[S]](../LeetCode20Q4.playground/Pages/99.%20Recover%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0099. Recover Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/same-tree/) [[S]](../LeetCode.playground/Pages/100.%20Same%20Tree.xcplaygroundpage/Contents.swift) 0100. Same Tree 
