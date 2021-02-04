@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-398%20%2F%201581%20=%2025.17%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-399%20%2F%201581%20=%2025.24%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-200-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-201-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) [[S]](LeetCode20Q4.playground/Pages/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.xcplaygroundpage/Contents.swift) 1217. Minimum Cost to Move Chips to The Same Position 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) [[S]](LeetCode20Q4.playground/Pages/1015.%20Smallest%20Integer%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 1015. Smallest Integer Divisible by K 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [[S]](LeetCode20Q4.playground/Pages/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.xcplaygroundpage/Contents.swift) 1283. Find the Smallest Divisor Given a Threshold 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) [[S]](LeetCode20Q4.playground/Pages/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.xcplaygroundpage/Contents.swift) 1007. Minimum Domino Rotations For Equal Row 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -359,6 +359,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](LeetCode.playground/Pages/912-Sort%20an%20Array.xcplaygroundpage/Contents.swift) 0912. Sort an Array *[Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](LeetCode.playground/Pages/918-Maximum%20Sum%20Circular%20Subarray.xcplaygroundpage/Contents.swift) 0918. Maximum Sum Circular Subarray *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) [[S]](LeetCode.playground/Pages/920.%20Number%20of%20Music%20Playlists.xcplaygroundpage/Contents.swift) 0920. Number of Music Playlists *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity-ii/) [[S]](LeetCode.playground/Pages/922.%20Sort%20Array%20By%20Parity%20II.xcplaygroundpage/Contents.swift) 0922. Sort Array By Parity II *[Sort, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
@@ -1051,7 +1052,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~ 0916. Word Subsets
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) ~~[S]~~ 0917. Reverse Only Letters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~ 0919. Complete Binary Tree Inserter
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) ~~[S]~~ 0921. Minimum Add to Make Parentheses Valid
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/3sum-with-multiplicity/) ~~[S]~~ 0923. 3Sum With Multiplicity
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimize-malware-spread/) ~~[S]~~ 0924. Minimize Malware Spread
 - [ ] 😊 [[Q]](https://leetcode.com/problems/long-pressed-name/) ~~[S]~~ 0925. Long Pressed Name
