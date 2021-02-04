@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-399%20%2F%201581%20=%2025.24%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-112-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-400%20%2F%201581%20=%2025.30%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-113-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-201-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) [[S]](LeetCode20Q4.playground/Pages/98.%20Validate%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0098. Validate Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) [[S]](LeetCode20Q4.playground/Pages/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.xcplaygroundpage/Contents.swift) 1217. Minimum Cost to Move Chips to The Same Position 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) [[S]](LeetCode20Q4.playground/Pages/1015.%20Smallest%20Integer%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 1015. Smallest Integer Divisible by K 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) [[S]](LeetCode20Q4.playground/Pages/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.xcplaygroundpage/Contents.swift) 1283. Find the Smallest Divisor Given a Threshold 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -312,6 +312,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/task-scheduler/) [[S]](LeetCode.playground/Pages/621.%20Task%20Scheduler.xcplaygroundpage/Contents.swift) 0621. Task Scheduler *[Heap, Sort, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/course-schedule-iii/) [[S]](LeetCode.playground/Pages/630.%20Course%20Schedule%20III.xcplaygroundpage/Contents.swift) 0630. Course Schedule III *[Greedy]*
@@ -790,7 +791,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) ~~[S]~~ 0590. N-ary Tree Postorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/tag-validator/) ~~[S]~~ 0591. Tag Validator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-addition-and-subtraction/) ~~[S]~~ 0592. Fraction Addition and Subtraction
-- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) ~~[S]~~ 0594. Longest Harmonious Subsequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-addition-ii/) ~~[S]~~ 0598. Range Addition II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) ~~[S]~~ 0599. Minimum Index Sum of Two Lists
 - [ ] 😊 [[Q]](https://leetcode.com/problems/design-compressed-string-iterator/) ~~[S]~~ 0604. Design Compressed String Iterator

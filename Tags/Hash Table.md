@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-25-orange.svg)
+![Progress](https://img.shields.io/badge/Count-26-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Hash Table Problems
@@ -20,6 +20,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-iii/) [[S]](../LeetCode.playground/Pages/437.%20Path%20Sum%20III.xcplaygroundpage/Contents.swift) 0437. Path Sum III 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](../LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/k-diff-pairs-in-an-array/) [[S]](../LeetCode.playground/Pages/532.%20K-diff%20Pairs%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0532. K-diff Pairs in an Array 
+- [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](../LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence 
 - [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](../LeetCode.playground/Pages/705.%20Design%20HashSet.xcplaygroundpage/Contents.swift) 0705. Design HashSet 
 - [X] 😊 [[Q]](https://leetcode.com/problems/jewels-and-stones/) [[S]](../LeetCode.playground/Pages/771-Jewels%20and%20Stones%20.xcplaygroundpage/Contents.swift) 0771. Jewels and Stones 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) [[S]](../LeetCode.playground/Pages/835.%20Image%20Overlap.xcplaygroundpage/Contents.swift) 0835. Image Overlap 

@@ -5,5 +5,7 @@
         <page name='669. Trim a Binary Search Tree'/>
         <page name='46. Permutations'/>
         <page name='684. Redundant Connection'/>
+        <page name='959. Regions Cut By Slashes'/>
+        <page name='921. Minimum Add to Make Parentheses Valid'/>
     </pages>
 </playground>
