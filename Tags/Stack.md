@@ -1,11 +1,12 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-11-orange.svg)
+![Progress](https://img.shields.io/badge/Count-12-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Stack Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) [[S]](../LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 0020. Valid Parentheses 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](../LeetCode.playground/Pages/42-Trapping%20Rain%20Water.xcplaygroundpage/Contents.swift) 0042. Trapping Rain Water 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](../LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](../LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](../LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](../LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern 

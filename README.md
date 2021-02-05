@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-400%20%2F%201581%20=%2025.30%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-401%20%2F%201581%20=%2025.36%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-113-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-201-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-202-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) [[S]](LeetCode20Q4.playground/Pages/98.%20Validate%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0098. Validate Binary Search Tree 
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) [[S]](LeetCode20Q4.playground/Pages/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.xcplaygroundpage/Contents.swift) 1217. Minimum Cost to Move Chips to The Same Position 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/smallest-integer-divisible-by-k/) [[S]](LeetCode20Q4.playground/Pages/1015.%20Smallest%20Integer%20Divisible%20by%20K.xcplaygroundpage/Contents.swift) 1015. Smallest Integer Divisible by K 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -145,6 +145,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/add-binary/) [[S]](LeetCode.playground/Pages/67.%20Add%20Binary.xcplaygroundpage/Contents.swift) 0067. Add Binary 
 - [X] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) [[S]](LeetCode.playground/Pages/69-Sqrt(x).xcplaygroundpage/Contents.swift) 0069. Sqrt(x) *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) [[S]](LeetCode.playground/Pages/70-Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0070. Climbing Stairs *[DP]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](LeetCode.playground/Pages/72-Edit%20Distance.xcplaygroundpage/Contents.swift) 0072. Edit Distance *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) [[S]](LeetCode20Q4.playground/Pages/74.%20Search%20a%202D%20Matrix.xcplaygroundpage/Contents.swift) 0074. Search a 2D Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](LeetCode.playground/Pages/75.%20Sort%20Colors.xcplaygroundpage/Contents.swift) 0075. Sort Colors *[Array, Two Pointers]*
@@ -467,7 +468,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~ 0054. Spiral Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~ 0059. Spiral Matrix II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/text-justification/) ~~[S]~~ 0068. Text Justification
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~ 0071. Simplify Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~ 0073. Set Matrix Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~ 0077. Combinations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-search/) ~~[S]~~ 0079. Word Search
