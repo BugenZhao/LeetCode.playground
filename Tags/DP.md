@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-49-orange.svg)
+![Progress](https://img.shields.io/badge/Count-50-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## DP Problems
@@ -38,6 +38,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](../LeetCode.playground/Pages/518-Coin%20Change%202.xcplaygroundpage/Contents.swift) 0518. Coin Change 2 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](../LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](../LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](../LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray 
 - [X] 😊 [[Q]](https://leetcode.com/problems/min-cost-climbing-stairs/) [[S]](../LeetCode.playground/Pages/746-Min%20Cost%20Climbing%20Stairs.xcplaygroundpage/Contents.swift) 0746. Min Cost Climbing Stairs 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) [[S]](../LeetCode20Q4.playground/Pages/799.%20Champagne%20Tower.xcplaygroundpage/Contents.swift) 0799. Champagne Tower 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/super-egg-drop/) [[S]](../LeetCode.playground/Pages/887.%20Super%20Egg%20Drop.xcplaygroundpage/Contents.swift) 0887. Super Egg Drop 

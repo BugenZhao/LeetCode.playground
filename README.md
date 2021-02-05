@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-401%20%2F%201581%20=%2025.36%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-402%20%2F%201581%20=%2025.43%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-113-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-202-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-203-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) [[S]](LeetCode20Q4.playground/Pages/98.%20Validate%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0098. Validate Binary Search Tree 
-- [X] 😊 [[Q]](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) [[S]](LeetCode20Q4.playground/Pages/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.xcplaygroundpage/Contents.swift) 1217. Minimum Cost to Move Chips to The Same Position 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -329,6 +329,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/random-pick-with-blacklist/) [[S]](LeetCode.playground/Pages/710.%20Random%20Pick%20with%20Blacklist.xcplaygroundpage/Contents.swift) 0710. Random Pick with Blacklist *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/subarray-product-less-than-k/) [[S]](LeetCode.playground/Pages/713.%20Subarray%20Product%20Less%20Than%20K.xcplaygroundpage/Contents.swift) 0713. Subarray Product Less Than K *[O(n), Two Pointers]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) [[S]](LeetCode.playground/Pages/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.xcplaygroundpage/Contents.swift) 0714. Best Time to Buy and Sell Stock with Transaction Fee *[DP, State Machine, O(n)]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/split-linked-list-in-parts/) [[S]](LeetCode.playground/Pages/725.%20Split%20Linked%20List%20in%20Parts.xcplaygroundpage/Contents.swift) 0725. Split Linked List in Parts *[Linked List]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/flood-fill/) [[S]](LeetCode.playground/Pages/733-Flood%20Fill.xcplaygroundpage/Contents.swift) 0733. Flood Fill *[Graph, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision *[Stack, O(n)]*
@@ -881,7 +882,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/range-module/) ~~[S]~~ 0715. Range Module
 - [ ] 😊 [[Q]](https://leetcode.com/problems/max-stack/) ~~[S]~~ 0716. Max Stack
 - [ ] 😊 [[Q]](https://leetcode.com/problems/1-bit-and-2-bit-characters/) ~~[S]~~ 0717. 1-bit and 2-bit Characters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) ~~[S]~~ 0718. Maximum Length of Repeated Subarray
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) ~~[S]~~ 0719. Find K-th Smallest Pair Distance
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary/) ~~[S]~~ 0720. Longest Word in Dictionary
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/accounts-merge/) ~~[S]~~ 0721. Accounts Merge
