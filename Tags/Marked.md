@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-43-orange.svg)
+![Progress](https://img.shields.io/badge/Count-44-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## **Marked** Problems
@@ -47,3 +47,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](../LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) [[S]](../LeetCode.playground/Pages/1277-Count%20Square%20Submatrices%20with%20All%20Ones.xcplaygroundpage/Contents.swift) 1277. Count Square Submatrices with All Ones *[DP]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](../LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](../LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*

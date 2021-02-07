@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-19-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Bit Manipulation Problems
@@ -22,3 +22,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [[S]](../LeetCode.playground/Pages/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.xcplaygroundpage/Contents.swift) 1290. Convert Binary Number in a Linked List to Integer 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) [[S]](../LeetCode.playground/Pages/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One.xcplaygroundpage/Contents.swift) 1404. Number of Steps to Reduce a Number in Binary Representation to One 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](../LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree 
+- [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](../LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II 

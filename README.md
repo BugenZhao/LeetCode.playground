@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-403%20%2F%201581%20=%2025.49%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-114-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-405%20%2F%201581%20=%2025.62%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-203-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
+![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -59,9 +59,12 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
 - [State Machine](./Tags/State%20Machine.md)
 - [O(n)](./Tags/O(n).md)
+- [NP Complete](./Tags/NP%20Complete.md)
 </details>
 
 ## Recent
+- [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies *[Greedy, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
@@ -70,8 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
-- [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -288,6 +289,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](LeetCode.playground/Pages/450.%20Delete%20Node%20in%20a%20BST.xcplaygroundpage/Contents.swift) 0450. Delete Node in a BST *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) [[S]](LeetCode.playground/Pages/451-Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift) 0451. Sort Characters By Frequency *[Hash Table, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) [[S]](LeetCode20Q4.playground/Pages/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.xcplaygroundpage/Contents.swift) 0452. Minimum Number of Arrows to Burst Balloons *[Greedy, Sort]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies *[Greedy, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern *[Stack, O(n)]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](LeetCode.playground/Pages/459.%20Repeated%20Substring%20Pattern.xcplaygroundpage/Contents.swift) 0459. Repeated Substring Pattern *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) [[S]](LeetCode.playground/Pages/461.%20Hamming%20Distance.xcplaygroundpage/Contents.swift) 0461. Hamming Distance 
@@ -456,6 +458,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) [[S]](LeetCode.playground/Pages/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.xcplaygroundpage/Contents.swift) 1457. Pseudo-Palindromic Paths in a Binary Tree *[Bit Manipulation, Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) [[S]](LeetCode.playground/Pages/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.xcplaygroundpage/Contents.swift) 1464. Maximum Product of Two Elements in an Array *[Mathematics]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) [[S]](LeetCode.playground/Pages/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.xcplaygroundpage/Contents.swift) 1475. Final Prices With a Special Discount in a Shop *[Stack, O(n)]*
+- [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-crossing/) [[S]](LeetCode.playground/Pages/1496.%20Path%20Crossing.xcplaygroundpage/Contents.swift) 1496. Path Crossing *[Hash Table]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stone-game-iv/) [[S]](LeetCode20Q4.playground/Pages/1510.%20Stone%20Game%20IV.xcplaygroundpage/Contents.swift) 1510. Stone Game IV *[DP]*
 
@@ -694,7 +697,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~ 0448. Find All Numbers Disappeared in an Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~ 0453. Minimum Moves to Equal Array Elements
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum-ii/) ~~[S]~~ 0454. 4Sum II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) ~~[S]~~ 0455. Assign Cookies
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-array-loop/) ~~[S]~~ 0457. Circular Array Loop
 - [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~ 0458. Poor Pigs
 - [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~ 0460. LFU Cache
@@ -1454,7 +1456,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) ~~[S]~~ 1491. Average Salary Excluding the Minimum and Maximum Salary
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/the-kth-factor-of-n/) ~~[S]~~ 1492. The kth Factor of n
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) ~~[S]~~ 1493. Longest Subarray of 1's After Deleting One Element
-- [ ] 😫 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) ~~[S]~~ 1494. Parallel Courses II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) ~~[S]~~ 1497. Check If Array Pairs Are Divisible by k
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) ~~[S]~~ 1498. Number of Subsequences That Satisfy the Given Sum Condition
 - [ ] 😫 [[Q]](https://leetcode.com/problems/max-value-of-equation/) ~~[S]~~ 1499. Max Value of Equation
