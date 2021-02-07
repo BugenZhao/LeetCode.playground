@@ -64,6 +64,8 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
             return "Divide & Conquer"
         case .state:
             return "State Machine"
+        case .npc:
+            return "NP Complete"
         }
     }
 
@@ -73,5 +75,5 @@ public enum Tag: String, Hashable, Equatable, CustomStringConvertible, CaseItera
     case marked, working, annoying
     case array, hash, list, heap, tree, graph, string, stack
     case sort, binSearch, twoPtrs, sliding, union, dfs, bfs, sp, dq
-    case dp, greedy, math, bit, state, ON
+    case dp, greedy, math, bit, state, ON, npc
 }
