@@ -30,15 +30,18 @@ class Writer {
         output += "```swift\n\(intro)\n```\n\n"
 
         output += "\n## Tags\n"
+        let tags = Tag.allCases.sorted { lhs, rhs in
+            dict.filter({ $0.value.tags.contains(lhs) }).count >
+            dict.filter({ $0.value.tags.contains(rhs) }).count }
         func writeTagEntry(_ tag: Tag) {
             output += "- [\(tag)](\(makePath(tag: tag, urlAllowed: true)))\n"
         }
-        if Tag.allCases.count <= 10 {
-            Tag.allCases.forEach(writeTagEntry)
+        if tags.count <= 10 {
+            tags.forEach(writeTagEntry)
         } else {
-            Tag.allCases.prefix(10).forEach(writeTagEntry)
+            tags.prefix(10).forEach(writeTagEntry)
             output += "\n<details>\n<summary>More</summary>\n\n"
-            Tag.allCases[10...].forEach(writeTagEntry)
+            tags[10...].forEach(writeTagEntry)
             output += "</details>\n"
         }
 
