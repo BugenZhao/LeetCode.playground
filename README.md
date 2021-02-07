@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-402%20%2F%201581%20=%2025.43%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-113-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-403%20%2F%201581%20=%2025.49%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-114-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-203-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
@@ -62,6 +62,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
@@ -71,7 +72,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/trim-a-binary-search-tree/) [[S]](LeetCode21Q1.playground/Pages/669.%20Trim%20a%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0669. Trim a Binary Search Tree *[Tree]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/validate-binary-search-tree/) [[S]](LeetCode20Q4.playground/Pages/98.%20Validate%20Binary%20Search%20Tree.xcplaygroundpage/Contents.swift) 0098. Validate Binary Search Tree 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -343,6 +343,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/all-paths-from-source-to-target/) [[S]](LeetCode.playground/Pages/797.%20All%20Paths%20From%20Source%20to%20Target.xcplaygroundpage/Contents.swift) 0797. All Paths From Source to Target *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/champagne-tower/) [[S]](LeetCode20Q4.playground/Pages/799.%20Champagne%20Tower.xcplaygroundpage/Contents.swift) 0799. Champagne Tower *[DP]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/bus-routes/) [[S]](LeetCode.playground/Pages/815.%20Bus%20Routes.xcplaygroundpage/Contents.swift) 0815. Bus Routes *[BFS]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/goat-latin/) [[S]](LeetCode.playground/Pages/824.%20Goat%20Latin.xcplaygroundpage/Contents.swift) 0824. Goat Latin 
 - [X] 😊 [[Q]](https://leetcode.com/problems/flipping-an-image/) [[S]](LeetCode.playground/Pages/832.%20Flipping%20an%20Image.xcplaygroundpage/Contents.swift) 0832. Flipping an Image 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) [[S]](LeetCode.playground/Pages/835.%20Image%20Overlap.xcplaygroundpage/Contents.swift) 0835. Image Overlap *[Hash Table]*
@@ -971,7 +972,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/race-car/) ~~[S]~~ 0818. Race Car
 - [ ] 😊 [[Q]](https://leetcode.com/problems/most-common-word/) ~~[S]~~ 0819. Most Common Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/short-encoding-of-words/) ~~[S]~~ 0820. Short Encoding of Words
-- [ ] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) ~~[S]~~ 0821. Shortest Distance to a Character
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/card-flipping-game/) ~~[S]~~ 0822. Card Flipping Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-trees-with-factors/) ~~[S]~~ 0823. Binary Trees With Factors
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/friends-of-appropriate-ages/) ~~[S]~~ 0825. Friends Of Appropriate Ages
