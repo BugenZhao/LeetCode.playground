@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-405%20%2F%201581%20=%2025.62%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-406%20%2F%201586%20=%2025.60%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-203-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-204-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
@@ -63,6 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies *[Greedy, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
@@ -72,7 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/redundant-connection/) [[S]](LeetCode21Q1.playground/Pages/684.%20Redundant%20Connection.xcplaygroundpage/Contents.swift) 0684. Redundant Connection *[Graph, Union Find]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/permutations/) [[S]](LeetCode21Q1.playground/Pages/46.%20Permutations.xcplaygroundpage/Contents.swift) 0046. Permutations *[Tree, DFS]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -241,6 +241,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](LeetCode.playground/Pages/279.%20Perfect%20Squares.xcplaygroundpage/Contents.swift) 0279. Perfect Squares *[Mathematics]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](LeetCode.playground/Pages/287.%20Find%20the%20Duplicate%20Number.xcplaygroundpage/Contents.swift) 0287. Find the Duplicate Number *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) [[S]](LeetCode.playground/Pages/290.%20Word%20Pattern.xcplaygroundpage/Contents.swift) 0290. Word Pattern *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/find-median-from-data-stream/) [[S]](LeetCode.playground/Pages/295.%20Find%20Median%20from%20Data%20Stream.xcplaygroundpage/Contents.swift) 0295. Find Median from Data Stream *[Heap]*
@@ -574,7 +575,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~ 0281. Zigzag Iterator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~ 0282. Expression Add Operators
 - [ ] 😊 [[Q]](https://leetcode.com/problems/move-zeroes/) ~~[S]~~ 0283. Move Zeroes
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) ~~[S]~~ 0284. Peeking Iterator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst/) ~~[S]~~ 0285. Inorder Successor in BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/walls-and-gates/) ~~[S]~~ 0286. Walls and Gates
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-word-abbreviation/) ~~[S]~~ 0288. Unique Word Abbreviation
@@ -1090,7 +1090,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~ 0965. Univalued Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~ 0966. Vowel Spellchecker
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~ 0968. Binary Tree Cameras
-- [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~ 0970. Powerful Integers
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~ 0970. Powerful Integers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~ 0971. Flip Binary Tree To Match Preorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~ 0972. Equal Rational Numbers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/odd-even-jump/) ~~[S]~~ 0975. Odd Even Jump
@@ -1669,6 +1669,11 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) ~~[S]~~ 1738. Find Kth Largest XOR Coordinate Value
 - [ ] 😫 [[Q]](https://leetcode.com/problems/building-boxes/) ~~[S]~~ 1739. Building Boxes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-distance-in-a-binary-tree/) ~~[S]~~ 1740. Find Distance in a Binary Tree
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) ~~[S]~~ 1742. Maximum Number of Balls in a Box
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) ~~[S]~~ 1743. Restore the Array From Adjacent Pairs
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) ~~[S]~~ 1744. Can You Eat Your Favorite Candy on Your Favorite Day?
+- [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iv/) ~~[S]~~ 1745. Palindrome Partitioning IV
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) ~~[S]~~ 1746. Maximum Subarray Sum After One Operation
 </details>
 
 ## How am I generated?
