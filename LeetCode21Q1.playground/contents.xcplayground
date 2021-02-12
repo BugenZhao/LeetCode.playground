@@ -13,5 +13,7 @@
         <page name='821. Shortest Distance to a Character'/>
         <page name='455. Assign Cookies'/>
         <page name='1494. Parallel Courses II'/>
+        <page name='284. Peeking Iterator'/>
+        <page name='138. Copy List with Random Pointer'/>
     </pages>
 </playground>

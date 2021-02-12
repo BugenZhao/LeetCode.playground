@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-18-orange.svg)
+![Progress](https://img.shields.io/badge/Count-19-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Linked List Problems
@@ -12,6 +12,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[S]](../LeetCode.playground/Pages/25.%20Reverse%20Nodes%20in%20k-Group.xcplaygroundpage/Contents.swift) 0025. Reverse Nodes in k-Group 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) [[S]](../LeetCode.playground/Pages/61.%20Rotate%20List.xcplaygroundpage/Contents.swift) 0061. Rotate List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/reverse-linked-list-ii/) [[S]](../LeetCode.playground/Pages/92.%20Reverse%20Linked%20List%20II.xcplaygroundpage/Contents.swift) 0092. Reverse Linked List II 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](../LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer 
 - [X] 😊 [[Q]](https://leetcode.com/problems/linked-list-cycle/) [[S]](../LeetCode.playground/Pages/141.%20Linked%20List%20Cycle.xcplaygroundpage/Contents.swift) 0141. Linked List Cycle 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/linked-list-cycle-ii/) [[S]](../LeetCode.playground/Pages/142.%20Linked%20List%20Cycle%20II.xcplaygroundpage/Contents.swift) 0142. Linked List Cycle II 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](../LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List 
