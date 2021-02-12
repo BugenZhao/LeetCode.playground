@@ -1,11 +1,18 @@
+RENDERER = Scripts/Renderer/.build/release/Renderer
+
 all: sync gen icloud
 
 sync:
 	rsync -ur Sources/Tag.swift Scripts/Renderer/Sources/Renderer/
 	$(foreach file, $(wildcard ./*.playground), rsync -ur Sources ${file};)
+
+$(RENDERER):
+	swift build -c release --package-path Scripts/Renderer
+rd: 
+	@make $(RENDERER)
 	
-gen:
-	swift run -c release --package-path Scripts/Renderer
+gen: $(RENDERER)
+	$(RENDERER)
 	
 icloud:
 	rsync -ur ./LeetCode.playground ~/Library/Mobile\ Documents/iCloud\~com\~apple\~Playgrounds/Documents
