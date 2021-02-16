@@ -36,14 +36,14 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [DFS](./Tags/DFS.md)
 - [O(n)](./Tags/O(n).md)
 - [Greedy](./Tags/Greedy.md)
-- [Hash Table](./Tags/Hash%20Table.md)
 - [Graph](./Tags/Graph.md)
-- [Array](./Tags/Array.md)
+- [Hash Table](./Tags/Hash%20Table.md)
+- [Binary Search](./Tags/Binary%20Search.md)
 
 <details>
 <summary>More</summary>
 
-- [Binary Search](./Tags/Binary%20Search.md)
+- [Array](./Tags/Array.md)
 - [Two Pointers](./Tags/Two%20Pointers.md)
 - [String](./Tags/String.md)
 - [Linked List](./Tags/Linked%20List.md)
@@ -63,7 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
-- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
@@ -439,7 +439,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Hash Table]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*

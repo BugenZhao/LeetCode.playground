@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-24-orange.svg)
+![Progress](https://img.shields.io/badge/Count-25-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Binary Search Problems
@@ -28,3 +28,4 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤬 [[Q]](https://leetcode.com/problems/longest-duplicate-substring/) [[S]](../LeetCode.playground/Pages/1044.%20Longest%20Duplicate%20Substring.xcplaygroundpage/Contents.swift) 1044. Longest Duplicate Substring 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](../LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem 
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](../LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling 
+- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](../LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix 
