@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-407%20%2F%201586%20=%2025.66%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-408%20%2F%201599%20=%2025.52%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-205-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-206-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
@@ -36,8 +36,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [DFS](./Tags/DFS.md)
 - [O(n)](./Tags/O(n).md)
 - [Greedy](./Tags/Greedy.md)
-- [Graph](./Tags/Graph.md)
 - [Hash Table](./Tags/Hash%20Table.md)
+- [Graph](./Tags/Graph.md)
 - [Array](./Tags/Array.md)
 
 <details>
@@ -63,6 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
@@ -72,7 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
-- [X] 🔞 [[Q]](https://leetcode.com/problems/regions-cut-by-slashes/) [[S]](LeetCode21Q1.playground/Pages/959.%20Regions%20Cut%20By%20Slashes.xcplaygroundpage/Contents.swift) 0959. Regions Cut By Slashes *[Union Find]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -118,7 +118,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [[S]](LeetCode.playground/Pages/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0034. Find First and Last Position of Element in Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](LeetCode.playground/Pages/35.%20Search%20Insert%20Position.xcplaygroundpage/Contents.swift) 0035. Search Insert Position *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) [[S]](LeetCode.playground/Pages/36.%20Valid%20Sudoku.xcplaygroundpage/Contents.swift) 0036. Valid Sudoku *[Hash Table]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/count-and-say/) [[S]](LeetCode21Q1.playground/Pages/38.%20Count%20and%20Say.xcplaygroundpage/Contents.swift) 0038. Count and Say 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) [[S]](LeetCode.playground/Pages/39.%20Combination%20Sum.xcplaygroundpage/Contents.swift) 0039. Combination Sum *[DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) [[S]](LeetCode.playground/Pages/40.%20Combination%20Sum%20II.xcplaygroundpage/Contents.swift) 0040. Combination Sum II *[DFS]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/first-missing-positive/) [[S]](LeetCode.playground/Pages/41.%20First%20Missing%20Positive.xcplaygroundpage/Contents.swift) 0041. First Missing Positive *[Array]*
@@ -439,6 +439,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) [[S]](LeetCode.playground/Pages/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected.xcplaygroundpage/Contents.swift) 1319. Number of Operations to Make Network Connected *[Graph, Union Find]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) [[S]](LeetCode.playground/Pages/1330.%20Reverse%20Subarray%20To%20Maximize%20Array%20Value.xcplaygroundpage/Contents.swift) 1330. Reverse Subarray To Maximize Array Value *[Mathematics, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) [[S]](LeetCode.playground/Pages/1334-Find%20the%20City.xcplaygroundpage/Contents.swift) 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance *[Graph, Shortest Path]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Hash Table]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) [[S]](LeetCode.playground/Pages/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.xcplaygroundpage/Contents.swift) 1342. Number of Steps to Reduce a Number to Zero 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/angle-between-hands-of-a-clock/) [[S]](LeetCode.playground/Pages/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.xcplaygroundpage/Contents.swift) 1344. Angle Between Hands of a Clock 
 - [X] 😫 [[Q]](https://leetcode.com/problems/jump-game-iv/) [[S]](LeetCode.playground/Pages/1345.%20Jump%20Game%20IV.xcplaygroundpage/Contents.swift) 1345. Jump Game IV *[BFS]*
@@ -1340,7 +1341,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-palindromic-subsequences/) ~~[S]~~ 1332. Remove Palindromic Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) ~~[S]~~ 1333. Filter Restaurants by Vegan-Friendly, Price and Distance
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) ~~[S]~~ 1335. Minimum Difficulty of a Job Schedule
-- [ ] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) ~~[S]~~ 1337. The K Weakest Rows in a Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reduce-array-size-to-the-half/) ~~[S]~~ 1338. Reduce Array Size to The Half
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) ~~[S]~~ 1339. Maximum Product of Splitted Binary Tree
 - [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-v/) ~~[S]~~ 1340. Jump Game V
@@ -1674,6 +1674,19 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) ~~[S]~~ 1744. Can You Eat Your Favorite Candy on Your Favorite Day?
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-iv/) ~~[S]~~ 1745. Palindrome Partitioning IV
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) ~~[S]~~ 1746. Maximum Subarray Sum After One Operation
+- [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-unique-elements/) ~~[S]~~ 1748. Sum of Unique Elements
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) ~~[S]~~ 1749. Maximum Absolute Sum of Any Subarray
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) ~~[S]~~ 1750. Minimum Length of String After Deleting Similar Ends
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) ~~[S]~~ 1751. Maximum Number of Events That Can Be Attended II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) ~~[S]~~ 1752. Check if Array Is Sorted and Rotated
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-score-from-removing-stones/) ~~[S]~~ 1753. Maximum Score From Removing Stones
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-merge-of-two-strings/) ~~[S]~~ 1754. Largest Merge Of Two Strings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/closest-subsequence-sum/) ~~[S]~~ 1755. Closest Subsequence Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/design-most-recently-used-queue/) ~~[S]~~ 1756. Design Most Recently Used Queue
+- [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) ~~[S]~~ 1758. Minimum Changes To Make Alternating Binary String
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-homogenous-substrings/) ~~[S]~~ 1759. Count Number of Homogenous Substrings
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) ~~[S]~~ 1760. Minimum Limit of Balls in a Bag
+- [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) ~~[S]~~ 1761. Minimum Degree of a Connected Trio in a Graph
 </details>
 
 ## How am I generated?
