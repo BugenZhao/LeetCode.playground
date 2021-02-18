@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-408%20%2F%201599%20=%2025.52%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-409%20%2F%201599%20=%2025.58%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-206-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-207-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
@@ -33,8 +33,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [**Marked**](./Tags/Marked.md)
 - [Tree](./Tags/Tree.md)
 - [Mathematics](./Tags/Mathematics.md)
-- [DFS](./Tags/DFS.md)
 - [O(n)](./Tags/O(n).md)
+- [DFS](./Tags/DFS.md)
 - [Greedy](./Tags/Greedy.md)
 - [Graph](./Tags/Graph.md)
 - [Hash Table](./Tags/Hash%20Table.md)
@@ -63,6 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices *[O(n), DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
@@ -72,7 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid *[Stack]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -278,6 +278,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) [[S]](LeetCode.playground/Pages/409-Longest%20Palindrome.xcplaygroundpage/Contents.swift) 0409. Longest Palindrome 
 - [X] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) [[S]](LeetCode.playground/Pages/410.%20Split%20Array%20Largest%20Sum.xcplaygroundpage/Contents.swift) 0410. Split Array Largest Sum *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](LeetCode.playground/Pages/412.%20Fizz%20Buzz.xcplaygroundpage/Contents.swift) 0412. Fizz Buzz 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices *[O(n), DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[S]](LeetCode.playground/Pages/417-Pacific%20Atlantic%20Water%20Flow.xcplaygroundpage/Contents.swift) 0417. Pacific Atlantic Water Flow *[DFS, Graph]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array *[Bit Manipulation, O(n), Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) [[S]](LeetCode.playground/Pages/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.xcplaygroundpage/Contents.swift) 0430. Flatten a Multilevel Doubly Linked List *[Tree]*
@@ -669,7 +670,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water-ii/) ~~[S]~~ 0407. Trapping Rain Water II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-word-abbreviation/) ~~[S]~~ 0408. Valid Word Abbreviation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~ 0411. Minimum Unique Word Abbreviation
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~ 0413. Arithmetic Slices
 - [ ] 😊 [[Q]](https://leetcode.com/problems/third-maximum-number/) ~~[S]~~ 0414. Third Maximum Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-strings/) ~~[S]~~ 0415. Add Strings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-equal-subset-sum/) ~~[S]~~ 0416. Partition Equal Subset Sum

@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-32-orange.svg)
+![Progress](https://img.shields.io/badge/Count-33-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## O(n) Problems
@@ -19,6 +19,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) [[S]](../LeetCode20Q4.playground/Pages/240.%20Search%20a%202D%20Matrix%20II.xcplaygroundpage/Contents.swift) 0240. Search a 2D Matrix II 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](../LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) [[S]](../LeetCode.playground/Pages/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.xcplaygroundpage/Contents.swift) 0309. Best Time to Buy and Sell Stock with Cooldown 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](../LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [[S]](../LeetCode.playground/Pages/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0421. Maximum XOR of Two Numbers in an Array 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [[S]](../LeetCode.playground/Pages/442.%20Find%20All%20Duplicates%20in%20an%20Array.xcplaygroundpage/Contents.swift) 0442. Find All Duplicates in an Array 
 - [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](../LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies 
