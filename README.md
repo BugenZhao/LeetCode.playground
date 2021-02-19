@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-409%20%2F%201599%20=%2025.58%25-orange.svg)
+![Progress](https://img.shields.io/badge/Progress-410%20%2F%201599%20=%2025.64%25-orange.svg)
 ![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-207-e7af5f.svg)
+![Medium](https://img.shields.io/badge/Medium-208-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
@@ -44,8 +44,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 <summary>More</summary>
 
 - [Array](./Tags/Array.md)
-- [Two Pointers](./Tags/Two%20Pointers.md)
 - [String](./Tags/String.md)
+- [Two Pointers](./Tags/Two%20Pointers.md)
 - [Linked List](./Tags/Linked%20List.md)
 - [Sort](./Tags/Sort.md)
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
@@ -63,6 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) [[S]](LeetCode21Q1.playground/Pages/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 1249. Minimum Remove to Make Valid Parentheses *[O(n), Stack, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices *[O(n), DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
@@ -72,7 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) [[S]](LeetCode21Q1.playground/Pages/71.%20Simplify%20Path.xcplaygroundpage/Contents.swift) 0071. Simplify Path *[Stack]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -418,6 +418,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](LeetCode.playground/Pages/1232-Check%20If%20It%20Is%20a%20Straight%20Line.xcplaygroundpage/Contents.swift) 1232. Check If It Is a Straight Line *[Mathematics]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) [[S]](LeetCode.playground/Pages/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.xcplaygroundpage/Contents.swift) 1233. Remove Sub-Folders from the Filesystem *[Tree, DFS, String, Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) [[S]](LeetCode.playground/Pages/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.xcplaygroundpage/Contents.swift) 1235. Maximum Profit in Job Scheduling *[DP, Binary Search]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) [[S]](LeetCode21Q1.playground/Pages/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 1249. Minimum Remove to Make Valid Parentheses *[O(n), Stack, String]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/check-if-it-is-a-good-array/) [[S]](LeetCode.playground/Pages/1250.%20Check%20If%20It%20Is%20a%20Good%20Array.xcplaygroundpage/Contents.swift) 1250. Check If It Is a Good Array *[Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) [[S]](LeetCode.playground/Pages/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.xcplaygroundpage/Contents.swift) 1263. Minimum Moves to Move a Box to Their Target Location *[Graph, BFS, Shortest Path]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-time-visiting-all-points/) [[S]](LeetCode.playground/Pages/1266.%20Minimum%20Time%20Visiting%20All%20Points%20copy.xcplaygroundpage/Contents.swift) 1266. Minimum Time Visiting All Points 
@@ -1288,7 +1289,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-removal/) ~~[S]~~ 1246. Palindrome Removal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) ~~[S]~~ 1247. Minimum Swaps to Make Strings Equal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-nice-subarrays/) ~~[S]~~ 1248. Count Number of Nice Subarrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) ~~[S]~~ 1249. Minimum Remove to Make Valid Parentheses
 - [ ] 😊 [[Q]](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) ~~[S]~~ 1252. Cells with Odd Values in a Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) ~~[S]~~ 1253. Reconstruct a 2-Row Binary Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-closed-islands/) ~~[S]~~ 1254. Number of Closed Islands
