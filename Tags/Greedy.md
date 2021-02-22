@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-29-orange.svg)
+![Progress](https://img.shields.io/badge/Count-30-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Greedy Problems
@@ -27,6 +27,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](../LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) [[S]](../LeetCode.playground/Pages/984-String%20Without%20AAA%20or%20BBB.xcplaygroundpage/Contents.swift) 0984. String Without AAA or BBB 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) [[S]](../LeetCode.playground/Pages/986-Interval%20List%20Intersections.xcplaygroundpage/Contents.swift) 0986. Interval List Intersections 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) [[S]](../LeetCode21Q1.playground/Pages/991.%20Broken%20Calculator.xcplaygroundpage/Contents.swift) 0991. Broken Calculator 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](../LeetCode.playground/Pages/1029-Two%20City%20Scheduling.xcplaygroundpage/Contents.swift) 1029. Two City Scheduling 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-values-from-labels/) [[S]](../LeetCode.playground/Pages/1090.%20Largest%20Values%20From%20Labels.xcplaygroundpage/Contents.swift) 1090. Largest Values From Labels 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](../LeetCode.playground/Pages/1288.%20Remove%20Covered%20Intervals.xcplaygroundpage/Contents.swift) 1288. Remove Covered Intervals 
