@@ -1,8 +1,8 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-411%20%2F%201599%20=%2025.70%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-115-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-209-e7af5f.svg)
+![Progress](https://img.shields.io/badge/Progress-413%20%2F%201609%20=%2025.67%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-114-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-212-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
 ```swift
@@ -63,6 +63,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [[S]](LeetCode21Q1.playground/Pages/581.%20Shortest%20Unsorted%20Continuous%20Subarray.xcplaygroundpage/Contents.swift) 0581. Shortest Unsorted Continuous Subarray *[O(n), Stack]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) [[S]](LeetCode21Q1.playground/Pages/946.%20Validate%20Stack%20Sequences.xcplaygroundpage/Contents.swift) 0946. Validate Stack Sequences *[O(n), Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) [[S]](LeetCode21Q1.playground/Pages/991.%20Broken%20Calculator.xcplaygroundpage/Contents.swift) 0991. Broken Calculator *[Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) [[S]](LeetCode21Q1.playground/Pages/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 1249. Minimum Remove to Make Valid Parentheses *[O(n), Stack, String]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices *[O(n), DP]*
@@ -71,8 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies *[Greedy, O(n)]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/shortest-distance-to-a-character/) [[S]](LeetCode21Q1.playground/Pages/821.%20Shortest%20Distance%20to%20a%20Character.xcplaygroundpage/Contents.swift) 0821. Shortest Distance to a Character *[O(n)]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [[S]](LeetCode21Q1.playground/Pages/718.%20Maximum%20Length%20of%20Repeated%20Subarray.xcplaygroundpage/Contents.swift) 0718. Maximum Length of Repeated Subarray *[DP]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -166,7 +166,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [[S]](LeetCode.playground/Pages/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.xcplaygroundpage/Contents.swift) 0103. Binary Tree Zigzag Level Order Traversal *[Tree, BFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](LeetCode.playground/Pages/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.xcplaygroundpage/Contents.swift) 0105. Construct Binary Tree from Preorder and Inorder Traversal *[Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [[S]](LeetCode.playground/Pages/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.xcplaygroundpage/Contents.swift) 0106. Construct Binary Tree from Inorder and Postorder Traversal *[Tree]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [[S]](LeetCode.playground/Pages/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.xcplaygroundpage/Contents.swift) 0107. Binary Tree Level Order Traversal II *[BFS]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/minimum-depth-of-binary-tree/) [[S]](LeetCode20Q4.playground/Pages/111.%20Minimum%20Depth%20of%20Binary%20Tree.xcplaygroundpage/Contents.swift) 0111. Minimum Depth of Binary Tree *[Tree]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/path-sum/) [[S]](LeetCode.playground/Pages/112.%20Path%20Sum.xcplaygroundpage/Contents.swift) 0112. Path Sum *[Tree, DFS]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/path-sum-ii/) [[S]](LeetCode.playground/Pages/113.%20Path%20Sum%20II.xcplaygroundpage/Contents.swift) 0113. Path Sum II *[Tree, DFS]*
@@ -317,6 +317,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](LeetCode.playground/Pages/540-Single%20Element%20in%20a%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0540. Single Element in a Sorted Array *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [[S]](LeetCode.playground/Pages/559-Maximum%20Depth%20of%20N-ary%20Tree.xcplaygroundpage/Contents.swift) 0559. Maximum Depth of N-ary Tree *[BFS, Tree]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](LeetCode.playground/Pages/567-Permutation%20in%20String.xcplaygroundpage/Contents.swift) 0567. Permutation in String 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [[S]](LeetCode21Q1.playground/Pages/581.%20Shortest%20Unsorted%20Continuous%20Subarray.xcplaygroundpage/Contents.swift) 0581. Shortest Unsorted Continuous Subarray *[O(n), Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/valid-square/) [[S]](LeetCode.playground/Pages/593.%20Valid%20Square.xcplaygroundpage/Contents.swift) 0593. Valid Square 
 - [X] 😊 [[Q]](https://leetcode.com/problems/longest-harmonious-subsequence/) [[S]](LeetCode21Q1.playground/Pages/594.%20Longest%20Harmonious%20Subsequence.xcplaygroundpage/Contents.swift) 0594. Longest Harmonious Subsequence *[Hash Table]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) [[S]](LeetCode.playground/Pages/600.%20Non-negative%20Integers%20without%20Consecutive%20Ones.xcplaygroundpage/Contents.swift) 0600. Non-negative Integers without Consecutive Ones *[DP, Bit Manipulation]*
@@ -373,6 +374,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum/) [[S]](LeetCode.playground/Pages/931.%20Minimum%20Falling%20Path%20Sum.xcplaygroundpage/Contents.swift) 0931. Minimum Falling Path Sum *[DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/number-of-recent-calls/) [[S]](LeetCode.playground/Pages/933.%20Number%20of%20Recent%20Calls.xcplaygroundpage/Contents.swift) 0933. Number of Recent Calls *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/stamping-the-sequence/) [[S]](LeetCode.playground/Pages/936-Stamping%20The%20Sequence.xcplaygroundpage/Contents.swift) 0936. Stamping The Sequence *[Greedy]*
+- [X] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) [[S]](LeetCode21Q1.playground/Pages/946.%20Validate%20Stack%20Sequences.xcplaygroundpage/Contents.swift) 0946. Validate Stack Sequences *[O(n), Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/bag-of-tokens/) [[S]](LeetCode20Q4.playground/Pages/948.%20Bag%20of%20Tokens.xcplaygroundpage/Contents.swift) 0948. Bag of Tokens *[Two Pointers, O(n), Greedy]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/largest-time-for-given-digits/) [[S]](LeetCode.playground/Pages/949.%20Largest%20Time%20for%20Given%20Digits.xcplaygroundpage/Contents.swift) 0949. Largest Time for Given Digits *[String, Mathematics]*
 - [X] 🔞 [[Q]](https://leetcode.com/problems/largest-component-size-by-common-factor/) [[S]](LeetCode.playground/Pages/952.%20Largest%20Component%20Size%20by%20Common%20Factor.xcplaygroundpage/Contents.swift) 0952. Largest Component Size by Common Factor *[Mathematics, Union Find]*
@@ -573,7 +575,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~ 0271. Encode and Decode Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~ 0272. Closest Binary Search Tree Value II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~ 0273. Integer to English Words
-- [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~ 0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~ 0277. Find the Celebrity
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~ 0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~ 0281. Zigzag Iterator
@@ -789,7 +791,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~ 0573. Squirrel Simulation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/distribute-candies/) ~~[S]~~ 0575. Distribute Candies
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/out-of-boundary-paths/) ~~[S]~~ 0576. Out of Boundary Paths
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) ~~[S]~~ 0581. Shortest Unsorted Continuous Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/kill-process/) ~~[S]~~ 0582. Kill Process
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-operation-for-two-strings/) ~~[S]~~ 0583. Delete Operation for Two Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/erect-the-fence/) ~~[S]~~ 0587. Erect the Fence
@@ -1077,7 +1078,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-shortest-superstring/) ~~[S]~~ 0943. Find the Shortest Superstring
 - [ ] 😊 [[Q]](https://leetcode.com/problems/delete-columns-to-make-sorted/) ~~[S]~~ 0944. Delete Columns to Make Sorted
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) ~~[S]~~ 0945. Minimum Increment to Make Array Unique
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) ~~[S]~~ 0946. Validate Stack Sequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) ~~[S]~~ 0947. Most Stones Removed with Same Row or Column
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/reveal-cards-in-increasing-order/) ~~[S]~~ 0950. Reveal Cards In Increasing Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-equivalent-binary-trees/) ~~[S]~~ 0951. Flip Equivalent Binary Trees
@@ -1205,7 +1205,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-unique-number/) ~~[S]~~ 1133. Largest Unique Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/armstrong-number/) ~~[S]~~ 1134. Armstrong Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) ~~[S]~~ 1135. Connecting Cities With Minimum Cost
-- [ ] 😫 [[Q]](https://leetcode.com/problems/parallel-courses/) ~~[S]~~ 1136. Parallel Courses
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/parallel-courses/) ~~[S]~~ 1136. Parallel Courses
 - [ ] 😊 [[Q]](https://leetcode.com/problems/n-th-tribonacci-number/) ~~[S]~~ 1137. N-th Tribonacci Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/alphabet-board-path/) ~~[S]~~ 1138. Alphabet Board Path
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-1-bordered-square/) ~~[S]~~ 1139. Largest 1-Bordered Square
@@ -1687,6 +1687,16 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/count-number-of-homogenous-substrings/) ~~[S]~~ 1759. Count Number of Homogenous Substrings
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) ~~[S]~~ 1760. Minimum Limit of Balls in a Bag
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) ~~[S]~~ 1761. Minimum Degree of a Connected Trio in a Graph
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/buildings-with-an-ocean-view/) ~~[S]~~ 1762. Buildings With an Ocean View
+- [ ] 😊 [[Q]](https://leetcode.com/problems/longest-nice-substring/) ~~[S]~~ 1763. Longest Nice Substring
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) ~~[S]~~ 1764. Form Array by Concatenating Subarrays of Another Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/map-of-highest-peak/) ~~[S]~~ 1765. Map of Highest Peak
+- [ ] 😫 [[Q]](https://leetcode.com/problems/tree-of-coprimes/) ~~[S]~~ 1766. Tree of Coprimes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-strings-alternately/) ~~[S]~~ 1768. Merge Strings Alternately
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) ~~[S]~~ 1769. Minimum Number of Operations to Move All Balls to Each Box
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) ~~[S]~~ 1770. Maximum Score from Performing Multiplication Operations
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) ~~[S]~~ 1771. Maximize Palindrome Length From Subsequences
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-features-by-popularity/) ~~[S]~~ 1772. Sort Features by Popularity
 </details>
 
 ## How am I generated?

@@ -17,5 +17,9 @@
         <page name='138. Copy List with Random Pointer'/>
         <page name='1337. The K Weakest Rows in a Matrix'/>
         <page name='413. Arithmetic Slices'/>
+        <page name='1249. Minimum Remove to Make Valid Parentheses'/>
+        <page name='991. Broken Calculator'/>
+        <page name='946. Validate Stack Sequences'/>
+        <page name='581. Shortest Unsorted Continuous Subarray'/>
     </pages>
 </playground>

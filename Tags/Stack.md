@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-13-orange.svg)
+![Progress](https://img.shields.io/badge/Count-15-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Stack Problems
@@ -10,9 +10,11 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](../LeetCode.playground/Pages/402-Remove%20K%20Digits.xcplaygroundpage/Contents.swift) 0402. Remove K Digits 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) [[S]](../LeetCode20Q4.playground/Pages/449.%20Serialize%20and%20Deserialize%20BST.xcplaygroundpage/Contents.swift) 0449. Serialize and Deserialize BST 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/132-pattern/) [[S]](../LeetCode20Q4.playground/Pages/456.%20132%20Pattern.xcplaygroundpage/Contents.swift) 0456. 132 Pattern 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [[S]](../LeetCode21Q1.playground/Pages/581.%20Shortest%20Unsorted%20Continuous%20Subarray.xcplaygroundpage/Contents.swift) 0581. Shortest Unsorted Continuous Subarray 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/asteroid-collision/) [[S]](../LeetCode20Q4.playground/Pages/735.%20Asteroid%20Collision.xcplaygroundpage/Contents.swift) 0735. Asteroid Collision 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](../LeetCode.playground/Pages/901-Online%20Stock%20Span.xcplaygroundpage/Contents.swift) 0901. Online Stock Span 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) [[S]](../LeetCode21Q1.playground/Pages/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.xcplaygroundpage/Contents.swift) 0921. Minimum Add to Make Parentheses Valid 
+- [X] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) [[S]](../LeetCode21Q1.playground/Pages/946.%20Validate%20Stack%20Sequences.xcplaygroundpage/Contents.swift) 0946. Validate Stack Sequences 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/maximum-width-ramp/) [[S]](../LeetCode.playground/Pages/962.%20Maximum%20Width%20Ramp.xcplaygroundpage/Contents.swift) 0962. Maximum Width Ramp 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-outermost-parentheses/) [[S]](../LeetCode.playground/Pages/1021.%20Remove%20Outermost%20Parentheses.xcplaygroundpage/Contents.swift) 1021. Remove Outermost Parentheses 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) [[S]](../LeetCode21Q1.playground/Pages/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.xcplaygroundpage/Contents.swift) 1249. Minimum Remove to Make Valid Parentheses 
