@@ -1,6 +1,6 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Count-19-orange.svg)
+![Progress](https://img.shields.io/badge/Count-20-orange.svg)
 
 Bugen's LeetCode solutions in Swift Playground.
 ## Linked List Problems
@@ -18,6 +18,7 @@ Bugen's LeetCode solutions in Swift Playground.
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reorder-list/) [[S]](../LeetCode.playground/Pages/143.%20Reorder%20List.xcplaygroundpage/Contents.swift) 0143. Reorder List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/insertion-sort-list/) [[S]](../LeetCode20Q4.playground/Pages/147.%20Insertion%20Sort%20List.xcplaygroundpage/Contents.swift) 0147. Insertion Sort List 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/sort-list/) [[S]](../LeetCode20Q4.playground/Pages/148.%20Sort%20List.xcplaygroundpage/Contents.swift) 0148. Sort List 
+- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) [[S]](../LeetCode21Q1.playground/Pages/160.%20Intersection%20of%20Two%20Linked%20Lists.xcplaygroundpage/Contents.swift) 0160. Intersection of Two Linked Lists 
 - [X] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) [[S]](../LeetCode.playground/Pages/203.%20Remove%20Linked%20List%20Elements.xcplaygroundpage/Contents.swift) 0203. Remove Linked List Elements 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/reverse-linked-list/) [[S]](../LeetCode.playground/Pages/206.%20Reverse%20Linked%20List.xcplaygroundpage/Contents.swift) 0206. Reverse Linked List 
 - [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](../LeetCode.playground/Pages/237-Delete%20Node%20in%20a%20Linked%20List.xcplaygroundpage/Contents.swift) 0237. Delete Node in a Linked List 

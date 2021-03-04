@@ -1,7 +1,7 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-413%20%2F%201609%20=%2025.67%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-114-74b566.svg)
+![Progress](https://img.shields.io/badge/Progress-415%20%2F%201609%20=%2025.79%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-116-74b566.svg)
 ![Medium](https://img.shields.io/badge/Medium-212-e7af5f.svg)
 ![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
 
@@ -44,8 +44,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 <summary>More</summary>
 
 - [Array](./Tags/Array.md)
-- [String](./Tags/String.md)
 - [Two Pointers](./Tags/Two%20Pointers.md)
+- [String](./Tags/String.md)
 - [Linked List](./Tags/Linked%20List.md)
 - [Sort](./Tags/Sort.md)
 - [Bit Manipulation](./Tags/Bit%20Manipulation.md)
@@ -63,6 +63,8 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) [[S]](LeetCode21Q1.playground/Pages/160.%20Intersection%20of%20Two%20Linked%20Lists.xcplaygroundpage/Contents.swift) 0160. Intersection of Two Linked Lists *[Linked List, Two Pointers, O(n)]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/missing-number/) [[S]](LeetCode21Q1.playground/Pages/268.%20Missing%20Number.xcplaygroundpage/Contents.swift) 0268. Missing Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [[S]](LeetCode21Q1.playground/Pages/581.%20Shortest%20Unsorted%20Continuous%20Subarray.xcplaygroundpage/Contents.swift) 0581. Shortest Unsorted Continuous Subarray *[O(n), Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/validate-stack-sequences/) [[S]](LeetCode21Q1.playground/Pages/946.%20Validate%20Stack%20Sequences.xcplaygroundpage/Contents.swift) 0946. Validate Stack Sequences *[O(n), Stack]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) [[S]](LeetCode21Q1.playground/Pages/991.%20Broken%20Calculator.xcplaygroundpage/Contents.swift) 0991. Broken Calculator *[Greedy]*
@@ -71,8 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
-- [X] 🔞 [[Q]](https://leetcode.com/problems/parallel-courses-ii/) [[S]](LeetCode21Q1.playground/Pages/1494.%20Parallel%20Courses%20II.xcplaygroundpage/Contents.swift) 1494. Parallel Courses II *[DP, Bit Manipulation, NP Complete]*
-- [X] 😊 [[Q]](https://leetcode.com/problems/assign-cookies/) [[S]](LeetCode21Q1.playground/Pages/455.%20Assign%20Cookies.xcplaygroundpage/Contents.swift) 0455. Assign Cookies *[Greedy, O(n)]*
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -199,6 +199,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-product-subarray/) [[S]](LeetCode.playground/Pages/152.%20Maximum%20Product%20Subarray.xcplaygroundpage/Contents.swift) 0152. Maximum Product Subarray *[DP, Divide & Conquer, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[S]](LeetCode.playground/Pages/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.xcplaygroundpage/Contents.swift) 0153. Find Minimum in Rotated Sorted Array *[Binary Search]*
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) [[S]](LeetCode21Q1.playground/Pages/160.%20Intersection%20of%20Two%20Linked%20Lists.xcplaygroundpage/Contents.swift) 0160. Intersection of Two Linked Lists *[Linked List, Two Pointers, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
@@ -238,6 +239,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/single-number-iii/) [[S]](LeetCode.playground/Pages/260.%20Single%20Number%20III.xcplaygroundpage/Contents.swift) 0260. Single Number III *[Bit Manipulation, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/ugly-number/) [[S]](LeetCode.playground/Pages/263.%20Ugly%20Number.xcplaygroundpage/Contents.swift) 0263. Ugly Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/ugly-number-ii/) [[S]](LeetCode.playground/Pages/264.%20Ugly%20Number%20II.xcplaygroundpage/Contents.swift) 0264. Ugly Number II *[Mathematics, Two Pointers]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/missing-number/) [[S]](LeetCode21Q1.playground/Pages/268.%20Missing%20Number.xcplaygroundpage/Contents.swift) 0268. Missing Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](LeetCode.playground/Pages/274.%20H-Index.xcplaygroundpage/Contents.swift) 0274. H-Index *[Array, Sort]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](LeetCode.playground/Pages/275.%20H-Index%20II.xcplaygroundpage/Contents.swift) 0275. H-Index II *[Binary Search, Array]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](LeetCode.playground/Pages/278-First%20Bad%20Version.xcplaygroundpage/Contents.swift) 0278. First Bad Version *[Binary Search]*
@@ -517,7 +519,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4/) ~~[S]~~ 0157. Read N Characters Given Read4
 - [ ] 😫 [[Q]](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) ~~[S]~~ 0158. Read N Characters Given Read4 II - Call multiple times
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) ~~[S]~~ 0159. Longest Substring with At Most Two Distinct Characters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) ~~[S]~~ 0160. Intersection of Two Linked Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/one-edit-distance/) ~~[S]~~ 0161. One Edit Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-peak-element/) ~~[S]~~ 0162. Find Peak Element
 - [ ] 😊 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
@@ -569,7 +570,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😫 [[Q]](https://leetcode.com/problems/paint-house-ii/) ~~[S]~~ 0265. Paint House II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-permutation/) ~~[S]~~ 0266. Palindrome Permutation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-permutation-ii/) ~~[S]~~ 0267. Palindrome Permutation II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/missing-number/) ~~[S]~~ 0268. Missing Number
 - [ ] 😫 [[Q]](https://leetcode.com/problems/alien-dictionary/) ~~[S]~~ 0269. Alien Dictionary
 - [ ] 😊 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value/) ~~[S]~~ 0270. Closest Binary Search Tree Value
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~ 0271. Encode and Decode Strings

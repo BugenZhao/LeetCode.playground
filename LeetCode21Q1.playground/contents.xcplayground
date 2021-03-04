@@ -21,5 +21,7 @@
         <page name='991. Broken Calculator'/>
         <page name='946. Validate Stack Sequences'/>
         <page name='581. Shortest Unsorted Continuous Subarray'/>
+        <page name='268. Missing Number'/>
+        <page name='160. Intersection of Two Linked Lists'/>
     </pages>
 </playground>
