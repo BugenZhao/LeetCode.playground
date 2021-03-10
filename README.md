@@ -1,9 +1,9 @@
 # LeetCode.playground
 ![Language](https://img.shields.io/badge/Language-Swift%205.3-orange.svg)
-![Progress](https://img.shields.io/badge/Progress-415%20%2F%201609%20=%2025.79%25-orange.svg)
-![Easy](https://img.shields.io/badge/Easy-116-74b566.svg)
-![Medium](https://img.shields.io/badge/Medium-212-e7af5f.svg)
-![Hard](https://img.shields.io/badge/Hard-59-ca5c54.svg)
+![Progress](https://img.shields.io/badge/Progress-416%20%2F%201622%20=%2025.65%25-orange.svg)
+![Easy](https://img.shields.io/badge/Easy-117-74b566.svg)
+![Medium](https://img.shields.io/badge/Medium-213-e7af5f.svg)
+![Hard](https://img.shields.io/badge/Hard-58-ca5c54.svg)
 
 ```swift
 struct LeetCodePlayground: CustomStringConvertible {
@@ -63,6 +63,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 </details>
 
 ## Recent
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [[S]](LeetCode21Q1.playground/Pages/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.xcplaygroundpage/Contents.swift) 0167. Two Sum II - Input array is sorted *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) [[S]](LeetCode21Q1.playground/Pages/160.%20Intersection%20of%20Two%20Linked%20Lists.xcplaygroundpage/Contents.swift) 0160. Intersection of Two Linked Lists *[Linked List, Two Pointers, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/missing-number/) [[S]](LeetCode21Q1.playground/Pages/268.%20Missing%20Number.xcplaygroundpage/Contents.swift) 0268. Missing Number 
 - [X] 🤨 [[Q]](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [[S]](LeetCode21Q1.playground/Pages/581.%20Shortest%20Unsorted%20Continuous%20Subarray.xcplaygroundpage/Contents.swift) 0581. Shortest Unsorted Continuous Subarray *[O(n), Stack]*
@@ -72,7 +73,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) [[S]](LeetCode21Q1.playground/Pages/413.%20Arithmetic%20Slices.xcplaygroundpage/Contents.swift) 0413. Arithmetic Slices *[O(n), DP]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) [[S]](LeetCode21Q1.playground/Pages/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.xcplaygroundpage/Contents.swift) 1337. The K Weakest Rows in a Matrix *[Binary Search]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/copy-list-with-random-pointer/) [[S]](LeetCode21Q1.playground/Pages/138.%20Copy%20List%20with%20Random%20Pointer.xcplaygroundpage/Contents.swift) 0138. Copy List with Random Pointer *[Linked List]*
-- [X] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) [[S]](LeetCode21Q1.playground/Pages/284.%20Peeking%20Iterator.xcplaygroundpage/Contents.swift) 0284. Peeking Iterator 
 
 ## Contests
 - [X] 🔖 [[C]](https://leetcode.com/contest/weekly-contest-211/) [[S]](./Contests/Weekly%20Contest%20211.playground/Pages/) Weekly Contest 211
@@ -201,6 +201,7 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [X] 😫 [[Q]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [[S]](LeetCode.playground/Pages/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift) 0154. Find Minimum in Rotated Sorted Array II *[Binary Search]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/intersection-of-two-linked-lists/) [[S]](LeetCode21Q1.playground/Pages/160.%20Intersection%20of%20Two%20Linked%20Lists.xcplaygroundpage/Contents.swift) 0160. Intersection of Two Linked Lists *[Linked List, Two Pointers, O(n)]*
 - [X] 🤨 [[Q]](https://leetcode.com/problems/compare-version-numbers/) [[S]](LeetCode.playground/Pages/165.%20Compare%20Version%20Numbers.xcplaygroundpage/Contents.swift) 0165. Compare Version Numbers *[String]*
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [[S]](LeetCode21Q1.playground/Pages/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.xcplaygroundpage/Contents.swift) 0167. Two Sum II - Input array is sorted *[Binary Search, Two Pointers]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](LeetCode.playground/Pages/169-Majority%20Element.xcplaygroundpage/Contents.swift) 0169. Majority Element *[Array, O(n)]*
 - [X] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) [[S]](LeetCode.playground/Pages/171.%20Excel%20Sheet%20Column%20Number.xcplaygroundpage/Contents.swift) 0171. Excel Sheet Column Number 
 - [X] 🔞 [[Q]](https://leetcode.com/problems/dungeon-game/) [[S]](LeetCode.playground/Pages/174.%20Dungeon%20Game.xcplaygroundpage/Contents.swift) 0174. Dungeon Game *[DP]*
@@ -524,7 +525,6 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 😊 [[Q]](https://leetcode.com/problems/missing-ranges/) ~~[S]~~ 0163. Missing Ranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-gap/) ~~[S]~~ 0164. Maximum Gap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~ 0166. Fraction to Recurring Decimal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~ 0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~ 0168. Excel Sheet Column Title
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~ 0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~ 0172. Factorial Trailing Zeroes
@@ -1697,6 +1697,19 @@ struct LeetCodePlayground: CustomStringConvertible {
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) ~~[S]~~ 1770. Maximum Score from Performing Multiplication Operations
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) ~~[S]~~ 1771. Maximize Palindrome Length From Subsequences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-features-by-popularity/) ~~[S]~~ 1772. Sort Features by Popularity
+- [ ] 😊 [[Q]](https://leetcode.com/problems/count-items-matching-a-rule/) ~~[S]~~ 1773. Count Items Matching a Rule
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/closest-dessert-cost/) ~~[S]~~ 1774. Closest Dessert Cost
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) ~~[S]~~ 1775. Equal Sum Arrays With Minimum Number of Operations
+- [ ] 😫 [[Q]](https://leetcode.com/problems/car-fleet-ii/) ~~[S]~~ 1776. Car Fleet II
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/) ~~[S]~~ 1778. Shortest Path in a Hidden Grid
+- [ ] 😊 [[Q]](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) ~~[S]~~ 1779. Find Nearest Point That Has the Same X or Y Coordinate
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) ~~[S]~~ 1780. Check if Number is a Sum of Powers of Three
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) ~~[S]~~ 1781. Sum of Beauty of All Substrings
+- [ ] 😫 [[Q]](https://leetcode.com/problems/count-pairs-of-nodes/) ~~[S]~~ 1782. Count Pairs Of Nodes
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) ~~[S]~~ 1784. Check if Binary String Has at Most One Segment of Ones
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) ~~[S]~~ 1785. Minimum Elements to Add to Form a Given Sum
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) ~~[S]~~ 1786. Number of Restricted Paths From First to Last Node
+- [ ] 😫 [[Q]](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) ~~[S]~~ 1787. Make the XOR of All Segments Equal to Zero
 </details>
 
 ## How am I generated?

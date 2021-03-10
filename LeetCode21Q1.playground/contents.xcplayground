@@ -23,5 +23,6 @@
         <page name='581. Shortest Unsorted Continuous Subarray'/>
         <page name='268. Missing Number'/>
         <page name='160. Intersection of Two Linked Lists'/>
+        <page name='167. Two Sum II - Input array is sorted'/>
     </pages>
 </playground>
